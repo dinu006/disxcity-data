@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav Kumar",
+      "class": "VI",
+      "subjects": ["Science", "English", "Mathematics"],
+      "scores": [85, 92, 88]
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "class": "VI",
+      "subjects": ["Science", "English", "Hindi"],
+      "scores": [91, 87, 95]
+    },
+    {
+      "id": 3,
+      "name": "Rohan Patel",
+      "class": "VI",
+      "subjects": ["Science", "English", "Mathematics"],
+      "scores": [78, 82, 76]
+    }
+  ],
+  "lessons": [
+    {
+      "topic": "The Living Organisms and Their Surroundings",
+      "duration": "45 minutes",
+      "completed": true
+    },
+    {
+      "topic": "Body Movements",
+      "duration": "40 minutes",
+      "completed": true
+    },
+    {
+      "topic": "The Needs of Plants and Animals",
+      "duration": "50 minutes",
+      "completed": false
+    }
+  ],
+  "metadata": {
+    "createdDate": "2026-08-27",
+    "lastModified": "2026-08-27",
+    "version": "1.0",
+    "schoolName": "NCERT Academy"
+  }
+}
