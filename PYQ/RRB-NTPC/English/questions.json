@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Fill in the blank: She has been working here _____ five years.",
+    "options": [
+      "for",
+      "since",
+      "during",
+      "while"
+    ],
+    "correctAnswer": "for",
+    "explanation": "We use 'for' with a period of time (five years)."
+  },
+  {
+    "id": 2,
+    "question": "Choose the correct spelling:",
+    "options": [
+      "occassion",
+      "occasion",
+      "ocassion",
+      "occastion"
+    ],
+    "correctAnswer": "occasion",
+    "explanation": "The correct spelling is 'occasion'."
+  },
+  {
+    "id": 3,
+    "question": "Identify the synonym of 'benevolent':",
+    "options": [
+      "cruel",
+      "kind",
+      "arrogant",
+      "selfish"
+    ],
+    "correctAnswer": "kind",
+    "explanation": "Benevolent means kind and generous."
+  },
+  {
+    "id": 4,
+    "question": "Choose the word that best completes: He is a man of _____ integrity.",
+    "options": [
+      "loose",
+      "loosen",
+      "loose",
+      "low"
+    ],
+    "correctAnswer": "low",
+    "explanation": "'Low integrity' means he is not honest."
+  },
+  {
+    "id": 5,
+    "question": "What is the plural of 'deer'?",
+    "options": [
+      "deers",
+      "deer",
+      "deeres",
+      "deers'"
+    ],
+    "correctAnswer": "deer",
+    "explanation": "The plural of deer is also deer (unchanged)."
+  },
+  {
+    "id": 6,
+    "question": "Choose the correct sentence:",
+    "options": [
+      "She don't like coffee.",
+      "She doesn't like coffee.",
+      "She do not likes coffee.",
+      "She not like coffee."
+    ],
+    "correctAnswer": "She doesn't like coffee.",
+    "explanation": "Third person singular uses 'doesn't' and base form of verb."
+  },
+  {
+    "id": 7,
+    "question": "Fill in: _____ we arrived, it was already midnight.",
+    "options": [
+      "When",
+      "While",
+      "Although",
+      "Unless"
+    ],
+    "correctAnswer": "When",
+    "explanation": "'When' is used to indicate the time of an event."
+  },
+  {
+    "id": 8,
+    "question": "Antonym of 'vivid' is:",
+    "options": [
+      "bright",
+      "dull",
+      "colorful",
+      "clear"
+    ],
+    "correctAnswer": "dull",
+    "explanation": "Dull is the opposite of vivid (bright and striking)."
+  },
+  {
+    "id": 9,
+    "question": "Choose the correct form: I wish I _____ more time.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "having"
+    ],
+    "correctAnswer": "had",
+    "explanation": "After 'wish' in present tense, use past tense."
+  },
+  {
+    "id": 10,
+    "question": "Which word is the adjective in: 'The beautiful garden attracts many visitors.'?",
+    "options": [
+      "garden",
+      "beautiful",
+      "attracts",
+      "visitors"
+    ],
+    "correctAnswer": "beautiful",
+    "explanation": "An adjective modifies a noun; 'beautiful' describes 'garden'."
+  }
+]
