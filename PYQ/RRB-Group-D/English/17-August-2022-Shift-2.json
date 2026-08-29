@@ -1,0 +1,32 @@
+{
+  "exam": "RRB Group D",
+  "language": "English",
+  "date": "17 August 2022",
+  "shift": "Shift 1",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The SI unit of force is Newton."
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Earth",
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mars is known as the Red Planet."
+    }
+  ]
+}
