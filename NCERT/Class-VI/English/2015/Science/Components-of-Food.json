@@ -1,0 +1,69 @@
+{
+  "chapter": "Components of Food",
+  "class": "Class-VI",
+  "language": "English",
+  "year": "2015",
+  "subject": "Science",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which nutrient is mainly responsible for providing energy to our body?",
+      "options": [
+        "Proteins",
+        "Carbohydrates",
+        "Vitamins",
+        "Minerals"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carbohydrates are one of the main sources of energy for our body."
+    },
+    {
+      "id": 2,
+      "question": "Which nutrient is needed for growth and repair of body tissues?",
+      "options": [
+        "Proteins",
+        "Fats",
+        "Vitamins",
+        "Water"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Proteins are required for growth and repair of body tissues."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a rich source of vitamin C?",
+      "options": [
+        "Rice",
+        "Lemon",
+        "Butter",
+        "Egg"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Citrus fruits such as lemon are rich sources of vitamin C."
+    },
+    {
+      "id": 4,
+      "question": "Which test is commonly used to detect starch in food?",
+      "options": [
+        "Iodine test",
+        "Copper sulphate test",
+        "Litmus test",
+        "Benedict's test"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Iodine solution turns blue-black in the presence of starch."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a source of dietary fat?",
+      "options": [
+        "Oil",
+        "Salt",
+        "Sugar",
+        "Water"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Edible oils are an important source of dietary fats."
+    }
+  ]
+}

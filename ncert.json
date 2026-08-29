@@ -1,0 +1,16 @@
+{
+  "ncert": [
+    {
+      "class": "Class-VI",
+      "language": "English",
+      "year": "2015",
+      "subject": "Science",
+      "chapters": [
+        {
+          "name": "Components of Food",
+          "file": "NCERT/Class-VI/English/2015/Science/Components-of-Food.json"
+        }
+      ]
+    }
+  ]
+}
