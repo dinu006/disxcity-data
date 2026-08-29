@@ -15,7 +15,7 @@
         "Minerals"
       ],
       "correctAnswer": 1,
-      "explanation": "Carbohydrates are one of the main sources of energy for our body."
+      "explanation": "Carbohydrates are an important source of energy for the body."
     },
     {
       "id": 2,
@@ -23,47 +23,47 @@
       "options": [
         "Proteins",
         "Fats",
-        "Vitamins",
+        "Carbohydrates",
         "Water"
       ],
       "correctAnswer": 0,
-      "explanation": "Proteins are required for growth and repair of body tissues."
+      "explanation": "Proteins help in growth and repair of body tissues."
     },
     {
       "id": 3,
-      "question": "Which of the following is a rich source of vitamin C?",
+      "question": "Which vitamin helps maintain good eyesight?",
       "options": [
-        "Rice",
-        "Lemon",
-        "Butter",
-        "Egg"
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
       ],
-      "correctAnswer": 1,
-      "explanation": "Citrus fruits such as lemon are rich sources of vitamin C."
+      "correctAnswer": 0,
+      "explanation": "Vitamin A is important for maintaining healthy eyesight."
     },
     {
       "id": 4,
-      "question": "Which test is commonly used to detect starch in food?",
+      "question": "Which of the following is a source of dietary fat?",
       "options": [
-        "Iodine test",
-        "Copper sulphate test",
-        "Litmus test",
-        "Benedict's test"
+        "Butter",
+        "Rice",
+        "Orange",
+        "Spinach"
       ],
       "correctAnswer": 0,
-      "explanation": "Iodine solution turns blue-black in the presence of starch."
+      "explanation": "Butter contains a significant amount of fat."
     },
     {
       "id": 5,
-      "question": "Which of the following is a source of dietary fat?",
+      "question": "Which test is commonly used to detect starch in food?",
       "options": [
-        "Oil",
-        "Salt",
-        "Sugar",
-        "Water"
+        "Iodine test",
+        "Salt test",
+        "Water test",
+        "Sugar test"
       ],
       "correctAnswer": 0,
-      "explanation": "Edible oils are an important source of dietary fats."
+      "explanation": "Iodine turns blue-black in the presence of starch."
     }
   ]
 }
