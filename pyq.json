@@ -1,0 +1,26 @@
+{
+  "pyq": [
+    {
+      "exam": "RRB Group D",
+      "languages": [
+        {
+          "language": "English",
+          "papers": [
+            {
+              "name": "17 August 2022 - Shift 1",
+              "date": "17 August 2022",
+              "shift": "Shift 1",
+              "file": "PYQ/RRB-Group-D/English/17-August-2022-Shift-1.json"
+            },
+            {
+              "name": "17 August 2022 - Shift 2",
+              "date": "17 August 2022",
+              "shift": "Shift 2",
+              "file": "PYQ/RRB-Group-D/English/17-August-2022-Shift-2.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
