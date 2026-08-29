@@ -1,0 +1,45 @@
+{
+  "chapter": "Sorting Materials into Groups",
+  "class": "Class-VI",
+  "language": "English",
+  "year": "2015",
+  "subject": "Science",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why do we group materials?",
+      "options": [
+        "To make their study easier",
+        "To increase their weight",
+        "To change their colour",
+        "To make them disappear"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Grouping materials according to their properties makes their study easier."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following materials is transparent?",
+      "options": [
+        "Wood",
+        "Clear glass",
+        "Cardboard",
+        "Stone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Clear glass allows most light to pass through it."
+    },
+    {
+      "id": 3,
+      "question": "Which material is generally lustrous?",
+      "options": [
+        "Iron",
+        "Wood",
+        "Paper",
+        "Rubber"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Metals such as iron generally have a lustrous appearance when their surfaces are clean."
+    }
+  ]
+}
