@@ -47,6 +47,30 @@
           "file": "NCERT/Class-VI/English/2025/Science/Changes-Around-Us.json"
         }
       ]
+    },
+    {
+      "class": "Class-VI",
+      "language": "Hindi",
+      "year": "2025",
+      "subject": "Science",
+      "chapters": [
+        {
+          "name": "Components of Food",
+          "file": "NCERT/Class-VI/English/2025/Science/Components-of-Food.json"
+        },
+        {
+          "name": "Sorting Materials into Groups",
+          "file": "NCERT/Class-VI/English/2025/Science/Sorting-Materials-into-Groups.json"
+        },
+        {
+          "name": "Separation of Substances",
+          "file": "NCERT/Class-VI/English/2025/Science/Separation-of-Substances.json"
+        },
+        {
+          "name": "Changes Around Us",
+          "file": "NCERT/Class-VI/English/2025/Science/Changes-Around-Us.json"
+        }
+      ]
     }
   ]
 }
