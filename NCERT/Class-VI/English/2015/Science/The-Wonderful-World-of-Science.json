@@ -1,0 +1,609 @@
+{
+  "chapter": "The Wonderful World of Science",
+  "class": "Class-VI",
+  "language": "English",
+  "year": "2026",
+  "subject": "Science",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is defined as a way of thinking, observing, and doing things to understand the world and uncover the secrets of the universe?",
+      "options": [
+        "History",
+        "Science",
+        "Geography",
+        "Mathematics"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Science is defined as a way of thinking, observing, and doing things to understand the world and uncover the secrets of the universe."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is the most essential quality required to learn science effectively?",
+      "options": [
+        "Curiosity",
+        "Memorization",
+        "Speed",
+        "Silence"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The textbook emphasizes that the most important thing needed to understand science is curiosity."
+    },
+    {
+      "id": 3,
+      "question": "In the textbook, science is compared to what kind of puzzle?",
+      "options": [
+        "A crossword puzzle",
+        "A Rubik's cube",
+        "A giant and unending jigsaw puzzle",
+        "A maze puzzle"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The text states that science is like a giant and unending jigsaw puzzle where every new discovery adds another piece."
+    },
+    {
+      "id": 4,
+      "question": "What happens when a new discovery reveals that an earlier understanding was incorrect?",
+      "options": [
+        "The puzzle is discarded",
+        "A piece of the puzzle needs to be moved or corrected",
+        "Science stops functioning",
+        "Previous questions are permanently deleted"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sometimes a piece of the jigsaw puzzle has been placed in the wrong spot and needs to be moved when new discoveries change our understanding."
+    },
+    {
+      "id": 5,
+      "question": "What is the first step in the scientific method as outlined in the chapter?",
+      "options": [
+        "Testing a guess with an experiment",
+        "Analyzing final data",
+        "Observing something interesting or unexplained",
+        "Writing a textbook"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The first step is observing something that we find interesting or do not understand."
+    },
+    {
+      "id": 6,
+      "question": "What directly follows observing something interesting in the scientific method?",
+      "options": [
+        "Drawing a final conclusion",
+        "Thinking of a question or wondering about it",
+        "Publishing a research paper",
+        "Stopping the investigation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Observation makes us wonder and think of a question about what was observed."
+    },
+    {
+      "id": 7,
+      "question": "In the scientific method, what do we formulate after asking a question?",
+      "options": [
+        "A final law",
+        "A possible guess or answer",
+        "A mathematical formula",
+        "An examination paper"
+      ],
+      "correctAnswer": 1,
+      "explanation": "After asking a question, we guess a possible answer to that question."
+    },
+    {
+      "id": 8,
+      "question": "How is a guess or hypothesis tested in the scientific method?",
+      "options": [
+        "By memorizing facts",
+        "By ignoring contradictory facts",
+        "Through experiments or more observations",
+        "By asking for a vote"
+      ],
+      "correctAnswer": 2,
+      "explanation": "We test our guesses through systematic experiments or further observations."
+    },
+    {
+      "id": 9,
+      "question": "What is the final step in the scientific method process described in the text?",
+      "options": [
+        "Analyzing results to see if they answer the question",
+        "Discarding all observations",
+        "Formulating a wild guess",
+        "Ending all scientific curiosity"
+      ],
+      "correctAnswer": 0,
+      "explanation": "We analyze the experimental results to determine whether they answer our original question."
+    },
+    {
+      "id": 10,
+      "question": "If your pen stops writing and you check the refill to see if the ink is finished, what are you doing?",
+      "options": [
+        "Practicing artistic sketching",
+        "Testing a guess using the scientific method",
+        "Conducting a chemical reaction",
+        "Following a mathematical theorem"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Checking the refill to verify why the pen stopped writing is a direct real-life application of the scientific method."
+    },
+    {
+      "id": 11,
+      "question": "If the pen refill is full of ink, what should be the next step in the scientific method?",
+      "options": [
+        "Throw the pen away immediately",
+        "Make another guess, such as the ink having dried up, and test it",
+        "Assume the pen never existed",
+        "Stop writing forever"
+      ],
+      "correctAnswer": 1,
+      "explanation": "If the initial guess is proven wrong, a scientist formulates a new guess (e.g., dried ink) and tests it."
+    },
+    {
+      "id": 12,
+      "question": "Who can be considered a scientist according to the chapter?",
+      "options": [
+        "Only people wearing lab coats in research laboratories",
+        "Anyone who follows the scientific method to solve problems or explore",
+        "Only authors who write science textbooks",
+        "Only college professors"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Anyone who follows the scientific method to solve problems or uncover how things work acts like a scientist."
+    },
+    {
+      "id": 13,
+      "question": "A cook wondering why dal spilled out of a pressure cooker is demonstrating which concept?",
+      "options": [
+        "Applying the scientific method in daily life",
+        "Culinary history",
+        "Mechanical engineering exclusively",
+        "Random guesswork without observation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Wondering if there was too much water or heat when dal spills is an everyday application of the scientific method."
+    },
+    {
+      "id": 14,
+      "question": "A bicycle repair person checking a flat tyre to find where air leaks from is acting as a:",
+      "options": [
+        "Historian",
+        "Scientist solving a problem systematically",
+        "Geologist",
+        "Meteorologist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Finding the source of an air leak follows the step-by-step diagnostic process of a scientist."
+    },
+    {
+      "id": 15,
+      "question": "An electrician checking whether a light bulb failure is due to the bulb or the switch is:",
+      "options": [
+        "Guessing randomly without testing",
+        "Applying systematic scientific inquiry",
+        "Ignoring safety protocols",
+        "Memorizing definitions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Troubleshooting electrical faults by testing components step-by-step uses the scientific method."
+    },
+    {
+      "id": 16,
+      "question": "Why is Earth unique among all the planets we currently know?",
+      "options": [
+        "It is the largest planet in the solar system",
+        "It is the only planet known to support life",
+        "It has no atmosphere",
+        "It is closest to the Sun"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Planet Earth is the only known planet that supports life and has diverse ecosystems."
+    },
+    {
+      "id": 17,
+      "question": "What biological transformation is mentioned in the chapter as a wondrous observation?",
+      "options": [
+        "A tadpole into a fish",
+        "A caterpillar into a butterfly",
+        "A bird into a mammal",
+        "A leaf into a flower"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The text highlights the transformation of a caterpillar into a butterfly as an example of life science wonders."
+    },
+    {
+      "id": 18,
+      "question": "What happens to liquid water when it is cooled significantly?",
+      "options": [
+        "It turns into steam",
+        "It freezes and becomes ice",
+        "It turns into carbon dioxide",
+        "It vanishes completely"
+      ],
+      "correctAnswer": 1,
+      "explanation": "When water is cooled, it freezes to form solid ice."
+    },
+    {
+      "id": 19,
+      "question": "What happens to liquid water when it is heated to its boiling point?",
+      "options": [
+        "It freezes",
+        "It turns into steam",
+        "It solidifies into crystals",
+        "It becomes heavier"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Heating water causes it to boil and convert into steam (gaseous state)."
+    },
+    {
+      "id": 20,
+      "question": "Why is measuring body temperature important during a fever?",
+      "options": [
+        "To find out how hot the body is to determine health status",
+        "To check the color of blood",
+        "To calculate body weight",
+        "To measure body height"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Knowing how hot our body is when fever strikes helps in understanding and monitoring our physical health."
+    },
+    {
+      "id": 21,
+      "question": "Which everyday classroom item mentioned in the text uses magnetism to stay closed?",
+      "options": [
+        "Plastic ruler",
+        "Geometry/pencil box latch",
+        "Rubber eraser",
+        "Paper notebook"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The text refers to the magnet that keeps a pencil box securely closed."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is NOT one of the everyday materials listed in the introductory chapter?",
+      "options": [
+        "Paper",
+        "Plastic ruler",
+        "Metal key",
+        "Plutonium rod"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Everyday objects mentioned include paper, metal keys, plastic rulers, rubber erasers, and magnets."
+    },
+    {
+      "id": 23,
+      "question": "How do scientists across the world usually conduct modern scientific research?",
+      "options": [
+        "Entirely alone in total secrecy",
+        "Together, often collaborating in large teams",
+        "Without asking any questions",
+        "By relying strictly on ancient guesses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The chapter highlights that science is rarely done alone; scientists across the world work collaboratively in teams."
+    },
+    {
+      "id": 24,
+      "question": "What is the primary message regarding finding answers to all science questions in Grade 6?",
+      "options": [
+        "All questions will be fully answered in Grade 6",
+        "Grade 6 is the final year of learning science",
+        "You will not find all answers now; it is the beginning of a lifelong journey",
+        "Science has already discovered every possible fact"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The text reassures students that Grade 6 is just the start of an ongoing journey of exploration."
+    },
+    {
+      "id": 25,
+      "question": "Science is described not merely as memorizing facts, but primarily as:",
+      "options": [
+        "Passing written examinations",
+        "Following a step-by-step process of inquiry to find answers",
+        "Drawing diagrams perfectly",
+        "Memorizing long lists of scientific names"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Science is about following a systematic step-by-step process that helps us find answers to our questions."
+    },
+    {
+      "id": 26,
+      "question": "Which stage of school education comes immediately before the Middle Stage in the new curriculum framework?",
+      "options": [
+        "Secondary Stage",
+        "Preparatory Stage",
+        "Higher Education",
+        "Senior Secondary Stage"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The chapter welcomes students from the Preparatory Stage into the Middle Stage."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following celestial bodies are mentioned as objects of scientific curiosity beyond Earth?",
+      "options": [
+        "The Sun, Moon, and stars",
+        "Only artificial satellites",
+        "Only passing airplanes",
+        "Only clouds"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The text invites students to ask questions beyond Earth about the Sun, the Moon, and millions of shining stars."
+    },
+    {
+      "id": 28,
+      "question": "What natural phenomenon is described by the question 'Do you ever wonder why and how it rains?'",
+      "options": [
+        "Photosynthesis",
+        "Water cycle and precipitation",
+        "Earthquake generation",
+        "Magnetic attraction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rainfall relates to atmospheric science and the water cycle."
+    },
+    {
+      "id": 29,
+      "question": "Groundbreaking scientific discoveries have often originated from:",
+      "options": [
+        "Only formal laboratories",
+        "Unexpected places, from kitchens to playgrounds",
+        "Strictly royal palaces",
+        "Silent libraries only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The text notes that discoveries can come from everyday places like the kitchen or the playground."
+    },
+    {
+      "id": 30,
+      "question": "What is the title of the NCERT Class 6 Science textbook introduced in this chapter?",
+      "options": [
+        "Exploring Nature",
+        "Curiosity",
+        "Science Horizons",
+        "Young Scientist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Grade 6 textbook is titled 'Curiosity'."
+    },
+    {
+      "id": 31,
+      "question": "When we observe different foods across India, what scientific questions arise?",
+      "options": [
+        "Who paid for the meal?",
+        "What are they made of and how do we find out?",
+        "Which restaurant is the oldest?",
+        "What color is the dining table?"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The chapter encourages inquiring into what various cuisines and dishes are made of."
+    },
+    {
+      "id": 32,
+      "question": "What happens as we discover more and more scientific concepts according to the text?",
+      "options": [
+        "The world becomes more confusing",
+        "We realize that these ideas are all connected",
+        "We forget our previous knowledge completely",
+        "Curiosity comes to an end"
+      ],
+      "correctAnswer": 1,
+      "explanation": "As we learn more, we begin to see how different scientific ideas and phenomena are interconnected."
+    },
+    {
+      "id": 33,
+      "question": "Which plant activity is cited in the text as a question of curiosity?",
+      "options": [
+        "How a flower knows when to open and bloom",
+        "How fast wood burns in a stove",
+        "Why leaves are painted green",
+        "Why flowers are sold in markets"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Watching a flower bloom and wondering how it knows when to open is highlighted as a mystery of nature."
+    },
+    {
+      "id": 34,
+      "question": "Why is there 'no limit to what we can discover' in science?",
+      "options": [
+        "Because textbooks are infinitely long",
+        "Because every new piece of knowledge leads to more questions",
+        "Because the number of scientists never changes",
+        "Because nature stops changing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Every new discovery opens up fresh questions and new horizons to explore."
+    },
+    {
+      "id": 35,
+      "question": "Which of the following environments is explicitly mentioned in the text as an area of scientific study?",
+      "options": [
+        "Deserts, coasts, oceans, and galaxies",
+        "Only urban cities",
+        "Only indoor classrooms",
+        "Only polar ice caps"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The chapter highlights deserts, coasts, ocean depths, mountainous regions, and distant galaxies."
+    },
+    {
+      "id": 36,
+      "question": "What is the central attitude encouraged when encountering unsolved mysteries in nature?",
+      "options": [
+        "Fear and avoidance",
+        "Joyful exploration and spirit of inquiry",
+        "Blind acceptance without questioning",
+        "Memorizing without understanding"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Science is described as a joyful exploration driven by a keen spirit of inquiry."
+    },
+    {
+      "id": 37,
+      "question": "When separating the skin of a peanut seed, a student is exploring:",
+      "options": [
+        "Material properties and separation techniques",
+        "Ancient architecture",
+        "Planetary orbits",
+        "Electrical circuits"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Peeling peanut skin introduces hands-on observation of plant structures and separation of materials."
+    },
+    {
+      "id": 38,
+      "question": "Which question demonstrates scientific inquiry about water during different seasons?",
+      "options": [
+        "Why do we enjoy cool water in summer and warm water in winter?",
+        "How much does a bottle of water cost?",
+        "What brand of water bottle is most fashionable?",
+        "Who invented swimming pools?"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Inquiring about our thermal sensations (hot vs. cold water) in different seasons is part of exploring temperature and heat."
+    },
+    {
+      "id": 39,
+      "question": "What should you do if you cannot find the answer to a science question by yourself?",
+      "options": [
+        "Give up on the problem",
+        "Collaborate and discuss with friends or peers",
+        "Assume the question has no answer",
+        "Copy random answers from another subject"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The text advises asking friends to help out because discovering things together is more effective and fun."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following represents a key step in testing why a light bulb fails to illuminate?",
+      "options": [
+        "Checking if the switch is on and inspecting the filament",
+        "Painting the light bulb a different color",
+        "Waiting for the bulb to fix itself",
+        "Replacing the entire house wiring immediately without testing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Systematically testing the switch and examining the bulb isolates the root cause."
+    },
+    {
+      "id": 41,
+      "question": "Why does a seed germinating into a plant inspire scientific inquiry?",
+      "options": [
+        "It involves biological growth, nutrition, and environmental factors",
+        "It proves that plants do not need water",
+        "It shows that soil has no function",
+        "It occurs instantaneously"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Observing how plants develop from seeds leads to investigating how living organisms grow and survive."
+    },
+    {
+      "id": 42,
+      "question": "Which of the following best describes the nature of scientific facts over time?",
+      "options": [
+        "They can never be questioned once written",
+        "They can be updated or revised when new evidence is discovered",
+        "They are based purely on personal opinions",
+        "They remain static for all eternity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Science continually evolves; new discoveries often refine and update our understanding of the world."
+    },
+    {
+      "id": 43,
+      "question": "What does a child jumping into a rain puddle naturally experience?",
+      "options": [
+        "Direct observation of water properties and splashing dynamics",
+        "A purely theoretical mathematical formula",
+        "Chemical bonding inside atoms",
+        "Electromagnetic waves"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Interacting with rainwater connects everyday play with observations of physical properties of liquids."
+    },
+    {
+      "id": 44,
+      "question": "Which of the following activities in the chapter asks students to reflect on their own problem-solving?",
+      "options": [
+        "Activity 1.1: Let us think and write",
+        "Activity 5.4: Advanced Astronomy",
+        "Activity 9.1: Chemical Synthesis",
+        "Activity 12.2: Robotics Construction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Activity 1.1 asks students to describe a problem they solved and the steps they took."
+    },
+    {
+      "id": 45,
+      "question": "What is the key takeaway regarding the scope of science?",
+      "options": [
+        "It is restricted only to laboratories",
+        "It is limited strictly to biological organisms",
+        "It is everywhere—from tiny sand grains to massive galaxies",
+        "It only applies to modern electronic devices"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Science encompasses everything around us, from the smallest grain of sand to the vast universe."
+    },
+    {
+      "id": 46,
+      "question": "When we question 'What are clothes made of?', which branch of science are we beginning to explore?",
+      "options": [
+        "Materials and fibers",
+        "Astronomy",
+        "Plate tectonics",
+        "Acoustics"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Exploring the composition of fabrics leads into the study of materials, natural, and synthetic fibers."
+    },
+    {
+      "id": 47,
+      "question": "The scientific method relies primarily on which of the following combinations?",
+      "options": [
+        "Observation, questioning, hypothesizing, experimenting, and analyzing",
+        "Guessing, assuming, arguing, and concluding without proof",
+        "Memorizing, copying, repeating, and avoiding questions",
+        "Reading fiction and making unsubstantiated claims"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The scientific method systematically integrates observation, hypothesis formulation, experimentation, and analysis."
+    },
+    {
+      "id": 48,
+      "question": "Why is protecting our planet Earth highlighted as a crucial responsibility?",
+      "options": [
+        "Because it is the only known planet that supports life and our environment",
+        "Because other planets are too expensive to visit",
+        "Because Earth has no natural resources left",
+        "Because Earth does not revolve around the Sun"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Earth is our only home and the only known planet sustaining life, making environmental care essential."
+    },
+    {
+      "id": 49,
+      "question": "In scientific terms, what does making a 'guess' to answer a question represent?",
+      "options": [
+        "A hypothesis to be tested",
+        "A proven universal law",
+        "An unquestionable truth",
+        "A final experiment"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A sensible guess formulated to answer an observation is a hypothesis that needs testing."
+    },
+    {
+      "id": 50,
+      "question": "What is the ultimate goal of starting the journey in Science as presented in Chapter 1?",
+      "options": [
+        "To ignite the spirit of inquiry and explore the wonders of the universe joyfully",
+        "To memorize the entire textbook word for word",
+        "To learn how to avoid asking questions",
+        "To complete school without doing any experiments"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The chapter concludes by encouraging learners to embark on an exciting, joyful journey of inquiry and discovery."
+    }
+  ]
+}
