@@ -3,6 +3,9 @@
     {
       "exam": "RRB Group D",
       "duration": 90,
+      "marksPerQuestion": 1,
+      "negativeMarking": true,
+      "negativeMarks": 0.3333333333,
       "languages": [
         {
           "language": "English",

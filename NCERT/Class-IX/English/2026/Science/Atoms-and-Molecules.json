@@ -1,0 +1,33 @@
+{
+    "chapter": "Atoms and Molecules",
+    "class": "Class-IX",
+    "language": "English",
+    "year": "2025",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which nutrient is mainly responsible for providing energy to our body?",
+            "options": [
+                "Proteins",
+                "Carbohydrates",
+                "Vitamins",
+                "Minerals"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Carbohydrates are an important source of energy for the body."
+        },
+        {
+            "id": 2,
+            "question": "Which nutrient is needed for growth and repair of body tissues?",
+            "options": [
+                "Proteins",
+                "Fats",
+                "Carbohydrates",
+                "Water"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Proteins help in growth and repair of body tissues."
+        }
+    ]
+}
