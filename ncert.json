@@ -85,6 +85,10 @@
         {
           "name": "Chemical Reactions and Equation",
           "file": "NCERT/Class-X/English/2026/Science/Chemical-Reaction-And-Equations.json"
+        },
+        {
+          "name": "Acids, Bases and Salts",
+          "file": "NCERT/Class-X/English/2026/Science/Acids-Bases-and-Salts.json"
         }
       ]
     }

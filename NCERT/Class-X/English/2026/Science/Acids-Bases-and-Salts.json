@@ -1,0 +1,21 @@
+{
+    "chapter": "Acids, Bases and Salts",
+    "class": "Class-X",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the chemical name and formula of the white ash formed when a magnesium ribbon is burned in the air?",
+            "options": [
+                "Magnesium hydroxide, Mg(OH)2",
+                "Magnesium oxide, MgO",
+                "Magnesium carbonate, MgCO3",
+                "Magnesium nitride, Mg3N2"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When magnesium burns in the presence of oxygen from the air, it undergoes a combination reaction to form magnesium oxide (MgO), which appears as a white ash (2Mg + O2 -> 2MgO)."
+        }
+    ]
+}
