@@ -234,7 +234,7 @@
             "explanation": "When a base (sodium hydroxide) reacts with an acid (hydrochloric acid), a neutralization reaction occurs to produce a salt (sodium chloride) and water: NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)."
         },
         {
-            "id": 1,
+            "id": 20,
             "question": "Which of the following is the correctly balanced chemical equation for the neutralization reaction between sodium hydroxide and hydrochloric acid?",
             "options": [
                 "NaOH + 2HCl -> NaCl2 + H2O",
@@ -244,6 +244,150 @@
             ],
             "correctAnswer": 2,
             "explanation": "Sodium hydroxide reacts with hydrochloric acid to form sodium chloride and water. The equation is already balanced as written: NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)."
+        },
+        {
+            "id": 21,
+            "question": "Which of the following best defines a combination reaction?",
+            "options": [
+                "A reaction in which two or more reactants combine to form a single product",
+                "A reaction in which a single reactant breaks down into two or more simpler products",
+                "A reaction in which a more reactive element displaces a less reactive element",
+                "A reaction in which two ionic compounds exchange ions to form new compounds"
+            ],
+            "correctAnswer": 0,
+            "explanation": "By definition, a combination reaction is one where multiple reactants join together to yield one single product (represented generally as A + B -> C)."
+        },
+        {
+            "id": 22,
+            "question": "What is the common name of calcium oxide (CaO)?",
+            "options": [
+                "Slaked lime",
+                "Quicklime",
+                "Limestone",
+                "Caustic soda"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Calcium oxide (CaO) is commonly known as quicklime. When it reacts with water, it forms slaked lime (calcium hydroxide)."
+        },
+        {
+            "id": 23,
+            "question": "What is formed when quicklime (CaO) reacts vigorously with water?",
+            "options": [
+                "Calcium carbonate and carbon dioxide gas",
+                "Slaked lime (calcium hydroxide) with the release of heat",
+                "Calcium metal and hydrogen gas",
+                "Calcium oxide hydrate with a drop in temperature"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When calcium oxide reacts with water, a combination reaction takes place forming slaked lime [Ca(OH)2] accompanied by the release of a large amount of heat: CaO + H2O -> Ca(OH)2 + Heat."
+        },
+        {
+            "id": 24,
+            "question": "What is the common name for calcium hydroxide, Ca(OH)2?",
+            "options": [
+                "Quicklime",
+                "Limestone",
+                "Slaked lime",
+                "Caustic potash"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Calcium hydroxide [Ca(OH)2] is commonly called slaked lime, which is formed when quicklime (CaO) reacts with water."
+        },
+        {
+            "id": 25,
+            "question": "Which of the following compounds is used for whitewashing walls?",
+            "options": [
+                "Calcium oxide (CaO)",
+                "Calcium carbonate (CaCO3)",
+                "Calcium hydroxide [Ca(OH)2]",
+                "Calcium sulphate (CaSO4)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "An aqueous solution of slaked lime, which is calcium hydroxide [Ca(OH)2], is used for whitewashing. It reacts with carbon dioxide in the air to form a shiny white coating of calcium carbonate."
+        },
+        {
+            "id": 26,
+            "question": "During whitewashing, which compound reacts slowly with carbon dioxide in the air to form a shiny white finish of calcium carbonate?",
+            "options": [
+                "Calcium oxide (CaO)",
+                "Calcium carbonate (CaCO3)",
+                "Calcium hydroxide [Ca(OH)2]",
+                "Calcium chloride (CaCl2)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Calcium hydroxide solution applied during whitewashing reacts slowly with carbon dioxide from the air over two to three days to form a hard, shiny layer of calcium carbonate."
+        },
+        {
+            "id": 27,
+            "question": "What is the chemical formula for marble?",
+            "options": [
+                "CaO",
+                "Ca(OH)2",
+                "CaCO3",
+                "CaCl2"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Marble is chemically composed of calcium carbonate, which has the chemical formula CaCO3."
+        },
+        {
+            "id": 28,
+            "question": "Which of the following statements best describes an exothermic reaction?",
+            "options": [
+                "A reaction in which heat is absorbed from the surroundings",
+                "A reaction in which heat is released along with the formation of products",
+                "A reaction that takes place only in the presence of sunlight",
+                "A reaction in which a single reactant breaks down into simpler substances"
+            ],
+            "correctAnswer": 1,
+            "explanation": "An exothermic reaction is a chemical process where heat energy is released to the surroundings, often causing an increase in temperature."
+        },
+        {
+            "id": 29,
+            "question": "Which of the following is the correctly balanced chemical equation for the burning of coal in air?",
+            "options": [
+                "2C(s) + O2(g) -> 2CO(g)",
+                "C(s) + 2O2(g) -> CO2(g)",
+                "C(s) + O2(g) -> CO2(g)",
+                "C(s) + O(g) -> CO(g)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Coal consists mainly of carbon. When it burns in the presence of oxygen, it undergoes a combination and exothermic reaction to form carbon dioxide: C(s) + O2(g) -> CO2(g)."
+        },
+        {
+            "id": 30,
+            "question": "Which of the following is the correctly balanced chemical equation for the formation of water from hydrogen and oxygen?",
+            "options": [
+                "H2(g) + O2(g) -> H2O(l)",
+                "H2(g) + 2O2(g) -> H2O2(l)",
+                "2H2(g) + O2(g) -> 2H2O(l)",
+                "4H2(g) + O2(g) -> 2H2O2(l)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "To balance the reaction, two molecules of hydrogen gas react with one molecule of oxygen gas to produce two molecules of liquid water: 2H2(g) + O2(g) -> 2H2O(l)."
+        },
+        {
+            "id": 31,
+            "question": "What is observed when carbon dioxide gas is passed through lime water?",
+            "options": [
+                "The solution turns deep blue with no precipitate",
+                "A pungent-smelling brown gas is evolved",
+                "The solution turns milky due to the formation of a white precipitate of calcium carbonate",
+                "The solution becomes strongly acidic and bubbles vigorously"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Passing carbon dioxide gas through lime water [Ca(OH)2] produces an insoluble white precipitate of calcium carbonate (CaCO3), which turns the clear solution milky: Ca(OH)2(aq) + CO2(g) -> CaCO3(s) + H2O(l)."
+        },
+        {
+            "id": 32,
+            "question": "What are the products formed when glucose reacts with oxygen during cellular respiration in our body?",
+            "options": [
+                "Carbon monoxide, oxygen, and heat",
+                "Carbon dioxide, water, and energy",
+                "Alcohol, carbon dioxide, and energy",
+                "Lactic acid and water only"
+            ],
+            "correctAnswer": 1,
+            "explanation": "During respiration, glucose combines with oxygen in our body cells to form carbon dioxide and water, while releasing energy: C6H12O6 + 6O2 -> 6CO2 + 6H2O + Energy."
         }
     ]
 }
