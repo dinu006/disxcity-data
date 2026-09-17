@@ -136,6 +136,19 @@
             ],
             "correctAnswer": 2,
             "explanation": "When carbon monoxide reacts with hydrogen gas at 340 atm pressure (in the presence of a proper catalyst), it undergoes a combination reaction to form methanol: CO(g) + 2H2(g) -> CH3OH(l)."
-        }
+        },
+        {
+            "id": 1,
+            "question": "Which of the following represents the completely balanced equation for photosynthesis including water molecules on both sides?",
+            "options": [
+                "6CO2 + 6H2O -> C6H12O6 + 6O2",
+                "6CO2 + 12H2O -> C6H12O6 + 6O2 + 6H2O",
+                "CO2 + H2O -> C6H12O6 + O2 + H2O",
+                "12CO2 + 6H2O -> C6H12O6 + 6O2 + 12H2O"
+            ],
+            "correctAnswer": 1,
+            "explanation": "During photosynthesis, 12 molecules of water are consumed, and 6 molecules of water are released along with glucose and oxygen gas: 6CO2(aq) + 12H2O(l) -> C6H12O6(aq) + 6O2(aq) + 6H2O(l)."
+        },
+        
     ]
 }
