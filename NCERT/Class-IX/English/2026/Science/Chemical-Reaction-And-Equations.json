@@ -1,0 +1,141 @@
+{
+    "chapter": "Chemical Reactions and Equations",
+    "class": "Class-X",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which nutrient is mainly responsible for providing energy to our body?",
+            "options": [
+                "Proteins",
+                "Carbohydrates",
+                "Vitamins",
+                "Minerals"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Carbohydrates are an important source of energy for the body."
+        },
+        {
+            "id": 2,
+            "question": "What is the chemical name and formula of the white ash formed when a magnesium ribbon is burned in the air?",
+            "options": [
+                "Magnesium hydroxide, Mg(OH)2",
+                "Magnesium oxide, MgO",
+                "Magnesium carbonate, MgCO3",
+                "Magnesium nitride, Mg3N2"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When magnesium burns in the presence of oxygen from the air, it undergoes a combination reaction to form magnesium oxide (MgO), which appears as a white ash (2Mg + O2 -> 2MgO)."
+        },
+        {
+            "id": 3,
+            "question": "Which of the following is the correctly balanced chemical equation for the burning of magnesium in air?",
+            "options": [
+                "Mg + O2 -> MgO",
+                "2Mg + O2 -> 2MgO",
+                "Mg + 2O2 -> MgO2",
+                "2Mg + 2O2 -> 2MgO"
+            ],
+            "correctAnswer": 1,
+            "explanation": "To balance the reaction where magnesium reacts with oxygen to form magnesium oxide, two atoms of magnesium react with one molecule of oxygen gas to produce two molecules of magnesium oxide: 2Mg + O2 -> 2MgO."
+        },
+        {
+            "id": 4,
+            "question": "What is observed when a lead nitrate solution is added to a potassium iodide solution?",
+            "options": [
+                "A white precipitate is formed",
+                "A yellow precipitate of lead iodide is formed",
+                "Evolution of brown fumes of nitrogen dioxide",
+                "No reaction takes place"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When lead nitrate reacts with potassium iodide, a double displacement reaction occurs, resulting in the formation of lead iodide, which appears as a striking yellow precipitate (Pb(NO3)2 + 2KI -> PbI2 + 2KNO3)."
+        },
+        {
+            "id": 5,
+            "question": "Which of the following represents the balanced chemical equation for the reaction between lead nitrate and potassium iodide?",
+            "options": [
+                "Pb(NO3)2 + KI -> PbI + KNO3",
+                "Pb(NO3)2 + 2KI -> PbI + 2KNO3",
+                "Pb(NO3)2 + 2KI -> PbI2 + 2KNO3",
+                "PbNO3 + KI -> PbI + KNO3"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Lead has a valency of 2, so its formula with nitrate is Pb(NO3)2 and with iodide is PbI2. Balancing the equation gives: Pb(NO3)2(aq) + 2KI(aq) -> PbI2(s) + 2KNO3(aq)."
+        },
+        {
+            "id": 6,
+            "question": "What happens when zinc granules react with dilute hydrochloric acid or sulphuric acid?",
+            "options": [
+                "Oxygen gas is evolved and the test tube becomes cold",
+                "Hydrogen gas is evolved and a change in temperature (increase in temperature) is observed",
+                "Chlorine gas is evolved and the solution turns green",
+                "No reaction takes place between zinc and dilute acids"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When zinc granules react with dilute hydrochloric acid or sulphuric acid, a chemical reaction takes place resulting in the evolution of hydrogen gas and an increase in the temperature of the conical flask or test tube."
+        },
+        {
+            "id": 7,
+            "question": "Which of the following sets of observations can be used to determine whether a chemical reaction has taken place?",
+            "options": [
+                "Only evolution of a gas and change in state",
+                "Only change in color and change in temperature",
+                "Change in state, change in color, evolution of a gas, and change in temperature",
+                "Only change in state"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A chemical reaction is typically characterized by one or more of these features: a change in state, a change in color, the evolution of a gas, or a change in temperature."
+        },
+        {
+            "id": 8,
+            "question": "Which of the following is the balanced chemical equation for the reaction between zinc and sulphuric acid?",
+            "options": [
+                "Zn + 2H2SO4 -> Zn(SO4)2 + 2H2",
+                "2Zn + H2SO4 -> 2ZnSO4 + H2",
+                "Zn + H2SO4 -> ZnSO4 + H2",
+                "Zn + HSO4 -> ZnSO4 + H"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Zinc reacts with dilute sulphuric acid to produce zinc sulphate and hydrogen gas. The correct balanced equation is Zn(s) + H2SO4(aq) -> ZnSO4(aq) + H2(g)."
+        },
+        {
+            "id": 9,
+            "question": "Which of the following represents the correct balanced chemical equation when iron reacts with steam?",
+            "options": [
+                "Fe(s) + H2O(g) -> FeO(s) + H2(g)",
+                "2Fe(s) + 3H2O(g) -> Fe2O3(s) + 3H2(g)",
+                "3Fe(s) + 4H2O(g) -> Fe3O4(s) + 4H2(g)",
+                "Fe(s) + 2H2O(g) -> FeO2(s) + 2H2(g)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Iron reacts with steam to form iron(II,III) oxide (Fe3O4) and hydrogen gas. The correct balanced chemical equation is 3Fe(s) + 4H2O(g) -> Fe3O4(s) + 4H2(g)."
+        },
+        {
+            "id": 10,
+            "question": "In a chemical equation, what do the symbols (g), (l), (aq), and (s) respectively represent?",
+            "options": [
+                "Grams, Liters, Aqueous, Seconds",
+                "Gas, Liquid, Catalyst, Solid",
+                "Gaseous, Liquid, Aqueous solution, Solid",
+                "Gravity, Length, Area, Speed"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The symbols (g), (l), (aq), and (s) are used in chemical equations to specify the physical states of the substances: (g) stands for gaseous state, (l) for liquid state, (aq) for aqueous solution (dissolved in water), and (s) for solid state."
+        },
+        {
+            "id": 1,
+            "question": "What product is formed when carbon monoxide reacts with hydrogen at a high pressure of 340 atm?",
+            "options": [
+                "Methane (CH4)",
+                "Formaldehyde (HCHO)",
+                "Methanol (CH3OH)",
+                "Ethanol (C2H5OH)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When carbon monoxide reacts with hydrogen gas at 340 atm pressure (in the presence of a proper catalyst), it undergoes a combination reaction to form methanol: CO(g) + 2H2(g) -> CH3OH(l)."
+        }
+    ]
+}

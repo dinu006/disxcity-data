@@ -75,6 +75,18 @@
           "file": "NCERT/Class-VI/English/2025/Science/Changes-Around-Us.json"
         }
       ]
+    },
+    {
+      "class": "Class-X",
+      "language": "English",
+      "year": "2026",
+      "subject": "Science",
+      "chapters": [
+        {
+          "name": "Chemical Reactions and Equations",
+          "file": "NCERT/Class-VI/English/2026/Science/Chemical-Reaction-And-Equations.json"
+        }
+      ]
     }
   ]
 }
