@@ -7,18 +7,6 @@
     "questions": [
         {
             "id": 1,
-            "question": "Which nutrient is mainly responsible for providing energy to our body?",
-            "options": [
-                "Proteins",
-                "Carbohydrates",
-                "Vitamins",
-                "Minerals"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Carbohydrates are an important source of energy for the body."
-        },
-        {
-            "id": 2,
             "question": "What is the chemical name and formula of the white ash formed when a magnesium ribbon is burned in the air?",
             "options": [
                 "Magnesium hydroxide, Mg(OH)2",
@@ -30,7 +18,7 @@
             "explanation": "When magnesium burns in the presence of oxygen from the air, it undergoes a combination reaction to form magnesium oxide (MgO), which appears as a white ash (2Mg + O2 -> 2MgO)."
         },
         {
-            "id": 3,
+            "id": 2,
             "question": "Which of the following is the correctly balanced chemical equation for the burning of magnesium in air?",
             "options": [
                 "Mg + O2 -> MgO",
@@ -42,7 +30,7 @@
             "explanation": "To balance the reaction where magnesium reacts with oxygen to form magnesium oxide, two atoms of magnesium react with one molecule of oxygen gas to produce two molecules of magnesium oxide: 2Mg + O2 -> 2MgO."
         },
         {
-            "id": 4,
+            "id": 3,
             "question": "What is observed when a lead nitrate solution is added to a potassium iodide solution?",
             "options": [
                 "A white precipitate is formed",
@@ -54,7 +42,7 @@
             "explanation": "When lead nitrate reacts with potassium iodide, a double displacement reaction occurs, resulting in the formation of lead iodide, which appears as a striking yellow precipitate (Pb(NO3)2 + 2KI -> PbI2 + 2KNO3)."
         },
         {
-            "id": 5,
+            "id": 4,
             "question": "Which of the following represents the balanced chemical equation for the reaction between lead nitrate and potassium iodide?",
             "options": [
                 "Pb(NO3)2 + KI -> PbI + KNO3",
@@ -66,7 +54,7 @@
             "explanation": "Lead has a valency of 2, so its formula with nitrate is Pb(NO3)2 and with iodide is PbI2. Balancing the equation gives: Pb(NO3)2(aq) + 2KI(aq) -> PbI2(s) + 2KNO3(aq)."
         },
         {
-            "id": 6,
+            "id": 5,
             "question": "What happens when zinc granules react with dilute hydrochloric acid or sulphuric acid?",
             "options": [
                 "Oxygen gas is evolved and the test tube becomes cold",
@@ -78,7 +66,7 @@
             "explanation": "When zinc granules react with dilute hydrochloric acid or sulphuric acid, a chemical reaction takes place resulting in the evolution of hydrogen gas and an increase in the temperature of the conical flask or test tube."
         },
         {
-            "id": 7,
+            "id": 6,
             "question": "Which of the following sets of observations can be used to determine whether a chemical reaction has taken place?",
             "options": [
                 "Only evolution of a gas and change in state",
@@ -90,7 +78,7 @@
             "explanation": "A chemical reaction is typically characterized by one or more of these features: a change in state, a change in color, the evolution of a gas, or a change in temperature."
         },
         {
-            "id": 8,
+            "id": 7,
             "question": "Which of the following is the balanced chemical equation for the reaction between zinc and sulphuric acid?",
             "options": [
                 "Zn + 2H2SO4 -> Zn(SO4)2 + 2H2",
@@ -102,7 +90,7 @@
             "explanation": "Zinc reacts with dilute sulphuric acid to produce zinc sulphate and hydrogen gas. The correct balanced equation is Zn(s) + H2SO4(aq) -> ZnSO4(aq) + H2(g)."
         },
         {
-            "id": 9,
+            "id": 8,
             "question": "Which of the following represents the correct balanced chemical equation when iron reacts with steam?",
             "options": [
                 "Fe(s) + H2O(g) -> FeO(s) + H2(g)",
@@ -114,7 +102,7 @@
             "explanation": "Iron reacts with steam to form iron(II,III) oxide (Fe3O4) and hydrogen gas. The correct balanced chemical equation is 3Fe(s) + 4H2O(g) -> Fe3O4(s) + 4H2(g)."
         },
         {
-            "id": 10,
+            "id": 9,
             "question": "In a chemical equation, what do the symbols (g), (l), (aq), and (s) respectively represent?",
             "options": [
                 "Grams, Liters, Aqueous, Seconds",
@@ -126,7 +114,7 @@
             "explanation": "The symbols (g), (l), (aq), and (s) are used in chemical equations to specify the physical states of the substances: (g) stands for gaseous state, (l) for liquid state, (aq) for aqueous solution (dissolved in water), and (s) for solid state."
         },
         {
-            "id": 1,
+            "id": 10,
             "question": "What product is formed when carbon monoxide reacts with hydrogen at a high pressure of 340 atm?",
             "options": [
                 "Methane (CH4)",
@@ -138,7 +126,7 @@
             "explanation": "When carbon monoxide reacts with hydrogen gas at 340 atm pressure (in the presence of a proper catalyst), it undergoes a combination reaction to form methanol: CO(g) + 2H2(g) -> CH3OH(l)."
         },
         {
-            "id": 1,
+            "id": 11,
             "question": "Which of the following represents the completely balanced equation for photosynthesis including water molecules on both sides?",
             "options": [
                 "6CO2 + 6H2O -> C6H12O6 + 6O2",
@@ -148,6 +136,114 @@
             ],
             "correctAnswer": 1,
             "explanation": "During photosynthesis, 12 molecules of water are consumed, and 6 molecules of water are released along with glucose and oxygen gas: 6CO2(aq) + 12H2O(l) -> C6H12O6(aq) + 6O2(aq) + 6H2O(l)."
+        },
+        {
+            "id": 12,
+            "question": "Why is it necessary to clean a magnesium ribbon with sandpaper before burning it in air?",
+            "options": [
+                "To increase its electrical conductivity",
+                "To remove dust particles stuck to the surface",
+                "To remove the protective layer of magnesium oxide/carbonate formed on its surface",
+                "To make the metal react faster by cooling it down"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Magnesium is a reactive metal that reacts with moist air to form a protective coating of basic magnesium oxide or carbonate on its surface. Rubbing it with sandpaper removes this layer so the pure metal can easily come in contact with oxygen and burn."
+        },
+        {
+            "id": 13,
+            "question": "Which of the following is the correctly balanced chemical equation for the reaction between hydrogen and chlorine?",
+            "options": [
+                "H2 + Cl2 -> HCl",
+                "2H2 + 2Cl2 -> 4HCl",
+                "H2 + Cl2 -> 2HCl",
+                "H2 + 2Cl2 -> 2HCl"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Hydrogen and chlorine react to form hydrogen chloride. Since there are two atoms of hydrogen and two atoms of chlorine on the reactant side, we place a coefficient of 2 in front of HCl to balance the equation: H2 + Cl2 -> 2HCl."
+        },
+        {
+            "id": 14,
+            "question": "What is observed when an aqueous solution of barium chloride is mixed with an aqueous solution of aluminium sulphate?",
+            "options": [
+                "A yellow precipitate of barium chloride is formed",
+                "A blue precipitate of aluminium sulphate is formed",
+                "A white precipitate of barium sulphate is formed",
+                "A black precipitate of aluminium chloride is formed"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When barium chloride reacts with aluminium sulphate, it undergoes a double displacement and precipitation reaction, forming a white precipitate of barium sulphate (3BaCl2 + Al2(SO4)3 -> 3BaSO4 + 2AlCl3)."
+        },
+        {
+            "id": 15,
+            "question": "Which of the following is the correctly balanced chemical equation for the reaction between barium chloride and aluminium sulphate?",
+            "options": [
+                "BaCl2 + Al2(SO4)3 -> BaSO4 + AlCl3",
+                "2BaCl2 + Al2(SO4)3 -> 2BaSO4 + 2AlCl3",
+                "3BaCl2 + Al2(SO4)3 -> 3BaSO4 + 2AlCl3",
+                "3BaCl2 + 2Al2(SO4)3 -> 3BaSO4 + 4AlCl3"
+            ],
+            "correctAnswer": 2,
+            "explanation": "To balance the reaction, 3 moles of barium chloride react with 1 mole of aluminium sulphate to produce 3 moles of barium sulphate precipitate and 2 moles of aluminium chloride: 3BaCl2(aq) + Al2(SO4)3(aq) -> 3BaSO4(s) + 2AlCl3(aq)."
+        },
+        {
+            "id": 16,
+            "question": "Which of the following is the correctly balanced chemical equation for the reaction between sodium and water?",
+            "options": [
+                "Na + H2O -> NaOH + H2",
+                "2Na + 2H2O -> 2NaOH + H2",
+                "2Na + H2O -> Na2O + H2",
+                "Na + 2H2O -> Na2O2 + 2H2"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sodium reacts vigorously with water in an exothermic reaction to form sodium hydroxide and hydrogen gas. The correct balanced chemical equation is 2Na(s) + 2H2O(l) -> 2NaOH(aq) + H2(g)."
+        },
+        {
+            "id": 17,
+            "question": "What is observed when an aqueous solution of barium chloride is reacted with an aqueous solution of sodium sulphate?",
+            "options": [
+                "A blue precipitate of copper sulphate is formed",
+                "A pungent-smelling gas is evolved",
+                "No chemical reaction takes place",
+                "A white precipitate of barium sulphate and a solution of sodium chloride are formed"
+            ],
+            "correctAnswer": 3,
+            "explanation": "When barium chloride reacts with sodium sulphate, a double displacement reaction occurs, producing an insoluble white precipitate of barium sulphate (BaSO4) and aqueous sodium chloride: BaCl2(aq) + Na2SO4(aq) -> BaSO4(s) + 2NaCl(aq)."
+        },
+        {
+            "id": 18,
+            "question": "Which of the following represents the correctly balanced chemical equation for the reaction between barium chloride and sodium sulphate?",
+            "options": [
+                "BaCl2 + Na2SO4 -> BaSO4 + NaCl",
+                "BaCl2 + 2Na2SO4 -> BaSO4 + 2NaCl",
+                "BaCl2 + Na2SO4 -> BaSO4 + 2NaCl",
+                "2BaCl2 + Na2SO4 -> 2BaSO4 + NaCl"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When aqueous solutions of barium chloride and sodium sulphate react, they undergo a double displacement reaction to form a white precipitate of barium sulphate and two molecules of aqueous sodium chloride: BaCl2(aq) + Na2SO4(aq) -> BaSO4(s) + 2NaCl(aq)."
+        },
+        {
+            "id": 19,
+            "question": "What are the products formed when an aqueous solution of sodium hydroxide reacts with hydrochloric acid?",
+            "options": [
+                "Sodium carbonate and water",
+                "Sodium chloride solution and water",
+                "Sodium oxide and hydrogen gas",
+                "Sodium metal and chlorine gas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When a base (sodium hydroxide) reacts with an acid (hydrochloric acid), a neutralization reaction occurs to produce a salt (sodium chloride) and water: NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)."
+        },
+        {
+            "id": 1,
+            "question": "Which of the following is the correctly balanced chemical equation for the neutralization reaction between sodium hydroxide and hydrochloric acid?",
+            "options": [
+                "NaOH + 2HCl -> NaCl2 + H2O",
+                "2NaOH + HCl -> Na2Cl + H2O",
+                "NaOH + HCl -> NaCl + H2O",
+                "NaOH + HCl -> NaH + ClO"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Sodium hydroxide reacts with hydrochloric acid to form sodium chloride and water. The equation is already balanced as written: NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)."
         }
     ]
 }
