@@ -424,6 +424,560 @@
             ],
             "correctAnswer": 1,
             "explanation": "A molecule is defined as a group of two or more atoms chemically bonded together."
-        }
+        },
+        {
+            "id": 36,
+            "question": "What is the difference between an atom and a molecule?",
+            "options": [
+                "An atom is a single particle of an element, while a molecule is a group of two or more atoms chemically bonded together.",
+                "An atom is a group of two or more atoms chemically bonded together, while a molecule is a single particle of an element.",
+                "An atom can exist independently, while a molecule cannot.",
+                "There is no difference; they are the same."
+            ],
+            "correctAnswer": 0,
+            "explanation": "An atom is the smallest unit of an element that retains its chemical properties, while a molecule consists of two or more atoms bonded together, which can be of the same or different elements."
+        },
+        {
+            "id": 37,
+            "question": "Which of the following is an example of a diatomic molecule?",
+            "options": [
+                "Oxygen (O2)",
+                "Water (H2O)",
+                "Carbon dioxide (CO2)",
+                "Methane (CH4)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A diatomic molecule consists of two atoms. Oxygen (O2) is an example of a diatomic molecule, as it is composed of two oxygen atoms bonded together."
+        },
+        {
+            "id": 38,
+            "question": "Which of the following is the correct definition of atomicity?",
+            "options": [
+                "The number of atoms constituting a single molecule.",
+                "The total mass of all atoms present in a molecule.",
+                "The number of protons and neutrons in an atom's nucleus.",
+                "The fixed ratio by mass in which elements combine to form a compound."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Atomicity simply refers to how many atoms make up one molecule of an element or compound. For example, O2 has an atomicity of 2."
+        },
+        {
+            "id": 39,
+            "question": "Which of the following elements is classified as monoatomic?",
+            "options": [
+                "Oxygen (O2)",
+                "Hydrogen (H2)",
+                "Helium (He)",
+                "Nitrogen (N2)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Helium is a noble gas and exists as single, unbonded atoms, making it monoatomic. Oxygen, hydrogen, and nitrogen exist as diatomic molecules (O2, H2, N2)."
+        },
+        {
+            "id": 40,
+            "question": "To include all 6 noble gases in a 4-option question, they are grouped in pairs. Which of the following options does NOT consist entirely of noble gases?",
+            "options": [
+                "Helium & Neon (He & Ne)",
+                "Argon & Krypton (Ar & Kr)",
+                "Xenon & Radon (Xe & Rn)",
+                "Nitrogen & Oxygen (N2 & O2)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Options A, B, and C successfully group all 6 noble gases in pairs (He, Ne, Ar, Kr, Xe, Rn). Option D contains Nitrogen and Oxygen, which are diatomic gases, not noble gases."
+        },
+        {
+            "id": 41,
+            "question": "What is the fixed ratio by mass of carbon to oxygen in a carbon dioxide (CO2) molecule?",
+            "options": [
+                "1 : 2",
+                "3 : 8",
+                "8 : 3",
+                "12 : 16"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Carbon has a total mass of 12 u (1 x 12) and Oxygen has a total mass of 32 u (2 x 16) in CO2. The ratio 12 : 32 simplifies to 3 : 8."
+        },
+        {
+            "id": 42,
+            "question": "What is the ratio by number of atoms for a water molecule (H2O)?",
+            "options": [
+                "1 : 2",
+                "2 : 1",
+                "1 : 8",
+                "8 : 1"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A water molecule (H2O) contains 2 hydrogen atoms and 1 oxygen atom, giving a ratio by number of atoms of 2 : 1."
+        },
+        {
+            "id": 43,
+            "question": "What is the fixed ratio by mass of hydrogen to oxygen in a water molecule (H2O)?",
+            "options": [
+                "2 : 1",
+                "1 : 8",
+                "8 : 1",
+                "1 : 2"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hydrogen has a total mass of 2 u (2 x 1) and Oxygen has a mass of 16 u (1 x 16) in H2O. The ratio 2 : 16 simplifies to 1 : 8."
+        },
+        {
+            "id": 44,
+            "question": "Which of the following best defines an ion?",
+            "options": [
+                "An atom with an equal number of protons and electrons.",
+                "A neutral molecule composed of two or more identical atoms.",
+                "A charged atom or group of atoms carrying a net positive or negative charge.",
+                "An unstable subatomic particle found only inside the nucleus."
+            ],
+            "correctAnswer": 2,
+            "explanation": "An ion is an atom or group of atoms that has acquired an electric charge by gaining or losing electrons."
+        },
+        {
+            "id": 45,
+            "question": "What is an anion?",
+            "options": [
+                "A positively charged ion formed by losing electrons.",
+                "A negatively charged ion formed by gaining electrons.",
+                "A neutral atom with equal numbers of protons and electrons.",
+                "A molecule with no net electrical charge."
+            ],
+            "correctAnswer": 1,
+            "explanation": "An anion is a negatively charged ion created when an atom or group of atoms gains one or more electrons."
+        },
+        {
+            "id": 46,
+            "question": "What is a cation?",
+            "options": [
+                "A negatively charged ion formed by gaining electrons.",
+                "A neutral atom with no electrons.",
+                "A molecule formed by sharing electrons.",
+                "A positively charged ion formed by losing electrons."
+            ],
+            "correctAnswer": 3,
+            "explanation": "A cation is a positively charged ion created when an atom or group of atoms loses one or more electrons."
+        },
+        {
+            "id": 47,
+            "question": "Is the chloride ion (Cl-) a cation or an anion?",
+            "options": [
+                "Cation",
+                "Anion",
+                "Neutral atom",
+                "Isotope"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cl- carries a negative sign, indicating it is a negatively charged ion, which is defined as an anion."
+        },
+        {
+            "id": 48,
+            "question": "Which of the following best defines the valency of an element?",
+            "options": [
+                "The total number of protons in the nucleus of an atom.",
+                "The combining capacity of an atom of an element.",
+                "The total mass of all electrons in an atom.",
+                "The total number of neutrons and protons combined."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Valency refers to the combining capacity of an atom, representing how many electrons it uses to bond with other atoms."
+        },
+        {
+            "id": 49,
+            "question": "Which of the following represents a binary compound?",
+            "options": [
+                "Sulfuric acid (H2SO4)",
+                "Water (H2O)",
+                "Glucose (C6H12O6)",
+                "Calcium carbonate (CaCO3)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Water (H2O) is a binary compound because it consists of exactly two different elements (Hydrogen and Oxygen). The others contain three or more different elements."
+        },
+        {
+            "id": 50,
+            "question": "What is the molecular mass of water (H2O), given that the atomic mass of H is 1u and O is 16u?",
+            "options": [
+                "16 u",
+                "17 u",
+                "18 u",
+                "32 u"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Molecular mass is calculated by adding the atomic masses of all atoms: (2 x 1 u for hydrogen) + (1 x 16 u for oxygen) = 2 + 16 = 18 u."
+        },
+        {
+            "id": 51,
+            "question": "Which of the following best defines molecular mass?",
+            "options": [
+                "The mass of a single proton in an atom's nucleus.",
+                "The sum of the atomic masses of all atoms present in a molecule.",
+                "The fixed ratio by mass in which elements combine.",
+                "The total number of electrons surrounding a nucleus."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Molecular mass is calculated by adding up the individual atomic masses of every atom that makes up a single molecule."
+        },
+        {
+            "id": 52,
+            "question": "What is the main difference between molecular mass and formula unit mass?",
+            "options": [
+                "Formula unit mass uses addition, while molecular mass uses multiplication.",
+                "They are calculated differently using completely different atomic masses.",
+                "Molecular mass is for covalent molecules, while formula unit mass is for ionic compounds.",
+                "Formula unit mass only applies to gases."
+            ],
+            "correctAnswer": 2,
+            "explanation": "The math is identical for both, but we use molecular mass for discrete molecules and formula unit mass for ionic compounds that exist in giant crystal structures."
+        },
+        [
+            {
+                "id": 53,
+                "question": "What is the charge of a sodium ion when it forms a cation?",
+                "options": [
+                    "Charge: -1, Symbol: Na-",
+                    "Charge: +1, Symbol: Na+",
+                    "Charge: +2, Symbol: Na2+",
+                    "Charge: -2, Symbol: Na2-"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Sodium loses its single valence electron to achieve stability, resulting in 11 protons and 10 electrons, which gives it a net charge of +1 (Na+)."
+            },
+            {
+                "id": 54,
+                "question": "What is the charge of a potassium ion when it forms a cation?",
+                "options": [
+                    "Charge: -1, Symbol: K-",
+                    "Charge: +1, Symbol: K+",
+                    "Charge: +2, Symbol: K2+",
+                    "Charge: 0, Symbol: K"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Potassium is in Group 1 and loses its single valence electron to achieve stability, leaving it with a net positive charge of +1 (K+)."
+            },
+            {
+                "id": 55,
+                "question": "What is the common charge of a silver ion in its compounds?",
+                "options": [
+                    "Charge: -1, Symbol: Ag-",
+                    "Charge: +1, Symbol: Ag+",
+                    "Charge: +2, Symbol: Ag2+",
+                    "Charge: +3, Symbol: Ag3+"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Silver most commonly loses one electron to form a stable +1 ion (Ag+), such as in silver chloride (AgCl)."
+            },
+            {
+                "id": 56,
+                "question": "What is the charge of a copper(I) (cuprous) ion?",
+                "options": [
+                    "Charge: +2, Symbol: Cu 2+",
+                    "Charge: -1, Symbol: Cu -",
+                    "Charge: +3, Symbol: Cu 3+",
+                    "Charge: +1, Symbol: Cu +"
+                ],
+                "correctAnswer": 3,
+                "explanation": "The Roman numeral (I) in copper(I) indicates that the ion has a positive charge of +1, formed by losing one electron."
+            },
+            {
+                "id": 57,
+                "question": "What is the common charge of a magnesium ion?",
+                "options": [
+                    "Charge: +2, Symbol: Mg 2+",
+                    "Charge: +1, Symbol: Mg +",
+                    "Charge: -2, Symbol: Mg 2-",
+                    "Charge: +3, Symbol: Mg 3+"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Magnesium is in Group 2 and loses its 2 valence electrons to achieve stability, resulting in a net positive charge of +2 (Mg2+)."
+            },
+            {
+                "id": 58,
+                "question": "What is the common charge of a calcium ion in chemical compounds?",
+                "options": [
+                    "Charge: +1, Symbol: Ca +",
+                    "Charge: -2, Symbol: Ca 2-",
+                    "Charge: +2, Symbol: Ca 2+",
+                    "Charge: +3, Symbol: Ca 3+"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Calcium is a Group 2 element that loses its 2 valence electrons to achieve stability, resulting in a +2 charge (Ca2+)."
+            },
+            {
+                "id": 59,
+                "question": "What is the common charge of a zinc ion in chemical compounds?",
+                "options": [
+                    "Charge: +1, Symbol: Zn +",
+                    "Charge: +3, Symbol: Zn 3+",
+                    "Charge: +4, Symbol: Zn 4+",
+                    "Charge: +2, Symbol: Zn 2+"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Zinc consistently loses its two outermost electrons to form a stable +2 ion (Zn2+), located at index 3."
+            },
+            {
+                "id": 60,
+                "question": "What is the charge of an iron(II) (ferrous) ion?",
+                "options": [
+                    "Charge: +2, Symbol: Fe 2+",
+                    "Charge: +3, Symbol: Fe 3+",
+                    "Charge: +1, Symbol: Fe +",
+                    "Charge: +4, Symbol: Fe 4+"
+                ],
+                "correctAnswer": 0,
+                "explanation": "The Roman numeral (II) in iron(II) indicates that the metal ion has a positive charge of +2, formed by losing two electrons."
+            },
+            {
+                "id": 61,
+                "question": "What is the charge of a copper(II) (cupric) ion?",
+                "options": [
+                    "Charge: +1, Symbol: Cu +",
+                    "Charge: +3, Symbol: Cu 3+",
+                    "Charge: +2, Symbol: Cu 2+",
+                    "Charge: -2, Symbol: Cu 2-"
+                ],
+                "correctAnswer": 2,
+                "explanation": "The Roman numeral (II) in copper(II) indicates a positive charge of +2, resulting from the loss of two electrons."
+            },
+            {
+                "id": 62,
+                "question": "What is the common charge of an aluminium ion in chemical compounds?",
+                "options": [
+                    "Charge: +2, Symbol: Al 2+",
+                    "Charge: +3, Symbol: Al 3+",
+                    "Charge: +1, Symbol: Al +",
+                    "Charge: -3, Symbol: Al 3-"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Aluminium is in Group 13 and loses its 3 valence electrons to achieve stability, resulting in a net positive charge of +3 (Al3+)."
+            },
+            {
+                "id": 63,
+                "question": "What is the charge of an iron(III) (ferric) ion?",
+                "options": [
+                    "Charge: +2, Symbol: Fe 2+",
+                    "Charge: +4, Symbol: Fe 4+",
+                    "Charge: +1, Symbol: Fe +",
+                    "Charge: +3, Symbol: Fe 3+"
+                ],
+                "correctAnswer": 3,
+                "explanation": "The Roman numeral (III) in iron(III) indicates that the metal ion has a positive charge of +3, formed by losing three electrons."
+            },
+            {
+                "id": 64,
+                "question": "What is the common charge of an aluminium ion?",
+                "options": [
+                    "Charge: +3, Symbol: Al 3+",
+                    "Charge: +1, Symbol: Al +",
+                    "Charge: +2, Symbol: Al 2+",
+                    "Charge: -3, Symbol: Al 3-"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Aluminium loses its 3 valence electrons to form a stable +3 ion (Al3+), located at index 0."
+            },
+            {
+                "id": 65,
+                "question": "What is the charge of an iron(III) ion?",
+                "options": [
+                    "Charge: +2, Symbol: Fe 2+",
+                    "Charge: +1, Symbol: Fe +",
+                    "Charge: +3, Symbol: Fe 3+",
+                    "Charge: -3, Symbol: Fe 3-"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Iron(III) (ferric ion) has a charge of +3, represented as Fe3+, which is located at index 2."
+            },
+            {
+                "id": 66,
+                "question": "What is the most common positive ionic charge or valency associated with hydrogen in standard acids?",
+                "options": [
+                    "Charge: -1, Symbol: H -",
+                    "Charge: +1, Symbol: H +",
+                    "Charge: +2, Symbol: H 2+",
+                    "Charge: +3, Symbol: H 3+"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Hydrogen most commonly exhibits a valency of 1 and forms a +1 charge (H+) in acids and many covalent compounds, which is located at index 1."
+            },
+            {
+                "id": 67,
+                "question": "What is the charge of a hydride ion when hydrogen combines with active metals?",
+                "options": [
+                    "Charge: +1, Symbol: H +",
+                    "Charge: +2, Symbol: H 2+",
+                    "Charge: -2, Symbol: H 2-",
+                    "Charge: -1, Symbol: H -"
+                ],
+                "correctAnswer": 3,
+                "explanation": "When hydrogen gains an electron to form a hydride ion in metal hydrides, it acquires a -1 charge, located at index 3."
+            },
+            {
+                "id": 68,
+                "question": "What is the common charge of a chloride ion when chlorine forms an ionic compound?",
+                "options": [
+                    "Charge: -1, Symbol: Cl -",
+                    "Charge: +1, Symbol: Cl +",
+                    "Charge: -2, Symbol: Cl 2-",
+                    "Charge: +7, Symbol: Cl 7+"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Chlorine is a halogen that gains 1 electron to complete its outer shell, resulting in a -1 charge (Cl-), located at index 0."
+            },
+            {
+                "id": 69,
+                "question": "What is the common charge of a bromide ion when bromine forms an ionic compound?",
+                "options": [
+                    "Charge: +1, Symbol: Br +",
+                    "Charge: -2, Symbol: Br 2-",
+                    "Charge: -1, Symbol: Br -",
+                    "Charge: +7, Symbol: Br 7+"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Bromine is a halogen that gains 1 electron to complete its outer shell, resulting in a -1 charge (Br-), which is located at index 2."
+            },
+            {
+                "id": 70,
+                "question": "What is the common charge of an iodide ion when iodine forms an ionic compound?",
+                "options": [
+                    "Charge: -2, Symbol: I 2-",
+                    "Charge: -1, Symbol: I -",
+                    "Charge: +1, Symbol: I +",
+                    "Charge: +7, Symbol: I 7+"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Iodine is a halogen that gains 1 electron to complete its outer shell, resulting in a -1 charge (I-), which is located at index 1."
+            },
+            {
+                "id": 71,
+                "question": "What is the common charge of an oxide ion when oxygen forms an ionic compound?",
+                "options": [
+                    "Charge: -2, Symbol: O2 -",
+                    "Charge: +2, Symbol: O2 +",
+                    "Charge: -1, Symbol: O -",
+                    "Charge: -3, Symbol: O 3-"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Oxygen is in Group 16 and gains 2 electrons to complete its outer shell, resulting in a -2 charge (O2-), which is located at index 0."
+            },
+            {
+                "id": 72,
+                "question": "What is the common charge of a sulphide ion when sulfur forms an ionic compound?",
+                "options": [
+                    "Charge: +2, Symbol: S 2+",
+                    "Charge: -1, Symbol: S -",
+                    "Charge: -2, Symbol: S 2-",
+                    "Charge: +6, Symbol: S 6+"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Sulfur is in Group 16 and gains 2 electrons to complete its outer shell, resulting in a -2 charge (S2-), which is located at index 2."
+            },
+            {
+                "id": 73,
+                "question": "What is the common charge of a nitride ion when nitrogen forms an ionic compound with metals?",
+                "options": [
+                    "Charge: -1, Symbol: N -",
+                    "Charge: -2, Symbol: N 2-",
+                    "Charge: +3, Symbol: N 3+",
+                    "Charge: -3, Symbol: N 3-"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Nitrogen is in Group 15 and gains 3 electrons to complete its outer shell, resulting in a -3 charge (N3-), which is located at index 3."
+            },
+            {
+                "id": 74,
+                "question": "What is the common charge of an ammonium polyatomic ion?",
+                "options": [
+                    "Charge: -1, Symbol: NH4 -",
+                    "Charge: +1, Symbol: NH4 +",
+                    "Charge: +2, Symbol: NH4 2+",
+                    "Charge: -2, Symbol: NH4 2-"
+                ],
+                "correctAnswer": 1,
+                "explanation": "The ammonium ion (NH4+) carries a net positive charge of +1, which is located at index 1."
+            },
+            {
+                "id": 75,
+                "question": "What is the charge of the hydroxide polyatomic ion?",
+                "options": [
+                    "Charge: +1, Symbol: OH +",
+                    "Charge: -1, Symbol: OH -",
+                    "Charge: +2, Symbol: OH2 +",
+                    "Charge: -2, Symbol: OH2 -"
+                ],
+                "correctAnswer": 1,
+                "explanation": "The hydroxide ion carries a net charge of -1, which is located at index 1."
+            },
+            {
+                "id": 76,
+                "question": "What is the charge of the nitrate polyatomic ion?",
+                "options": [
+                    "Charge: -1, Symbol: NO3 -",
+                    "Charge: -2, Symbol: NO3 2-",
+                    "Charge: +1, Symbol: NO3 +",
+                    "Charge: -3, Symbol: NO3 3-"
+                ],
+                "correctAnswer": 0,
+                "explanation": "The nitrate ion consists of one nitrogen and three oxygen atoms with a net -1 charge, written as NO3-, which is located at index 0."
+            },
+            {
+                "id": 77,
+                "question": "What is the charge of the hydrogen carbonate (bicarbonate) polyatomic ion?",
+                "options": [
+                    "Charge: +1, Symbol: HCO3 +",
+                    "Charge: -2, Symbol: HCO3 2-",
+                    "Charge: +2, Symbol: HCO3 2+",
+                    "Charge: -1, Symbol: HCO3 -"
+                ],
+                "correctAnswer": 3,
+                "explanation": "The hydrogen carbonate ion carries a net charge of -1, which is located at index 3."
+            },
+            {
+                "id": 78,
+                "question": "What is the charge of the carbonate polyatomic ion?",
+                "options": [
+                    "Charge: +1, Symbol: CO3 +",
+                    "Charge: -1, Symbol: CO3 -",
+                    "Charge: -2, Symbol: CO3 2-",
+                    "Charge: +2, Symbol: CO3 2+"
+                ],
+                "correctAnswer": 2,
+                "explanation": "The carbonate ion carries a net charge of -2, which is located at index 2."
+            },
+            {
+                "id": 79,
+                "question": "What is the charge of the sulphite (sulfite) polyatomic ion?",
+                "options": [
+                    "Charge: -1, Symbol: SO3 -",
+                    "Charge: +1, Symbol: SO3 +",
+                    "Charge: -2, Symbol: SO3 2-",
+                    "Charge: +2, Symbol: SO3 2+"
+                ],
+                "correctAnswer": 2,
+                "explanation": "The sulphite ion carries a net charge of -2, which is located at index 2."
+            },
+            {
+                "id": 80,
+                "question": "What is the charge of the sulphate (sulfate) polyatomic ion?",
+                "options": [
+                    "Charge: -1, Symbol: SO4 -",
+                    "Charge: +1, Symbol: SO4 +",
+                    "Charge: +2, Symbol: SO4 2+",
+                    "Charge: -2, Symbol: SO4 2-"
+                ],
+                "correctAnswer": 3,
+                "explanation": "The sulphate ion carries a net charge of -2, which is located at index 3."
+            },
+            {
+                "id": 81,
+                "question": "What is the charge of the phosphate polyatomic ion?",
+                "options": [
+                    "Charge: -1, Symbol: PO4 -",
+                    "Charge: -2, Symbol: PO4 2-",
+                    "Charge: +3, Symbol: PO4 3+",
+                    "Charge: -3, Symbol: PO4 3-"
+                ],
+                "correctAnswer": 3,
+                "explanation": "The phosphate ion carries a net charge of -3, which is located at index 3."
+            }
+        ]
     ]
 }
