@@ -7,64 +7,255 @@
     "questions": [
         {
             "id": 1,
-            "question": "What is the characteristic taste of acidic substances?",
+            "question": "Which ancient Indian philosopher postulated that matter can be divided into extremely small, indivisible particles called 'Parmanu' around 500 BC?",
             "options": [
-                "Bitter and soapy to touch",
-                "Sweet and sugary",
-                "Sour",
-                "Salty and odorless"
+                "Maharishi Kanad",
+                "Patanjali",
+                "Aryabhata",
+                "Bhaskara II"
             ],
-            "correctAnswer": 2,
-            "explanation": "Acids are generally characterized by their sour taste. However, laboratory acids should never be tasted due to their corrosive nature."
+            "correctAnswer": 0,
+            "explanation": "Around 500 BC, the Indian philosopher Maharishi Kanad postulated the atomic theory, suggesting that matter (padarth) divided into smaller particles would eventually reach a limit where it cannot be divided further, naming these particles 'Parmanu'."
         },
         {
             "id": 2,
-            "question": "What are the characteristic taste and physical feel of basic substances?",
+            "question": "Which ancient Greek philosopher named the ultimate, indivisible particles of matter 'atoms' (derived from 'atomos')?",
             "options": [
-                "Sweet and sticky to touch",
-                "Sour and dry to touch",
-                "Salty and smooth",
-                "Bitter and soapy to touch"
+                "Democritus",
+                "Aristotle",
+                "Plato",
+                "Socrates"
             ],
-            "correctAnswer": 3,
-            "explanation": "Bases are known for their bitter taste and a slippery, soapy feel to the touch. Strong bases are also corrosive."
+            "correctAnswer": 0,
+            "explanation": "Building on similar philosophical ideas, the Greek philosopher Democritus named these indivisible building blocks of matter 'atoms' (from the Greek word 'atomos', meaning indivisible)."
         },
         {
             "id": 3,
-            "question": "If a person is suffering from indigestion due to excess stomach acid, which of the following household substances can be given as an antacid to neutralize it?",
+            "question": "Which two ancient Greek philosophers are credited with suggesting that matter can be divided until an ultimate, indivisible particle called an 'atom' is reached?",
             "options": [
-                "Lemon juice containing citric acid",
-                "Vinegar containing acetic acid",
-                "Dilute hydrochloric acid solution",
-                "Baking soda solution acting as a mild base"
-            ],
-            "correctAnswer": 3,
-            "explanation": "Stomach acidity is caused by excess hydrochloric acid. Baking soda is a basic substance (an antacid) that chemically neutralizes the excess acid, whereas lemon juice and vinegar are acidic and would increase discomfort."
-        },
-        {
-            "id": 4,
-            "question": "What color change is observed when a drop of a dilute acid is placed on blue litmus paper?",
-            "options": [
-                "It turns green",
-                "It turns red",
-                "It turns yellow",
-                "It remains completely blue without any change"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Acids are characterized by their ability to turn blue litmus paper red, while bases turn red litmus paper blue."
-        },
-        {
-            "id": 4,
-            "question": "What color change is observed when a drop of a basic solution is placed on red litmus paper?",
-            "options": [
-                "It turns blue",
-                "It turns bright yellow",
-                "It turns pinkish-orange",
-                "It remains completely red with no change"
+                "Democritus and Leucippus",
+                "Socrates and Plato",
+                "Aristotle and Pythagoras",
+                "Epicurus and Zeno"
             ],
             "correctAnswer": 0,
-            "explanation": "Bases are characterized by their ability to turn red litmus paper blue, whereas acids turn blue litmus paper red."
+            "explanation": "Democritus and his mentor Leucippus were the ancient Greek philosophers who proposed that matter is made up of tiny, indivisible particles called atoms (atomos)."
+        },
+        {
+            "id": 4,
+            "question": "Which scientist is credited with formulating the Law of Constant Proportions?",
+            "options": [
+                "Antoine L. Lavoisier",
+                "Joseph L. Proust",
+                "John Dalton",
+                "Amedeo Avogadro"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Joseph Proust formulated the Law of Constant Proportions, stating that a chemical compound always contains exactly the same elements combined in the same proportions by mass."
+        },
+        {
+            "id": 5,
+            "question": "Which of the following correctly pairs the scientist with the law they formulated?",
+            "options": [
+                "Antoine Lavoisier - Law of Constant Proportions",
+                "Joseph Proust - Law of Conservation of Mass",
+                "Antoine Lavoisier - Law of Conservation of Mass",
+                "Joseph Proust - Law of Multiple Proportions"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Antoine Lavoisier formulated the Law of Conservation of Mass, whereas Joseph Proust formulated the Law of Constant Proportions."
+        },
+        {
+            "id": 6,
+            "question": "Which of the following two laws form the foundational Laws of Chemical Combination discussed in early chemistry?",
+            "options": [
+                "Law of Conservation of Mass and Law of Constant Proportions",
+                "Law of Definite Energy and Law of Multiple Proportions",
+                "Boyle's Law and Charles's Law",
+                "Law of Conservation of Energy and Law of Gravitation"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The two principal laws of chemical combination that laid the groundwork for atomic theory are the Law of Conservation of Mass (Lavoisier) and the Law of Constant Proportions (Proust)."
+        },
+        {
+            "id": 7,
+            "question": "Which of the following best illustrates the Law of Constant Proportions for a sample of pure water (H2O)?",
+            "options": [
+                "The mass ratio of hydrogen to oxygen in water changes depending on whether it is river water or rainwater",
+                "Hydrogen and oxygen are always combined in a fixed mass ratio of 1:8 by mass, regardless of the water's source",
+                "Water can have any random proportion of hydrogen and oxygen depending on how it was heated",
+                "The elements in water combine in a fixed volume ratio of 1:1 regardless of their masses"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to the Law of Constant Proportions, a chemical compound like water always contains the same elements in the same fixed proportion by mass (1 part hydrogen to 8 parts oxygen), no matter where the sample is obtained."
+        },
+        {
+            "id": 8,
+            "question": "According to the Law of Constant Proportions, what is the fixed mass ratio of nitrogen to hydrogen in a pure sample of ammonia (NH3)?",
+            "options": [
+                "1 : 8",
+                "14 : 3",
+                "3 : 14",
+                "8 : 1"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In ammonia (NH3), one nitrogen atom (mass 14 u) combines with three hydrogen atoms (mass 3 × 1 = 3 u), giving a fixed mass ratio of nitrogen to hydrogen of 14:3."
+        },
+        {
+            "id": 9,
+            "question": "How did Joseph Proust formally state the Law of Definite Proportions?",
+            "options": [
+                "Mass can neither be created nor destroyed during a physical change.",
+                "In a chemical substance, the elements are always present in definite proportions by mass.",
+                "Gases combine in simple whole-number volume ratios under similar conditions of temperature and pressure.",
+                "Energy is directly proportional to mass in any isolated chemical system."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Joseph Proust stated that in a chemical substance, the elements are always present in definite proportions by mass, meaning the composition of a pure compound is independent of its source or method of preparation."
+        },
+        {
+            "id": 10,
+            "question": "Whose atomic theory provided the theoretical foundation and explanation for the Law of Conservation of Mass and the Law of Constant Proportions?",
+            "options": [
+                "J.J. Thomson's atomic model",
+                "Ernest Rutherford's nuclear model",
+                "John Dalton's atomic theory",
+                "Niels Bohr's planetary model"
+            ],
+            "correctAnswer": 2,
+            "explanation": "John Dalton's atomic theory (1808) used the concept of indestructible and indivisible atoms to successfully explain both the Law of Conservation of Mass and the Law of Constant Proportions."
+        },
+        {
+            "id": 11,
+            "question": "In which year was John Dalton, the scientist who proposed the modern atomic theory, born?",
+            "options": [
+                "1743",
+                "1766",
+                "1799",
+                "1811"
+            ],
+            "correctAnswer": 1,
+            "explanation": "John Dalton was born on September 6, 1766, in England, and later published his groundbreaking atomic theory in 1808."
+        },
+        {
+            "id": 12,
+            "question": "In which place was John Dalton born?",
+            "options": [
+                "London, England",
+                "Paris, France",
+                "Eaglesfield, Cumberland, England",
+                "Geneva, Switzerland"
+            ],
+            "correctAnswer": 2,
+            "explanation": "John Dalton was born on September 6, 1766, in Eaglesfield, Cumberland, England."
+        },
+        {
+            "id": 13,
+            "question": "At what age did John Dalton begin his career as a teacher?",
+            "options": [
+                "18 years old",
+                "12 years old",
+                "21 years old",
+                "15 years old"
+            ],
+            "correctAnswer": 1,
+            "explanation": "John Dalton showed an early aptitude for learning and began teaching younger students at his local village school at the young age of 12."
+        },
+        {
+            "id": 14,
+            "question": "At what age did John Dalton become a school principal/head of a school in Kendal?",
+            "options": [
+                "12 years old",
+                "15 years old",
+                "25 years old",
+                "19 years old"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Having started teaching very early in life, John Dalton took on the role of running a school in Kendal alongside his brother when he reached the age of 19."
+        },
+        {
+            "id": 15,
+            "question": "At which institution did John Dalton serve as a teacher of mathematics and natural philosophy starting in 1793?",
+            "options": [
+                "Oxford University",
+                "New College, Manchester",
+                "Cambridge University",
+                "The Royal Society of London"
+            ],
+            "correctAnswer": 1,
+            "explanation": "John Dalton moved to Manchester in 1793 to teach mathematics and natural philosophy (encompassing physics and chemistry) at New College."
+        },
+        {
+            "id": 16,
+            "question": "Which of the following is NOT one of the core postulates of John Dalton's atomic theory?",
+            "options": [
+                "Atoms of different elements have different masses and chemical properties.",
+                "Compounds are formed when atoms combine in fixed ratios of small whole numbers.",
+                "Atoms can be broken down further into subatomic particles like protons, neutrons, and electrons during a chemical reaction.",
+                "Atoms are indivisible particles that cannot be created or destroyed in a chemical reaction."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Dalton's original atomic theory regarded atoms as completely indivisible and indestructible. The discovery of subatomic particles (protons, neutrons, and electrons) later proved that atoms can indeed be subdivided, which was a limitation of Dalton's original theory."
+        },
+        {
+            "id": 17,
+            "question": "Which of the following is NOT one of the core postulates of John Dalton's atomic theory?",
+            "options": [
+                "Atoms of different elements have different masses and chemical properties.",
+                "Compounds are formed when atoms combine in fixed ratios of small whole numbers.",
+                "Atoms can be broken down further into subatomic particles like protons, neutrons, and electrons during a chemical reaction.",
+                "Atoms are indivisible particles that cannot be created or destroyed in a chemical reaction."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Dalton's original atomic theory regarded atoms as completely indivisible and indestructible. The discovery of subatomic particles (protons, neutrons, and electrons) later proved that atoms can indeed be subdivided, which was a limitation of Dalton's original theory."
+        },
+        {
+            "id": 18,
+            "question": "What is the chemical formula of acetic acid, which gives vinegar its characteristic sour taste and pungent smell?",
+            "options": [
+                "HCl",
+                "H2SO4",
+                "NaOH",
+                "CH3COOH"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Acetic acid has the chemical formula CH3COOH (ethanoic acid) and is the primary active ingredient in vinegar besides water."
+        },
+        {
+            "id": 19,
+            "question": "What is the common trivial name for ethanoic acid (CH3COOH)?",
+            "options": [
+                "Formic acid",
+                "Citric acid",
+                "Acetic acid",
+                "Lactic acid"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Ethanoic acid is the IUPAC name, while its widely used common name is acetic acid, which forms the basis of household vinegar."
+        },
+        {
+            "id": 20,
+            "question": "What is the correct chemical formula for sodium acetate?",
+            "options": [
+                "CH3-COO-CH3",
+                "CH3-COO-NH4",
+                "CH3-COO-Na",
+                "Na2CO3"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Sodium acetate is formed by replacing the hydrogen atom in the carboxyl group of acetic acid (CH3COOH) with a sodium ion, resulting in the chemical formula CH3COONa."
+        },
+        {
+            "id": 21,
+            "question": "Which of the following correctly represents the chemical formula and charge of the acetate ion?",
+            "options": [
+                "CH3COO2-",
+                "CH2COO-",
+                "CH3COOCH3",
+                "CH3COO-"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The acetate ion has the chemical formula CH3COO- with a single negative charge, formed when acetic acid loses its acidic proton (H+)."
         }
-        
     ]
 }
