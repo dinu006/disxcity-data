@@ -629,355 +629,353 @@
             "correctAnswer": 2,
             "explanation": "The math is identical for both, but we use molecular mass for discrete molecules and formula unit mass for ionic compounds that exist in giant crystal structures."
         },
-        
-            {
-                "id": 53,
-                "question": "What is the charge of a sodium ion when it forms a cation?",
-                "options": [
-                    "Charge: -1, Symbol: Na-",
-                    "Charge: +1, Symbol: Na+",
-                    "Charge: +2, Symbol: Na2+",
-                    "Charge: -2, Symbol: Na2-"
-                ],
-                "correctAnswer": 1,
-                "explanation": "Sodium loses its single valence electron to achieve stability, resulting in 11 protons and 10 electrons, which gives it a net charge of +1 (Na+)."
-            },
-            {
-                "id": 54,
-                "question": "What is the charge of a potassium ion when it forms a cation?",
-                "options": [
-                    "Charge: -1, Symbol: K-",
-                    "Charge: +1, Symbol: K+",
-                    "Charge: +2, Symbol: K2+",
-                    "Charge: 0, Symbol: K"
-                ],
-                "correctAnswer": 1,
-                "explanation": "Potassium is in Group 1 and loses its single valence electron to achieve stability, leaving it with a net positive charge of +1 (K+)."
-            },
-            {
-                "id": 55,
-                "question": "What is the common charge of a silver ion in its compounds?",
-                "options": [
-                    "Charge: -1, Symbol: Ag-",
-                    "Charge: +1, Symbol: Ag+",
-                    "Charge: +2, Symbol: Ag2+",
-                    "Charge: +3, Symbol: Ag3+"
-                ],
-                "correctAnswer": 1,
-                "explanation": "Silver most commonly loses one electron to form a stable +1 ion (Ag+), such as in silver chloride (AgCl)."
-            },
-            {
-                "id": 56,
-                "question": "What is the charge of a copper(I) (cuprous) ion?",
-                "options": [
-                    "Charge: +2, Symbol: Cu 2+",
-                    "Charge: -1, Symbol: Cu -",
-                    "Charge: +3, Symbol: Cu 3+",
-                    "Charge: +1, Symbol: Cu +"
-                ],
-                "correctAnswer": 3,
-                "explanation": "The Roman numeral (I) in copper(I) indicates that the ion has a positive charge of +1, formed by losing one electron."
-            },
-            {
-                "id": 57,
-                "question": "What is the common charge of a magnesium ion?",
-                "options": [
-                    "Charge: +2, Symbol: Mg 2+",
-                    "Charge: +1, Symbol: Mg +",
-                    "Charge: -2, Symbol: Mg 2-",
-                    "Charge: +3, Symbol: Mg 3+"
-                ],
-                "correctAnswer": 0,
-                "explanation": "Magnesium is in Group 2 and loses its 2 valence electrons to achieve stability, resulting in a net positive charge of +2 (Mg2+)."
-            },
-            {
-                "id": 58,
-                "question": "What is the common charge of a calcium ion in chemical compounds?",
-                "options": [
-                    "Charge: +1, Symbol: Ca +",
-                    "Charge: -2, Symbol: Ca 2-",
-                    "Charge: +2, Symbol: Ca 2+",
-                    "Charge: +3, Symbol: Ca 3+"
-                ],
-                "correctAnswer": 2,
-                "explanation": "Calcium is a Group 2 element that loses its 2 valence electrons to achieve stability, resulting in a +2 charge (Ca2+)."
-            },
-            {
-                "id": 59,
-                "question": "What is the common charge of a zinc ion in chemical compounds?",
-                "options": [
-                    "Charge: +1, Symbol: Zn +",
-                    "Charge: +3, Symbol: Zn 3+",
-                    "Charge: +4, Symbol: Zn 4+",
-                    "Charge: +2, Symbol: Zn 2+"
-                ],
-                "correctAnswer": 3,
-                "explanation": "Zinc consistently loses its two outermost electrons to form a stable +2 ion (Zn2+), located at index 3."
-            },
-            {
-                "id": 60,
-                "question": "What is the charge of an iron(II) (ferrous) ion?",
-                "options": [
-                    "Charge: +2, Symbol: Fe 2+",
-                    "Charge: +3, Symbol: Fe 3+",
-                    "Charge: +1, Symbol: Fe +",
-                    "Charge: +4, Symbol: Fe 4+"
-                ],
-                "correctAnswer": 0,
-                "explanation": "The Roman numeral (II) in iron(II) indicates that the metal ion has a positive charge of +2, formed by losing two electrons."
-            },
-            {
-                "id": 61,
-                "question": "What is the charge of a copper(II) (cupric) ion?",
-                "options": [
-                    "Charge: +1, Symbol: Cu +",
-                    "Charge: +3, Symbol: Cu 3+",
-                    "Charge: +2, Symbol: Cu 2+",
-                    "Charge: -2, Symbol: Cu 2-"
-                ],
-                "correctAnswer": 2,
-                "explanation": "The Roman numeral (II) in copper(II) indicates a positive charge of +2, resulting from the loss of two electrons."
-            },
-            {
-                "id": 62,
-                "question": "What is the common charge of an aluminium ion in chemical compounds?",
-                "options": [
-                    "Charge: +2, Symbol: Al 2+",
-                    "Charge: +3, Symbol: Al 3+",
-                    "Charge: +1, Symbol: Al +",
-                    "Charge: -3, Symbol: Al 3-"
-                ],
-                "correctAnswer": 1,
-                "explanation": "Aluminium is in Group 13 and loses its 3 valence electrons to achieve stability, resulting in a net positive charge of +3 (Al3+)."
-            },
-            {
-                "id": 63,
-                "question": "What is the charge of an iron(III) (ferric) ion?",
-                "options": [
-                    "Charge: +2, Symbol: Fe 2+",
-                    "Charge: +4, Symbol: Fe 4+",
-                    "Charge: +1, Symbol: Fe +",
-                    "Charge: +3, Symbol: Fe 3+"
-                ],
-                "correctAnswer": 3,
-                "explanation": "The Roman numeral (III) in iron(III) indicates that the metal ion has a positive charge of +3, formed by losing three electrons."
-            },
-            {
-                "id": 64,
-                "question": "What is the common charge of an aluminium ion?",
-                "options": [
-                    "Charge: +3, Symbol: Al 3+",
-                    "Charge: +1, Symbol: Al +",
-                    "Charge: +2, Symbol: Al 2+",
-                    "Charge: -3, Symbol: Al 3-"
-                ],
-                "correctAnswer": 0,
-                "explanation": "Aluminium loses its 3 valence electrons to form a stable +3 ion (Al3+), located at index 0."
-            },
-            {
-                "id": 65,
-                "question": "What is the charge of an iron(III) ion?",
-                "options": [
-                    "Charge: +2, Symbol: Fe 2+",
-                    "Charge: +1, Symbol: Fe +",
-                    "Charge: +3, Symbol: Fe 3+",
-                    "Charge: -3, Symbol: Fe 3-"
-                ],
-                "correctAnswer": 2,
-                "explanation": "Iron(III) (ferric ion) has a charge of +3, represented as Fe3+, which is located at index 2."
-            },
-            {
-                "id": 66,
-                "question": "What is the most common positive ionic charge or valency associated with hydrogen in standard acids?",
-                "options": [
-                    "Charge: -1, Symbol: H -",
-                    "Charge: +1, Symbol: H +",
-                    "Charge: +2, Symbol: H 2+",
-                    "Charge: +3, Symbol: H 3+"
-                ],
-                "correctAnswer": 1,
-                "explanation": "Hydrogen most commonly exhibits a valency of 1 and forms a +1 charge (H+) in acids and many covalent compounds, which is located at index 1."
-            },
-            {
-                "id": 67,
-                "question": "What is the charge of a hydride ion when hydrogen combines with active metals?",
-                "options": [
-                    "Charge: +1, Symbol: H +",
-                    "Charge: +2, Symbol: H 2+",
-                    "Charge: -2, Symbol: H 2-",
-                    "Charge: -1, Symbol: H -"
-                ],
-                "correctAnswer": 3,
-                "explanation": "When hydrogen gains an electron to form a hydride ion in metal hydrides, it acquires a -1 charge, located at index 3."
-            },
-            {
-                "id": 68,
-                "question": "What is the common charge of a chloride ion when chlorine forms an ionic compound?",
-                "options": [
-                    "Charge: -1, Symbol: Cl -",
-                    "Charge: +1, Symbol: Cl +",
-                    "Charge: -2, Symbol: Cl 2-",
-                    "Charge: +7, Symbol: Cl 7+"
-                ],
-                "correctAnswer": 0,
-                "explanation": "Chlorine is a halogen that gains 1 electron to complete its outer shell, resulting in a -1 charge (Cl-), located at index 0."
-            },
-            {
-                "id": 69,
-                "question": "What is the common charge of a bromide ion when bromine forms an ionic compound?",
-                "options": [
-                    "Charge: +1, Symbol: Br +",
-                    "Charge: -2, Symbol: Br 2-",
-                    "Charge: -1, Symbol: Br -",
-                    "Charge: +7, Symbol: Br 7+"
-                ],
-                "correctAnswer": 2,
-                "explanation": "Bromine is a halogen that gains 1 electron to complete its outer shell, resulting in a -1 charge (Br-), which is located at index 2."
-            },
-            {
-                "id": 70,
-                "question": "What is the common charge of an iodide ion when iodine forms an ionic compound?",
-                "options": [
-                    "Charge: -2, Symbol: I 2-",
-                    "Charge: -1, Symbol: I -",
-                    "Charge: +1, Symbol: I +",
-                    "Charge: +7, Symbol: I 7+"
-                ],
-                "correctAnswer": 1,
-                "explanation": "Iodine is a halogen that gains 1 electron to complete its outer shell, resulting in a -1 charge (I-), which is located at index 1."
-            },
-            {
-                "id": 71,
-                "question": "What is the common charge of an oxide ion when oxygen forms an ionic compound?",
-                "options": [
-                    "Charge: -2, Symbol: O2 -",
-                    "Charge: +2, Symbol: O2 +",
-                    "Charge: -1, Symbol: O -",
-                    "Charge: -3, Symbol: O 3-"
-                ],
-                "correctAnswer": 0,
-                "explanation": "Oxygen is in Group 16 and gains 2 electrons to complete its outer shell, resulting in a -2 charge (O2-), which is located at index 0."
-            },
-            {
-                "id": 72,
-                "question": "What is the common charge of a sulphide ion when sulfur forms an ionic compound?",
-                "options": [
-                    "Charge: +2, Symbol: S 2+",
-                    "Charge: -1, Symbol: S -",
-                    "Charge: -2, Symbol: S 2-",
-                    "Charge: +6, Symbol: S 6+"
-                ],
-                "correctAnswer": 2,
-                "explanation": "Sulfur is in Group 16 and gains 2 electrons to complete its outer shell, resulting in a -2 charge (S2-), which is located at index 2."
-            },
-            {
-                "id": 73,
-                "question": "What is the common charge of a nitride ion when nitrogen forms an ionic compound with metals?",
-                "options": [
-                    "Charge: -1, Symbol: N -",
-                    "Charge: -2, Symbol: N 2-",
-                    "Charge: +3, Symbol: N 3+",
-                    "Charge: -3, Symbol: N 3-"
-                ],
-                "correctAnswer": 3,
-                "explanation": "Nitrogen is in Group 15 and gains 3 electrons to complete its outer shell, resulting in a -3 charge (N3-), which is located at index 3."
-            },
-            {
-                "id": 74,
-                "question": "What is the common charge of an ammonium polyatomic ion?",
-                "options": [
-                    "Charge: -1, Symbol: NH4 -",
-                    "Charge: +1, Symbol: NH4 +",
-                    "Charge: +2, Symbol: NH4 2+",
-                    "Charge: -2, Symbol: NH4 2-"
-                ],
-                "correctAnswer": 1,
-                "explanation": "The ammonium ion (NH4+) carries a net positive charge of +1, which is located at index 1."
-            },
-            {
-                "id": 75,
-                "question": "What is the charge of the hydroxide polyatomic ion?",
-                "options": [
-                    "Charge: +1, Symbol: OH +",
-                    "Charge: -1, Symbol: OH -",
-                    "Charge: +2, Symbol: OH2 +",
-                    "Charge: -2, Symbol: OH2 -"
-                ],
-                "correctAnswer": 1,
-                "explanation": "The hydroxide ion carries a net charge of -1, which is located at index 1."
-            },
-            {
-                "id": 76,
-                "question": "What is the charge of the nitrate polyatomic ion?",
-                "options": [
-                    "Charge: -1, Symbol: NO3 -",
-                    "Charge: -2, Symbol: NO3 2-",
-                    "Charge: +1, Symbol: NO3 +",
-                    "Charge: -3, Symbol: NO3 3-"
-                ],
-                "correctAnswer": 0,
-                "explanation": "The nitrate ion consists of one nitrogen and three oxygen atoms with a net -1 charge, written as NO3-, which is located at index 0."
-            },
-            {
-                "id": 77,
-                "question": "What is the charge of the hydrogen carbonate (bicarbonate) polyatomic ion?",
-                "options": [
-                    "Charge: +1, Symbol: HCO3 +",
-                    "Charge: -2, Symbol: HCO3 2-",
-                    "Charge: +2, Symbol: HCO3 2+",
-                    "Charge: -1, Symbol: HCO3 -"
-                ],
-                "correctAnswer": 3,
-                "explanation": "The hydrogen carbonate ion carries a net charge of -1, which is located at index 3."
-            },
-            {
-                "id": 78,
-                "question": "What is the charge of the carbonate polyatomic ion?",
-                "options": [
-                    "Charge: +1, Symbol: CO3 +",
-                    "Charge: -1, Symbol: CO3 -",
-                    "Charge: -2, Symbol: CO3 2-",
-                    "Charge: +2, Symbol: CO3 2+"
-                ],
-                "correctAnswer": 2,
-                "explanation": "The carbonate ion carries a net charge of -2, which is located at index 2."
-            },
-            {
-                "id": 79,
-                "question": "What is the charge of the sulphite (sulfite) polyatomic ion?",
-                "options": [
-                    "Charge: -1, Symbol: SO3 -",
-                    "Charge: +1, Symbol: SO3 +",
-                    "Charge: -2, Symbol: SO3 2-",
-                    "Charge: +2, Symbol: SO3 2+"
-                ],
-                "correctAnswer": 2,
-                "explanation": "The sulphite ion carries a net charge of -2, which is located at index 2."
-            },
-            {
-                "id": 80,
-                "question": "What is the charge of the sulphate (sulfate) polyatomic ion?",
-                "options": [
-                    "Charge: -1, Symbol: SO4 -",
-                    "Charge: +1, Symbol: SO4 +",
-                    "Charge: +2, Symbol: SO4 2+",
-                    "Charge: -2, Symbol: SO4 2-"
-                ],
-                "correctAnswer": 3,
-                "explanation": "The sulphate ion carries a net charge of -2, which is located at index 3."
-            },
-            {
-                "id": 81,
-                "question": "What is the charge of the phosphate polyatomic ion?",
-                "options": [
-                    "Charge: -1, Symbol: PO4 -",
-                    "Charge: -2, Symbol: PO4 2-",
-                    "Charge: +3, Symbol: PO4 3+",
-                    "Charge: -3, Symbol: PO4 3-"
-                ],
-                "correctAnswer": 3,
-                "explanation": "The phosphate ion carries a net charge of -3, which is located at index 3."
-            }
-        
+        {
+            "id": 53,
+            "question": "What is the charge of a sodium ion when it forms a cation?",
+            "options": [
+                "Charge: -1, Symbol: Na-",
+                "Charge: +1, Symbol: Na+",
+                "Charge: +2, Symbol: Na2+",
+                "Charge: -2, Symbol: Na2-"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sodium loses its single valence electron to achieve stability, resulting in 11 protons and 10 electrons, which gives it a net charge of +1 (Na+)."
+        },
+        {
+            "id": 54,
+            "question": "What is the charge of a potassium ion when it forms a cation?",
+            "options": [
+                "Charge: -1, Symbol: K-",
+                "Charge: +1, Symbol: K+",
+                "Charge: +2, Symbol: K2+",
+                "Charge: 0, Symbol: K"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Potassium is in Group 1 and loses its single valence electron to achieve stability, leaving it with a net positive charge of +1 (K+)."
+        },
+        {
+            "id": 55,
+            "question": "What is the common charge of a silver ion in its compounds?",
+            "options": [
+                "Charge: -1, Symbol: Ag-",
+                "Charge: +1, Symbol: Ag+",
+                "Charge: +2, Symbol: Ag2+",
+                "Charge: +3, Symbol: Ag3+"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Silver most commonly loses one electron to form a stable +1 ion (Ag+), such as in silver chloride (AgCl)."
+        },
+        {
+            "id": 56,
+            "question": "What is the charge of a copper(I) (cuprous) ion?",
+            "options": [
+                "Charge: +2, Symbol: Cu 2+",
+                "Charge: -1, Symbol: Cu -",
+                "Charge: +3, Symbol: Cu 3+",
+                "Charge: +1, Symbol: Cu +"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The Roman numeral (I) in copper(I) indicates that the ion has a positive charge of +1, formed by losing one electron."
+        },
+        {
+            "id": 57,
+            "question": "What is the common charge of a magnesium ion?",
+            "options": [
+                "Charge: +2, Symbol: Mg 2+",
+                "Charge: +1, Symbol: Mg +",
+                "Charge: -2, Symbol: Mg 2-",
+                "Charge: +3, Symbol: Mg 3+"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Magnesium is in Group 2 and loses its 2 valence electrons to achieve stability, resulting in a net positive charge of +2 (Mg2+)."
+        },
+        {
+            "id": 58,
+            "question": "What is the common charge of a calcium ion in chemical compounds?",
+            "options": [
+                "Charge: +1, Symbol: Ca +",
+                "Charge: -2, Symbol: Ca 2-",
+                "Charge: +2, Symbol: Ca 2+",
+                "Charge: +3, Symbol: Ca 3+"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Calcium is a Group 2 element that loses its 2 valence electrons to achieve stability, resulting in a +2 charge (Ca2+)."
+        },
+        {
+            "id": 59,
+            "question": "What is the common charge of a zinc ion in chemical compounds?",
+            "options": [
+                "Charge: +1, Symbol: Zn +",
+                "Charge: +3, Symbol: Zn 3+",
+                "Charge: +4, Symbol: Zn 4+",
+                "Charge: +2, Symbol: Zn 2+"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Zinc consistently loses its two outermost electrons to form a stable +2 ion (Zn2+), located at index 3."
+        },
+        {
+            "id": 60,
+            "question": "What is the charge of an iron(II) (ferrous) ion?",
+            "options": [
+                "Charge: +2, Symbol: Fe 2+",
+                "Charge: +3, Symbol: Fe 3+",
+                "Charge: +1, Symbol: Fe +",
+                "Charge: +4, Symbol: Fe 4+"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Roman numeral (II) in iron(II) indicates that the metal ion has a positive charge of +2, formed by losing two electrons."
+        },
+        {
+            "id": 61,
+            "question": "What is the charge of a copper(II) (cupric) ion?",
+            "options": [
+                "Charge: +1, Symbol: Cu +",
+                "Charge: +3, Symbol: Cu 3+",
+                "Charge: +2, Symbol: Cu 2+",
+                "Charge: -2, Symbol: Cu 2-"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The Roman numeral (II) in copper(II) indicates a positive charge of +2, resulting from the loss of two electrons."
+        },
+        {
+            "id": 62,
+            "question": "What is the common charge of an aluminium ion in chemical compounds?",
+            "options": [
+                "Charge: +2, Symbol: Al 2+",
+                "Charge: +3, Symbol: Al 3+",
+                "Charge: +1, Symbol: Al +",
+                "Charge: -3, Symbol: Al 3-"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Aluminium is in Group 13 and loses its 3 valence electrons to achieve stability, resulting in a net positive charge of +3 (Al3+)."
+        },
+        {
+            "id": 63,
+            "question": "What is the charge of an iron(III) (ferric) ion?",
+            "options": [
+                "Charge: +2, Symbol: Fe 2+",
+                "Charge: +4, Symbol: Fe 4+",
+                "Charge: +1, Symbol: Fe +",
+                "Charge: +3, Symbol: Fe 3+"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The Roman numeral (III) in iron(III) indicates that the metal ion has a positive charge of +3, formed by losing three electrons."
+        },
+        {
+            "id": 64,
+            "question": "What is the common charge of an aluminium ion?",
+            "options": [
+                "Charge: +3, Symbol: Al 3+",
+                "Charge: +1, Symbol: Al +",
+                "Charge: +2, Symbol: Al 2+",
+                "Charge: -3, Symbol: Al 3-"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Aluminium loses its 3 valence electrons to form a stable +3 ion (Al3+), located at index 0."
+        },
+        {
+            "id": 65,
+            "question": "What is the charge of an iron(III) ion?",
+            "options": [
+                "Charge: +2, Symbol: Fe 2+",
+                "Charge: +1, Symbol: Fe +",
+                "Charge: +3, Symbol: Fe 3+",
+                "Charge: -3, Symbol: Fe 3-"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Iron(III) (ferric ion) has a charge of +3, represented as Fe3+, which is located at index 2."
+        },
+        {
+            "id": 66,
+            "question": "What is the most common positive ionic charge or valency associated with hydrogen in standard acids?",
+            "options": [
+                "Charge: -1, Symbol: H -",
+                "Charge: +1, Symbol: H +",
+                "Charge: +2, Symbol: H 2+",
+                "Charge: +3, Symbol: H 3+"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hydrogen most commonly exhibits a valency of 1 and forms a +1 charge (H+) in acids and many covalent compounds, which is located at index 1."
+        },
+        {
+            "id": 67,
+            "question": "What is the charge of a hydride ion when hydrogen combines with active metals?",
+            "options": [
+                "Charge: +1, Symbol: H +",
+                "Charge: +2, Symbol: H 2+",
+                "Charge: -2, Symbol: H 2-",
+                "Charge: -1, Symbol: H -"
+            ],
+            "correctAnswer": 3,
+            "explanation": "When hydrogen gains an electron to form a hydride ion in metal hydrides, it acquires a -1 charge, located at index 3."
+        },
+        {
+            "id": 68,
+            "question": "What is the common charge of a chloride ion when chlorine forms an ionic compound?",
+            "options": [
+                "Charge: -1, Symbol: Cl -",
+                "Charge: +1, Symbol: Cl +",
+                "Charge: -2, Symbol: Cl 2-",
+                "Charge: +7, Symbol: Cl 7+"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Chlorine is a halogen that gains 1 electron to complete its outer shell, resulting in a -1 charge (Cl-), located at index 0."
+        },
+        {
+            "id": 69,
+            "question": "What is the common charge of a bromide ion when bromine forms an ionic compound?",
+            "options": [
+                "Charge: +1, Symbol: Br +",
+                "Charge: -2, Symbol: Br 2-",
+                "Charge: -1, Symbol: Br -",
+                "Charge: +7, Symbol: Br 7+"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Bromine is a halogen that gains 1 electron to complete its outer shell, resulting in a -1 charge (Br-), which is located at index 2."
+        },
+        {
+            "id": 70,
+            "question": "What is the common charge of an iodide ion when iodine forms an ionic compound?",
+            "options": [
+                "Charge: -2, Symbol: I 2-",
+                "Charge: -1, Symbol: I -",
+                "Charge: +1, Symbol: I +",
+                "Charge: +7, Symbol: I 7+"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Iodine is a halogen that gains 1 electron to complete its outer shell, resulting in a -1 charge (I-), which is located at index 1."
+        },
+        {
+            "id": 71,
+            "question": "What is the common charge of an oxide ion when oxygen forms an ionic compound?",
+            "options": [
+                "Charge: -2, Symbol: O2 -",
+                "Charge: +2, Symbol: O2 +",
+                "Charge: -1, Symbol: O -",
+                "Charge: -3, Symbol: O 3-"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Oxygen is in Group 16 and gains 2 electrons to complete its outer shell, resulting in a -2 charge (O2-), which is located at index 0."
+        },
+        {
+            "id": 72,
+            "question": "What is the common charge of a sulphide ion when sulfur forms an ionic compound?",
+            "options": [
+                "Charge: +2, Symbol: S 2+",
+                "Charge: -1, Symbol: S -",
+                "Charge: -2, Symbol: S 2-",
+                "Charge: +6, Symbol: S 6+"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Sulfur is in Group 16 and gains 2 electrons to complete its outer shell, resulting in a -2 charge (S2-), which is located at index 2."
+        },
+        {
+            "id": 73,
+            "question": "What is the common charge of a nitride ion when nitrogen forms an ionic compound with metals?",
+            "options": [
+                "Charge: -1, Symbol: N -",
+                "Charge: -2, Symbol: N 2-",
+                "Charge: +3, Symbol: N 3+",
+                "Charge: -3, Symbol: N 3-"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Nitrogen is in Group 15 and gains 3 electrons to complete its outer shell, resulting in a -3 charge (N3-), which is located at index 3."
+        },
+        {
+            "id": 74,
+            "question": "What is the common charge of an ammonium polyatomic ion?",
+            "options": [
+                "Charge: -1, Symbol: NH4 -",
+                "Charge: +1, Symbol: NH4 +",
+                "Charge: +2, Symbol: NH4 2+",
+                "Charge: -2, Symbol: NH4 2-"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The ammonium ion (NH4+) carries a net positive charge of +1, which is located at index 1."
+        },
+        {
+            "id": 75,
+            "question": "What is the charge of the hydroxide polyatomic ion?",
+            "options": [
+                "Charge: +1, Symbol: OH +",
+                "Charge: -1, Symbol: OH -",
+                "Charge: +2, Symbol: OH2 +",
+                "Charge: -2, Symbol: OH2 -"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The hydroxide ion carries a net charge of -1, which is located at index 1."
+        },
+        {
+            "id": 76,
+            "question": "What is the charge of the nitrate polyatomic ion?",
+            "options": [
+                "Charge: -1, Symbol: NO3 -",
+                "Charge: -2, Symbol: NO3 2-",
+                "Charge: +1, Symbol: NO3 +",
+                "Charge: -3, Symbol: NO3 3-"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The nitrate ion consists of one nitrogen and three oxygen atoms with a net -1 charge, written as NO3-, which is located at index 0."
+        },
+        {
+            "id": 77,
+            "question": "What is the charge of the hydrogen carbonate (bicarbonate) polyatomic ion?",
+            "options": [
+                "Charge: +1, Symbol: HCO3 +",
+                "Charge: -2, Symbol: HCO3 2-",
+                "Charge: +2, Symbol: HCO3 2+",
+                "Charge: -1, Symbol: HCO3 -"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The hydrogen carbonate ion carries a net charge of -1, which is located at index 3."
+        },
+        {
+            "id": 78,
+            "question": "What is the charge of the carbonate polyatomic ion?",
+            "options": [
+                "Charge: +1, Symbol: CO3 +",
+                "Charge: -1, Symbol: CO3 -",
+                "Charge: -2, Symbol: CO3 2-",
+                "Charge: +2, Symbol: CO3 2+"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The carbonate ion carries a net charge of -2, which is located at index 2."
+        },
+        {
+            "id": 79,
+            "question": "What is the charge of the sulphite (sulfite) polyatomic ion?",
+            "options": [
+                "Charge: -1, Symbol: SO3 -",
+                "Charge: +1, Symbol: SO3 +",
+                "Charge: -2, Symbol: SO3 2-",
+                "Charge: +2, Symbol: SO3 2+"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The sulphite ion carries a net charge of -2, which is located at index 2."
+        },
+        {
+            "id": 80,
+            "question": "What is the charge of the sulphate (sulfate) polyatomic ion?",
+            "options": [
+                "Charge: -1, Symbol: SO4 -",
+                "Charge: +1, Symbol: SO4 +",
+                "Charge: +2, Symbol: SO4 2+",
+                "Charge: -2, Symbol: SO4 2-"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The sulphate ion carries a net charge of -2, which is located at index 3."
+        },
+        {
+            "id": 81,
+            "question": "What is the charge of the phosphate polyatomic ion?",
+            "options": [
+                "Charge: -1, Symbol: PO4 -",
+                "Charge: -2, Symbol: PO4 2-",
+                "Charge: +3, Symbol: PO4 3+",
+                "Charge: -3, Symbol: PO4 3-"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The phosphate ion carries a net charge of -3, which is located at index 3."
+        }
     ]
 }
