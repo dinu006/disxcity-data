@@ -7,15 +7,567 @@
     "questions": [
         {
             "id": 1,
-            "question": "Which ancient Indian philosopher postulated that matter can be divided into extremely small, indivisible particles called 'Parmanu' around 500 BC?",
+            "question": "Who first discovered and named 'cells' by observing a thin slice of cork under a microscope in 1665?",
             "options": [
-                "Maharishi Kanad",
-                "Patanjali",
-                "Aryabhata",
-                "Bhaskara II"
+                "Scientist: Antonie van Leeuwenhoek",
+                "Scientist: Robert Brown",
+                "Scientist: Robert Hooke",
+                "Scientist: Rudolf Virchow"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Robert Hooke discovered and named cells in 1665 by observing dead plant cell walls in cork, which he called cells. which means little room."
+        },
+        {
+            "id": 2,
+            "question": "Who discovered free-living living cells (such as bacteria and protozoa) in pond water for the first time in 1674?",
+            "options": [
+                "Scientist: Robert Hooke",
+                "Scientist: Antonie van Leeuwenhoek",
+                "Scientist: Robert Brown",
+                "Scientist: Matthias Schleiden"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Antonie van Leeuwenhoek discovered free-living living cells in pond water for the first time in 1674 using an improved microscope, which is located at index 1."
+        },
+        {
+            "id": 3,
+            "question": "Who discovered the nucleus inside plant cells in the year 1831?",
+            "options": [
+                "Scientist: Robert Hooke",
+                "Scientist: Antonie van Leeuwenhoek",
+                "Scientist: Robert Brown",
+                "Scientist: Matthias Schleiden"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Robert Brown discovered the nucleus inside plant cells in 1831, which is located at index 2."
+        },
+        {
+            "id": 4,
+            "question": "Who used the term 'protoplasm' for the fluid substance of the cell for the first time in 1839?",
+            "options": [
+                "Scientist: Robert Hooke",
+                "Scientist: Robert Brown",
+                "Scientist: Jan Evangelista Purkinje",
+                "Scientist: Antonie van Leeuwenhoek"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The Czech physiologist Jan Evangelista Purkinje coined the term protoplasm in 1839 to describe the living fluid substance of a cell, which is located at index 2."
+        },
+        {
+            "id": 5,
+            "question": "Who presented the initial formulation of the Cell Theory, stating that all plants and animals are composed of cells?",
+            "options": [
+                "Scientists: Robert Hooke and Antonie van Leeuwenhoek",
+                "Scientists: Matthias Schleiden and Theodor Schwann",
+                "Scientists: Robert Brown and Rudolf Virchow",
+                "Scientist: Jan Evangelista Purkinje"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Matthias Schleiden and Theodor Schwann formulated the cell theory, which states that all living things are made of cells, located at index 1."
+        },
+        {
+            "id": 5,
+            "question": "Which of the following is NOT a unicellular organism?",
+            "options": [
+                "Amoeba and Bacteria",
+                "Paramecium",
+                "Chlamydomonas",
+                "Plant"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Amoeba and Bacteria, Paramecium, and Chlamydomonas are single-celled (unicellular) organisms, whereas plants are multicellular organisms composed of many cells, which is located at index 3."
+        },
+        {
+            "id": 6,
+            "question": "What best defines a unicellular organism?",
+            "options": [
+                "An organism composed of many different types of tissues",
+                "An organism consisting of only a single cell that carries out all life processes",
+                "A specialized reproductive cell found in plants",
+                "An organism that can only survive inside another host cell"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A unicellular organism consists of a single cell that performs all vital functions independently, which is located at index 1."
+        },
+        {
+            "id": 7,
+            "question": "What best defines a multicellular organism?",
+            "options": [
+                "An organism composed of many cells that exhibit specialization and division of labor",
+                "An organism consisting of only a single cell that performs all functions",
+                "A group of independent single cells living together without any specialization",
+                "A non-cellular infectious particle"
             ],
             "correctAnswer": 0,
-            "explanation": "Around 500 BC, the Indian philosopher Maharishi Kanad postulated the atomic theory, suggesting that matter (padarth) divided into smaller particles would eventually reach a limit where it cannot be divided further, naming these particles 'Parmanu'."
+            "explanation": "A multicellular organism is composed of many cells that are specialized for different functions, showing division of labor."
+        },
+        {
+            "id": 8,
+            "question": "What enables different cells in a multicellular organism to perform specialized functions?",
+            "options": [
+                "Division of labor and structural adaptation",
+                "Having multiple nuclei in every cell",
+                "Constant uncontrolled cell division",
+                "Absence of a plasma membrane"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In multicellular organisms, cells differentiate and show a division of labor, adopting specialized structures to perform specific tasks efficiently."
+        },
+        {
+            "id": 9,
+            "question": "What is the process by which generic cells develop into many different kinds of specialized cells in a multicellular organism?",
+            "options": [
+                "Simple diffusion",
+                "Cell differentiation",
+                "Binary fission",
+                "Osmosis"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cell differentiation is the developmental process through which cells change from one cell type to another, usually to a more specialized type."
+        },
+        {
+            "id": 10,
+            "question": "Can a multicellular organism possess different kinds of specialized cells?",
+            "options": [
+                "No, all cells in any organism are completely identical in structure and function.",
+                "Only organisms that reproduce asexually can have different kinds of cells.",
+                "Yes, multicellular organisms contain many different types of specialized cells tailored for specific functions.",
+                "No, cell variety only exists in unicellular organisms."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Multicellular organisms are composed of various specialized cell types, such as nerve cells and muscle cells, which undergo differentiation to perform distinct tasks."
+        },
+        {
+            "id": 11,
+            "question": "What is the correct definition of a cell organelle?",
+            "options": [
+                "A type of unicellular organism that lives independently.",
+                "The outer protective cell wall found exclusively in bacteria.",
+                "A specialized, membrane-bound structure within a cell that performs a specific function.",
+                "The fluid matrix that stores only waste products inside a cell."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Cell organelles are specialized structures enclosed within membranes inside a cell that perform distinct, vital functions to keep the cell alive and functioning properly."
+        },
+        {
+            "id": 12,
+            "question": "Which of the following is NOT one of the three main parts found in almost every cell?",
+            "options": [
+                "Mitochondria",
+                "Plasma membrane",
+                "Nucleus",
+                "Cytoplasm"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Almost every cell consists of three primary parts: the plasma membrane, nucleus, and cytoplasm. Mitochondria is a specialized cell organelle found within the cytoplasm rather than one of the three fundamental structural divisions."
+        },
+        {
+            "id": 13,
+            "question": "What is another common name for the plasma membrane?",
+            "options": [
+                "Nuclear envelope",
+                "Cell wall",
+                "Cell membrane",
+                "Tonoplast"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The plasma membrane is also widely known as the cell membrane, acting as the semi-permeable outer boundary of the cell."
+        },
+        {
+            "id": 14,
+            "question": "What is the outermost covering of an animal cell?",
+            "options": [
+                "Cell wall",
+                "Plasma membrane",
+                "Nuclear membrane",
+                "Chloroplast"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The plasma membrane serves as the delicate outer covering that separates the cell's interior from its external environment."
+        },
+        {
+            "id": 15,
+            "question": "Which type of membrane permits the entry and exit of only certain materials in and out of the cell?",
+            "options": [
+                "Impermeable membrane",
+                "Selectively permeable membrane",
+                "Fully permeable membrane",
+                "Rigid non-living membrane"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The plasma membrane is selectively permeable, meaning it carefully regulates which substances can pass through in order to protect and maintain the cell's internal environment."
+        },
+        {
+            "id": 16,
+            "question": "Which membrane is known as a selectively permeable membrane because it regulates the movement of substances in and out of the cell?",
+            "options": [
+                "Cell wall",
+                "Nuclear membrane",
+                "Plasma membrane",
+                "Tonoplast"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The plasma membrane acts as a selectively permeable barrier, carefully controlling which molecules can enter or leave the cell."
+        },
+        {
+            "id": 17,
+            "question": "By which process do small molecules like carbon dioxide and oxygen move across the cell membrane?",
+            "options": [
+                "Active transport requiring cellular energy",
+                "Diffusion along a concentration gradient",
+                "Endocytosis through vesicle formation",
+                "Osmosis involving only water molecules"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Gases like carbon dioxide and oxygen move freely across the cell membrane via diffusion, moving from a region of higher concentration to a region of lower concentration without using energy."
+        },
+        {
+            "id": 18,
+            "question": "Which of the following best describes the process of osmosis?",
+            "options": [
+                "The active pumping of salt ions against a concentration gradient using cellular energy",
+                "The breakdown of complex food molecules into energy inside the mitochondria",
+                "The movement of water molecules across a selectively permeable membrane from a higher to a lower water concentration",
+                "The random movement of solid waste particles out of the cell wall"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Osmosis is the net movement of water molecules through a selectively permeable membrane from a region of higher water concentration to a region of lower water concentration."
+        },
+        {
+            "id": 19,
+            "question": "What happens to a cell when it is placed in a hypotonic solution?",
+            "options": [
+                "Water molecules move out of the cell, causing it to shrink.",
+                "Water molecules move into the cell via osmosis, causing it to swell.",
+                "There is no movement of water because the concentrations are equal.",
+                "Solutes move out of the cell rapidly without any water movement."
+            ],
+            "correctAnswer": 1,
+            "explanation": "In a hypotonic solution, the surrounding medium has a lower solute concentration than the cell, causing water to enter the cell through osmosis and lead to swelling."
+        },
+        {
+            "id": 20,
+            "question": "What happens to a cell when it is placed in an isotonic solution?",
+            "options": [
+                "Water rushes into the cell, causing it to swell and burst.",
+                "Water leaves the cell rapidly, causing it to shrink and shrivel.",
+                "There is no net movement of water, allowing the cell to maintain its original size and shape.",
+                "Solutes actively pump out of the cell against the concentration gradient."
+            ],
+            "correctAnswer": 2,
+            "explanation": "In an isotonic solution, the solute concentration outside the cell equals the concentration inside, resulting in no net movement of water and maintaining the cell's shape."
+        },
+        {
+            "id": 21,
+            "question": "What happens to a cell when it is placed in a hypertonic solution?",
+            "options": [
+                "Water molecules move into the cell, causing it to swell and burst.",
+                "Water molecules move out of the cell via osmosis, causing it to shrink or shrivel.",
+                "There is no net movement of water across the cell membrane.",
+                "The cell remains completely unaffected by the external solution."
+            ],
+            "correctAnswer": 1,
+            "explanation": "In a hypertonic solution, the external medium has a higher solute concentration than the cell interior, causing water to leave the cell through osmosis and resulting in cell shrinkage."
+        },
+        {
+            "id": 22,
+            "question": "Which of the following best defines the process of diffusion?",
+            "options": [
+                "The active transport of molecules against a concentration gradient requiring cellular energy",
+                "The spontaneous movement of particles from a region of higher concentration to a region of lower concentration",
+                "The specific movement of water molecules across a selectively permeable membrane",
+                "The engulfing of solid food particles by the cell membrane"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Diffusion is the passive movement of particles from an area of higher concentration to an area of lower concentration down a concentration gradient until equilibrium is reached."
+        },
+        {
+            "id": 23,
+            "question": "Which primary organic molecules make up the structural framework of the plasma membrane?",
+            "options": [
+                "Nucleic acids and complex starches",
+                "Pure cellulose and rigid chitin",
+                "Lipids (phospholipids) and proteins",
+                "Triglycerides and pure glycogen"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The plasma membrane is chiefly composed of lipids—specifically a phospholipid bilayer—and proteins, which together provide structure, flexibility, and transport capabilities."
+        },
+        {
+            "id": 24,
+            "question": "Which of the following best describes the process of endocytosis?",
+            "options": [
+                "The process by which a cell engulfs external materials by folding its plasma membrane inward to form a vesicle",
+                "The passive movement of small non-polar gases like oxygen directly through the lipid bilayer",
+                "The outward release of waste materials and cellular products by fusing vesicles with the plasma membrane",
+                "The specific movement of water molecules across a selectively permeable membrane down a concentration gradient"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Endocytosis is an active cellular process where the plasma membrane invaginates to engulf extracellular substances and bring them inside the cell enclosed in a vesicle."
+        },
+        {
+            "id": 25,
+            "question": "What is the primary characteristic and function of the cell wall in plant cells?",
+            "options": [
+                "A thin, selective barrier that actively regulates molecular entry via endocytosis.",
+                "A fluid-filled internal space responsible for storing waste materials.",
+                "A flexible lipid membrane that controls cellular respiration and ATP production.",
+                "A rigid outer layer primarily made of cellulose that provides structural support and protection."
+            ],
+            "correctAnswer": 3,
+            "explanation": "The cell wall is a rigid, non-living layer outside the plasma membrane that is rich in cellulose in plants, giving the cell structural strength and shape."
+        },
+        {
+            "id": 26,
+            "question": "Which of the following structures is absent in human (animal) cells?",
+            "options": [
+                "Plasma membrane",
+                "Nucleus",
+                "Cell wall",
+                "Mitochondria"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Human cells are animal cells and lack a cell wall; their outermost boundary is the flexible plasma membrane. Plant cells, fungi, and bacteria possess cell walls, but animal cells do not."
+        },
+        {
+            "id": 27,
+            "question": "What is the primary chemical substance that plant cell walls are mainly composed of?",
+            "options": [
+                "Chitin",
+                "Cellulose",
+                "Peptidoglycan",
+                "Glycogen"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Plant cell walls are primarily composed of cellulose, a complex structural carbohydrate that provides rigidity and mechanical support to the plant."
+        },
+        {
+            "id": 28,
+            "question": "What happens during the process of plasmolysis in a plant cell?",
+            "options": [
+                "The cell swells and bursts due to rapid water entry in a hypotonic medium.",
+                "The living content inside the plant cell shrinks away from the cell wall due to water loss in a hypertonic solution.",
+                "The rigid cell wall completely dissolves when exposed to an isotonic environment.",
+                "Water molecules stop moving across the plasma membrane entirely."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Plasmolysis occurs when a plant cell loses water by osmosis in a hypertonic solution, causing the protoplasm to shrink away from the rigid cell wall."
+        },
+        {
+            "id": 29,
+            "question": "Which of the following best describes a flaccid plant cell?",
+            "options": [
+                "A cell that is extremely rigid and firm due to maximum internal water pressure.",
+                "A cell whose internal contents have completely shrunk away from the cell wall.",
+                "A cell that is limp and lacks firmness because there is no net turgor pressure pushing against the cell wall.",
+                "A cell that has burst open due to excessive water rushing inward."
+            ],
+            "correctAnswer": 2,
+            "explanation": "A flaccid cell is limp and soft because it lacks turgor pressure, which happens when water moves in and out at equal rates in an isotonic environment without building up internal pressure against the cell wall."
+        },
+        {
+            "id": 30,
+            "question": "What characterizes a turgid plant cell?",
+            "options": [
+                "It is limp and wilting due to an equal rate of water exchange.",
+                "It is swollen and firm due to internal pressure pushing against the cell wall.",
+                "It has completely shrunken away from the cell wall due to water loss.",
+                "It has burst open because it lacks a protective cell wall."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A turgid cell is swollen and firm because water has entered via osmosis in a hypotonic environment, creating turgor pressure against the rigid cell wall without bursting the cell."
+        },
+        {
+            "id": 31,
+            "question": "What is the primary function of chloroplasts in plant cells?",
+            "options": [
+                "To provide a rigid outer barrier primarily made of cellulose.",
+                "To carry out photosynthesis by capturing light energy to produce food.",
+                "To act as the central control room storing the cell's genetic material.",
+                "To digest cellular waste and foreign particles using digestive enzymes."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chloroplasts contain chlorophyll and serve as the site for photosynthesis, converting solar energy into chemical energy to feed the plant."
+        },
+        {
+            "id": 32,
+            "question": "In which specific plant cell organelle is chlorophyll primarily found?",
+            "options": [
+                "Mitochondria",
+                "Nucleus",
+                "Chloroplast",
+                "Vacuole"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Chlorophyll is located within chloroplasts (specifically in the thylakoid membranes), where it captures light energy required for photosynthesis."
+        },
+        {
+            "id": 33,
+            "question": "What is the primary function of the nucleus in a eukaryotic cell?",
+            "options": [
+                "To generate chemical energy (ATP) through cellular respiration.",
+                "To store the cell's genetic material (DNA) and direct cellular activities.",
+                "To capture sunlight and manufacture food via photosynthesis.",
+                "To provide a rigid outer barrier primarily made of cellulose."
+            ],
+            "correctAnswer": 1,
+            "explanation": "The nucleus functions as the control center of the cell by storing DNA and coordinating activities such as growth, metabolism, and reproduction."
+        },
+        {
+            "id": 34,
+            "question": "What is the double-layered covering that surrounds the nucleus called?",
+            "options": [
+                "Plasma membrane",
+                "Nuclear membrane",
+                "Cell wall",
+                "Tonoplast"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The nuclear membrane (or nuclear envelope) is a double-layered membrane that encloses the nucleus, featuring pores to control the passage of materials in and out."
+        },
+        {
+            "id": 35,
+            "question": "Which specific part of the cell contains the chromosomes that carry genetic information?",
+            "options": [
+                "Mitochondria",
+                "Cell wall",
+                "Nucleus",
+                "Cytoplasm"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The nucleus houses the cell's DNA organized into chromosomes, serving as the central control room for genetic instruction."
+        },
+        {
+            "id": 36,
+            "question": "When do chromosomes become distinctly visible as rod-shaped structures under a microscope?",
+            "options": [
+                "At all times during the cell's normal metabolic life",
+                "Only when the cell is placed in a hypertonic solution",
+                "Only when the cell is about to divide",
+                "Whenever the cell undergoes endocytosis"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When a cell is not dividing, genetic material is present as an entangled mass of thread-like chromatin. It condenses into distinct, rod-shaped chromosomes only when the cell is about to divide."
+        },
+        {
+            "id": 37,
+            "question": "Which part of the cell contains information for the inheritance of characters from parents to the next generation in the form of DNA?",
+            "options": [
+                "Cytoplasm",
+                "Cell membrane",
+                "Chromosomes",
+                "Vacuole"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Chromosomes, found in the nucleus, contain DNA molecules which hold the hereditary information responsible for passing traits and characters from parents to generations."
+        },
+        {
+            "id": 38,
+            "question": "What is the correct full form of DNA?",
+            "options": [
+                "Ribonucleic acid",
+                "Deoxyribonucleic acid",
+                "Dipeptide nuclear acid",
+                "Deoxyribose nitrogen amino"
+            ],
+            "correctAnswer": 1,
+            "explanation": "DNA stands for Deoxyribonucleic acid, which is the primary hereditary molecule containing genetic instructions in living cells."
+        },
+        {
+            "id": 39,
+            "question": "Chromosomes are primarily composed of which two components?",
+            "options": [
+                "Cellulose and lipids",
+                "DNA and proteins",
+                "Chlorophyll and water",
+                "RNA and starch"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chromosomes are made up of DNA, which contains hereditary information, and proteins, which provide structural support to keep the DNA tightly organized within the nucleus."
+        },
+        {
+            "id": 40,
+            "question": "What is the functional segment of DNA responsible for heredity and protein synthesis called?",
+            "options": [
+                "Chromatin",
+                "Nucleolus",
+                "Gene",
+                "Ribosome"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A gene is a functional segment of DNA that contains the specific genetic instructions required to build proteins and determine inherited traits."
+        },
+        {
+            "id": 41,
+            "question": "What is the entangled mass of thread-like structures found in the nucleus of a non-dividing cell called?",
+            "options": [
+                "Chromosomes",
+                "Chromatin",
+                "Cytoplasm",
+                "Cellulose"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When a cell is not dividing, its genetic material exists as an entangled mass of thread-like structures called chromatin, which condenses into distinct chromosomes prior to cell division."
+        },
+        {
+            "id": 42,
+            "question": "What primary role does the nucleus play during cellular reproduction (cell division)?",
+            "options": [
+                "It dissolves completely to form the rigid cell wall of the new cells.",
+                "It replicates and distributes identical genetic material so each new daughter cell receives the correct blueprint.",
+                "It produces all the chemical energy (ATP) required for the physical splitting of the cell membrane.",
+                "It actively engulfs extracellular material to provide nutrients for the dividing cell."
+            ],
+            "correctAnswer": 1,
+            "explanation": "During cellular reproduction, the nucleus plays a central role by ensuring that the genetic material is accurately duplicated and distributed, giving each new daughter cell an identical copy of the genetic code."
+        },
+        {
+            "id": 43,
+            "question": "What is the primary structural difference between a nucleoid and a eukaryotic nucleus?",
+            "options": [
+                "A nucleoid contains proteins instead of DNA.",
+                "A nucleoid lacks a protective nuclear membrane, whereas a true nucleus is enclosed by a nuclear envelope.",
+                "A nucleoid is only found in plant cells alongside chloroplasts.",
+                "A nucleoid is composed entirely of cellulose rather than genetic material."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A nucleoid is an open, membrane-less region in prokaryotic cells where DNA resides, unlike a true eukaryotic nucleus which is enclosed by a double-layered nuclear membrane."
+        },
+        {
+            "id": 44,
+            "question": "Which of the following is a key defining characteristic of prokaryotic cells?",
+            "options": [
+                "They contain a well-defined nucleus enclosed by a nuclear envelope.",
+                "They possess multiple membrane-bound organelles like mitochondria.",
+                "Their genetic material is located in an unmembrane-bound region called a nucleoid. They lack a true nucleus.",
+                "They are exclusively multicellular organisms."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Prokaryotic cells lack a true nucleus surrounded by a nuclear membrane; instead, their genetic material resides freely in an open region called the nucleoid."
+        },
+        {
+            "id": 45,
+            "question": "Which of the following is a defining feature of eukaryotic cells that separates them from prokaryotic cells?",
+            "options": [
+                "They completely lack any genetic material or DNA.",
+                "They possess a true, membrane-bound nucleus and membrane-bound organelles.",
+                "Their genetic material floats freely in an open region called a nucleoid.",
+                "They are exclusively single-celled microscopic organisms."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Eukaryotic cells are defined by the presence of a true nucleus enclosed by a nuclear membrane, along with various membrane-bound organelles like mitochondria, unlike prokaryotes."
+        },
+        {
+            "id": 46,
+            "question": "Which type of cell completely lacks membrane-bound cytoplasmic organelles like mitochondria and endoplasmic reticulum?",
+            "options": [
+                "Prokaryotic cells",
+                "Eukaryotic cells",
+                "Plant cells",
+                "Animal cells"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Prokaryotic cells lack membrane-bound cytoplasmic organelles and a true nucleus, unlike eukaryotic cells which contain these specialized internal compartments."
         }
     ]
 }
