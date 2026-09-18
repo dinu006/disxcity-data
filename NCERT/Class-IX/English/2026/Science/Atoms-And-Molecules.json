@@ -629,7 +629,7 @@
             "correctAnswer": 2,
             "explanation": "The math is identical for both, but we use molecular mass for discrete molecules and formula unit mass for ionic compounds that exist in giant crystal structures."
         },
-        [
+        
             {
                 "id": 53,
                 "question": "What is the charge of a sodium ion when it forms a cation?",
@@ -978,6 +978,6 @@
                 "correctAnswer": 3,
                 "explanation": "The phosphate ion carries a net charge of -3, which is located at index 3."
             }
-        ]
+        
     ]
 }
