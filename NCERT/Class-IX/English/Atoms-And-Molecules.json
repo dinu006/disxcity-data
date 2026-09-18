@@ -1,0 +1,70 @@
+{
+    "chapter": "Atoms and Molecules",
+    "class": "Class-IX",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the characteristic taste of acidic substances?",
+            "options": [
+                "Bitter and soapy to touch",
+                "Sweet and sugary",
+                "Sour",
+                "Salty and odorless"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Acids are generally characterized by their sour taste. However, laboratory acids should never be tasted due to their corrosive nature."
+        },
+        {
+            "id": 2,
+            "question": "What are the characteristic taste and physical feel of basic substances?",
+            "options": [
+                "Sweet and sticky to touch",
+                "Sour and dry to touch",
+                "Salty and smooth",
+                "Bitter and soapy to touch"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Bases are known for their bitter taste and a slippery, soapy feel to the touch. Strong bases are also corrosive."
+        },
+        {
+            "id": 3,
+            "question": "If a person is suffering from indigestion due to excess stomach acid, which of the following household substances can be given as an antacid to neutralize it?",
+            "options": [
+                "Lemon juice containing citric acid",
+                "Vinegar containing acetic acid",
+                "Dilute hydrochloric acid solution",
+                "Baking soda solution acting as a mild base"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Stomach acidity is caused by excess hydrochloric acid. Baking soda is a basic substance (an antacid) that chemically neutralizes the excess acid, whereas lemon juice and vinegar are acidic and would increase discomfort."
+        },
+        {
+            "id": 4,
+            "question": "What color change is observed when a drop of a dilute acid is placed on blue litmus paper?",
+            "options": [
+                "It turns green",
+                "It turns red",
+                "It turns yellow",
+                "It remains completely blue without any change"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Acids are characterized by their ability to turn blue litmus paper red, while bases turn red litmus paper blue."
+        },
+        {
+            "id": 4,
+            "question": "What color change is observed when a drop of a basic solution is placed on red litmus paper?",
+            "options": [
+                "It turns blue",
+                "It turns bright yellow",
+                "It turns pinkish-orange",
+                "It remains completely red with no change"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Bases are characterized by their ability to turn red litmus paper blue, whereas acids turn blue litmus paper red."
+        }
+        
+    ]
+}

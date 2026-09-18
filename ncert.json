@@ -91,6 +91,18 @@
           "file": "NCERT/Class-X/English/2026/Science/Acids-Bases-and-Salts.json"
         }
       ]
+    },
+    {
+      "class":"Class-IX",
+      "language":"English",
+      "year":"2026",
+      "subject":"Science",
+      "chapters":[
+        {
+          "name":"Atoms and Molecules",
+          "file":"NCERT/Class-IX/English/2026/Science/Atoms-And-Molecules.json"
+        }
+      ]
     }
   ]
 }
