@@ -256,6 +256,174 @@
             ],
             "correctAnswer": 3,
             "explanation": "The acetate ion has the chemical formula CH3COO- with a single negative charge, formed when acetic acid loses its acidic proton (H+)."
+        },
+        {
+            "id": 22,
+            "question": "Which of the following best defines an atom in the context of chemistry?",
+            "options": [
+                "A macroscopic substance formed by combining two or more different molecules.",
+                "The smallest particle of an element that takes part in a chemical reaction and retains the element's properties.",
+                "A subatomic particle that exists independently without any association with elements.",
+                "A pure compound created by the physical mixing of different types of matter."
+            ],
+            "correctAnswer": 1,
+            "explanation": "An atom is defined as the smallest particle of an element that can take part in a chemical reaction while still retaining the chemical properties of that element."
+        },
+        {
+            "id": 23,
+            "question": "What is the approximate atomic radius of a hydrogen atom, which is the smallest known atom?",
+            "options": [
+                "10^-9 meters (1 nm)",
+                "10^-3 meters (1 mm)",
+                "10^-6 meters (1 micrometer)",
+                "10^-15 meters (1 femtometer)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Atoms are extremely tiny, with atomic radii typically on the order of 10^-9 meters (or 1 nanometers), with hydrogen being the smallest."
+        },
+        {
+            "id": 24,
+            "question": "How many nanometers are there in 1 meter?",
+            "options": [
+                "10^6 nm",
+                "10^9 nm",
+                "10^12 nm",
+                "10^3 nm"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Since 1 meter equals 10^9 nanometers (one billion nanometers), 1 m = 1,000,000,000 nm."
+        },
+        {
+            "id": 25,
+            "question": "Which of the following statements best defines a chemical element?",
+            "options": [
+                "A heterogeneous mixture of various types of atoms physically combined together.",
+                "A compound formed by the chemical combination of two or more different elements.",
+                "A complex substance that can easily be split into simpler components using basic physical methods.",
+                "A pure substance composed of only one kind of atom that cannot be broken down into simpler substances by chemical means."
+            ],
+            "correctAnswer": 3,
+            "explanation": "An element is defined as a pure form of matter consisting of only one type of atom, which cannot be broken down into simpler chemical substances by ordinary chemical reactions."
+        },
+        {
+            "id": 26,
+            "question": "According to the historical development in chemistry, who was the first scientist to use specific symbols to represent elements and their atoms?",
+            "options": [
+                "Antoine Lavoisier",
+                "Joseph Proust",
+                "John Dalton",
+                "Jöns Jacob Berzelius"
+            ],
+            "correctAnswer": 2,
+            "explanation": "John Dalton was the first scientist to use specific symbols (such as circles with unique patterns or letters inside) to represent atoms of different elements."
+        },
+        {
+            "id": 27,
+            "question": "Which prominent chemist proposed the modern system of using the first letter or the first two letters of an element's English or Latin name as its symbol?",
+            "options": [
+                "John Dalton",
+                "Antoine Lavoisier",
+                "Joseph Proust",
+                "Jöns Jacob Berzelius"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Jöns Jacob Berzelius introduced the letter-based system of chemical symbols in 1813, using either the first letter or the first two letters of an element's name."
+        },
+        {
+            "id": 28,
+            "question": "Which metal got its name from the island of Cyprus, where it was extensively mined in ancient times?",
+            "options": [
+                "Copper",
+                "Gold",
+                "Iron",
+                "Silver"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Copper derives its name from the island of Cyprus, reflecting how early elements were often named after their geographic place of origin or discovery."
+        },
+        {
+            "id": 29,
+            "question": "The name of which precious metal originates from an English word meaning 'yellow'?",
+            "options": [
+                "Silver",
+                "Copper",
+                "Gold",
+                "Platinum"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The word 'gold' comes from an old English root meaning 'yellow', reflecting how early elements were often named based on their physical appearance or color."
+        },
+        {
+            "id": 30,
+            "question": "Which international scientific organization is officially responsible for approving names and symbols for chemical elements?",
+            "options": [
+                "WHO (World Health Organization)",
+                "UNESCO",
+                "IUPAC (International Union of Pure and Applied Chemistry)",
+                "ISO (International Organization for Standardization)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "IUPAC (International Union of Pure and Applied Chemistry) is the global authority that regulates and approves the official names, symbols, and terminology of chemical elements."
+        },
+        {
+            "id": 31,
+            "question": "Which isotope is universally accepted as the standard reference for measuring atomic masses in chemistry today in 1961?",
+            "options": [
+                "Hydrogen-1",
+                "Carbon-12",
+                "Oxygen-16",
+                "Nitrogen-14"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The carbon-12 (12C) isotope is used as the standard reference atom, where 1 atomic mass unit (u) is defined as 1/12th the mass of a carbon-12 atom."
+        },
+        {
+            "id": 32,
+            "question": "According to modern chemical standards, exactly what fraction of a carbon-12 atom's mass defines 1 atomic mass unit (1 u)?",
+            "options": [
+                "1/10th",
+                "1/16th",
+                "1/12th",
+                "1/14th"
+            ],
+            "correctAnswer": 2,
+            "explanation": "1 atomic mass unit (u) is precisely defined as 1/12th of the mass of an unbound atom of carbon-12 at rest in its ground state."
+        },
+        {
+            "id": 33,
+            "question": "What is Atomic number ?",
+            "options": [
+                "The number of protons in the nucleus of an atom",
+                "The number of neutrons in the nucleus of an atom",
+                "The number of electrons in the nucleus of an atom",
+                "The total number of protons and neutrons in the nucleus of an atom"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The atomic number is defined as the number of protons in the nucleus of an atom, which determines the identity of the element."
+        },
+        {
+            "id": 34,
+            "question": "What is Mass number ?",
+            "options": [
+                "The number of protons in the nucleus of an atom",
+                "The number of neutrons in the nucleus of an atom",
+                "The total number of protons and neutrons in the nucleus of an atom",
+                "The total number of electrons in the atom"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The mass number is defined as the total number of protons and neutrons present in the nucleus of an atom."
+        },
+        {
+            "id": 35,
+            "question": "What is molecules ?",
+            "options": [
+                "A single atom of an element",
+                "A group of two or more atoms chemically bonded together. Capable of existing independently and retaining the chemical properties of the substance.",
+                "A mixture of different elements",
+                "An ion with a net charge"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A molecule is defined as a group of two or more atoms chemically bonded together."
         }
     ]
 }
