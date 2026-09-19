@@ -568,6 +568,690 @@
             ],
             "correctAnswer": 0,
             "explanation": "Prokaryotic cells lack membrane-bound cytoplasmic organelles and a true nucleus, unlike eukaryotic cells which contain these specialized internal compartments."
+        },
+        {
+            "id": 47,
+            "question": "What best describes the cytoplasm of a cell?",
+            "options": [
+                "The rigid outer layer made of cellulose that protects plant cells.",
+                "The jelly-like fluid substance enclosed by the plasma membrane that suspends organelles and hosts metabolic reactions.",
+                "The double-layered membrane that completely encloses the genetic material.",
+                "The thread-like mass of DNA and proteins found inside the nucleus."
+            ],
+            "correctAnswer": 1,
+            "explanation": "The cytoplasm is the fluid matrix inside the cell membrane where organelles are suspended and many essential metabolic reactions take place."
+        },
+        {
+            "id": 48,
+            "question": "Which of the following is completely absent in a prokaryotic cell?",
+            "options": [
+                "Plasma membrane",
+                "Ribosomes",
+                "A true membrane-bound nucleus",
+                "Cytoplasm"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Prokaryotic cells lack a true membrane-bound nucleus and other membrane-bound organelles, whereas they do have a plasma membrane, cytoplasm, and ribosomes."
+        },
+        {
+            "id": 49,
+            "question": "Which of the following features characteristic of prokaryotes is NOT present in eukaryotic cells?",
+            "options": [
+                "A true membrane-bound nucleus",
+                "A nucleoid (an open, unmembrane-bound region containing genetic material)",
+                "Membrane-bound cytoplasmic organelles like mitochondria",
+                "Linear chromosomes composed of DNA and proteins"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Eukaryotic cells possess a true, membrane-bound nucleus rather than a nucleoid, which is an open, unmembrane-bound region characteristic of prokaryotic cells."
+        },
+        {
+            "id": 50,
+            "question": "Why are viruses not classified as prokaryotic cells?",
+            "options": [
+                "Because they contain a true nucleus surrounded by a nuclear membrane.",
+                "Because they are acellular and lack cellular structures like a plasma membrane, cytoplasm, and ribosomes.",
+                "Because they are exclusively multicellular plants.",
+                "Because they contain chloroplasts and carry out photosynthesis independently."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Viruses are not cells (they are acellular) and completely lack cytoplasmic organelles, a cell membrane, and metabolic machinery, distinguishing them from living prokaryotic cells."
+        },
+        {
+            "id": 51,
+            "question": "How do prokaryotic and eukaryotic cells generally differ in their number of chromosomes?",
+            "options": [
+                "Prokaryotes have multiple linear chromosomes, while eukaryotes have a single circular chromosome.",
+                "Prokaryotes typically have a single chromosome (circular DNA), while eukaryotes have multiple linear chromosomes.",
+                "Both prokaryotes and eukaryotes always contain exactly 46 chromosomes.",
+                "Prokaryotes have no DNA or chromosomes whatsoever."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Prokaryotic cells generally contain a single circular chromosome in the nucleoid, whereas eukaryotic cells contain multiple linear chromosomes inside the nucleus."
+        },
+        {
+            "id": 52,
+            "question": "Which of the following cellular components is found in both prokaryotic and eukaryotic cells?",
+            "options": [
+                "Nucleus",
+                "Mitochondria",
+                "Ribosomes",
+                "Endoplasmic reticulum"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Ribosomes (index 2, the third option) are present in both prokaryotic and eukaryotic cells to synthesize proteins, whereas the other three structures are unique to or characteristic of eukaryotes."
+        },
+        {
+            "id": 53,
+            "question": "What term describes the open region in a prokaryotic cell where genetic material is located without being enclosed by a nuclear membrane?",
+            "options": [
+                "Nucleolus",
+                "Endoplasmic reticulum",
+                "Nucleoid",
+                "Golgi apparatus"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The nucleoid (index 2) is the unmembrane-bound region in prokaryotic cells where the single circular chromosome resides, lacking any nuclear membrane."
+        },
+        {
+            "id": 54,
+            "question": "What defines the difference between a nucleoid and a nucleus?",
+            "options": [
+                "A nucleoid is surrounded by a double lipid membrane, while a nucleus is not.",
+                "A nucleoid completely lacks a nuclear membrane, whereas a nucleus is fully enclosed by one.",
+                "A nucleoid is only found in complex multicellular plants and animals.",
+                "A nucleoid contains multiple linear chromosomes wrapped in histones."
+            ],
+            "correctAnswer": 1,
+            "explanation": "A nucleoid lacks a protective nuclear membrane entirely (index 1), allowing genetic material to sit directly in the cytoplasm, unlike a true nucleus which is enclosed by a nuclear envelope."
+        },
+        {
+            "id": 55,
+            "question": "What is the term for the structure formed when genetic material is fully enclosed by a nuclear membrane inside a cell?",
+            "options": [
+                "A nucleoid",
+                "A ribosome",
+                "A true nucleus",
+                "Cytoplasm"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When genetic material is completely enclosed by a nuclear membrane, it forms a true nucleus (index 2), which is characteristic of eukaryotic cells."
+        },
+        {
+            "id": 56,
+            "question": "Which of the following pairs contains items that are NOT cell organelles?",
+            "options": [
+                "Mitochondria and Endoplasmic Reticulum",
+                "Ribosome and Golgi apparatus",
+                "Nucleus and Plastids",
+                "Cytoplasm and cell wall"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Cytoplasm and cell wall are neither membrane-bound cell organelles; cytoplasm is the fluid matrix, and the cell wall is an outer protective layer."
+        },
+        {
+            "id": 57,
+            "question": "Which cell organelle is described as a large network of membrane-bound tubes and sheets that includes both rough and smooth regions?",
+            "options": [
+                "Mitochondria and Lysosomes",
+                "Endoplasmic reticulum",
+                "Golgi apparatus and Chloroplast",
+                "Nucleus and Nucleoid"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Endoplasmic Reticulum (index 1) forms a vast network of membrane-bound tubes and sheets responsible for lipid and protein synthesis."
+        },
+        {
+            "id": 58,
+            "question": "Which of the following correctly describes the structural and functional difference between Rough ER and Smooth ER?",
+            "options": [
+                "Rough ER lacks ribosomes and stores water, while Smooth ER produces nuclear membranes.",
+                "Both types of ER are non-membrane-bound structures found exclusively in prokaryotic cells.",
+                "Rough ER is studded with ribosomes and synthesizes proteins, whereas Smooth ER lacks ribosomes and synthesizes fat molecules or lipids and detoxifies chemicals.",
+                "Rough ER acts as the cellular power generator, while Smooth ER packages and ships proteins."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Rough ER is studded with ribosomes for protein synthesis, while Smooth ER lacks ribosomes (making it 'smooth') and is responsible for lipid production and chemical detoxification (index 2)."
+        },
+        {
+            "id": 59,
+            "question": "Which cell structures are primarily responsible for synthesizing the proteins and lipids required for membrane biogenesis?",
+            "options": [
+                "Mitochondria and vacuoles",
+                "The Endoplasmic Reticulum (Rough ER for proteins, Smooth ER for lipids)",
+                "The cell wall and cytoplasm",
+                "Ribosomes acting entirely independently without any membrane involvement"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Membrane biogenesis relies heavily on the Endoplasmic Reticulum, where Rough ER produces the necessary proteins and Smooth ER produces the lipids."
+        },
+        {
+            "id": 60,
+            "question": "What are the distinct primary roles of lipids and proteins when they make up a cell membrane?",
+            "options": [
+                "Lipids act strictly as energy storage units, while proteins form the rigid outer cell wall.",
+                "Lipids form the flexible structural barrier (lipid bilayer) of the membrane, while proteins function as channels, transporters, receptors, and enzymes.",
+                "Lipids synthesize ribosomes, while proteins act as the primary fluid matrix of the cytoplasm.",
+                "Lipids carry genetic traits, while proteins act as the main powerhouse of the cell."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lipids provide the foundational structural barrier (the lipid bilayer) for cell membranes, while proteins embedded within them handle specialized tasks like transport, signaling, and enzymatic reactions (index 1)."
+        },
+        {
+            "id": 61,
+            "question": "What is the specific role of the Endoplasmic Reticulum regarding proteins and lipids?",
+            "options": [
+                "It destroys excess proteins and stores pure water inside vacuoles.",
+                "It manufactures proteins (via Rough ER) and lipids (via Smooth ER) which are crucial for membrane biogenesis and cellular functions.",
+                "It acts as the primary fluid matrix known as the cytoplasm.",
+                "It absorbs sunlight to convert carbon dioxide into glucose."
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Endoplasmic Reticulum is the cellular factory where Rough ER produces proteins and Smooth ER produces lipids, supplying the materials needed for membranes, enzymes, and other functions (index 1)."
+        },
+        {
+            "id": 62,
+            "question": "Which of the following cell structures functions as a cytoplasmic framework providing a surface for some of the cell's biochemical activities?",
+            "options": [
+                "Golgi apparatus",
+                "Mitochondria",
+                "Endoplasmic Reticulum",
+                "Vacuole"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The Endoplasmic Reticulum (index 2) acts as a structural cytoplasmic framework and provides a surface area for various vital biochemical reactions in the cell."
+        },
+        {
+            "id": 63,
+            "question": "Which specific organelle or sub-structure is specialized for detoxifying many poisons and drugs within the cell?",
+            "options": [
+                "Rough Endoplasmic Reticulum",
+                "Smooth Endoplasmic Reticulum",
+                "Free ribosomes",
+                "Nuclear membrane"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Smooth Endoplasmic Reticulum (index 1) lacks ribosomes and is responsible for lipid synthesis and the detoxification of various drugs and poisons."
+        },
+        {
+            "id": 64,
+            "question": "What structural feature characterizes the physical composition of the Endoplasmic Reticulum?",
+            "options": [
+                "A collection of free-floating, unmembrane-bound ribosomes",
+                "A large network of membrane-bound tubes and flattened sheets",
+                "A solid, single-layered wall made entirely of cellulose",
+                "A fluid-filled vacuole completely detached from all other cell parts"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Endoplasmic Reticulum is structurally composed of a large, interconnected network of membrane-bound tubes and sheets (index 1) that provide a framework for cellular activities."
+        },
+        {
+            "id": 65,
+            "question": "Which scientist first described and observed the Golgi apparatus in 1898 using a specialized staining technique?",
+            "options": [
+                "Robert Hooke",
+                "Camillo Golgi",
+                "Antonie van Leeuwenhoek",
+                "Matthias Schleiden"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Camillo Golgi first described the Golgi apparatus (index 1) in 1898 while examining nerve cells with his staining method."
+        },
+        {
+            "id": 66,
+            "question": "Which organelle is composed of a system of membrane-bound flattened sacs (cisternae) arranged in stacks parallel to each other?",
+            "options": [
+                "Mitochondria",
+                "Golgi apparatus",
+                "Ribosome",
+                "Nucleolus"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Golgi apparatus (index 1) consists of a system of membrane-bound vesicles and flattened sacs arranged in stacks, responsible for packaging and shipping cellular substances."
+        },
+        {
+            "id": 67,
+            "question": "What are the flattened, membrane-bound sacs that make up the stacked structure of the Golgi apparatus called?",
+            "options": [
+                "Ribosomes",
+                "Cisternae",
+                "Nucleoids",
+                "Chromosomes"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cisternae (index 1) are the flattened, membrane-bound sacs arranged in parallel stacks that form the core structure of the Golgi apparatus."
+        },
+        {
+            "id": 68,
+            "question": "Which cell organelle's membranes often have physical connections with the Endoplasmic Reticulum, constituting another portion of a complex cellular membrane system?",
+            "options": [
+                "Mitochondria",
+                "Golgi apparatus",
+                "Ribosome",
+                "Lysosome"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Golgi apparatus membranes often connect with the Endoplasmic Reticulum, forming another portion of the cell's complex membrane system (index 1)."
+        },
+        {
+            "id": 69,
+            "question": "Which organelle is responsible for packaging and dispatching materials synthesized near the Endoplasmic Reticulum?",
+            "options": [
+                "Mitochondria",
+                "Golgi apparatus",
+                "Ribosome",
+                "Vacuole"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Golgi apparatus (index 1) receives materials synthesized near the ER, packages them, and dispatches them to intracellular and extracellular destinations."
+        },
+        {
+            "id": 70,
+            "question": "Which organelle is primarily responsible for the storage, modification, and packaging of products in vesicles?",
+            "options": [
+                "Mitochondria",
+                "Golgi apparatus",
+                "Ribosome",
+                "Smooth Endoplasmic Reticulum"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Golgi apparatus (index 1) handles the storage, modification, and packaging of cellular products inside vesicles."
+        },
+        {
+            "id": 71,
+            "question": "Which cell organelle plays a key role in the formation of lysosomes by packaging digestive enzymes?",
+            "options": [
+                "Mitochondria",
+                "Golgi apparatus",
+                "Smooth Endoplasmic Reticulum",
+                "Ribosome"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Golgi apparatus (index 1) is responsible for packaging products that eventually form structures like lysosomes, which contain digestive enzymes."
+        },
+        {
+            "id": 72,
+            "question": "Which of the following cell structures are membrane-bound sacs filled with powerful digestive enzymes?",
+            "options": [
+                "Mitochondria",
+                "Lysosomes",
+                "Ribosomes",
+                "Centrosomes"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lysosomes (index 1) are membrane-bound sacs containing digestive enzymes that help clean up the cell by breaking down various materials and waste."
+        },
+        {
+            "id": 73,
+            "question": "Which cellular structure is responsible for synthesizing the protein-based digestive enzymes found inside lysosomes?",
+            "options": [
+                "Smooth Endoplasmic Reticulum",
+                "Rough Endoplasmic Reticulum",
+                "Golgi apparatus",
+                "Mitochondria"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The digestive enzymes of lysosomes are synthesized by the Rough Endoplasmic Reticulum (index 1) and then transported to the Golgi apparatus for packaging."
+        },
+        {
+            "id": 74,
+            "question": "Why are lysosomes commonly referred to as the 'suicide bags' of the cell?",
+            "options": [
+                "Because they produce energy by consuming glucose.",
+                "Because their digestive enzymes can burst out and digest the cell itself when damaged or dying.",
+                "Because they destroy the nucleus to start cell division.",
+                "Because they store water and toxic waste permanently."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lysosomes are called suicide bags (index 1) because if the cell gets damaged or disrupted, their digestive enzymes can release and break down the cell's own components."
+        },
+        {
+            "id": 75,
+            "question": "Which organelle acts as the waste disposal system of the cell, helping to clean it up by breaking down foreign materials and worn-out cell parts?",
+            "options": [
+                "Mitochondria",
+                "Lysosomes",
+                "Ribosomes",
+                "Golgi apparatus"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lysosomes (index 1) function as the cell's waste disposal system, digesting foreign materials, debris, and worn-out organelles."
+        },
+        {
+            "id": 76,
+            "question": "In which village was Camillo Golgi, the scientist who discovered the Golgi apparatus, born?",
+            "options": [
+                "Pavia",
+                "Corteno",
+                "Rome",
+                "Milan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Camillo Golgi was born in Corteno, Italy (index 1), a village later renamed Corteno Golgi in recognition of his scientific contributions."
+        },
+        {
+            "id": 77,
+            "question": "At which university did Camillo Golgi study medicine and conduct his pioneering research?",
+            "options": [
+                "University of Bologna",
+                "University of Pavia",
+                "University of Padua",
+                "University of Rome"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Camillo Golgi studied medicine at the University of Pavia (index 1), where he also spent a major part of his academic and professional career."
+        },
+        {
+            "id": 78,
+            "question": "At which hospital did Camillo Golgi serve as Chief Medical Officer starting in 1872, where he famously set up a laboratory in the kitchen?",
+            "options": [
+                "San Matteo Hospital",
+                "Pio Luogo degli Incurabili in Abbiategrasso",
+                "Hospital of the University of Pavia",
+                "Novara Hospital"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Camillo Golgi served as Chief Medical Officer at the Pio Luogo degli Incurabili in Abbiategrasso (index 1), where he conducted his groundbreaking neurological staining research."
+        },
+        {
+            "id": 79,
+            "question": "In what year was Camillo Golgi awarded the Nobel Prize, and with whom did he share it?",
+            "options": [
+                "1900, shared with Robert Koch",
+                "1906, shared with Santiago Ramón y Cajal",
+                "1910, shared with Paul Ehrlich",
+                "1898, shared with Louis Pasteur"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Camillo Golgi was awarded the Nobel Prize in Physiology or Medicine in 1906, sharing it with Santiago Ramón y Cajal for their work on the nervous system (index 1)."
+        },
+        {
+            "id": 80,
+            "question": "Which key chemical compound is used along with potassium dichromate in Camillo Golgi's famous 'black reaction' staining method?",
+            "options": [
+                "Sodium chloride",
+                "Silver nitrate",
+                "Copper sulfate",
+                "Methylene blue"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Camillo Golgi used silver nitrate (index 1) combined with potassium dichromate to create the black reaction precipitate that stains neurons black."
+        },
+        {
+            "id": 81,
+            "question": "Which organelle is widely known as the 'powerhouse of the cell' due to its role in generating chemical energy (ATP)?",
+            "options": [
+                "Golgi apparatus",
+                "Mitochondria",
+                "Lysosome",
+                "Smooth Endoplasmic Reticulum"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mitochondria (index 1) are called the powerhouses of the cell because they produce ATP, which serves as the cell's main energy currency."
+        },
+        {
+            "id": 82,
+            "question": "Which cell organelle is characterized by having a double-membrane system consisting of an outer membrane and a folded inner membrane?",
+            "options": [
+                "Ribosome",
+                "Mitochondria",
+                "Lysosome",
+                "Centrosome"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mitochondria (index 1) possess a double-membrane structure, with a smooth outer membrane and a folded inner membrane (cristae)."
+        },
+        {
+            "id": 83,
+            "question": "Which organelle is characterized by a porous outer membrane and a deeply folded inner membrane that increases surface area for energy production?",
+            "options": [
+                "Golgi apparatus",
+                "Mitochondria",
+                "Lysosome",
+                "Endoplasmic Reticulum"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mitochondria (index 1) have a porous outer membrane and an inner membrane folded into cristae to maximize surface area for cellular respiration."
+        },
+        {
+            "id": 84,
+            "question": "What is the primary advantage of the deep folds (cristae) in the inner mitochondrial membrane?",
+            "options": [
+                "They allow the mitochondria to store water and waste products.",
+                "They increase the surface area available for ATP-producing chemical reactions and enzymes.",
+                "They help the organelle divide more rapidly during cell division.",
+                "They create a barrier to prevent the escape of digestive enzymes."
+            ],
+            "correctAnswer": 1,
+            "explanation": "The folds or cristae (index 1) provide a much larger surface area to host the Electron Transport Chain and ATP synthase enzymes, maximizing energy production."
+        },
+        {
+            "id": 85,
+            "question": "What does ATP stand for in cellular biology?",
+            "options": [
+                "Adenosine Triphosphate",
+                "Amino Thymine Phosphate",
+                "Adenine Triphosphate Polymer",
+                "Acetyl Triphosphate"
+            ],
+            "correctAnswer": 0,
+            "explanation": "ATP stands for Adenosine Triphosphate (index 0), the main energy carrier molecule in living cells."
+        },
+        {
+            "id": 86,
+            "question": "Which molecule is universally known as the energy currency of the cell?",
+            "options": [
+                "DNA",
+                "ATP",
+                "RNA",
+                "Glycogen"
+            ],
+            "correctAnswer": 1,
+            "explanation": "ATP (index 1) is the primary energy currency used by cells to store and transport chemical energy."
+        },
+        {
+            "id": 87,
+            "question": "Which cell organelle possesses its own DNA, ribosomes, and is capable of synthesizing some of its own proteins?",
+            "options": [
+                "Golgi apparatus",
+                "Mitochondria",
+                "Lysosome",
+                "Smooth Endoplasmic Reticulum"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mitochondria (index 1) contain their own DNA and ribosomes, enabling them to make some of their own proteins independently."
+        },
+        {
+            "id": 88,
+            "question": "Which of the following cell structures is present exclusively in plant cells and not in animal cells?",
+            "options": [
+                "Mitochondria",
+                "Plastids",
+                "Ribosomes",
+                "Cell membrane"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Plastids (index 1), such as chloroplasts, are unique to plant cells and are not found in animal cells."
+        },
+        {
+            "id": 89,
+            "question": "According to standard biological classification, what are the two main types of plastids found in plant cells?",
+            "options": [
+                "Mitochondria and Chloroplasts",
+                "Chromoplasts and Leucoplasts",
+                "Ribosomes and Lysosomes",
+                "Vacuoles and Centrosomes"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Plastids are broadly classified into two main types: chromoplasts (colored plastids, including chloroplasts) and leucoplasts (colorless plastids) (index 1.1.2, 1.2.4)."
+        },
+        {
+            "id": 90,
+            "question": "What is the primary function of leucoplasts, the colorless plastids found in plant cells?",
+            "options": [
+                "To perform photosynthesis using chlorophyll",
+                "To store materials such as starch, oils, and proteins",
+                "To provide bright red and yellow colors to flowers",
+                "To act as the suicide bags of the plant cell"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Leucoplasts are colorless plastids (index 1) whose primary function is the storage of nutrients like starch, oils, and protein granules in plant cells."
+        },
+        {
+            "id": 91,
+            "question": "Which part of plastids contains the pigments responsible for Photosynthesis?",
+            "options": [
+                "Leucoplasts which contains the choroplasts pigments",
+                "Leucoplasts which contains carotenoids pigments",
+                "Chromoplasts which contains the chlorophyll pigments",
+                "Leucoplasts which contains the anthocyanin pigments"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Plastids is made up of Leucoplasts and Chromoplasts. Chromoplasts contain carotenoid pigments that give flowers and fruits their red, yellow, and orange colors (index 0)."
+        },
+        {
+            "id": 92,
+            "question": "What is the primary function of the stroma inside a chloroplast?",
+            "options": [
+                "To absorb sunlight directly using chlorophyll pigments",
+                "To host the light-independent reactions (Calvin cycle) of photosynthesis and house chloroplast DNA/ribosomes",
+                "To provide a rigid structural wall protecting the plant cell",
+                "To act as a digestive enzyme storage sac similar to a lysosome"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The stroma is the fluid matrix (index 1) where the Calvin cycle occurs, sugar synthesis takes place, and the chloroplast's own DNA and ribosomes are located."
+        },
+        {
+            "id": 93,
+            "question": "Which of the following cellular organelles possess their own DNA and ribosomes, enabling them to make some of their own proteins?",
+            "options": [
+                "Mitochondria and Chloroplasts",
+                "Golgi apparatus and Lysosomes",
+                "Ribosomes and Centrosomes",
+                "Endoplasmic reticulum and Vacuoles"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Both mitochondria and chloroplasts (index 0) contain their own circular DNA and ribosomes, making them semi-autonomous organelles capable of protein synthesis."
+        },
+        {
+            "id": 94,
+            "question": "Which of the following best describes the main characteristics and functions of a plant cell vacuole?",
+            "options": [
+                "A membrane-bound storage sac enclosed by a tonoplast that stores water, sap, and waste while providing turgidity to the cell.",
+                "A double-membrane organelle responsible for generating chemical energy in the form of ATP.",
+                "A network of flattened cisternae that synthesizes lipids and detoxifies poisons.",
+                "A dense fluid-filled matrix where the Calvin cycle of photosynthesis takes place."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Vacuoles are membrane-bound storage spaces surrounded by a tonoplast (index 0) that store cell sap, water, and waste, providing essential mechanical support and turgidity to plant cells."
+        },
+        {
+            "id": 95,
+            "question": "How do vacuoles differ in size between typical plant and animal cells?",
+            "options": [
+                "Vacuoles are larger in animal cells than in plant cells.",
+                "Vacuoles are large in plant cells, whereas they are small and temporary in animal cells.",
+                "Plant and animal cells have vacuoles of the exact same size and structure.",
+                "Animal cells have large permanent central vacuoles, while plant cells lack vacuoles entirely."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Plant cells are characterized by a large, prominent central vacuole taking up most of the cell volume, while animal cells contain much smaller, temporary vacuoles (index 1)."
+        },
+        {
+            "id": 96,
+            "question": "What percentage of the total cell volume can the large central vacuole occupy in a mature plant cell?",
+            "options": [
+                "Up to 10%",
+                "10% to 30%",
+                "50% to 90%",
+                "95% to 100%"
+            ],
+            "correctAnswer": 2,
+            "explanation": "In plant cells, the large central vacuole can occupy 50% to 90% of the cell's total volume (index 2), providing structural support and turgidity."
+        },
+        {
+            "id": 97,
+            "question": "Which of the following is NOT a function of the plant cell vacuole?",
+            "options": [
+                "Storing water and nutrients",
+                "Maintaining turgor pressure for structural support",
+                "Digesting cellular waste and foreign materials",
+                "Synthesizing ATP for energy"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Vacuoles do not synthesize ATP (index 3); their primary functions include storage, maintaining turgor pressure, and sometimes digesting waste, but energy production is the role of mitochondria."
+        },
+        {
+            "id": 98,
+            "question": "Which of the following cellular structures is primarily responsible for synthesizing proteins within the cell?",
+            "options": [
+                "Ribosomes",
+                "Vacuoles",
+                "Lysosomes",
+                "Mitochondria"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Proteins are synthesized at the ribosomes (index 0), which act as the protein factories of the cell."
+        },
+        {
+            "id": 99,
+            "question": "Which of the following is defined as the fundamental structural and functional unit of all living organisms?",
+            "options": [
+                "Tissue",
+                "Atom",
+                "Cell",
+                "Organ"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The cell (index 2) is the basic structural and functional unit of life, as established by the cell theory."
+        },
+        {
+            "id": 100,
+            "question": "What is the biological process by which new cells are created from pre-existing cells?",
+            "options": [
+                "Cell respiration",
+                "Cell division",
+                "Osmosis",
+                "Photosynthesis"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cell division (index 1) is the process through which new cells are formed from pre-existing cells, a core principle of the cell theory."
+        },
+        {
+            "id": 101,
+            "question": "What are the two main types of cell division that occur in eukaryotic organisms?",
+            "options": [
+                "Binary fission and budding",
+                "Mitosis and meiosis",
+                "Osmosis and diffusion",
+                "Transcription and translation"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mitosis and meiosis are the two primary types of cell division, with mitosis used for somatic growth and repair, and meiosis used to form reproductive cells."
+        },
+        {
+            "id": 102,
+            "question": "Which of the following accurately contrasts mitosis and meiosis?",
+            "options": [
+                "Mitosis produces four genetically unique haploid cells, whereas meiosis produces two identical diploid cells.",
+                "Mitosis is an equational division producing two identical diploid cells, while meiosis is a reductional division producing four unique haploid cells.",
+                "Mitosis results in a reduction of chromosome number, whereas meiosis maintains the exact parental chromosome number.",
+                "Both mitosis and meiosis are used exclusively for the production of gametes in sexual reproduction."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mitosis is an equational division that maintains the chromosome number (diploid to diploid) for growth, whereas meiosis is a reductional division that halves the chromosome number (diploid to haploid) to form gametes."
+        },
+        {
+            "id": 103,
+            "question": "What is the primary significance of meiosis in terms of chromosome number and genetic makeup?",
+            "options": [
+                "It doubles the chromosome number to create larger, polyploid cells for somatic growth.",
+                "It maintains an identical diploid chromosome count with no genetic variation across daughter cells.",
+                "It reduces the chromosome number by half and introduces genetic variation to form haploid gametes.",
+                "It produces two identical somatic cells directly through binary fission."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Meiosis reduces the diploid chromosome number to haploid (index 2) and introduces vital genetic variation via crossing over, preparing cells for sexual reproduction."
         }
     ]
 }
