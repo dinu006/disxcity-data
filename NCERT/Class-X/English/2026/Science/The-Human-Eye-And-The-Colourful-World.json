@@ -570,31 +570,40 @@
             "explanation": "Dispersion is the phenomenon of splitting a beam of white light into its constituent seven colors (VIBGYOR) due to the differences in how much each color refracts when passing through a transparent medium like a glass prism."
         },
         {
-    "id": 48,
-    "question": "Which color among VIBGYOR bends the highest (has the maximum deviation) when passing through a prism?",
-    "options": [
-        "Red",
-        "Yellow",
-        "Green",
-        "Violet"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Violet light has the shortest wavelength among the visible spectrum, causing it to travel slower in the glass medium and bend (refract) the most compared to the other colors."
-},
-
-{
-    "id": 49,
-    "question": "Which color among VIBGYOR bends the lowest (has the minimum deviation) when passing through a prism?",
-    "options": [
-        "Red",
-        "Green",
-        "Blue",
-        "Violet"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Red light has the longest wavelength among the visible spectrum, causing it to bend (refract) the least compared to the other colors when passing through a prism."
-},
-
-
+            "id": 48,
+            "question": "Which color among VIBGYOR bends the highest (has the maximum deviation) when passing through a prism?",
+            "options": [
+                "Red",
+                "Yellow",
+                "Green",
+                "Violet"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Violet light has the shortest wavelength among the visible spectrum, causing it to travel slower in the glass medium and bend (refract) the most compared to the other colors."
+        },
+        {
+            "id": 49,
+            "question": "Which color among VIBGYOR bends the lowest (has the minimum deviation) when passing through a prism?",
+            "options": [
+                "Red",
+                "Green",
+                "Blue",
+                "Violet"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Red light has the longest wavelength among the visible spectrum, causing it to bend (refract) the least compared to the other colors when passing through a prism."
+        },
+        {
+            "id": 50,
+            "question": "Which scientist used a glass prism for the first time to obtain the spectrum of white light and successfully recombined the spectrum into white light using a second inverted prism?",
+            "options": [
+                "Albert Einstein",
+                "Sir Isaac Newton",
+                "Galileo Galilei",
+                "Thomas Young"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sir Isaac Newton was the first to use a glass prism to get the spectrum of sunlight in 1665. He also placed a second identical prism in an inverted position to successfully recombine the spectrum back into white light, proving that white light is made up of seven constituent colors."
+        }
     ]
 }
