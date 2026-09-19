@@ -1,5 +1,5 @@
 {
-    "chapter": "The Human Eye And The Colourful World",
+    "chapter": "The Human Eye And The colorful World",
     "class": "Class-X",
     "language": "English",
     "year": "2026",
@@ -7,15 +7,229 @@
     "questions": [
         {
             "id": 1,
-            "question": "What is the chemical name and formula of the white ash formed when a magnesium ribbon is burned in the air?",
+            "question": "On which part of the human eye is the image of an object formed?",
             "options": [
-                "Magnesium hydroxide, Mg(OH)2",
-                "Magnesium oxide, MgO",
-                "Magnesium carbonate, MgCO3",
-                "Magnesium nitride, Mg3N2"
+                "Cornea",
+                "Pupil",
+                "Iris",
+                "Retina"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The light-sensitive screen at the back of the eye where a real and inverted image is formed is called the retina."
+        },
+        {
+            "id": 2,
+            "question": "Light enters the human eye through a thin membrane called:",
+            "options": [
+                "Cornea",
+                "Retina",
+                "Pupil",
+                "Iris"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Light enters the eye through a thin, transparent membrane on the front surface of the eyeball known as the cornea, which acts as the primary refractive surface of the eye."
+        },
+        {
+            "id": 3,
+            "question": "What is the approximate diameter of the human eyeball?",
+            "options": [
+                "1.3 cm",
+                "2.3 cm",
+                "4.5 cm",
+                "5.0 cm"
             ],
             "correctAnswer": 1,
-            "explanation": "When magnesium burns in the presence of oxygen from the air, it undergoes a combination reaction to form magnesium oxide (MgO), which appears as a white ash (2Mg + O2 -> 2MgO)."
+            "explanation": "The human eyeball is approximately spherical in shape with an approximate diameter of about 2.3 cm."
+        },
+        {
+            "id": 4,
+            "question": "Where does the major part of the refraction of light rays entering the human eye occur?",
+            "options": [
+                "Outer surface of the cornea",
+                "Pupil",
+                "Crystalline lens",
+                "Retina"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Light enters the eye through the cornea, and the major portion of the refraction or bending of light rays takes place at the outer surface of the cornea."
+        },
+        {
+            "id": 5,
+            "question": "The change in the focal length of the eye lens to focus on objects at varying distances is caused by the action of the:",
+            "options": [
+                "Pupil",
+                "Retina",
+                "Ciliary muscles",
+                "Iris"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The ciliary muscles modify the curvature of the crystalline lens, which changes its focal length—a process known as power of accommodation."
+        },
+        {
+            "id": 6,
+            "question": "Which dark muscular diaphragm controls the size of the pupil in the human eye?",
+            "options": [
+                "Ciliary muscles",
+                "Iris",
+                "Retina",
+                "Cornea"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The iris is a dark muscular diaphragm that controls the size of the pupil, regulating the amount of light entering the eye."
+        },
+        {
+            "id": 7,
+            "question": "Which part of the human eye controls and regulates the amount of light entering the eye by adjusting the size of the pupil?",
+            "options": [
+                "Cornea",
+                "Retina",
+                "Iris",
+                "Ciliary muscles"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The iris is a dark muscular diaphragm that controls the size of the pupil, thereby regulating and controlling the amount of light entering the eye."
+        },
+        {
+            "id": 8,
+            "question": "What are the properties of the image formed on the retina by the eye lens?",
+            "options": [
+                "Virtual and erect",
+                "Real and inverted",
+                "Virtual and inverted",
+                "Real and erect"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The eye lens forms a real and inverted image of the object on the light-sensitive screen called the retina."
+        },
+        {
+            "id": 9,
+            "question": "Which part of the human eye contains an enormous number of light-sensitive cells that generate electrical signals when light falls on them?",
+            "options": [
+                "Cornea",
+                "Iris",
+                "Pupil",
+                "Retina"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The retina is a delicate membrane containing an enormous number of light-sensitive cells (rods and cones) that convert light energy into electrical signals sent to the brain."
+        },
+        {
+            "id": 10,
+            "question": "Which nerve transmits the electrical signals generated by light-sensitive cells from the retina to the brain?",
+            "options": [
+                "Olfactory nerve",
+                "Optic nerve",
+                "Auditory nerve",
+                "Facial nerve"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The light-sensitive cells of the retina generate electrical signals when light falls on them, and these signals are then transmitted to the brain via the optic nerve."
+        },
+        {
+            "id": 11,
+            "question": "When the ciliary muscles are relaxed, the eye lens becomes thin, which enables us to see:",
+            "options": [
+                "Nearby objects clearly",
+                "Distant objects clearly",
+                "Only objects at a very close distance",
+                "Objects under water only"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When the ciliary muscles are relaxed, the eye lens becomes thin, which increases its focal length and allows us to focus on and see distant objects clearly."
+        },
+        {
+            "id": 12,
+            "question": "When the ciliary muscles contract, what change occurs in the eye lens to help us see nearby objects clearly?",
+            "options": [
+                "The eye lens becomes thin and its focal length increases.",
+                "The eye lens becomes thicker and its focal length decreases.",
+                "The eye lens remains completely rigid and unchanged.",
+                "The eye lens flattens and stops refracting light."
+            ],
+            "correctAnswer": 1,
+            "explanation": "When we view nearby objects, the ciliary muscles contract, which causes the curvature of the eye lens to increase, making it thicker. This decreases its focal length so that the image is properly focused on the retina."
+        },
+        {
+            "id": 13,
+            "question": "What is meant by the 'accommodation' of the human eye?",
+            "options": [
+                "The ability of the iris to control the amount of light entering the pupil",
+                "The ability of the eye lens to adjust its focal length to focus on objects at varying distances",
+                "The process by which the retina converts light into electrical signals",
+                "The ability of the cornea to perform the major refraction of light"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The ability of the eye lens to adjust its focal length using the ciliary muscles so as to clearly focus objects at varying distances on the retina is called accommodation."
+        },
+        {
+            "id": 14,
+            "question": "What is the least distance of distinct vision for a normal human eye?",
+            "options": [
+                "10 cm",
+                "25 cm",
+                "50 cm",
+                "Infinity"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The minimum distance at which objects can be seen most distinctly without any strain is called the least distance of distinct vision, and for a normal human eye, it is 25 cm."
+        },
+        {
+            "id": 15,
+            "question": "What is defined as the minimum distance at which an object can be seen most distinctly without any strain on the eye?",
+            "options": [
+                "Far point of the eye",
+                "Least distance of distinct vision",
+                "Radius of curvature of the cornea",
+                "Focal length of the eye lens"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The least distance of distinct vision (or near point of the eye) is the minimum distance at which an object can be seen most clearly and distinctly without strain, which is 25 cm for a normal human eye."
+        },
+        {
+            "id": 16,
+            "question": "What is the near point of the human eye?",
+            "options": [
+                "The maximum distance up to which the eye can see objects clearly, which is infinity.",
+                "The minimum distance from the eye at which an object can be seen most distinctly without strain, which is 25 cm for a normal eye.",
+                "The exact distance between the cornea and the retina.",
+                "The focal length of the crystalline lens when the ciliary muscles are fully relaxed."
+            ],
+            "correctAnswer": 1,
+            "explanation": "The near point of the eye (also called the least distance of distinct vision) is defined as the minimum distance from the eye at which an object can be seen most clearly and distinctly without any strain, equal to 25 cm for a normal human eye."
+        },
+        {
+            "id": 17,
+            "question": "What is the far point of a normal human eye?",
+            "options": [
+                "25 cm",
+                "50 cm",
+                "100 cm",
+                "Infinity"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The far point of the eye is the farthest point up to which the eye can see objects clearly, and for a normal human eye, it is infinity."
+        },
+        {
+            "id": 18,
+            "question": "What is the medical condition in older people where the crystalline lens of the eye becomes milky and cloudy, leading to a partial or complete loss of vision?",
+            "options": [
+                "Myopia",
+                "Hypermetropia",
+                "Cataract",
+                "Presbyopia"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Cataract is the condition where the crystalline lens of elderly people becomes milky and cloudy due to the formation of a membrane over it, causing partial or complete loss of vision, which can be corrected through surgery."
         }
+
+
+
+
+
+
+
+
+
+        
     ]
 }
