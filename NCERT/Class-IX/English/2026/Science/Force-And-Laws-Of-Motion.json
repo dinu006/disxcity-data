@@ -1,0 +1,21 @@
+{
+    "chapter": "Force and Laws of Motion",
+    "class": "Class-IX",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Who first discovered and named 'cells' by observing a thin slice of cork under a microscope in 1665?",
+            "options": [
+                "Scientist: Robert Brown",
+                "Scientist: Rudolf Virchow",
+                "Scientist: Antonie van Leeuwenhoek",
+                "Scientist: Robert Hooke"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Robert Hooke discovered and named cells in 1665 by observing dead plant cell walls in cork. He called them cells, which means 'little rooms'."
+        }
+    ]
+}
