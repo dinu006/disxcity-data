@@ -220,16 +220,381 @@
             ],
             "correctAnswer": 2,
             "explanation": "Cataract is the condition where the crystalline lens of elderly people becomes milky and cloudy due to the formation of a membrane over it, causing partial or complete loss of vision, which can be corrected through surgery."
-        }
+        },
+        {
+            "id": 19,
+            "question": "Which other name is commonly used for the vision defect known as myopia?",
+            "options": [
+                "Farsightedness",
+                "Nearsightedness",
+                "Presbyopia",
+                "Astigmatism"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Myopia is also known as nearsightedness. A person with myopia can see nearby objects clearly, but cannot see distant objects distinctly."
+        },
+        {
+            "id": 20,
+            "question": "A person suffering from myopia (nearsightedness) cannot clearly see:",
+            "options": [
+                "Nearby objects",
+                "Distant objects",
+                "Objects placed at 25 cm",
+                "Objects kept at the near point"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A person with myopia can see nearby objects clearly, but cannot see distant objects distinctly because the image of a distant object is formed in front of the retina rather than on it."
+        },
+        {
+            "id": 21,
+            "question": "Where is the image of a distant object formed in the eye of a person suffering from myopia (nearsightedness)?",
+            "options": [
+                "Behind the retina",
+                "Directly on the retina",
+                "In front of the retina",
+                "On the blind spot"
+            ],
+            "correctAnswer": 2,
+            "explanation": "In a myopic eye, the image of a distant object is formed in front of the retina rather than directly on it, which is why distant objects appear blurred."
+        },
+        {
+            "id": 22,
+            "question": "What are the two main causes or conditions that can lead to myopia (nearsightedness)?",
+            "options": [
+                "Excessive curvature of the eye lens and elongation of the eyeball",
+                "Flattening of the eye lens and shortening of the eyeball",
+                "Clouding of the crystalline lens and weakening of the iris",
+                "Decrease in the focal length of the cornea and loss of ciliary muscle elasticity"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Myopia is caused by either (1) excessive curvature of the eye lens or (2) elongation of the eyeball. Both of these conditions result in the image of a distant object being formed in front of the retina."
+        },
+        {
+            "id": 23,
+            "question": "Which type of lens is used to correct the vision defect known as myopia (nearsightedness)?",
+            "options": [
+                "Convex lens",
+                "Concave lens",
+                "Bifocal lens",
+                "Cylindrical lens"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Myopia is corrected by using a concave lens of suitable power, which diverges the incoming light rays so that they are focused on the retina."
+        },
+        {
+            "id": 24,
+            "question": "Which of the following vision defects is also known as farsightedness?",
+            "options": [
+                "Myopia",
+                "Hypermetropia",
+                "Cataract",
+                "Presbyopia"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hypermetropia is commonly known as farsightedness. A person with hypermetropia can see distant objects clearly, but cannot see nearby objects distinctly because the image of a close object is focused behind the retina."
+        },
+        {
+            "id": 25,
+            "question": "Which person or condition describes someone who cannot see distant objects clearly?",
+            "options": [
+                "A person suffering from hypermetropia",
+                "A person suffering from myopia",
+                "A person with normal vision looking at infinity",
+                "A person suffering from presbyopia only for near objects"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A person suffering from myopia (nearsightedness) can see nearby objects clearly, but cannot see distant objects distinctly because the image is formed in front of the retina."
+        },
+        {
+            "id": 26,
+            "question": "The increase in the near point of the eye (commonly seen in old age or presbyopia) is primarily due to:",
+            "options": [
+                "Elongation of the eyeball and excessive curvature of the cornea",
+                "Gradual weakening of the ciliary muscles and diminishing flexibility of the eye lens",
+                "Clouding of the crystalline lens membrane",
+                "A sudden decrease in the refractive index of the aqueous humor"
+            ],
+            "correctAnswer": 1,
+            "explanation": "As people age, accommodation power decreases due to the gradual weakening of the ciliary muscles and diminishing flexibility (loss of elasticity) of the crystalline lens, causing the near point to recede further away."
+        },
+        {
+            "id": 27,
+            "question": "What are the two main causes of hypermetropia (farsightedness)?",
+            "options": [
+                "Excessive curvature of the eye lens and elongation of the eyeball",
+                "The focal length of the eye lens is too long and the eyeball has become too small",
+                "Clouding of the crystalline lens and complete loss of accommodation",
+                "A sudden decrease in the refractive index of the aqueous humor"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hypermetropia is caused by either (1) the focal length of the eye lens being too long, or (2) the eyeball having become too small, which results in images of nearby objects being focused behind the retina."
+        },
+        {
+            "id": 28,
+            "question": "What are the two main causes of hypermetropia (farsightedness)?",
+            "options": [
+                "Excessive curvature of the eye lens and elongation of the eyeball",
+                "The focal length of the eye lens is too long and the eyeball has become too small",
+                "Clouding of the crystalline lens and complete loss of accommodation",
+                "A sudden decrease in the refractive index of the aqueous humor"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hypermetropia is caused by either (1) the focal length of the eye lens being too long, or (2) the eyeball having become too small, which results in images of nearby objects being focused behind the retina."
+        },
+        {
+            "id": 29,
+            "question": "What is the vision defect known as presbyopia?",
+            "options": [
+                "The inability to see distant objects clearly due to an elongated eyeball",
+                "The power of accommodation of the eye usually decreases with aging, causing the near point to gradually recede",
+                "The total clouding of the crystalline lens causing complete blindness",
+                "The distortion of vision due to an irregular curvature of the cornea"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Presbyopia is the defect of vision arising from old age, where the power of accommodation of the eye decreases due to the gradual weakening of the ciliary muscles and diminishing flexibility of the eye lens, making it difficult to see nearby objects comfortably."
+        },
+        {
+            "id": 30,
+            "question": "What is the primary cause of presbyopia?",
+            "options": [
+                "Excessive elongation of the eyeball and a very thick lens",
+                "Gradual weakening of the ciliary muscles and diminishing flexibility of the eye lens",
+                "The formation of a milky membrane over the cornea",
+                "A sudden decrease in the distance between the lens and the retina"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Presbyopia is caused by the gradual weakening of the ciliary muscles and the diminishing flexibility (loss of elasticity) of the crystalline lens as a person ages, reducing the eye's power of accommodation."
+        },
+        {
+            "id": 31,
+            "question": "Which type of lens is commonly used to correct the vision defect known as presbyopia?",
+            "options": [
+                "Concave lens",
+                "Cylindrical lens",
+                "Bifocal lens",
+                "Plane glass"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Presbyopia is commonly corrected using bifocal lenses (which contain both concave lenses for viewing distant objects and convex lenses for reading/nearby objects). Simple convex lenses can also be used if the person only needs assistance with close-up vision."
+        },
+        {
+            "id": 32,
+            "question": "Within what time frame after death must the eyes of a donor be removed to ensure successful eye donation?",
+            "options": [
+                "Within 1 to 2 hours",
+                "Within 4 to 6 hours",
+                "Within 24 hours",
+                "Within 48 hours"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Eyes must be removed within 4 to 6 hours after death to ensure the donated corneas remain viable for transplantation."
+        },
+        {
+            "id": 33,
+            "question": "Which of the following individuals or persons with specific conditions CANNOT donate their eyes?",
+            "options": [
+                "A person who has diabetes or hypertension",
+                "A person who wore spectacles or had cataract surgery",
+                "A person who died of AIDS, rabies, cholera, or acute leukemia",
+                "A person who is over 70 years old"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Eyes cannot be donated by persons who have died from communicable or infectious diseases such as AIDS, hepatitis B or C, rabies, cholera, acute leukemia, tetanus, or infectious brain diseases like Creutzfeldt-Jakob disease, as these can transmit infections to the recipient."
+        },
+        {
+            "id": 34,
+            "question": "What is the angle of a prism?",
+            "options": [
+                "The angle between the refracting surfaces of the prism Or angle of rectrangle surfaces",
+                "The angle at which light enters the base of the prism",
+                "The angle of deviation between the incident ray and emergent ray",
+                "The angle between the base and the top edge of the prism"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The angle between the two refracting surfaces of a glass prism is called the angle of the prism (or refracting angle)."
+        },
+        {
+            "id": 35,
+            "question": "What is an incident ray in optics?",
+            "options": [
+                "The ray of light that strikes or falls on a reflecting or refracting surface",
+                "The ray of light that bounces off a mirror after reflection",
+                "The ray of light that emerges out of a prism or lens",
+                "The ray of light that travels parallel to the principal axis"
+            ],
+            "correctAnswer": 0,
+            "explanation": "An incident ray is the ray of light that falls upon or strikes a surface (such as a mirror, lens, or prism) before reflection or refraction takes place."
+        },
+        {
+            "id": 36,
+            "question": "What is a refracted ray in optics?",
+            "options": [
+                "The ray of light that bounces back into the first medium after striking a reflective surface",
+                "The ray of light that travels into the second medium after changing its direction at the boundary between two transparent media",
+                "The ray of light that passes straight through a medium without any change in speed or path",
+                "The ray of light that travels strictly perpendicular along the normal line"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When light travels obliquely from one transparent medium into another, it bends at the boundary separating the two media. The ray of light that continues its journey through the second medium is called the refracted ray."
+        },
+        {
+            "id": 37,
+            "question": "What is an emergent ray in optics?",
+            "options": [
+                "The ray of light that strikes the first refracting surface of a prism",
+                "The ray of light that travels inside a medium parallel to the normal",
+                "The ray of light that emerges or comes out of a transparent medium after refraction",
+                "The ray of light that is totally reflected back into the first medium"
+            ],
+            "correctAnswer": 2,
+            "explanation": "An emergent ray is the final ray of light that comes out (or emerges) into the surrounding medium after passing through and undergoing refraction in an optical device like a glass slab or a prism."
+        },
+        {
+            "id": 38,
+            "question": "What is the angle of incidence in optics?",
+            "options": [
+                "The angle between the incident ray and the reflecting or refracting surface",
+                "The angle between the incident ray and the normal at the point of incidence",
+                "The angle between the incident ray and the emergent ray",
+                "The angle between the refracted ray and the normal"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The angle of incidence is defined as the angle formed between the incident ray and the normal (the perpendicular line drawn to the surface) at the point where the light ray strikes the surface."
+        },
+        {
+            "id": 39,
+            "question": "What is the angle of refraction in optics?",
+            "options": [
+                "The angle between the incident ray and the normal",
+                "The angle between the refracted ray and the normal at the point of incidence",
+                "The angle between the emergent ray and the refracting surface",
+                "The angle between the incident ray and the emergent ray"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The angle of refraction is defined as the angle between the refracted ray and the normal (perpendicular line drawn to the surface) at the point where the light ray enters the second medium."
+        },
+        {
+            "id": 40,
+            "question": "What is the angle of emergence in optics?",
+            "options": [
+                "The angle between the emergent ray and the refracting surface",
+                "The angle between the emergent ray and the normal at the point of emergence",
+                "The angle between the incident ray and the emergent ray",
+                "The angle between the refracted ray and the normal inside the medium"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The angle of emergence is defined as the angle between the emergent ray and the normal (perpendicular line) drawn at the surface where the light ray exits or emerges from a transparent medium into the surrounding air."
+        },
+        {
+            "id": 41,
+            "question": "What is the angle of emergence in optics?",
+            "options": [
+                "The angle between the emergent ray and the refracting surface",
+                "The angle between the emergent ray and the normal at the point of emergence",
+                "The angle between the incident ray and the emergent ray",
+                "The angle between the refracted ray and the normal inside the medium"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The angle of emergence is defined as the angle between the emergent ray and the normal (perpendicular line) drawn at the surface where the light ray exits or emerges from a transparent medium into the surrounding air."
+        },
+        {
+            "id": 42,
+            "question": "What is the angle of deviation in optics when a ray of light passes through a prism?",
+            "options": [
+                "The angle between the two refracting surfaces of the prism",
+                "The angle between the incident ray (produced forward) and the emergent ray (produced backward)",
+                "The angle between the incident ray and the normal at the point of incidence",
+                "The angle between the refracted ray and the base of the prism"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The angle of deviation is the angle between the direction of the incident ray and the emergent ray, representing how much the light ray has been bent from its original path as it passes through the prism."
+        },
+        {
+            "id": 43,
+            "question": "When a ray of light travels from an optically rarer (lighter) medium to a denser medium, in which direction does it bend?",
+            "options": [
+                "Towards the normal",
+                "Away from the normal",
+                "It passes straight without any deviation",
+                "Parallel to the surface boundary"
+            ],
+            "correctAnswer": 0,
+            "explanation": "When light travels from an optically rarer (lighter) medium to a denser medium, its speed decreases, causing it to bend towards the normal."
+        },
+        {
+            "id": 44,
+            "question": "When a ray of light travels from an optically denser medium to a rarer (lighter) medium, in which direction does it bend?",
+            "options": [
+                "Towards the normal",
+                "Away from the normal",
+                "It passes straight without any deviation",
+                "Along the surface separating the two media"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When light travels from an optically denser medium to a rarer medium, its speed increases, causing it to bend away from the normal."
+        },
+        {
+            "id": 45,
+            "question": "What is the acronym or short form used to remember the sequence of colors in the spectrum created by the dispersion of white light?",
+            "options": [
+                "ROYGBIV",
+                "VIBGYOR",
+                "RGBYV",
+                "VBGYOR"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The spectrum of white light consists of seven colors: Violet, Indigo, Blue, Green, Yellow, Orange, and Red, which are commonly remembered by the short form/acronym VIBGYOR."
+        },
+        {
+            "id": 46,
+            "question": "What is a spectrum in optics?",
+            "options": [
+                "The band of distinct colored components of a light beam separated by a prism",
+                "The angle formed between the incident ray and the emergent ray",
+                "The ray of light that travels straight through a medium without deviation",
+                "The point where the normal meets the refracting surface"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A spectrum is the band of distinct colored components (such as VIBGYOR) that is formed when a beam of white light passes through a transparent medium like a glass prism and undergoes dispersion."
+        },
+        {
+            "id": 47,
+            "question": "What is dispersion of light?",
+            "options": [
+                "The bouncing back of light rays from a polished reflecting surface",
+                "The splitting of white light into its constituent seven colors when passing through a transparent medium like a prism",
+                "The bending of light around the sharp corners of an obstacle",
+                "The total internal reflection of light rays inside a denser medium"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dispersion is the phenomenon of splitting a beam of white light into its constituent seven colors (VIBGYOR) due to the differences in how much each color refracts when passing through a transparent medium like a glass prism."
+        },
+        {
+    "id": 48,
+    "question": "Which color among VIBGYOR bends the highest (has the maximum deviation) when passing through a prism?",
+    "options": [
+        "Red",
+        "Yellow",
+        "Green",
+        "Violet"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Violet light has the shortest wavelength among the visible spectrum, causing it to travel slower in the glass medium and bend (refract) the most compared to the other colors."
+},
+
+{
+    "id": 49,
+    "question": "Which color among VIBGYOR bends the lowest (has the minimum deviation) when passing through a prism?",
+    "options": [
+        "Red",
+        "Green",
+        "Blue",
+        "Violet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Red light has the longest wavelength among the visible spectrum, causing it to bend (refract) the least compared to the other colors when passing through a prism."
+},
 
 
-
-
-
-
-
-
-
-        
     ]
 }
