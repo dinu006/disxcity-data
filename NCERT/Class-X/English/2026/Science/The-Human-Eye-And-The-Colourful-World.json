@@ -1,0 +1,885 @@
+{
+    "chapter": "Chemical Reactions and Equations",
+    "class": "Class-X",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the chemical name and formula of the white ash formed when a magnesium ribbon is burned in the air?",
+            "options": [
+                "Magnesium hydroxide, Mg(OH)2",
+                "Magnesium oxide, MgO",
+                "Magnesium carbonate, MgCO3",
+                "Magnesium nitride, Mg3N2"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When magnesium burns in the presence of oxygen from the air, it undergoes a combination reaction to form magnesium oxide (MgO), which appears as a white ash (2Mg + O2 -> 2MgO)."
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is the correctly balanced chemical equation for the burning of magnesium in air?",
+            "options": [
+                "Mg + O2 -> MgO",
+                "2Mg + O2 -> 2MgO",
+                "Mg + 2O2 -> MgO2",
+                "2Mg + 2O2 -> 2MgO"
+            ],
+            "correctAnswer": 1,
+            "explanation": "To balance the reaction where magnesium reacts with oxygen to form magnesium oxide, two atoms of magnesium react with one molecule of oxygen gas to produce two molecules of magnesium oxide: 2Mg + O2 -> 2MgO."
+        },
+        {
+            "id": 3,
+            "question": "What is observed when a lead nitrate solution is added to a potassium iodide solution?",
+            "options": [
+                "A white precipitate is formed",
+                "A yellow precipitate of lead iodide is formed",
+                "Evolution of brown fumes of nitrogen dioxide",
+                "No reaction takes place"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When lead nitrate reacts with potassium iodide, a double displacement reaction occurs, resulting in the formation of lead iodide, which appears as a striking yellow precipitate (Pb(NO3)2 + 2KI -> PbI2 + 2KNO3)."
+        },
+        {
+            "id": 4,
+            "question": "Which of the following represents the balanced chemical equation for the reaction between lead nitrate and potassium iodide?",
+            "options": [
+                "Pb(NO3)2 + KI -> PbI + KNO3",
+                "Pb(NO3)2 + 2KI -> PbI + 2KNO3",
+                "Pb(NO3)2 + 2KI -> PbI2 + 2KNO3",
+                "PbNO3 + KI -> PbI + KNO3"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Lead has a valency of 2, so its formula with nitrate is Pb(NO3)2 and with iodide is PbI2. Balancing the equation gives: Pb(NO3)2(aq) + 2KI(aq) -> PbI2(s) + 2KNO3(aq)."
+        },
+        {
+            "id": 5,
+            "question": "What happens when zinc granules react with dilute hydrochloric acid or sulphuric acid?",
+            "options": [
+                "Oxygen gas is evolved and the test tube becomes cold",
+                "Hydrogen gas is evolved and a change in temperature (increase in temperature) is observed",
+                "Chlorine gas is evolved and the solution turns green",
+                "No reaction takes place between zinc and dilute acids"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When zinc granules react with dilute hydrochloric acid or sulphuric acid, a chemical reaction takes place resulting in the evolution of hydrogen gas and an increase in the temperature of the conical flask or test tube."
+        },
+        {
+            "id": 6,
+            "question": "Which of the following sets of observations can be used to determine whether a chemical reaction has taken place?",
+            "options": [
+                "Only evolution of a gas and change in state",
+                "Only change in color and change in temperature",
+                "Change in state, change in color, evolution of a gas, and change in temperature",
+                "Only change in state"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A chemical reaction is typically characterized by one or more of these features: a change in state, a change in color, the evolution of a gas, or a change in temperature."
+        },
+        {
+            "id": 7,
+            "question": "Which of the following is the balanced chemical equation for the reaction between zinc and sulphuric acid?",
+            "options": [
+                "Zn + 2H2SO4 -> Zn(SO4)2 + 2H2",
+                "2Zn + H2SO4 -> 2ZnSO4 + H2",
+                "Zn + H2SO4 -> ZnSO4 + H2",
+                "Zn + HSO4 -> ZnSO4 + H"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Zinc reacts with dilute sulphuric acid to produce zinc sulphate and hydrogen gas. The correct balanced equation is Zn(s) + H2SO4(aq) -> ZnSO4(aq) + H2(g)."
+        },
+        {
+            "id": 8,
+            "question": "Which of the following represents the correct balanced chemical equation when iron reacts with steam?",
+            "options": [
+                "Fe(s) + H2O(g) -> FeO(s) + H2(g)",
+                "2Fe(s) + 3H2O(g) -> Fe2O3(s) + 3H2(g)",
+                "3Fe(s) + 4H2O(g) -> Fe3O4(s) + 4H2(g)",
+                "Fe(s) + 2H2O(g) -> FeO2(s) + 2H2(g)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Iron reacts with steam to form iron(II,III) oxide (Fe3O4) and hydrogen gas. The correct balanced chemical equation is 3Fe(s) + 4H2O(g) -> Fe3O4(s) + 4H2(g)."
+        },
+        {
+            "id": 9,
+            "question": "In a chemical equation, what do the symbols (g), (l), (aq), and (s) respectively represent?",
+            "options": [
+                "Grams, Liters, Aqueous, Seconds",
+                "Gas, Liquid, Catalyst, Solid",
+                "Gaseous, Liquid, Aqueous solution, Solid",
+                "Gravity, Length, Area, Speed"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The symbols (g), (l), (aq), and (s) are used in chemical equations to specify the physical states of the substances: (g) stands for gaseous state, (l) for liquid state, (aq) for aqueous solution (dissolved in water), and (s) for solid state."
+        },
+        {
+            "id": 10,
+            "question": "What product is formed when carbon monoxide reacts with hydrogen at a high pressure of 340 atm?",
+            "options": [
+                "Methane (CH4)",
+                "Formaldehyde (HCHO)",
+                "Methanol (CH3OH)",
+                "Ethanol (C2H5OH)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When carbon monoxide reacts with hydrogen gas at 340 atm pressure (in the presence of a proper catalyst), it undergoes a combination reaction to form methanol: CO(g) + 2H2(g) -> CH3OH(l)."
+        },
+        {
+            "id": 11,
+            "question": "Which of the following represents the completely balanced equation for photosynthesis including water molecules on both sides?",
+            "options": [
+                "6CO2 + 6H2O -> C6H12O6 + 6O2",
+                "6CO2 + 12H2O -> C6H12O6 + 6O2 + 6H2O",
+                "CO2 + H2O -> C6H12O6 + O2 + H2O",
+                "12CO2 + 6H2O -> C6H12O6 + 6O2 + 12H2O"
+            ],
+            "correctAnswer": 1,
+            "explanation": "During photosynthesis, 12 molecules of water are consumed, and 6 molecules of water are released along with glucose and oxygen gas: 6CO2(aq) + 12H2O(l) -> C6H12O6(aq) + 6O2(aq) + 6H2O(l)."
+        },
+        {
+            "id": 12,
+            "question": "Why is it necessary to clean a magnesium ribbon with sandpaper before burning it in air?",
+            "options": [
+                "To increase its electrical conductivity",
+                "To remove dust particles stuck to the surface",
+                "To remove the protective layer of magnesium oxide/carbonate formed on its surface",
+                "To make the metal react faster by cooling it down"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Magnesium is a reactive metal that reacts with moist air to form a protective coating of basic magnesium oxide or carbonate on its surface. Rubbing it with sandpaper removes this layer so the pure metal can easily come in contact with oxygen and burn."
+        },
+        {
+            "id": 13,
+            "question": "Which of the following is the correctly balanced chemical equation for the reaction between hydrogen and chlorine?",
+            "options": [
+                "H2 + Cl2 -> HCl",
+                "2H2 + 2Cl2 -> 4HCl",
+                "H2 + Cl2 -> 2HCl",
+                "H2 + 2Cl2 -> 2HCl"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Hydrogen and chlorine react to form hydrogen chloride. Since there are two atoms of hydrogen and two atoms of chlorine on the reactant side, we place a coefficient of 2 in front of HCl to balance the equation: H2 + Cl2 -> 2HCl."
+        },
+        {
+            "id": 14,
+            "question": "What is observed when an aqueous solution of barium chloride is mixed with an aqueous solution of aluminium sulphate?",
+            "options": [
+                "A yellow precipitate of barium chloride is formed",
+                "A blue precipitate of aluminium sulphate is formed",
+                "A white precipitate of barium sulphate is formed",
+                "A black precipitate of aluminium chloride is formed"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When barium chloride reacts with aluminium sulphate, it undergoes a double displacement and precipitation reaction, forming a white precipitate of barium sulphate (3BaCl2 + Al2(SO4)3 -> 3BaSO4 + 2AlCl3)."
+        },
+        {
+            "id": 15,
+            "question": "Which of the following is the correctly balanced chemical equation for the reaction between barium chloride and aluminium sulphate?",
+            "options": [
+                "BaCl2 + Al2(SO4)3 -> BaSO4 + AlCl3",
+                "2BaCl2 + Al2(SO4)3 -> 2BaSO4 + 2AlCl3",
+                "3BaCl2 + Al2(SO4)3 -> 3BaSO4 + 2AlCl3",
+                "3BaCl2 + 2Al2(SO4)3 -> 3BaSO4 + 4AlCl3"
+            ],
+            "correctAnswer": 2,
+            "explanation": "To balance the reaction, 3 moles of barium chloride react with 1 mole of aluminium sulphate to produce 3 moles of barium sulphate precipitate and 2 moles of aluminium chloride: 3BaCl2(aq) + Al2(SO4)3(aq) -> 3BaSO4(s) + 2AlCl3(aq)."
+        },
+        {
+            "id": 16,
+            "question": "Which of the following is the correctly balanced chemical equation for the reaction between sodium and water?",
+            "options": [
+                "Na + H2O -> NaOH + H2",
+                "2Na + 2H2O -> 2NaOH + H2",
+                "2Na + H2O -> Na2O + H2",
+                "Na + 2H2O -> Na2O2 + 2H2"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sodium reacts vigorously with water in an exothermic reaction to form sodium hydroxide and hydrogen gas. The correct balanced chemical equation is 2Na(s) + 2H2O(l) -> 2NaOH(aq) + H2(g)."
+        },
+        {
+            "id": 17,
+            "question": "What is observed when an aqueous solution of barium chloride is reacted with an aqueous solution of sodium sulphate?",
+            "options": [
+                "A blue precipitate of copper sulphate is formed",
+                "A pungent-smelling gas is evolved",
+                "No chemical reaction takes place",
+                "A white precipitate of barium sulphate and a solution of sodium chloride are formed"
+            ],
+            "correctAnswer": 3,
+            "explanation": "When barium chloride reacts with sodium sulphate, a double displacement reaction occurs, producing an insoluble white precipitate of barium sulphate (BaSO4) and aqueous sodium chloride: BaCl2(aq) + Na2SO4(aq) -> BaSO4(s) + 2NaCl(aq)."
+        },
+        {
+            "id": 18,
+            "question": "Which of the following represents the correctly balanced chemical equation for the reaction between barium chloride and sodium sulphate?",
+            "options": [
+                "BaCl2 + Na2SO4 -> BaSO4 + NaCl",
+                "BaCl2 + 2Na2SO4 -> BaSO4 + 2NaCl",
+                "BaCl2 + Na2SO4 -> BaSO4 + 2NaCl",
+                "2BaCl2 + Na2SO4 -> 2BaSO4 + NaCl"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When aqueous solutions of barium chloride and sodium sulphate react, they undergo a double displacement reaction to form a white precipitate of barium sulphate and two molecules of aqueous sodium chloride: BaCl2(aq) + Na2SO4(aq) -> BaSO4(s) + 2NaCl(aq)."
+        },
+        {
+            "id": 19,
+            "question": "What are the products formed when an aqueous solution of sodium hydroxide reacts with hydrochloric acid?",
+            "options": [
+                "Sodium carbonate and water",
+                "Sodium chloride solution and water",
+                "Sodium oxide and hydrogen gas",
+                "Sodium metal and chlorine gas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When a base (sodium hydroxide) reacts with an acid (hydrochloric acid), a neutralization reaction occurs to produce a salt (sodium chloride) and water: NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)."
+        },
+        {
+            "id": 20,
+            "question": "Which of the following is the correctly balanced chemical equation for the neutralization reaction between sodium hydroxide and hydrochloric acid?",
+            "options": [
+                "NaOH + 2HCl -> NaCl2 + H2O",
+                "2NaOH + HCl -> Na2Cl + H2O",
+                "NaOH + HCl -> NaCl + H2O",
+                "NaOH + HCl -> NaH + ClO"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Sodium hydroxide reacts with hydrochloric acid to form sodium chloride and water. The equation is already balanced as written: NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)."
+        },
+        {
+            "id": 21,
+            "question": "Which of the following best defines a combination reaction?",
+            "options": [
+                "A reaction in which two or more reactants combine to form a single product",
+                "A reaction in which a single reactant breaks down into two or more simpler products",
+                "A reaction in which a more reactive element displaces a less reactive element",
+                "A reaction in which two ionic compounds exchange ions to form new compounds"
+            ],
+            "correctAnswer": 0,
+            "explanation": "By definition, a combination reaction is one where multiple reactants join together to yield one single product (represented generally as A + B -> C)."
+        },
+        {
+            "id": 22,
+            "question": "What is the common name of calcium oxide (CaO)?",
+            "options": [
+                "Slaked lime",
+                "Quicklime",
+                "Limestone",
+                "Caustic soda"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Calcium oxide (CaO) is commonly known as quicklime. When it reacts with water, it forms slaked lime (calcium hydroxide)."
+        },
+        {
+            "id": 23,
+            "question": "What is formed when quicklime (CaO) reacts vigorously with water?",
+            "options": [
+                "Calcium carbonate and carbon dioxide gas",
+                "Slaked lime (calcium hydroxide) with the release of heat",
+                "Calcium metal and hydrogen gas",
+                "Calcium oxide hydrate with a drop in temperature"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When calcium oxide reacts with water, a combination reaction takes place forming slaked lime [Ca(OH)2] accompanied by the release of a large amount of heat: CaO + H2O -> Ca(OH)2 + Heat."
+        },
+        {
+            "id": 24,
+            "question": "What is the common name for calcium hydroxide, Ca(OH)2?",
+            "options": [
+                "Quicklime",
+                "Limestone",
+                "Slaked lime",
+                "Caustic potash"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Calcium hydroxide [Ca(OH)2] is commonly called slaked lime, which is formed when quicklime (CaO) reacts with water."
+        },
+        {
+            "id": 25,
+            "question": "Which of the following compounds is used for whitewashing walls?",
+            "options": [
+                "Calcium oxide (CaO)",
+                "Calcium carbonate (CaCO3)",
+                "Calcium hydroxide [Ca(OH)2]",
+                "Calcium sulphate (CaSO4)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "An aqueous solution of slaked lime, which is calcium hydroxide [Ca(OH)2], is used for whitewashing. It reacts with carbon dioxide in the air to form a shiny white coating of calcium carbonate."
+        },
+        {
+            "id": 26,
+            "question": "During whitewashing, which compound reacts slowly with carbon dioxide in the air to form a shiny white finish of calcium carbonate?",
+            "options": [
+                "Calcium oxide (CaO)",
+                "Calcium carbonate (CaCO3)",
+                "Calcium hydroxide [Ca(OH)2]",
+                "Calcium chloride (CaCl2)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Calcium hydroxide solution applied during whitewashing reacts slowly with carbon dioxide from the air over two to three days to form a hard, shiny layer of calcium carbonate."
+        },
+        {
+            "id": 27,
+            "question": "What is the chemical formula for marble?",
+            "options": [
+                "CaO",
+                "Ca(OH)2",
+                "CaCO3",
+                "CaCl2"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Marble is chemically composed of calcium carbonate, which has the chemical formula CaCO3."
+        },
+        {
+            "id": 28,
+            "question": "Which of the following statements best describes an exothermic reaction?",
+            "options": [
+                "A reaction in which heat is absorbed from the surroundings",
+                "A reaction in which heat is released along with the formation of products",
+                "A reaction that takes place only in the presence of sunlight",
+                "A reaction in which a single reactant breaks down into simpler substances"
+            ],
+            "correctAnswer": 1,
+            "explanation": "An exothermic reaction is a chemical process where heat energy is released to the surroundings, often causing an increase in temperature."
+        },
+        {
+            "id": 29,
+            "question": "Which of the following is the correctly balanced chemical equation for the burning of coal in air?",
+            "options": [
+                "2C(s) + O2(g) -> 2CO(g)",
+                "C(s) + 2O2(g) -> CO2(g)",
+                "C(s) + O2(g) -> CO2(g)",
+                "C(s) + O(g) -> CO(g)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Coal consists mainly of carbon. When it burns in the presence of oxygen, it undergoes a combination and exothermic reaction to form carbon dioxide: C(s) + O2(g) -> CO2(g)."
+        },
+        {
+            "id": 30,
+            "question": "Which of the following is the correctly balanced chemical equation for the formation of water from hydrogen and oxygen?",
+            "options": [
+                "H2(g) + O2(g) -> H2O(l)",
+                "H2(g) + 2O2(g) -> H2O2(l)",
+                "2H2(g) + O2(g) -> 2H2O(l)",
+                "4H2(g) + O2(g) -> 2H2O2(l)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "To balance the reaction, two molecules of hydrogen gas react with one molecule of oxygen gas to produce two molecules of liquid water: 2H2(g) + O2(g) -> 2H2O(l)."
+        },
+        {
+            "id": 31,
+            "question": "What is observed when carbon dioxide gas is passed through lime water?",
+            "options": [
+                "The solution turns deep blue with no precipitate",
+                "A pungent-smelling brown gas is evolved",
+                "The solution turns milky due to the formation of a white precipitate of calcium carbonate",
+                "The solution becomes strongly acidic and bubbles vigorously"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Passing carbon dioxide gas through lime water [Ca(OH)2] produces an insoluble white precipitate of calcium carbonate (CaCO3), which turns the clear solution milky: Ca(OH)2(aq) + CO2(g) -> CaCO3(s) + H2O(l)."
+        },
+        {
+            "id": 32,
+            "question": "What are the products formed when glucose reacts with oxygen during cellular respiration in our body?",
+            "options": [
+                "Carbon monoxide, oxygen, and heat",
+                "Carbon dioxide, water, and energy",
+                "Alcohol, carbon dioxide, and energy",
+                "Lactic acid and water only"
+            ],
+            "correctAnswer": 1,
+            "explanation": "During respiration, glucose combines with oxygen in our body cells to form carbon dioxide and water, while releasing energy: C6H12O6 + 6O2 -> 6CO2 + 6H2O + Energy."
+        },
+        {
+            "id": 33,
+            "question": "Which of the following best defines a decomposition reaction?",
+            "options": [
+                "A reaction in which two or more reactants combine to form a single product",
+                "A reaction in which a single reactant breaks down into two or more simpler products",
+                "A reaction in which a more reactive metal displaces a less reactive metal from its salt solution",
+                "A reaction in which two compounds exchange ions to form new compounds"
+            ],
+            "correctAnswer": 1,
+            "explanation": "By definition, a decomposition reaction is the opposite of a combination reaction, where one single reactant splits into multiple simpler substances (represented generally as AB -> A + B)."
+        },
+        {
+            "id": 34,
+            "question": "What gases are released when green ferrous sulphate crystals are strongly heated?",
+            "options": [
+                "Oxygen and hydrogen gas",
+                "Carbon dioxide and water vapour",
+                "Sulphur dioxide and sulphur trioxide",
+                "Nitrogen dioxide and oxygen gas"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When ferrous sulphate crystals are strongly heated, they decompose to form a reddish-brown ferric oxide residue along with the release of sulphur dioxide (SO2) and sulphur trioxide (SO3) gases, which have a characteristic suffocating odour."
+        },
+        {
+            "id": 35,
+            "question": "Which of the following are the products formed when ferrous sulphate undergoes strong thermal decomposition?",
+            "options": [
+                "Ferric oxide, oxygen, and hydrogen",
+                "Ferric oxide, sulphur dioxide, and sulphur trioxide",
+                "Ferrous oxide, carbon dioxide, and water",
+                "Ferrous sulphide and oxygen gas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Strong heating of green ferrous sulphate crystals results in a decomposition reaction that forms a solid reddish-brown ferric oxide (Fe2O3) residue, along with the release of sulphur dioxide (SO2) and sulphur trioxide (SO3) gases."
+        },
+        {
+            "id": 36,
+            "question": "Which of the following represents the correctly balanced chemical equation for the thermal decomposition of ferrous sulphate?",
+            "options": [
+                "FeSO4(s) -> FeO(s) + SO2(g) + SO3(g)",
+                "2FeSO4(s) -> Fe2O3(s) + SO2(g) + SO3(g)",
+                "3FeSO4(s) -> Fe3O4(s) + SO2(g) + 2SO3(g)",
+                "FeSO4(s) -> Fe2O3(s) + SO3(g)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When green ferrous sulphate crystals are heated, two molecules of FeSO4 decompose to form one molecule of ferric oxide (Fe2O3), one molecule of sulphur dioxide (SO2), and one molecule of sulphur trioxide (SO3): 2FeSO4(s) -> Fe2O3(s) + SO2(g) + SO3(g)."
+        },
+        {
+            "id": 37,
+            "question": "What is the color of the solid residue (ferric oxide) formed when ferrous sulphate crystals are strongly heated?",
+            "options": [
+                "Green",
+                "White",
+                "Reddish-brown",
+                "Blue"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When green ferrous sulphate crystals undergo thermal decomposition, the solid residue left behind is ferric oxide (Fe2O3), which is reddish-brown in color."
+        },
+        {
+            "id": 38,
+            "question": "What are the respective colors of ferrous sulphate crystals and the solid product (ferric oxide) formed during its thermal decomposition, along with the correct equation?",
+            "options": [
+                "Green and White; FeSO4(s) -> FeO(s) + SO2(g) + SO3(g)",
+                "Blue and Black; 2CuSO4(s) -> 2CuO(s) + 2SO3(g)",
+                "Green and Reddish-brown; 2FeSO4(s) -> Fe2O3(s) + SO2(g) + SO3(g)",
+                "White and Yellow; ZnSO4(s) -> ZnO(s) + SO3(g)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Hydrated ferrous sulphate crystals are green in color, and upon strong heating, they decompose to form a reddish-brown solid residue of ferric oxide along with sulphur dioxide and sulphur trioxide gases: 2FeSO4(s) -> Fe2O3(s) + SO2(g) + SO3(g)."
+        },
+        {
+            "id": 39,
+            "question": "Which of the following represents the correctly balanced chemical equation for the thermal decomposition of limestone?",
+            "options": [
+                "CaCO3(s) -> CaO(s) + CO(g)",
+                "2CaCO3(s) -> 2CaO(s) + C(s) + O2(g)",
+                "Ca(OH)2(s) -> CaO(s) + H2O(g)",
+                "CaCO3(s) -> CaO(s) + CO2(g)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "When limestone (calcium carbonate) is heated, it decomposes into solid quicklime (calcium oxide) and carbon dioxide gas: CaCO3(s) -> CaO(s) + CO2(g)."
+        },
+        {
+            "id": 40,
+            "question": "What is the correctly balanced chemical equation for the thermal decomposition of lead nitrate?",
+            "options": [
+                "Pb(NO3)2(s) -> PbO(s) + 2NO2(g) + O2(g)",
+                "2Pb(NO3)2(s) -> 2PbO(s) + 4NO2(g) + O2(g)",
+                "Pb(NO3)2(s) -> Pb(NO2)2(s) + O2(g)",
+                "3Pb(NO3)2(s) -> 3PbO(s) + 2NO2(g) + 2O2(g)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When lead nitrate is strongly heated, two molecules decompose to form two molecules of yellow lead oxide (PbO), four molecules of nitrogen dioxide gas (4NO2) producing brown fumes, and one molecule of oxygen gas (O2)."
+        },
+        {
+            "id": 41,
+            "question": "What are the respective colors of lead nitrate crystals and the lead oxide residue formed after its thermal decomposition?",
+            "options": [
+                "Green and Reddish-brown",
+                "White and Yellow",
+                "Blue and Black",
+                "Yellow and White"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lead nitrate crystals are white in color, and upon thermal decomposition, they leave behind a yellow solid residue of lead oxide (PbO)."
+        },
+        {
+            "id": 42,
+            "question": "What is the original color of silver chloride (AgCl) crystals?",
+            "options": [
+                "Yellow",
+                "Green",
+                "White",
+                "Reddish-brown"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Silver chloride is a white solid. When kept in sunlight, it decomposes into silver and chlorine, turning grey."
+        },
+        {
+            "id": 43,
+            "question": "What is observed when white silver chloride is kept in sunlight?",
+            "options": [
+                "It turns blue and releases hydrogen gas",
+                "It turns grey due to the formation of silver metal",
+                "It turns green and releases sulphur dioxide",
+                "It melts into a yellow liquid without any gas evolution"
+            ],
+            "correctAnswer": 1,
+            "explanation": "White silver chloride undergoes photochemical decomposition in the presence of sunlight to form silver metal and chlorine gas, causing the solid to turn grey: 2AgCl(s) -> 2Ag(s) + Cl2(g)."
+        },
+        {
+            "id": 44,
+            "question": "Which of the following represents the correctly balanced chemical equation for the decomposition of silver chloride in the presence of sunlight?",
+            "options": [
+                "AgCl(s) -> Ag(s) + Cl2(g)",
+                "2AgCl(s) -> 2Ag(s) + Cl2(g)",
+                "2AgCl(s) -> Ag2(s) + Cl2(g)",
+                "AgCl2(s) -> Ag(s) + Cl2(g)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When white silver chloride is exposed to sunlight, it decomposes into silver metal and chlorine gas: 2AgCl(s) -> 2Ag(s) + Cl2(g)."
+        },
+        {
+            "id": 45,
+            "question": "Which of the following best defines an endothermic reaction?",
+            "options": [
+                "A reaction in which heat is released along with the formation of products",
+                "A reaction in which a single reactant breaks down spontaneously without any energy input",
+                "A reaction that takes place only in the absence of oxygen",
+                "A reaction in which energy is absorbed from the surroundings"
+            ],
+            "correctAnswer": 3,
+            "explanation": "An endothermic reaction absorbs heat energy from its surroundings to break chemical bonds, causing a drop in temperature or requiring continuous heating."
+        },
+        {
+            "id": 46,
+            "question": "What is prominently observed when barium hydroxide is reacted with ammonium chloride in a test tube or beaker?",
+            "options": [
+                "A sharp drop in temperature due to a strong endothermic reaction",
+                "A rapid increase in temperature releasing a large amount of flame",
+                "The formation of a bright green solid precipitate",
+                "The evolution of brown fumes of nitrogen dioxide"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The reaction between barium hydroxide and ammonium chloride is a classic endothermic process that absorbs heat rapidly from the surroundings, causing the temperature to drop drastically while releasing ammonia gas."
+        },
+        {
+            "id": 47,
+            "question": "Which of the following represents the correctly balanced chemical equation for the reaction between barium hydroxide and ammonium chloride?",
+            "options": [
+                "Ba(OH)2 + NH4Cl -> BaCl2 + H2O + NH3",
+                "Ba(OH)2 + 3NH4Cl -> BaCl3 + 3H2O + 3NH3",
+                "2Ba(OH)2 + NH4Cl -> 2BaCl + H2O + NH3",
+                "Ba(OH)2 + 2NH4Cl -> BaCl2 + 2H2O + 2NH3"
+            ],
+            "correctAnswer": 3,
+            "explanation": "One molecule of barium hydroxide reacts with two molecules of ammonium chloride to produce one molecule of barium chloride, two molecules of water, and two molecules of ammonia gas: Ba(OH)2 + 2NH4Cl -> BaCl2 + 2H2O + 2NH3."
+        },
+        {
+            "id": 48,
+            "question": "Which of the following best defines a displacement reaction?",
+            "options": [
+                "A reaction in which a more reactive element displaces a less reactive element from its compound",
+                "A reaction in which two compounds exchange ions to form two new compounds",
+                "A reaction in which a single reactant breaks down into two or more simpler products",
+                "A reaction in which two or more reactants combine to form a single product"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In a displacement reaction, a chemically more reactive metal or non-metal displaces a less reactive one from its salt solution."
+        },
+        {
+            "id": 49,
+            "question": "What is the characteristic color of hydrated copper sulphate crystals (CuSO4 · 5H2O)?",
+            "options": [
+                "Green",
+                "Reddish-brown",
+                "Blue",
+                "Yellow"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Hydrated copper sulphate crystals are characteristically blue in color due to the water of crystallization present in their structure. Upon heating, they lose water and turn white."
+        },
+        {
+            "id": 50,
+            "question": "What is observed when an iron nail is dipped in a blue copper sulphate solution for some time?",
+            "options": [
+                "The solution turns deep blue and a silver coating forms on the nail",
+                "The blue color of the solution fades and turns green, with a reddish-brown coating on the nail",
+                "The solution turns bright yellow and releases brown fumes",
+                "No change is observed in either the solution or the nail"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Iron being more reactive than copper displaces it from copper sulphate solution, forming green ferrous sulphate solution and depositing reddish-brown copper metal on the iron nail: Fe(s) + CuSO4(aq) -> FeSO4(aq) + Cu(s)."
+        },
+        {
+            "id": 51,
+            "question": "Which of the following correctly describes the visual observations when an iron nail is placed in a blue copper sulphate solution?",
+            "options": [
+                "The solution turns deep red and the nail dissolves completely",
+                "The blue color of the solution turns green and a reddish-brown coating appears on the nail",
+                "The solution remains colorless and a black precipitate is formed",
+                "The solution turns yellow and bubbles of hydrogen gas evolve"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When an iron nail is dipped in copper sulphate solution, iron displaces copper, turning the solution green due to ferrous sulphate formation and depositing a reddish-brown layer of copper metal on the nail."
+        },
+        {
+            "id": 52,
+            "question": "Which of the following represents the correctly balanced chemical equation for the displacement reaction between iron and copper sulphate?",
+            "options": [
+                "2Fe(s) + CuSO4(aq) -> Fe2SO4(aq) + Cu(s)",
+                "Fe(s) + 2CuSO4(aq) -> Fe(SO4)2(aq) + 2Cu(s)",
+                "Fe(s) + Cu(SO4)2(aq) -> FeSO4(aq) + 2Cu(s)",
+                "Fe(s) + CuSO4(aq) -> FeSO4(aq) + Cu(s)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "When an iron nail reacts with copper sulphate solution, iron displaces copper to form aqueous ferrous sulphate and solid copper metal: Fe(s) + CuSO4(aq) -> FeSO4(aq) + Cu(s)."
+        },
+        {
+            "id": 53,
+            "question": "Which of the following represents the correctly balanced chemical equation for the displacement reaction between zinc and copper sulphate?",
+            "options": [
+                "Zn(s) + CuSO4(aq) -> Zn(SO4)2(aq) + 2Cu(s)",
+                "Zn(s) + CuSO4(aq) -> ZnSO4(aq) + Cu(s)",
+                "2Zn(s) + CuSO4(aq) -> Zn2SO4(aq) + Cu(s)",
+                "Zn(s) + 2CuSO4(aq) -> ZnSO4(aq) + 2Cu(s)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When zinc metal is added to copper sulphate solution, zinc displaces copper to form aqueous zinc sulphate and solid copper metal: Zn(s) + CuSO4(aq) -> ZnSO4(aq) + Cu(s)."
+        },
+        {
+            "id": 54,
+            "question": "Which of the following represents the correctly balanced chemical equation for the displacement reaction between lead and copper chloride?",
+            "options": [
+                "Pb(s) + CuCl(aq) -> PbCl(aq) + Cu(s)",
+                "Pb(s) + 2CuCl2(aq) -> PbCl4(aq) + 2Cu(s)",
+                "Pb(s) + CuCl2(aq) -> PbCl2(aq) + Cu(s)",
+                "2Pb(s) + CuCl2(aq) -> 2PbCl(aq) + Cu(s)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When lead metal is added to copper chloride solution, lead displaces copper to form aqueous lead chloride and solid copper metal: Pb(s) + CuCl2(aq) -> PbCl2(aq) + Cu(s)."
+        },
+        {
+            "id": 55,
+            "question": "Which of the following best defines a double displacement reaction?",
+            "options": [
+                "A reaction in which a single reactant breaks down into two or more simpler products under heat",
+                "A reaction in which a more reactive element replaces a less reactive element from its salt solution",
+                "A reaction in which two or more reactants combine to form a single product",
+                "A reaction in which two reactant compounds exchange ions to form two new compounds"
+            ],
+            "correctAnswer": 3,
+            "explanation": "A double displacement reaction involves the mutual exchange of ionic species between two compounds, frequently resulting in the formation of an insoluble precipitate."
+        },
+        {
+            "id": 56,
+            "question": "What is prominently observed when sodium sulphate solution is mixed with barium chloride solution?",
+            "options": [
+                "A pale green solution with the evolution of hydrogen gas",
+                "A reddish-brown metallic deposit on the walls of the container",
+                "The formation of an insoluble white precipitate of barium sulphate",
+                "A sudden drop in temperature accompanied by the smell of ammonia"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Mixing sodium sulphate and barium chloride results in a double displacement reaction where sulphate ions and chloride ions exchange partners, instantly forming a heavy white precipitate of barium sulphate: Na2SO4(aq) + BaCl2(aq) -> BaSO4(s) + 2NaCl(aq)."
+        },
+        {
+            "id": 57,
+            "question": "Which of the following chemical equations correctly represents the thermal decomposition of lead nitrate?",
+            "options": [
+                "Pb(NO3)2(s) -> PbO(s) + NO2(g) + O2(g)",
+                "2Pb(NO3)2(s) -> 2PbO(s) + 4NO2(g) + O2(g)",
+                "Pb(NO3)2(s) -> PbO2(s) + 2NO2(g)",
+                "2Pb(NO3)2(s) -> 2Pb(s) + 2NO2(g) + 3O2(g)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When lead nitrate is heated, it undergoes thermal decomposition to produce yellow lead oxide, brown fumes of nitrogen dioxide, and oxygen gas, represented by the balanced equation: 2Pb(NO3)2(s) -> 2PbO(s) + 4NO2(g) + O2(g)."
+        },
+        {
+            "id": 58,
+            "question": "Which of the following best describes a precipitate in a chemical reaction?",
+            "options": [
+                "A soluble gas that escapes rapidly into the atmosphere",
+                "A liquid solvent that changes color upon heating",
+                "An insoluble solid that separates out from a liquid solution",
+                "A molten metal layer formed at the top of a mixture"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A precipitate is an insoluble solid product that forms during a chemical reaction in aqueous solution and typically settles down at the bottom."
+        },
+        {
+            "id": 59,
+            "question": "What is observed when a solution of lead(II) nitrate is mixed with potassium iodide solution?",
+            "options": [
+                "A heavy white precipitate of lead sulphate is formed",
+                "A bright yellow precipitate of lead iodide is formed",
+                "A green precipitate of iron hydroxide is formed",
+                "No visible change occurs in the solution"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When lead(II) nitrate reacts with potassium iodide, a double displacement reaction takes place, producing a characteristic bright yellow precipitate of lead iodide alongside aqueous potassium nitrate."
+        },
+        {
+            "id": 60,
+            "question": "Which of the following represents the correctly balanced chemical equation for the reaction between lead(II) nitrate and potassium iodide?",
+            "options": [
+                "Pb(NO3)2(aq) + KI(aq) -> PbI2(s) + KNO3(aq)",
+                "2Pb(NO3)2(aq) + KI(aq) -> PbI2(s) + 2KNO3(aq)",
+                "Pb(NO3)2(aq) + 2KI(aq) -> PbI2(s) + 2KNO3(aq)",
+                "Pb(NO3)2(aq) + 4KI(aq) -> PbI4(s) + 2KNO3(aq)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "To balance the equation, two moles of potassium iodide are required for every one mole of lead(II) nitrate to provide two iodide ions to precipitate lead iodide, yielding two moles of potassium nitrate: Pb(NO3)2(aq) + 2KI(aq) -> PbI2(s) + 2KNO3(aq)."
+        },
+        {
+            "id": 61,
+            "question": "What is the characteristic color of Copper(II) oxide (CuO)?",
+            "options": [
+                "Bright blue",
+                "Black",
+                "Green",
+                "White"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Copper(II) oxide (CuO) is a black-colored metallic oxide, commonly formed when copper metal is heated strongly in the presence of oxygen."
+        },
+        {
+            "id": 62,
+            "question": "What is observed when a shiny brown copper powder is heated strongly in a china dish, and why?",
+            "options": [
+                "It turns green due to the reduction of copper by atmospheric nitrogen",
+                "It turns black because copper reacts with oxygen to form black copper(II) oxide",
+                "It turns white because copper undergoes thermal decomposition",
+                "It remains completely unchanged because copper does not react with heat"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Heating copper powder in air causes it to combine with oxygen, resulting in an oxidation reaction that forms a black coating of copper(II) oxide: 2Cu(s) + O2(g) -> 2CuO(s)."
+        },
+        {
+            "id": 63,
+            "question": "What is the characteristic color of pure copper metal?",
+            "options": [
+                "Bright yellow",
+                "Silvery-white",
+                "Reddish-brown",
+                "Jet black"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Pure copper is a transition metal that is easily recognized by its distinctive reddish-brown appearance and shiny metallic luster."
+        },
+        {
+            "id": 64,
+            "question": "What happens to the weight of a copper powder sample when it is heated strongly in a china dish?",
+            "options": [
+                "The weight decreases because copper evaporates entirely into the air",
+                "The weight remains exactly the same because mass is conserved and no gas enters",
+                "The weight decreases because oxygen escapes from the copper structure",
+                "The weight increases because copper chemically combines with oxygen from the air to form copper oxide"
+            ],
+            "correctAnswer": 3,
+            "explanation": "When copper powder is heated in air, it reacts with oxygen to form copper(II) oxide (2Cu + O2 -> 2CuO). Because oxygen from the atmosphere adds to the copper, the total mass of the solid product in the dish increases."
+        },
+        {
+            "id": 65,
+            "question": "What is observed when hydrogen gas is passed over heated copper(II) oxide?",
+            "options": [
+                "The black copper(II) oxide turns reddish-brown as copper metal is formed",
+                "The copper turns bright blue due to the formation of copper sulphate",
+                "A green precipitate of iron(II) chloride is suddenly deposited",
+                "The black powder remains completely unchanged because hydrogen cannot react with metal oxides"
+            ],
+            "correctAnswer": 0,
+            "explanation": "When hydrogen gas is passed over heated CuO, hydrogen acts as a reducing agent, removing oxygen from copper(II) oxide to yield reddish-brown copper metal and water vapor: CuO(s) + H2(g) -> Cu(s) + H2O(g)."
+        },
+        {
+            "id": 66,
+            "question": "Which of the following best defines an oxidation reaction in terms of classical chemistry?",
+            "options": [
+                "The removal of oxygen from a substance",
+                "The addition of hydrogen to a substance",
+                "The gain of electrons by a metal atom",
+                "The addition of oxygen or the removal of hydrogen from a substance"
+            ],
+            "correctAnswer": 3,
+            "explanation": "In classical chemical terms, oxidation is defined as the addition of oxygen to a substance or the removal of hydrogen from it."
+        },
+        {
+            "id": 67,
+            "question": "Which of the following terms describes a chemical process characterized by the gain of oxygen?",
+            "options": [
+                "Reduction",
+                "Neutralization",
+                "Precipitation",
+                "Oxidation"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The gain of oxygen by a substance in a chemical reaction is defined as oxidation."
+        },
+        {
+            "id": 68,
+            "question": "According to the electronic concept of redox reactions, what term is used to describe the loss of electrons by a species?",
+            "options": [
+                "Oxidation",
+                "Reduction",
+                "Neutralization",
+                "Precipitation"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In electronic terms, oxidation is defined as the loss of electrons, while reduction is the gain of electrons (remember: OIL RIG)."
+        },
+        {
+            "id": 69,
+            "question": "Which of the following terms describes the addition of hydrogen to a chemical substance?",
+            "options": [
+                "Reduction",
+                "Oxidation",
+                "Neutralization",
+                "Precipitation"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In classical chemical terms, the addition of hydrogen to a substance (or the removal of oxygen from it) is defined as reduction."
+        },
+        {
+            "id": 70,
+            "question": "Which of the following best describes the process of metal corrosion?",
+            "options": [
+                "The complete vaporization of a metal under high atmospheric pressure",
+                "The rapid burning of a metal when exposed to pure hydrogen gas",
+                "The gradual degradation and eating away of a metal due to attack by atmospheric moisture, acids, and oxygen",
+                "The spontaneous conversion of a metal into a transparent liquid solution"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Corrosion is the slow eating away of metals as they react with oxygen, moisture, and other gases in the atmosphere, leading to the formation of metal oxides or other compounds (such as rust on iron)."
+        },
+        {
+            "id": 71,
+            "question": "What two essential environmental components are required for the rusting of iron to occur?",
+            "options": [
+                "Nitrogen gas and dry carbon dioxide",
+                "Hydrogen gas and high temperature",
+                "Oxygen and moisture (water)",
+                "Argon gas and sunlight"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Rusting is an oxidation process of iron that requires both oxygen from the air and moisture (water) to form hydrated iron(III) oxide (rust)."
+        },
+        {
+            "id": 72,
+            "question": "What is the chemical nature and color of the coating formed on copper vessels when they undergo corrosion due to exposure to moist air?",
+            "options": [
+                "A flaky reddish-brown layer of hydrated iron(III) oxide",
+                "A black powdery layer of silver sulfide",
+                "A green coating consisting of basic copper carbonate",
+                "A bright yellow precipitate of lead iodide"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When copper corrodes in moist air containing carbon dioxide and oxygen, it forms a green-colored layer of basic copper carbonate [CuCO3 · Cu(OH)2]."
+        },
+        {
+            "id": 73,
+            "question": "What primary chemical process causes food items containing fats and oils to become rancid when exposed to air for a long time?",
+            "options": [
+                "Reduction of fats by hydrogen gas in the atmosphere",
+                "Oxidation of fats and oils by atmospheric oxygen, leading to unpleasant smell and taste",
+                "Thermal decomposition of proteins into nitrogen gas",
+                "Formation of a heavy white precipitate of barium sulphate"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Rancidity is caused by the oxidation of fats and oils in food when exposed to oxygen, which changes their smell and taste. Manufacturers often pack chips in nitrogen gas to prevent this oxidation."
+        }
+    ]
+}
