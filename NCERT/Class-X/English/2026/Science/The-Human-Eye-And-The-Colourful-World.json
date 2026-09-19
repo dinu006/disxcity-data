@@ -604,6 +604,54 @@
             ],
             "correctAnswer": 1,
             "explanation": "Sir Isaac Newton was the first to use a glass prism to get the spectrum of sunlight in 1665. He also placed a second identical prism in an inverted position to successfully recombine the spectrum back into white light, proving that white light is made up of seven constituent colors."
+        },
+        {
+            "id": 51,
+            "question": "Why do distant stars twinkle at night, while planets do not?",
+            "options": [
+                "Stars emit light of varying frequencies, whereas planets emit constant white light.",
+                "Stars are very distant and act as point-like sources of light whose rays undergo continuous atmospheric refraction, while planets are closer and act as collections of multiple point sources whose fluctuations average out to zero.",
+                "Planets absorb atmospheric turbulence completely, preventing any light bending.",
+                "Stars move much faster across the sky than planets, causing optical illusions."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Stars are extremely far away and appear as tiny point sources of light. As starlight passes through the moving layers of Earth's atmosphere, its path refracts continuously, causing the star's apparent position and brightness to flicker (twinkling). Planets are much closer and behave as extended sources (collections of many point sources); the twinkling effect from individual points averages out, giving a steady, non-twinkling light."
+        },
+        {
+            "id": 52,
+            "question": "Does sunlight reach us before the actual sun rises above the horizon, and why?",
+            "options": [
+                "Yes, due to atmospheric refraction, which bends light from the sun when it is still slightly below the horizon.",
+                "No, sunlight and the physical body of the sun always cross the horizon at the exact same instant.",
+                "Yes, because sunlight travels faster than the Earth rotates on its axis.",
+                "No, sunlight is completely blocked by atmospheric scattering until the sun is fully visible."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Yes, the sun is visible about 2 minutes before actual sunrise (and delayed by 2 minutes at sunset) due to atmospheric refraction. As light from the sun enters Earth's atmosphere from space, it passes from a rarer to a denser medium and bends towards the normal, making the sun appear above the horizon even when it is geometrically still below it."
+        },
+        {
+            "id": 53,
+            "question": "What is the Tyndall effect?",
+            "options": [
+                "The splitting of white light into seven colors through a glass prism",
+                "The scattering of a beam of light by colloidal or fine suspended particles in a medium, making the path of light visible",
+                "The bending of light rays as they pass from a rarer to a denser optical medium",
+                "The total internal reflection of light inside water droplets creating a rainbow"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Tyndall effect is the phenomenon in which colloidal or very fine suspended particles scatter light in all directions, making the path of a light beam clearly visible (such as sunlight passing through a dusty room, smoke, or a dense forest canopy)."
+        },
+        {
+            "id": 54,
+            "question": "Why does the sky appear blue during a clear day?",
+            "options": [
+                "Because molecules in the atmosphere scatter shorter wavelengths of light (like blue) much more effectively than longer wavelengths.",
+                "Because the Earth's oceans reflect their blue color upward into the sky.",
+                "Because the sun emits only blue light while passing through the upper stratosphere.",
+                "Because oxygen gas selectively absorbs all colors of light except blue."
+            ],
+            "correctAnswer": 0,
+            "explanation": "The molecules of air and other fine particles in the atmosphere are smaller than the wavelength of visible light. They scatter shorter wavelengths of light (such as blue and violet) much more strongly than longer wavelengths (such as red and yellow) in a process called Rayleigh scattering. Because human eyes are much more sensitive to blue light than violet light, the sky appears blue to us."
         }
     ]
 }
