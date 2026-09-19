@@ -1,0 +1,21 @@
+{
+    "chapter": "Life Processes",
+    "class": "Class-X",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the characteristic taste of acidic substances?",
+            "options": [
+                "Bitter and soapy to touch",
+                "Sweet and sugary",
+                "Sour",
+                "Salty and odorless"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Acids are generally characterized by their sour taste. However, laboratory acids should never be tasted due to their corrosive nature."
+        }
+    ]
+}
