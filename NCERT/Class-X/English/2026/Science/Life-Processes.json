@@ -186,6 +186,42 @@
     ],
     "correctAnswer": 3,
     "explanation": "The chemical reaction between iodine and starch forms a characteristic blue-black complex, which serves as a positive test confirming the presence of starch in the tested plant part."
+},
+{
+    "id": 16,
+    "question": "What are stomata and what is their primary role in plants?",
+    "options": [
+        "Vascular tissues responsible for transporting water from roots to leaves",
+        "Hard protective covering layers on the outer epidermis of seeds",
+        "Tiny pores present on the surface of leaves through which exchange of gases and transpiration take place",
+        "Specialized organelles inside plant cells that store chlorophyll pigments"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Stomata are tiny pores present on the epidermis of leaves. They play a vital role in the exchange of gases (like taking in carbon dioxide and releasing oxygen) and in the loss of water vapor via transpiration."
+},
+{
+    "id": 17,
+    "question": "In the experiment to show that carbon dioxide is necessary for photosynthesis, two potted plants are used—one with potassium hydroxide (KOH) inside the bell jar and one without. What do we observe when an iodine test is performed on leaves from both plants?",
+    "options": [
+        "Both leaves turn blue-black, proving carbon dioxide is not required for photosynthesis.",
+        "The leaf from the plant without KOH turns blue-black (showing starch is present), whereas the leaf from the plant with KOH (which absorbed carbon dioxide) does not turn blue-black.",
+        "Neither leaf turns blue-black because the bell-jars block all necessary sunlight.",
+        "The leaf from the plant with KOH turns bright red, while the other turns green."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Potassium hydroxide (KOH) absorbs carbon dioxide from the surrounding air inside the bell jar. The leaf from the plant kept with KOH cannot perform photosynthesis due to the lack of carbon dioxide and thus forms no starch (giving a negative iodine test). The other leaf, which has access to carbon dioxide, performs photosynthesis and turns blue-black with iodine."
+},
+{
+    "id": 18,
+    "question": "What is a parasitic mode of nutrition?",
+    "options": [
+        "A mode of nutrition where organisms synthesize their own food using sunlight",
+        "A mode of nutrition where an organism derives food from another living organism (host) without killing it",
+        "A mode of nutrition involving the ingestion of solid organic food particles",
+        "A mode of nutrition where dead and decaying organic matter is broken down externally"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In parasitic nutrition, an organism (the parasite) lives on or inside another living organism (the host) and derives its nutrition directly from the host's body without immediately killing it (e.g., Cuscuta, ticks, lice)."
 }
     ]
 }
