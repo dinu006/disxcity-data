@@ -222,6 +222,31 @@
     ],
     "correctAnswer": 1,
     "explanation": "In parasitic nutrition, an organism (the parasite) lives on or inside another living organism (the host) and derives its nutrition directly from the host's body without immediately killing it (e.g., Cuscuta, ticks, lice)."
+},
+{
+    "id": 19,
+    "question": "How does Amoeba obtain its food?",
+    "options": [
+        "By absorbing dissolved nutrients directly across its cell membrane through osmosis",
+        "By using cilia to sweep food particles into a specialized oral groove",
+        "By using temporary finger-like extensions of the cell surface (pseudopodia) to engulf food particles into a food vacuole",
+        "By carrying out photosynthesis inside specialized chloroplasts"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Amoeba ingests food by forming temporary finger-like projections of its cell surface called pseudopodia around the food particle, forming a food vacuole where complex substances are broken down into simpler ones."
+},
+{
+    "id": 20,
+    "question": "How does Paramoecium, a unicellular organism, obtain its food?",
+    "options": [
+        "By engulfing food particles from anywhere on its body using random pseudopodia",
+        "By moving food to a specific spot using cilia that cover the entire surface of the cell",
+        "By absorbing nutrients purely through osmosis across the cell wall",
+        "By synthesizing food internally using sunlight and chlorophyll"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paramoecium has a definite shape and obtains food through a specific spot. Food is moved to this spot by the movement of cilia, which cover the entire surface of the cell."
 }
+
     ]
 }
