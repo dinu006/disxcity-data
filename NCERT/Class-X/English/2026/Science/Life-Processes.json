@@ -7,21 +7,185 @@
     "questions": [
         {
             "id": 1,
-            "question": "What is the characteristic taste of acidic substances?",
+            "question": "Which of the following best defines life processes?",
             "options": [
-                "Bitter and soapy to touch",
-                "Sweet and sugary",
-                "Sour",
-                "Salty and odorless"
+                "The processes that only occur during active movement or physical exercise",
+                "The basic maintenance functions of living organisms essential to prevent damage and breakdown",
+                "The chemical reactions that occur only in plants during photosynthesis",
+                "The mechanical breakdown of food in the stomach"
             ],
-            "correctAnswer": 2,
-            "explanation": "Acids are generally characterized by their sour taste. However, laboratory acids should never be tasted due to their corrosive nature."
-        }
+            "correctAnswer": 1,
+            "explanation": "The basic maintenance functions of living organisms that are essential to prevent damage and breakdown, and keep them alive, are called life processes. These must occur continuously even when the organism is resting."
+        },
+        {
+            "id": 2,
+            "question": "Which of the following processes is responsible for the breakdown of glucose to release energy in cells?",
+            "options": [
+                "Photosynthesis",
+                "Transpiration",
+                "Excretion",
+                "Respiration"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Respiration involves the breakdown of food sources like glucose inside the cells to release energy for various life processes."
+        },
+        {
+    "id": 3,
+    "question": "What is the biological process involved in the removal of harmful metabolic waste products from the body?",
+    "options": [
+        "Excretion",
+        "Respiration",
+        "Nutrition",
+        "Transportation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Excretion is the process by which harmful metabolic waste byproducts are removed from the living organism's body."
+},
+{
+    "id": 4,
+    "question": "What is the true definition and purpose of nutrition in living organisms?",
+    "options": [
+        "The removal of toxic metabolic wastes from body tissues",
+        "The process of transferring oxygen from lungs to the body cells",
+        "The process of intake of nutrients and utilizing them to obtain energy, build new tissues, and repair worn-out parts",
+        "The transport of water and minerals from roots to leaves"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nutrition is the process of acquiring and utilizing food/nutrients by an organism to derive energy, support growth, and repair damaged body tissues."
+},
+{
+    "id": 5,
+    "question": "Which of the following statements correctly defines autotrophs?",
+    "options": [
+        "Organisms that depend entirely on other organisms for their readymade food requirements",
+        "Organisms that break down complex organic matter into simpler substances outside their body",
+        "Organisms that synthesize their own organic food from simple inorganic substances using an external energy source like sunlight",
+        "Organisms that derive nutrition exclusively from parasitic relationships"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Autotrophs are organisms, such as green plants and certain bacteria, that prepare their own food from simple inorganic materials (like carbon dioxide and water) using light or chemical energy."
+},
+{
+    "id": 6,
+    "question": "Which of the following statements accurately describes heterotrophic organisms?",
+    "options": [
+        "Organisms that synthesize their own food using sunlight and inorganic substances",
+        "Organisms that produce organic compounds entirely through chemosynthesis",
+        "Organisms that depend on other organisms for food because they cannot manufacture their own organic molecules",
+        "Organisms that do not require any external source of energy or food"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Heterotrophs are organisms that cannot synthesize their own food from simple inorganic materials like carbon dioxide and water, and thus depend directly or indirectly on other organisms for their nutrition."
+},
+{
+    "id": 7,
+    "question": "What are enzymes in the context of biological systems and life processes?",
+    "options": [
+        "Inorganic molecules that store genetic information in the nucleus",
+        "Waste substances produced by cells during protein catabolism",
+        "Biological catalysts (usually proteins) that speed up biochemical reactions in living organisms",
+        "Structural lipids that form the core of the cell membrane"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Enzymes are biological catalysts—mostly proteins—that accelerate the rate of biochemical reactions in living organisms without being used up or permanently changed in the process."
+},
+{
+    "id": 8,
+    "question": "Which of the following best defines photosynthesis in green plants?",
+    "options": [
+        "The breakdown of complex organic molecules to release metabolic energy",
+        "The process by which autotrophs convert inorganic substances like carbon dioxide and water into carbohydrates using sunlight and chlorophyll",
+        "The absorption of water and minerals directly from the soil through root hairs",
+        "The release of carbon dioxide and water vapor through the stomatal pores"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Photosynthesis is the process used by autotrophs to intake external substances (carbon dioxide and water) and convert them into stored energy in the form of carbohydrates, utilizing sunlight and chlorophyll."
+},
+{
+    "id": 9,
+    "question": "What is starch in the context of plant nutrition and life processes?",
+    "options": [
+        "A lipid molecule responsible for waterproofing plant leaves",
+        "An inorganic waste product excreted by autotrophs during photosynthesis",
+        "A type of protein used for structural repair in animal cells",
+        "The complex carbohydrate used by plants to store extra energy synthesized during photosynthesis"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Starch is a complex carbohydrate synthesized by plants during photosynthesis, serving as an internal energy reserve that is stored for future metabolic use."
+},
+{
+    "id": 10,
+    "question": "What is glycogen in the context of animal nutrition and energy storage?",
+    "options": [
+        "The structural lipid found in animal cell membranes",
+        "The complex carbohydrate used by animals and humans to store extra energy",
+        "An inorganic waste product excreted through sweat",
+        "A digestive enzyme secreted by the small intestine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Glycogen is a complex carbohydrate (polysaccharide) that serves as an energy reserve in animals, functioning similarly to how starch acts as an energy store in plants."
+},
+{
+    "id": 11,
+    "question": "Which of the following represents the correct balanced chemical equation for photosynthesis as given in NCERT?",
+    "options": [
+        "C6H12O6 + 6O2 -> 6CO2 + 6H2O + Energy",
+        "6O2 + 6H2O -> C6H12O6 + 6CO2",
+        "6CO2 + 6H2O -> (Sunlight and Chlorophyll) -> C6H12O6 + 6O2 + H2O",
+        "C6H12O6 -> 2C2H5OH + 2CO2 + Energy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The overall balanced equation for photosynthesis is 6CO2 + 6H2O in the presence of sunlight and chlorophyll yielding C6H12O6 (glucose) and 6O2 (oxygen)."
+},
 
+{
+    "id": 12,
+    "question": "What is the correct sequence of major events that occur during photosynthesis?",
+    "options": [
+        "Splitting of water molecules into hydrogen and oxygen -> Reduction of carbon dioxide -> Absorption of light energy",
+        "Absorption of light energy by chlorophyll -> Conversion of light energy to chemical energy and splitting of water molecules into hydrogen and oxygen -> Reduction of carbon dioxide to carbohydrates",
+        "Reduction of carbon dioxide to carbohydrates -> Absorption of light energy by chlorophyll -> Splitting of water molecules",
+        "Conversion of chemical energy to solar energy -> Reduction of oxygen molecules -> Absorption of water through roots"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The main events of photosynthesis in sequence are: (1) Absorption of light energy by chlorophyll, (2) Conversion of light energy to chemical energy and splitting of water molecules into hydrogen and oxygen, and (3) Reduction of carbon dioxide to carbohydrates."
+},
 
-
-
-
-        
+{
+    "id": 13,
+    "question": "If we observe a cross-section of a leaf under a microscope, we notice green cell organelles called chloroplasts which contain the green pigment chlorophyll. What is the primary role of this chlorophyll?",
+    "options": [
+        "To absorb light energy required for photosynthesis",
+        "To transport water and minerals from the roots to the leaves",
+        "To break down stored starch into glucose during respiration",
+        "To act as a waste product during cellular excretion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chlorophyll is the green pigment present in chloroplasts that is essential for absorbing light energy from the sun, which drives the process of photosynthesis."
+},
+{
+    "id": 14,
+    "question": "How does the iodine test confirm the presence of starch in a leaf?",
+    "options": [
+        "Iodine reacts with starch to turn the solution a bright red or pink color.",
+        "Iodine reacts with starch to give a blue-black color, indicating photosynthesis has occurred.",
+        "Iodine dissolves the chlorophyll, turning the leaf completely transparent.",
+        "Iodine breaks down glucose into carbon dioxide and water molecules."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In the starch test, a leaf is first decolorized in boiling alcohol to remove chlorophyll, and then a few drops of iodine solution are added. Iodine reacts with starch to form a blue-black complex, confirming the presence of stored food produced by photosynthesis."
+},
+{
+    "id": 15,
+    "question": "In the iodine test, what does the appearance of a blue-black color specifically indicate?",
+    "options": [
+        "It shows that oxygen gas is trapped inside the intercellular spaces of the leaf.",
+        "It proves that chlorophyll has been completely removed from the plant tissue.",
+        "It indicates the presence of proteins synthesized during cellular growth.",
+        "It indicates the presence of starch, which reacts chemically with iodine to produce a blue-black complex."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The chemical reaction between iodine and starch forms a characteristic blue-black complex, which serves as a positive test confirming the presence of starch in the tested plant part."
+}
     ]
 }
