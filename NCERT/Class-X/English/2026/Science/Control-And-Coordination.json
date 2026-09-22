@@ -9,12 +9,12 @@
             "id": 1,
             "question": "Nerve cells are also called",
             "options": [
+                "Neutrons",
                 "Nephrons",
                 "Neurons",
-                "Neutrons",
                 "Nucleotides"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Nerve cells are structurally and functionally called neurons, which are specialized cells responsible for receiving and transmitting electrical and chemical signals throughout the body."
         },
         {
@@ -22,653 +22,648 @@
             "question": "Identify the part of a neuron where information is acquired.",
             "options": [
                 "Axon",
-                "Dendritic tip",
                 "Cell body",
+                "Dendritic tip",
                 "Synapse"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Information is acquired at the end of the dendritic tip of a nerve cell. Chemical reactions at these tips set off an electrical impulse that travels along the neuron."
         },
         {
             "id": 3,
             "question": "Through which pathway does information travel as an electrical impulse in a neuron?",
             "options": [
-                "Axon to dendrite",
                 "Cell body to dendritic tip",
                 "Dendrite to cell body and then along the axon",
+                "Axon to dendrite",
                 "Synapse to cell body"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "In a neuron, information travels as an electrical impulse starting from the dendritic tip, moving through the cell body, and then traveling along the axon to its ending."
         },
         {
             "id": 4,
             "question": "Identify the part of a neuron where electrical impulses must be converted into a chemical signal for onward transmission.",
             "options": [
-                "Dendritic tips",
                 "Cell body",
-                "Axon ending or Nerve ending",
-                "Nucleus"
+                "Nucleus",
+                "Dendritic tips",
+                "Axon ending or Nerve ending"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "At the end of the axon, the electrical impulse triggers the release of chemical messengers. These chemicals cross the microscopic gap (synapse) to pass the signal on to the next neuron, where they convert back into an electrical impulse."
         },
         {
             "id": 5,
             "question": "Why does the taste of food seem to change or diminish when we close our nose while eating?",
             "options": [
-                "Because smell and taste work together, and blocking the nose prevents aromas from reaching olfactory receptors via the back of the throat.",
                 "Because closing the nose stops saliva production on the taste buds.",
+                "Because smell and taste work together, and blocking the nose prevents aromas from reaching olfactory receptors via the back of the throat.",
                 "Because taste buds only function when airflow passes through the nasal cavity.",
                 "Because olfactory nerves are directly connected to the tongue muscles."
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "Much of what we perceive as 'taste' is actually smell (retronasal olfaction). When we chew food, aromas travel from the back of the mouth up into the nasal cavity. Closing the nose blocks this pathway, reducing our ability to fully experience the flavor of the food."
         },
         {
-    "id": 6,
-    "question": "What is a reflex arc?",
-    "options": [
-        "The pathway of communication between neurons in the brain during conscious thought.",
-        "The pathway taken by nerve impulses in a reflex action from receptor to effector.",
-        "The mechanism by which electrical impulses cross a synapse.",
-        "The chemical signal released by endocrine glands."
-    ],
-    "correctAnswer": 1,
-    "explanation": "A reflex arc is the pathway taken by nerve impulses during a reflex action. It typically consists of a sensory receptor, a sensory neuron, an integration center (usually in the spinal cord), a motor neuron, and an effector, allowing for rapid and involuntary responses to stimuli."
-},
-{
-    "id": 7,
-    "question": "Name the section where nerves from all over the body meet in a bundle on their way to the brain.",
-    "options": [
-        "Cerebrum",
-        "Spinal cord",
-        "Cerebellum",
-        "Hypothalamus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Nerves from all over the body meet in a bundle in the spinal cord on their way to the brain. Reflex arcs are also formed in the spinal cord itself to handle immediate, involuntary responses."
-},
-{
-    "id": 8,
-    "question": "What is the function of a sensory neuron?",
-    "options": [
-        "Transmits impulses from the central nervous system to effectors like muscles or glands",
-        "Transmits impulses from receptors (sense organs) to the central nervous system (brain and spinal cord)",
-        "Acts as an intermediate or relay neuron to connect other neurons within the spinal cord",
-        "Carries electrical signals directly from one muscle fiber to another"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sensory neurons are specialized nerve cells that detect environmental changes via receptors and transmit those nerve impulses toward the central nervous system (brain and spinal cord) for processing."
-},
-{
-    "id": 9,
-    "question": "What is the function of a motor neuron?",
-    "options": [
-        "Transmits impulses from receptors to the central nervous system",
-        "Transmits impulses from the central nervous system to effectors like muscles or glands",
-        "Connects sensory and motor neurons exclusively within the brain",
-        "Converts electrical impulses into chemical signals at the synapse"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Motor neurons carry nerve impulses away from the central nervous system (brain and spinal cord) to effectors such as muscles or glands, directing them to take action or respond."
-},
-{
-    "id": 10,
-    "question": "What does CNS stand for, and what are its main components?",
-    "options": [
-        "Cardiac Nervous System, consisting of the heart and nerves",
-        "Cellular Nucleus System, consisting of neurons and glial cells",
-        "Central Nervous System, consisting of the brain and spinal cord",
-        "Central Nodal System, consisting of sensory and motor nerves"
-    ],
-    "correctAnswer": 2,
-    "explanation": "CNS stands for the Central Nervous System. It comprises the brain and the spinal cord, which together receive information from all parts of the body and coordinate actions."
-},
-{
-    "id": 11,
-    "question": "What does the peripheral nervous system (PNS) consist of, and what is its main function?",
-    "options": [
-        "It consists of the brain and spinal cord, and it processes conscious thoughts.",
-        "It consists of cranial nerves arising from the brain and spinal nerves arising from the spinal cord, connecting the CNS to the rest of the body.",
-        "It consists only of voluntary skeletal muscles and motor neurons.",
-        "It consists of chemical hormones secreted by endocrine glands into the bloodstream."
-    ],
-    "correctAnswer": 1,
-    "explanation": "The peripheral nervous system (PNS) is composed of cranial nerves (arising from the brain) and spinal nerves (arising from the spinal cord). It acts as the communication link between the central nervous system (CNS) and the rest of the body."
-},
-{
-    "id": 12,
-    "question": "What is the main function of the cerebrum in the human brain?",
-    "options": [
-        "Regulating involuntary actions like blood pressure, salivation, and vomiting",
-        "Maintaining posture, balance, and precision of voluntary movements",
-        "Acting as the main thinking part of the brain, responsible for reasoning, memory, and voluntary actions",
-        "Controlling reflex arcs directly within the spinal cord"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The cerebrum is the main thinking part of the brain. It contains specific regions for receiving sensory impulses, interpreting data, processing information, storing memory, and controlling voluntary actions."
-},
-{
-    "id": 13,
-    "question": "What is the main function of the cerebellum in the human brain?",
-    "options": [
-        "Regulating involuntary actions like heartbeat, breathing, and blood pressure",
-        "Maintaining posture, balance, and coordinating precision of voluntary actions",
-        "Serving as the main thinking part of the brain for reasoning and memory",
-        "Receiving and processing sensory information related to smell and taste"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The cerebellum, which is part of the hind-brain, is responsible for maintaining the posture and balance of the body and coordinating precise voluntary movements (such as riding a bicycle or walking in a straight line)."
-},
-{
-    "id": 14,
-    "question": "What is the main function of the medulla oblongata in the human brain?",
-    "options": [
-        "Maintaining body posture and balance",
-        "Controlling conscious thought and reasoning",
-        "Regulating involuntary actions such as blood pressure, salivation, and vomiting",
-        "Interpreting visual and auditory sensory information"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The medulla (part of the hind-brain) is responsible for controlling various involuntary actions such as blood pressure, heart rate, breathing, salivation, and vomiting."
-},
-{
-    "id": 15,
-    "question": "What are the three major regions or parts of the human brain?",
-    "options": [
-        "Cerebrum, Cerebellum, and Medulla",
-        "Fore-brain, Mid-brain, and Hind-brain",
-        "Sensory brain, Motor brain, and Association brain",
-        "Cortex, Thalamus, and Hypothalamus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The human brain is broadly divided into three major regions: the fore-brain (the main thinking part), the mid-brain, and the hind-brain (which includes the cerebellum and medulla)."
-},
-{
-    "id": 16,
-    "question": "What are the primary functions of the fore-brain, mid-brain, and hind-brain?",
-    "options": [
-        "Fore-brain is the main thinking part with regions for sensory processing and voluntary actions; mid-brain handles involuntary reflexes (like visual and auditory responses); hind-brain controls posture, balance, and vital involuntary actions like heart rate, blood pressure, and breathing.",
-        "Fore-brain handles only involuntary actions; mid-brain handles memory and reasoning; hind-brain handles sensory inputs.",
-        "Fore-brain, mid-brain, and hind-brain exclusively coordinate the spinal cord reflex arcs.",
-        "Fore-brain coordinates balance and posture; mid-brain coordinates reasoning; hind-brain handles complex thinking."
-    ],
-    "correctAnswer": 0,
-    "explanation": "The human brain is divided into three major regions: the fore-brain (acting as the main thinking and sensory processing center), the mid-brain (managing reflex pathways and responses), and the hind-brain (including the cerebellum for balance and the medulla for vital involuntary actions like respiration and blood pressure)."
-},
-{
-    "id": 17,
-    "question": "Which of the following options correctly matches the major regions of the human brain with their primary components or functions?",
-    "options": [
-        "Fore-brain: Cerebellum; Mid-brain: Medulla; Hind-brain: Cerebrum",
-        "Fore-brain: Cerebrum (main thinking part); Mid-brain: Controls involuntary actions and reflex movements; Hind-brain: Cerebellum ,Medulla and pons",
-        "Fore-brain: Spinal cord; Mid-brain: Cerebrum; Hind-brain: Pons",
-        "Fore-brain: Medulla; Mid-brain: Cerebellum; Hind-brain: Hypothalamus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the human brain is divided into the fore-brain (dominated by the cerebrum, the main thinking and voluntary coordination center), the mid-brain (managing involuntary reflex responses of the eyes and ears), and the hind-brain (comprising the cerebellum for balance and the medulla for vital involuntary actions like heartbeat and breathing)."
-},
-
-{
-    "id": 18,
-    "question": "Which skeletal structure or bone protects the spinal cord?",
-    "options": [
-        "Skull (Cranium)",
-        "Rib cage",
-        "Vertebral column (Backbone)",
-        "Sternum"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The spinal cord is a vital bundle of nerve fibers that is enclosed and protected by a bony structure called the vertebral column or backbone."
-}
-,
-{
-    "id": 19,
-    "question": "Which bony structure protects the brain?",
-    "options": [
-        "Vertebral column",
-        "Rib cage",
-        "Skull (Cranium)",
-        "Sternum"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The brain is the main coordinating center of the body and is safely enclosed and protected within a hard, bony box called the skull (or cranium)."
-},
-
-{
-    "id": 20,
-    "question": "What is germination?",
-    "options": [
-        "The process by which a seed develops into a seedling under favorable conditions",
-        "The shedding of leaves by a plant during the winter season",
-        "The growth of a plant root away from the source of light",
-        "The fusion of male and female gametes inside the ovule"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Germination is the process by which an organism grows from a seed or spore, typically resulting in the formation of a seedling under appropriate environmental conditions like water, oxygen, and suitable temperature."
-},
-{
-    "id": 21,
-    "question": "What is a tendril in climbing plants, and how does it function?",
-    "options": [
-        "A specialized thread-like structure (modified leaf or stem) that coils around a support object to help climbing plants grow upwards",
-        "A root modification that stores surplus food and water underground during unfavorable seasons",
-        "A protective waxy coating on the epidermis that prevents excessive water loss through transpiration",
-        "A reproductive flower organ specialized for attracting pollinators using bright colors"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Tendrils are thread-like growths (modified leaves or stems) seen in climbers like peas or gourds. When a tendril touches a surface or object, the parts in contact do not grow as fast as the parts away from the object, causing the tendril to circle and securely coil around the support."
-},
-{
-    "id": 22,
-    "question": "What is phototropic movement in plants, and how is it typically caused?",
-    "options": [
-        "Directional movement of plant parts in response to the touch of a solid object",
-        "Directional growth movement of a plant in response to light, regulated by the unequal distribution of auxin",
-        "Non-directional movement of flowers opening and closing in response to temperature changes",
-        "Downward movement of roots in response to the force of gravity"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Phototropic movement is the directional growth of a plant part (such as shoots bending towards light) in response to a light stimulus. This happens because the plant hormone auxin moves toward the shaded side, causing those cells to elongate faster than those on the illuminated side."
-},
-{
-    "id": 23,
-    "question": "What is hydrotropism in plants?",
-    "options": [
-        "Directional growth movement of plant parts in response to water or moisture",
-        "Growth movement of plant parts away from the direction of gravity",
-        "Rapid response of plant leaves to the touch of a solid object",
-        "Bending of plant shoots towards a source of light"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Hydrotropism is a directional growth movement in which plant parts (such as roots) grow toward or away from moisture or water in the environment, helping them locate and absorb water from the soil."
-},
-{
-    "id": 24,
-    "question": "What is chemotropism in plants, and what is a classic example of it?",
-    "options": [
-        "Directional growth movement in response to a chemical stimulus, such as the growth of a pollen tube towards the ovule",
-        "Non-directional movement of leaves in response to mechanical shock or touch",
-        "Bending of plant shoots towards a directional light source",
-        "Downward movement of roots in response to the force of gravity"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Chemotropism is the directional growth of plant parts in response to a chemical stimulus. A prominent example is the growth of a pollen tube down the style towards the ovule during plant fertilization, which is guided by specific chemical signals."
-},
-{
-    "id": 25,
-    "question": "Why are chemical messengers like hormones produced in specific endocrine glands located at a distance from their target organs in the body?",
-    "options": [
-        "Because hormones can only function properly if they are first stored inside bones.",
-        "Because specialized glands secrete them into the bloodstream to be transported to distant target tissues, overcoming the limitations of slow diffusion in complex multicellular bodies.",
-        "Because every organ must synthesize its own identical set of chemical messengers independently.",
-        "To prevent any chemical communication from ever reaching the nervous system."
-    ],
-    "correctAnswer": 1,
-    "explanation": "In complex multicellular organisms, simple diffusion is too slow and inefficient to transmit signals across long distances. Instead, specialized endocrine glands produce hormones and release them into the blood, which transports them to specific target organs equipped with the right receptors to respond."
-},
-{
-    "id": 26,
-    "question": "What is the primary role and site of synthesis of auxin in plants?",
-    "options": [
-        "A plant hormone synthesized at the shoot tip that promotes cell elongation and directional growth like phototropism",
-        "A specialized mineral nutrient absorbed from soil to speed up root cellular respiration",
-        "A chemical compound produced in leaves exclusively to cause rapid falling of autumn leaves",
-        "A digestive enzyme secreted to break down complex starches inside plant seeds"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Auxin is a plant hormone synthesized at the tip of the shoot. It helps cells grow longer and plays a major role in plant movements, such as bending towards light (phototropism) by accumulating on the shaded side."
-},
-{
-    "id": 27,
-    "question": "What is the primary function of gibberellins in plants?",
-    "options": [
-        "Promoting the growth of stems and overall plant development",
-        "Inhibiting all forms of plant growth and causing permanent seed dormancy",
-        "Directing root growth exclusively away from moisture sources",
-        "Causing rapid wilting and dropping of mature leaves"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Gibberellins are a group of plant hormones that help in the growth of stems and overall plant development, often working alongside auxins to regulate elongation and other growth processes."
-},
-{
-    "id": 28,
-    "question": "What is the primary function of cytokinins in plants?",
-    "options": [
-        "Promoting cell division and being present in high concentrations in areas of rapid growth like fruits and seeds",
-        "Inhibiting all forms of plant growth and causing immediate seed dormancy",
-        "Directing root growth directly away from sources of water in the soil",
-        "Causing rapid wilting and falling of leaves during seasonal changes"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cytokinins are plant hormones that promote cell division (cytokinesis). They are naturally synthesized in areas of rapid cell division, such as developing fruits and seeds, helping to drive overall growth and tissue development."
-},
-{
-    "id": 29,
-    "question": "What is the primary function of abscisic acid (ABA) in plants?",
-    "options": [
-        "Promoting rapid cell division in fruits and seeds",
-        "Inhibiting growth, promoting the wilting or falling of leaves (abscission), and helping regulate water stress",
-        "Stimulating shoot elongation towards a directional light source",
-        "Directing pollen tube growth toward the ovule via chemical signals"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Abscisic acid (ABA) is a plant hormone that generally inhibits growth. It plays an important role in responses to environmental stress—such as water scarcity (causing stomata to close)—and promotes processes like the wilting and falling of leaves (abscission) and seed dormancy."
-},
-{
-    "id": 30,
-    "question": "What is the primary function and composition of the endocrine system in animals and humans?",
-    "options": [
-        "A network of nerves that transmits fast electrical impulses to coordinate voluntary movements",
-        "A system of specialized ductless glands that secrete chemical messengers called hormones directly into the bloodstream to regulate bodily functions",
-        "A group of organs responsible exclusively for mechanical digestion and nutrient absorption",
-        "A specialized framework of bones and joints providing structural support and protection"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The endocrine system consists of ductless glands that release hormones directly into the bloodstream. Unlike the nervous system's rapid electrical signals, the endocrine system uses these chemical messengers to coordinate slow, long-lasting physiological responses and maintain internal balance (homeostasis)."
-},
-{
-    "id": 31,
-    "question": "Where is the hormone adrenaline produced in the human body?",
-    "options": [
-        "Pituitary gland",
-        "Thyroid gland",
-        "Adrenal glands (located above the kidneys)",
-        "Pancreas"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Adrenaline is secreted by the adrenal glands, which are situated right above the kidneys. It is released directly into the blood during emergency situations (like 'fight or flight' responses) to help the body react quickly."
-},
-{
-    "id": 32,
-    "question": "What is the primary function of the hormone adrenaline when released into the bloodstream during emergency or stressful situations?",
-    "options": [
-        "Promoting slow, continuous cell division in tissues",
-        "Preparing the body for a 'fight or flight' response by increasing heart rate, breathing rate, and blood flow to muscles",
-        "Regulating blood sugar levels by storing excess glucose as glycogen in the liver",
-        "Controlling the basal metabolic rate and overall physical growth"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Adrenaline is secreted directly into the blood during emergency situations. It prepares the body for 'fight or flight' by speeding up the heart rate, increasing breathing rate, raising blood pressure, and diverting blood flow away from the digestive system toward skeletal muscles to handle sudden physical demands."
-},
-{
-    "id": 33,
-    "question": "Where are the adrenal glands anatomically located in the human body?",
-    "options": [
-        "At the base of the brain, just below the hypothalamus",
-        "Right on top of each of the two kidneys",
-        "In the front of the neck, wrapped around the windpipe",
-        "Behind the stomach, near the loop of the small intestine"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The adrenal glands are small, triangular endocrine glands located superiorly, right on top of each kidney. They secrete hormones like adrenaline directly into the bloodstream during stress or emergency situations."
-},
-{
-    "id": 34,
-    "question": "What is the primary function of the thyroxine hormone in the human body?",
-    "options": [
-        "Regulating the metabolism of carbohydrates, fats, and proteins in the body",
-        "Preparing the body for sudden 'fight or flight' responses during emergencies",
-        "Lowering blood sugar levels after a heavy meal",
-        "Controlling the development of secondary sexual characters"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Thyroxine is a hormone produced by the thyroid gland (which requires iodine for its synthesis) that regulates the metabolism of carbohydrates, fats, and proteins, ensuring proper energy balance and overall body growth."
-},
-{
-    "id": 35,
-    "question": "Where is the thyroxine hormone produced in the human body?",
-    "options": [
-        "Adrenal glands",
-        "Thyroid gland",
-        "Pituitary gland",
-        "Pancreas"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Thyroxine is produced by the thyroid gland, which is located in the neck. The thyroid gland requires iodine to synthesize thyroxine, a hormone responsible for regulating the body's overall metabolism."
-},
-{
-    "id": 36,
-    "question": "Where is the thyroid gland anatomically located in the human body?",
-    "options": [
-        "Right on top of the kidneys in the lower back",
-        "In the front of the neck, situated around the windpipe (trachea)",
-        "At the base of the brain, right beneath the hypothalamus",
-        "Behind the stomach, near the small intestine"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The thyroid gland is located in the neck region, specifically in the front of the neck wrapped around or in front of the windpipe (trachea). It produces the hormone thyroxine, which regulates carbohydrate, fat, and protein metabolism."
-},
-{
-    "id": 37,
-    "question": "Which element is essential for the synthesis of the hormone thyroxine by the thyroid gland?",
-    "options": [
-        "Iron",
-        "Iodine",
-        "Calcium",
-        "Potassium"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Iodine is an essential element required by the thyroid gland to produce thyroxine. Without sufficient dietary iodine, the thyroid gland cannot synthesize enough thyroxine, which can lead to an enlargement of the gland known as a goiter."
-},
-{
-    "id": 38,
-    "question": "Which deficiency disease is caused by a lack of iodine in the diet?",
-    "options": [
-        "Scurvy",
-        "Goitre",
-        "Rickets",
-        "Beriberi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Goitre is a deficiency disease caused by a lack of iodine in the diet. Since iodine is essential for the synthesis of thyroxine by the thyroid gland, a shortage of iodine causes the gland to enlarge in an attempt to produce more hormone, leading to a swollen neck known as goitre."
-},
-{
-    "id": 39,
-    "question": "Where is the growth hormone produced in the human body?",
-    "options": [
-        "Pituitary gland",
-        "Thyroid gland",
-        "Adrenal glands",
-        "Pancreas"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Growth hormone is produced by the pituitary gland, which is located at the base of the brain. It regulates overall growth, bone development, and metabolism in the body."
-},
-{
-    "id": 40,
-    "question": "Where is the pituitary gland anatomically located in the human body?",
-    "options": [
-        "At the base of the brain, just beneath the hypothalamus",
-        "In the front of the neck, wrapped around the windpipe",
-        "Right on top of each of the two kidneys",
-        "Behind the stomach, near the small intestine"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The pituitary gland is a crucial endocrine gland located at the base of the brain, right below the hypothalamus. Often referred to as the 'master gland,' it secretes hormones like growth hormone that regulate many other endocrine glands and bodily processes."
-},
-{
-    "id": 41,
-    "question": "What is testosterone, and what is its primary role in the human body?",
-    "options": [
-        "A plant hormone responsible for controlling phototropism and shoot elongation",
-        "A male sex hormone produced primarily by the testes that regulates secondary sexual characteristics and development",
-        "A digestive hormone secreted by the stomach lining to break down dietary proteins",
-        "A stress hormone released by the adrenal glands during emergency situations"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Testosterone is the primary male sex hormone produced by the testes. It plays a key role in developing male secondary sexual characteristics—such as facial hair, deepening of the voice, and muscle development—as well as regulating reproductive function."
-},
-{
-    "id": 42,
-    "question": "Where is the hormone testosterone primarily produced in the human body?",
-    "options": [
-        "Testes",
-        "Ovaries",
-        "Pituitary gland",
-        "Adrenal glands"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Testosterone is primarily produced by the testes in males. It is the main male sex hormone responsible for regulating reproductive development and secondary sexual characteristics."
-},
-
+            "id": 6,
+            "question": "What is a reflex arc?",
+            "options": [
+                "The pathway taken by nerve impulses in a reflex action from receptor to effector.",
+                "The pathway of communication between neurons in the brain during conscious thought.",
+                "The mechanism by which electrical impulses cross a synapse.",
+                "The chemical signal released by endocrine glands."
+            ],
+            "correctAnswer": 0,
+            "explanation": "A reflex arc is the pathway taken by nerve impulses during a reflex action. It typically consists of a sensory receptor, a sensory neuron, an integration center (usually in the spinal cord), a motor neuron, and an effector, allowing for rapid and involuntary responses to stimuli."
+        },
         {
-    "id": 43,
-    "question": "Where are the testes anatomically located in the human male body?",
-    "options": [
-        "Inside the abdominal cavity behind the stomach",
-        "Within the scrotum, which hangs outside the abdominopelvic cavity",
-        "At the base of the brain near the pituitary gland",
-        "In the front of the neck adjacent to the windpipe"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The testes are located in the scrotum, a pouch of skin hanging outside the male abdominal cavity. This external placement keeps the temperature slightly lower than the core body temperature, which is necessary for proper sperm production and testosterone synthesis."
-},
-{
-    "id": 44,
-    "question": "What is estrogen, and what is its primary role in the human body?",
-    "options": [
-        "A plant hormone responsible for root growth and hydrotropism",
-        "A female sex hormone produced primarily by the ovaries that regulates secondary sexual characteristics and the menstrual cycle",
-        "A digestive hormone secreted by the pancreas to break down dietary fats",
-        "A stress hormone released by the adrenal glands during emergency situations"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Estrogen is the primary female sex hormone produced mainly by the ovaries. It plays a crucial role in regulating the female reproductive system, the menstrual cycle, and the development of secondary sexual characteristics such as breast development and body shape changes."
-},
-{
-    "id": 45,
-    "question": "Where is the hormone estrogen primarily produced in the human female body?",
-    "options": [
-        "Ovaries",
-        "Testes",
-        "Pituitary gland",
-        "Thyroid gland"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Estrogen is primarily produced by the ovaries in females. It is the key female sex hormone responsible for regulating the menstrual cycle, reproductive development, and secondary sexual characteristics."
-},
-
-{
-    "id": 46,
-    "question": "Where are the ovaries anatomically located in the human female body?",
-    "options": [
-        "In the lower pelvic cavity, one on each side of the uterus",
-        "Within the scrotum outside the main body cavity",
-        "At the base of the brain near the pituitary gland",
-        "In the front of the neck adjacent to the windpipe"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The ovaries are a pair of female reproductive organs located in the lower pelvic cavity, one on either side of the uterus. They are responsible for producing eggs (ova) as well as female sex hormones like estrogen and progesterone."
-},
-{
-    "id": 47,
-    "question": "Where is the hormone testosterone primarily produced in the human body?",
-    "options": [
-        "Testes",
-        "Ovaries",
-        "Thyroid gland",
-        "Adrenal glands"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Testosterone is primarily produced by the testes in males, where it plays a vital role in reproductive development and the regulation of secondary sexual characteristics."
-},
-{
-    "id": 48,
-    "question": "What is insulin, and what is its primary function in the human body?",
-    "options": [
-        "A hormone produced by the pancreas that helps regulate and lower blood sugar levels",
-        "A stress hormone secreted by the adrenal glands during emergency situations",
-        "A plant hormone responsible for shoot elongation and cell division",
-        "A digestive enzyme produced in the stomach to break down proteins"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Insulin is a hormone produced by the pancreas. Its primary role is to regulate blood glucose levels by facilitating the uptake of glucose from the bloodstream into body cells, thereby lowering blood sugar levels after eating."
-},
-{
-    "id": 49,
-    "question": "Where is the hormone insulin produced in the human body?",
-    "options": [
-        "Pancreas",
-        "Pituitary gland",
-        "Thyroid gland",
-        "Adrenal glands"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Insulin is produced by specialized clusters of cells within the pancreas known as the islets of Langerhans. From there, it is secreted directly into the bloodstream to regulate and lower blood glucose levels."
-},
-{
-    "id": 50,
-    "question": "Which disease or condition develops when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces?",
-    "options": [
-        "Goitre",
-        "Diabetes mellitus",
-        "Scurvy",
-        "Rickets"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Diabetes mellitus occurs when the pancreas fails to produce sufficient insulin or when body cells do not respond properly to the insulin produced. This leads to abnormally high levels of glucose in the blood, which can cause various health complications if left unmanaged."
-},
-{
-    "id": 51,
-    "question": "Where is the pancreas anatomically located in the human body?",
-    "options": [
-        "At the base of the brain, just beneath the hypothalamus",
-        "Behind the stomach in the upper abdomen, near the loop of the small intestine",
-        "In the front of the neck, wrapped around the windpipe",
-        "Right on top of each of the two kidneys"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The pancreas is an elongated gland located in the upper abdomen, positioned horizontally behind the stomach and near the loop of the small intestine. It functions as both an endocrine gland (producing hormones like insulin and glucagon) and an exocrine gland (producing digestive juices)."
-},
-{
-    "id": 52,
-    "question": "What is the primary function of the hypothalamus in the human body?",
-    "options": [
-        "Producing digestive enzymes to break down food in the stomach",
-        "Regulating body temperature, hunger, thirst, and controlling the pituitary gland to link the nervous and endocrine systems",
-        "Controlling the basal metabolic rate by secreting thyroxine",
-        "Producing insulin to lower blood glucose levels"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The hypothalamus is a vital region of the brain that links the nervous system to the endocrine system. It regulates essential homeostatic functions such as body temperature, hunger, thirst, fatigue, and sleep, and it secretes releasing or inhibiting hormones that direct the activity of the pituitary gland."
-},
-{
-    "id": 53,
-    "question": "Where is the hypothalamus anatomically located in the human body?",
-    "options": [
-        "At the base of the brain, right beneath the thalamus and above the pituitary gland",
-        "In the front of the neck, adjacent to the windpipe",
-        "Right on top of each of the two kidneys in the lower back",
-        "Behind the stomach in the upper abdomen"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The hypothalamus is located in the lower central region of the brain, sitting at the base right beneath the thalamus and directly above the pituitary gland. It acts as the primary control center linking the nervous system to the endocrine system."
-},
-{
-    "id": 54,
-    "question": "What are voluntary functions in the human body, and which part of the nervous system primarily controls them?",
-    "options": [
-        "Actions that are consciously controlled and directed by the will, managed primarily by the central nervous system (specifically the cerebrum and somatic nervous system)",
-        "Automatic physiological processes like heartbeat, digestion, and breathing controlled by the autonomic nervous system",
-        "Reflex actions that occur instantly without conscious thought via the spinal cord",
-        "Hormonal secretions released by endocrine glands in response to stress"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Voluntary functions are actions that we can consciously choose to perform and control, such as walking, writing, or talking. These are regulated by the somatic nervous system, with commands originating in the conscious parts of the brain like the cerebrum."
-},
-{
-    "id": 55,
-    "question": "What are involuntary functions in the human body, and how are they typically regulated?",
-    "options": [
-        "Actions that are consciously controlled and directed by the individual's will",
-        "Automatic physiological processes that happen without conscious thought, regulated by the autonomic nervous system and brainstem",
-        "Rapid, temporary responses to environmental stimuli controlled entirely by spinal reflexes",
-        "Hormonal secretions produced exclusively during high-stress situations"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Involuntary functions are automatic bodily processes that occur without conscious control or thought, such as heartbeat, digestion, peristalsis, and breathing. These essential functions are primarily regulated and coordinated by the autonomic nervous system and control centers in the brainstem (like the medulla oblongata)."
-}
+            "id": 7,
+            "question": "Name the section where nerves from all over the body meet in a bundle on their way to the brain.",
+            "options": [
+                "Cerebrum",
+                "Cerebellum",
+                "Spinal cord",
+                "Hypothalamus"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Nerves from all over the body meet in a bundle in the spinal cord on their way to the brain. Reflex arcs are also formed in the spinal cord itself to handle immediate, involuntary responses."
+        },
+        {
+            "id": 8,
+            "question": "What is the function of a sensory neuron?",
+            "options": [
+                "Transmits impulses from the central nervous system to effectors like muscles or glands",
+                "Acts as an intermediate or relay neuron to connect other neurons within the spinal cord",
+                "Transmits impulses from receptors (sense organs) to the central nervous system (brain and spinal cord)",
+                "Carries electrical signals directly from one muscle fiber to another"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Sensory neurons are specialized nerve cells that detect environmental changes via receptors and transmit those nerve impulses toward the central nervous system (brain and spinal cord) for processing."
+        },
+        {
+            "id": 9,
+            "question": "What is the function of a motor neuron?",
+            "options": [
+                "Connects sensory and motor neurons exclusively within the brain",
+                "Transmits impulses from receptors to the central nervous system",
+                "Converts electrical impulses into chemical signals at the synapse",
+                "Transmits impulses from the central nervous system to effectors like muscles or glands"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Motor neurons carry nerve impulses away from the central nervous system (brain and spinal cord) to effectors such as muscles or glands, directing them to take action or respond."
+        },
+        {
+            "id": 10,
+            "question": "What does CNS stand for, and what are its main components?",
+            "options": [
+                "Cellular Nucleus System, consisting of neurons and glial cells",
+                "Central Nervous System, consisting of the brain and spinal cord",
+                "Cardiac Nervous System, consisting of the heart and nerves",
+                "Central Nodal System, consisting of sensory and motor nerves"
+            ],
+            "correctAnswer": 1,
+            "explanation": "CNS stands for the Central Nervous System. It comprises the brain and the spinal cord, which together receive information from all parts of the body and coordinate actions."
+        },
+        {
+            "id": 11,
+            "question": "What does the peripheral nervous system (PNS) consist of, and what is its main function?",
+            "options": [
+                "It consists of cranial nerves arising from the brain and spinal nerves arising from the spinal cord, connecting the CNS to the rest of the body.",
+                "It consists of the brain and spinal cord, and it processes conscious thoughts.",
+                "It consists only of voluntary skeletal muscles and motor neurons.",
+                "It consists of chemical hormones secreted by endocrine glands into the bloodstream."
+            ],
+            "correctAnswer": 0,
+            "explanation": "The peripheral nervous system (PNS) is composed of cranial nerves (arising from the brain) and spinal nerves (arising from the spinal cord). It acts as the communication link between the central nervous system (CNS) and the rest of the body."
+        },
+        {
+            "id": 12,
+            "question": "What is the main function of the cerebrum in the human brain?",
+            "options": [
+                "Regulating involuntary actions like blood pressure, salivation, and vomiting",
+                "Acting as the main thinking part of the brain, responsible for reasoning, memory, and voluntary actions",
+                "Maintaining posture, balance, and precision of voluntary movements",
+                "Controlling reflex arcs directly within the spinal cord"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The cerebrum is the main thinking part of the brain. It contains specific regions for receiving sensory impulses, interpreting data, processing information, storing memory, and controlling voluntary actions."
+        },
+        {
+            "id": 13,
+            "question": "What is the main function of the cerebellum in the human brain?",
+            "options": [
+                "Maintaining posture, balance, and coordinating precision of voluntary actions",
+                "Regulating involuntary actions like heartbeat, breathing, and blood pressure",
+                "Serving as the main thinking part of the brain for reasoning and memory",
+                "Receiving and processing sensory information related to smell and taste"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The cerebellum, which is part of the hind-brain, is responsible for maintaining the posture and balance of the body and coordinating precise voluntary movements (such as riding a bicycle or walking in a straight line)."
+        },
+        {
+            "id": 14,
+            "question": "What is the main function of the medulla oblongata in the human brain?",
+            "options": [
+                "Controlling conscious thought and reasoning",
+                "Maintaining body posture and balance",
+                "Interpreting visual and auditory sensory information",
+                "Regulating involuntary actions such as blood pressure, salivation, and vomiting"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The medulla (part of the hind-brain) is responsible for controlling various involuntary actions such as blood pressure, heart rate, breathing, salivation, and vomiting."
+        },
+        {
+            "id": 15,
+            "question": "What are the three major regions or parts of the human brain?",
+            "options": [
+                "Fore-brain, Mid-brain, and Hind-brain",
+                "Cerebrum, Cerebellum, and Medulla",
+                "Sensory brain, Motor brain, and Association brain",
+                "Cortex, Thalamus, and Hypothalamus"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The human brain is broadly divided into three major regions: the fore-brain (the main thinking part), the mid-brain, and the hind-brain (which includes the cerebellum and medulla)."
+        },
+        {
+            "id": 16,
+            "question": "What are the primary functions of the fore-brain, mid-brain, and hind-brain?",
+            "options": [
+                "Fore-brain handles only involuntary actions; mid-brain handles memory and reasoning; hind-brain handles sensory inputs.",
+                "Fore-brain is the main thinking part with regions for sensory processing and voluntary actions; mid-brain handles involuntary reflexes (like visual and auditory responses); hind-brain controls posture, balance, and vital involuntary actions like heart rate, blood pressure, and breathing.",
+                "Fore-brain, mid-brain, and hind-brain exclusively coordinate the spinal cord reflex arcs.",
+                "Fore-brain coordinates balance and posture; mid-brain coordinates reasoning; hind-brain handles complex thinking."
+            ],
+            "correctAnswer": 1,
+            "explanation": "The human brain is divided into three major regions: the fore-brain (acting as the main thinking and sensory processing center), the mid-brain (managing reflex pathways and responses), and the hind-brain (including the cerebellum for balance and the medulla for vital involuntary actions like respiration and blood pressure)."
+        },
+        {
+            "id": 17,
+            "question": "Which of the following options correctly matches the major regions of the human brain with their primary components or functions?",
+            "options": [
+                "Fore-brain: Cerebellum; Mid-brain: Medulla; Hind-brain: Cerebrum",
+                "Fore-brain: Spinal cord; Mid-brain: Cerebrum; Hind-brain: Pons",
+                "Fore-brain: Cerebrum (main thinking part); Mid-brain: Controls involuntary actions and reflex movements; Hind-brain: Cerebellum ,Medulla and pons",
+                "Fore-brain: Medulla; Mid-brain: Cerebellum; Hind-brain: Hypothalamus"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, the human brain is divided into the fore-brain (dominated by the cerebrum, the main thinking and voluntary coordination center), the mid-brain (managing involuntary reflex responses of the eyes and ears), and the hind-brain (comprising the cerebellum for balance and the medulla for vital involuntary actions like heartbeat and breathing)."
+        },
+        {
+            "id": 18,
+            "question": "Which skeletal structure or bone protects the spinal cord?",
+            "options": [
+                "Vertebral column (Backbone)",
+                "Skull (Cranium)",
+                "Rib cage",
+                "Sternum"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The spinal cord is a vital bundle of nerve fibers that is enclosed and protected by a bony structure called the vertebral column or backbone."
+        },
+        {
+            "id": 19,
+            "question": "Which bony structure protects the brain?",
+            "options": [
+                "Rib cage",
+                "Vertebral column",
+                "Sternum",
+                "Skull (Cranium)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The brain is the main coordinating center of the body and is safely enclosed and protected within a hard, bony box called the skull (or cranium)."
+        },
+        {
+            "id": 20,
+            "question": "What is germination?",
+            "options": [
+                "The shedding of leaves by a plant during the winter season",
+                "The process by which a seed develops into a seedling under favorable conditions",
+                "The growth of a plant root away from the source of light",
+                "The fusion of male and female gametes inside the ovule"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Germination is the process by which an organism grows from a seed or spore, typically resulting in the formation of a seedling under appropriate environmental conditions like water, oxygen, and suitable temperature."
+        },
+        {
+            "id": 21,
+            "question": "What is a tendril in climbing plants, and how does it function?",
+            "options": [
+                "A root modification that stores surplus food and water underground during unfavorable seasons",
+                "A protective waxy coating on the epidermis that prevents excessive water loss through transpiration",
+                "A specialized thread-like structure (modified leaf or stem) that coils around a support object to help climbing plants grow upwards",
+                "A reproductive flower organ specialized for attracting pollinators using bright colors"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Tendrils are thread-like growths (modified leaves or stems) seen in climbers like peas or gourds. When a tendril touches a surface or object, the parts in contact do not grow as fast as the parts away from the object, causing the tendril to circle and securely coil around the support."
+        },
+        {
+            "id": 22,
+            "question": "What is phototropic movement in plants, and how is it typically caused?",
+            "options": [
+                "Directional growth movement of a plant in response to light, regulated by the unequal distribution of auxin",
+                "Directional movement of plant parts in response to the touch of a solid object",
+                "Non-directional movement of flowers opening and closing in response to temperature changes",
+                "Downward movement of roots in response to the force of gravity"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Phototropic movement is the directional growth of a plant part (such as shoots bending towards light) in response to a light stimulus. This happens because the plant hormone auxin moves toward the shaded side, causing those cells to elongate faster than those on the illuminated side."
+        },
+        {
+            "id": 23,
+            "question": "What is hydrotropism in plants?",
+            "options": [
+                "Growth movement of plant parts away from the direction of gravity",
+                "Directional growth movement of plant parts in response to water or moisture",
+                "Rapid response of plant leaves to the touch of a solid object",
+                "Bending of plant shoots towards a source of light"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hydrotropism is a directional growth movement in which plant parts (such as roots) grow toward or away from moisture or water in the environment, helping them locate and absorb water from the soil."
+        },
+        {
+            "id": 24,
+            "question": "What is chemotropism in plants, and what is a classic example of it?",
+            "options": [
+                "Non-directional movement of leaves in response to mechanical shock or touch",
+                "Bending of plant shoots towards a directional light source",
+                "Directional growth movement in response to a chemical stimulus, such as the growth of a pollen tube towards the ovule",
+                "Downward movement of roots in response to the force of gravity"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Chemotropism is the directional growth of plant parts in response to a chemical stimulus. A prominent example is the growth of a pollen tube down the style towards the ovule during plant fertilization, which is guided by specific chemical signals."
+        },
+        {
+            "id": 25,
+            "question": "Why are chemical messengers like hormones produced in specific endocrine glands located at a distance from their target organs in the body?",
+            "options": [
+                "Because specialized glands secrete them into the bloodstream to be transported to distant target tissues, overcoming the limitations of slow diffusion in complex multicellular bodies.",
+                "Because hormones can only function properly if they are first stored inside bones.",
+                "Because every organ must synthesize its own identical set of chemical messengers independently.",
+                "To prevent any chemical communication from ever reaching the nervous system."
+            ],
+            "correctAnswer": 0,
+            "explanation": "In complex multicellular organisms, simple diffusion is too slow and inefficient to transmit signals across long distances. Instead, specialized endocrine glands produce hormones and release them into the blood, which transports them to specific target organs equipped with the right receptors to respond."
+        },
+        {
+            "id": 26,
+            "question": "What is the primary role and site of synthesis of auxin in plants?",
+            "options": [
+                "A specialized mineral nutrient absorbed from soil to speed up root cellular respiration",
+                "A plant hormone synthesized at the shoot tip that promotes cell elongation and directional growth like phototropism",
+                "A chemical compound produced in leaves exclusively to cause rapid falling of autumn leaves",
+                "A digestive enzyme secreted to break down complex starches inside plant seeds"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Auxin is a plant hormone synthesized at the tip of the shoot. It helps cells grow longer and plays a major role in plant movements, such as bending towards light (phototropism) by accumulating on the shaded side."
+        },
+        {
+            "id": 27,
+            "question": "What is the primary function of gibberellins in plants?",
+            "options": [
+                "Inhibiting all forms of plant growth and causing permanent seed dormancy",
+                "Promoting the growth of stems and overall plant development",
+                "Directing root growth exclusively away from moisture sources",
+                "Causing rapid wilting and dropping of mature leaves"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Gibberellins are a group of plant hormones that help in the growth of stems and overall plant development, often working alongside auxins to regulate elongation and other growth processes."
+        },
+        {
+            "id": 28,
+            "question": "What is the primary function of cytokinins in plants?",
+            "options": [
+                "Inhibiting all forms of plant growth and causing immediate seed dormancy",
+                "Promoting cell division and being present in high concentrations in areas of rapid growth like fruits and seeds",
+                "Directing root growth directly away from sources of water in the soil",
+                "Causing rapid wilting and falling of leaves during seasonal changes"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cytokinins are plant hormones that promote cell division (cytokinesis). They are naturally synthesized in areas of rapid cell division, such as developing fruits and seeds, helping to drive overall growth and tissue development."
+        },
+        {
+            "id": 29,
+            "question": "What is the primary function of abscisic acid (ABA) in plants?",
+            "options": [
+                "Inhibiting growth, promoting the wilting or falling of leaves (abscission), and helping regulate water stress",
+                "Promoting rapid cell division in fruits and seeds",
+                "Stimulating shoot elongation towards a directional light source",
+                "Directing pollen tube growth toward the ovule via chemical signals"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Abscisic acid (ABA) is a plant hormone that generally inhibits growth. It plays an important role in responses to environmental stress—such as water scarcity (causing stomata to close)—and promotes processes like the wilting and falling of leaves (abscission) and seed dormancy."
+        },
+        {
+            "id": 30,
+            "question": "What is the primary function and composition of the endocrine system in animals and humans?",
+            "options": [
+                "A network of nerves that transmits fast electrical impulses to coordinate voluntary movements",
+                "A group of organs responsible exclusively for mechanical digestion and nutrient absorption",
+                "A system of specialized ductless glands that secrete chemical messengers called hormones directly into the bloodstream to regulate bodily functions",
+                "A specialized framework of bones and joints providing structural support and protection"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The endocrine system consists of ductless glands that release hormones directly into the bloodstream. Unlike the nervous system's rapid electrical signals, the endocrine system uses these chemical messengers to coordinate slow, long-lasting physiological responses and maintain internal balance (homeostasis)."
+        },
+        {
+            "id": 31,
+            "question": "Where is the hormone adrenaline produced in the human body?",
+            "options": [
+                "Thyroid gland",
+                "Adrenal glands (located above the kidneys)",
+                "Pituitary gland",
+                "Pancreas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Adrenaline is secreted by the adrenal glands, which are situated right above the kidneys. It is released directly into the blood during emergency situations (like 'fight or flight' responses) to help the body react quickly."
+        },
+        {
+            "id": 32,
+            "question": "What is the primary function of the hormone adrenaline when released into the bloodstream during emergency or stressful situations?",
+            "options": [
+                "Promoting slow, continuous cell division in tissues",
+                "Regulating blood sugar levels by storing excess glucose as glycogen in the liver",
+                "Preparing the body for a 'fight or flight' response by increasing heart rate, breathing rate, and blood flow to muscles",
+                "Controlling the basal metabolic rate and overall physical growth"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Adrenaline is secreted directly into the blood during emergency situations. It prepares the body for 'fight or flight' by speeding up the heart rate, increasing breathing rate, raising blood pressure, and diverting blood flow away from the digestive system toward skeletal muscles to handle sudden physical demands."
+        },
+        {
+            "id": 33,
+            "question": "Where are the adrenal glands anatomically located in the human body?",
+            "options": [
+                "Right on top of each of the two kidneys",
+                "At the base of the brain, just below the hypothalamus",
+                "In the front of the neck, wrapped around the windpipe",
+                "Behind the stomach, near the loop of the small intestine"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The adrenal glands are small, triangular endocrine glands located superiorly, right on top of each kidney. They secrete hormones like adrenaline directly into the bloodstream during stress or emergency situations."
+        },
+        {
+            "id": 34,
+            "question": "What is the primary function of the thyroxine hormone in the human body?",
+            "options": [
+                "Preparing the body for sudden 'fight or flight' responses during emergencies",
+                "Lowering blood sugar levels after a heavy meal",
+                "Regulating the metabolism of carbohydrates, fats, and proteins in the body",
+                "Controlling the development of secondary sexual characters"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Thyroxine is a hormone produced by the thyroid gland (which requires iodine for its synthesis) that regulates the metabolism of carbohydrates, fats, and proteins, ensuring proper energy balance and overall body growth."
+        },
+        {
+            "id": 35,
+            "question": "Where is the thyroxine hormone produced in the human body?",
+            "options": [
+                "Thyroid gland",
+                "Adrenal glands",
+                "Pituitary gland",
+                "Pancreas"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Thyroxine is produced by the thyroid gland, which is located in the neck. The thyroid gland requires iodine to synthesize thyroxine, a hormone responsible for regulating the body's overall metabolism."
+        },
+        {
+            "id": 36,
+            "question": "Where is the thyroid gland anatomically located in the human body?",
+            "options": [
+                "In the front of the neck, situated around the windpipe (trachea)",
+                "Right on top of the kidneys in the lower back",
+                "At the base of the brain, right beneath the hypothalamus",
+                "Behind the stomach, near the small intestine"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The thyroid gland is located in the neck region, specifically in the front of the neck wrapped around or in front of the windpipe (trachea). It produces the hormone thyroxine, which regulates carbohydrate, fat, and protein metabolism."
+        },
+        {
+            "id": 37,
+            "question": "Which element is essential for the synthesis of the hormone thyroxine by the thyroid gland?",
+            "options": [
+                "Iron",
+                "Calcium",
+                "Iodine",
+                "Potassium"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Iodine is an essential element required by the thyroid gland to produce thyroxine. Without sufficient dietary iodine, the thyroid gland cannot synthesize enough thyroxine, which can lead to an enlargement of the gland known as a goiter."
+        },
+        {
+            "id": 38,
+            "question": "Which deficiency disease is caused by a lack of iodine in the diet?",
+            "options": [
+                "Scurvy",
+                "Rickets",
+                "Beriberi",
+                "Goitre"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Goitre is a deficiency disease caused by a lack of iodine in the diet. Since iodine is essential for the synthesis of thyroxine by the thyroid gland, a shortage of iodine causes the gland to enlarge in an attempt to produce more hormone, leading to a swollen neck known as goitre."
+        },
+        {
+            "id": 39,
+            "question": "Where is the growth hormone produced in the human body?",
+            "options": [
+                "Thyroid gland",
+                "Pituitary gland",
+                "Adrenal glands",
+                "Pancreas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Growth hormone is produced by the pituitary gland, which is located at the base of the brain. It regulates overall growth, bone development, and metabolism in the body."
+        },
+        {
+            "id": 40,
+            "question": "Where is the pituitary gland anatomically located in the human body?",
+            "options": [
+                "In the front of the neck, wrapped around the windpipe",
+                "Right on top of each of the two kidneys",
+                "Behind the stomach, near the small intestine",
+                "At the base of the brain, just beneath the hypothalamus"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The pituitary gland is a crucial endocrine gland located at the base of the brain, right below the hypothalamus. Often referred to as the 'master gland,' it secretes hormones like growth hormone that regulate many other endocrine glands and bodily processes."
+        },
+        {
+            "id": 41,
+            "question": "What is testosterone, and what is its primary role in the human body?",
+            "options": [
+                "A male sex hormone produced primarily by the testes that regulates secondary sexual characteristics and development",
+                "A plant hormone responsible for controlling phototropism and shoot elongation",
+                "A digestive hormone secreted by the stomach lining to break down dietary proteins",
+                "A stress hormone released by the adrenal glands during emergency situations"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Testosterone is the primary male sex hormone produced by the testes. It plays a key role in developing male secondary sexual characteristics—such as facial hair, deepening of the voice, and muscle development—as well as regulating reproductive function."
+        },
+        {
+            "id": 42,
+            "question": "Where is the hormone testosterone primarily produced in the human body?",
+            "options": [
+                "Ovaries",
+                "Pituitary gland",
+                "Testes",
+                "Adrenal glands"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Testosterone is primarily produced by the testes in males. It is the main male sex hormone responsible for regulating reproductive development and secondary sexual characteristics."
+        },
+        {
+            "id": 43,
+            "question": "Where are the testes anatomically located in the human male body?",
+            "options": [
+                "Inside the abdominal cavity behind the stomach",
+                "At the base of the brain near the pituitary gland",
+                "Within the scrotum, which hangs outside the abdominopelvic cavity",
+                "In the front of the neck adjacent to the windpipe"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The testes are located in the scrotum, a pouch of skin hanging outside the male abdominal cavity. This external placement keeps the temperature slightly lower than the core body temperature, which is necessary for proper sperm production and testosterone synthesis."
+        },
+        {
+            "id": 44,
+            "question": "What is estrogen, and what is its primary role in the human body?",
+            "options": [
+                "A plant hormone responsible for root growth and hydrotropism",
+                "A digestive hormone secreted by the pancreas to break down dietary fats",
+                "A female sex hormone produced primarily by the ovaries that regulates secondary sexual characteristics and the menstrual cycle",
+                "A stress hormone released by the adrenal glands during emergency situations"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Estrogen is the primary female sex hormone produced mainly by the ovaries. It plays a crucial role in regulating the female reproductive system, the menstrual cycle, and the development of secondary sexual characteristics such as breast development and body shape changes."
+        },
+        {
+            "id": 45,
+            "question": "Where is the hormone estrogen primarily produced in the human female body?",
+            "options": [
+                "Testes",
+                "Pituitary gland",
+                "Thyroid gland",
+                "Ovaries"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Estrogen is primarily produced by the ovaries in females. It is the key female sex hormone responsible for regulating the menstrual cycle, reproductive development, and secondary sexual characteristics."
+        },
+        {
+            "id": 46,
+            "question": "Where are the ovaries anatomically located in the human female body?",
+            "options": [
+                "Within the scrotum outside the main body cavity",
+                "At the base of the brain near the pituitary gland",
+                "In the lower pelvic cavity, one on each side of the uterus",
+                "In the front of the neck adjacent to the windpipe"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The ovaries are a pair of female reproductive organs located in the lower pelvic cavity, one on either side of the uterus. They are responsible for producing eggs (ova) as well as female sex hormones like estrogen and progesterone."
+        },
+        {
+            "id": 47,
+            "question": "Where is the hormone testosterone primarily produced in the human body?",
+            "options": [
+                "Testes",
+                "Ovaries",
+                "Thyroid gland",
+                "Adrenal glands"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Testosterone is primarily produced by the testes in males, where it plays a vital role in reproductive development and the regulation of secondary sexual characteristics."
+        },
+        {
+            "id": 48,
+            "question": "What is insulin, and what is its primary function in the human body?",
+            "options": [
+                "A stress hormone secreted by the adrenal glands during emergency situations",
+                "A hormone produced by the pancreas that helps regulate and lower blood sugar levels",
+                "A plant hormone responsible for shoot elongation and cell division",
+                "A digestive enzyme produced in the stomach to break down proteins"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Insulin is a hormone produced by the pancreas. Its primary role is to regulate blood glucose levels by facilitating the uptake of glucose from the bloodstream into body cells, thereby lowering blood sugar levels after eating."
+        },
+        {
+            "id": 49,
+            "question": "Where is the hormone insulin produced in the human body?",
+            "options": [
+                "Pituitary gland",
+                "Thyroid gland",
+                "Pancreas",
+                "Adrenal glands"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Insulin is produced by specialized clusters of cells within the pancreas known as the islets of Langerhans. From there, it is secreted directly into the bloodstream to regulate and lower blood glucose levels."
+        },
+        {
+            "id": 50,
+            "question": "Which disease or condition develops when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces?",
+            "options": [
+                "Diabetes mellitus",
+                "Goitre",
+                "Scurvy",
+                "Rickets"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Diabetes mellitus occurs when the pancreas fails to produce sufficient insulin or when body cells do not respond properly to the insulin produced. This leads to abnormally high levels of glucose in the blood, which can cause various health complications if left unmanaged."
+        },
+        {
+            "id": 51,
+            "question": "Where is the pancreas anatomically located in the human body?",
+            "options": [
+                "At the base of the brain, just beneath the hypothalamus",
+                "In the front of the neck, wrapped around the windpipe",
+                "Right on top of each of the two kidneys",
+                "Behind the stomach in the upper abdomen, near the loop of the small intestine"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The pancreas is an elongated gland located in the upper abdomen, positioned horizontally behind the stomach and near the loop of the small intestine. It functions as both an endocrine gland (producing hormones like insulin and glucagon) and an exocrine gland (producing digestive juices)."
+        },
+        {
+            "id": 52,
+            "question": "What is the primary function of the hypothalamus in the human body?",
+            "options": [
+                "Regulating body temperature, hunger, thirst, and controlling the pituitary gland to link the nervous and endocrine systems",
+                "Producing digestive enzymes to break down food in the stomach",
+                "Controlling the basal metabolic rate by secreting thyroxine",
+                "Producing insulin to lower blood glucose levels"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The hypothalamus is a vital region of the brain that links the nervous system to the endocrine system. It regulates essential homeostatic functions such as body temperature, hunger, thirst, fatigue, and sleep, and it secretes releasing or inhibiting hormones that direct the activity of the pituitary gland."
+        },
+        {
+            "id": 53,
+            "question": "Where is the hypothalamus anatomically located in the human body?",
+            "options": [
+                "In the front of the neck, adjacent to the windpipe",
+                "Right on top of each of the two kidneys in the lower back",
+                "At the base of the brain, right beneath the thalamus and above the pituitary gland",
+                "Behind the stomach in the upper abdomen"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The hypothalamus is located in the lower central region of the brain, sitting at the base right beneath the thalamus and directly above the pituitary gland. It acts as the primary control center linking the nervous system to the endocrine system."
+        },
+        {
+            "id": 54,
+            "question": "What are voluntary functions in the human body, and which part of the nervous system primarily controls them?",
+            "options": [
+                "Automatic physiological processes like heartbeat, digestion, and breathing controlled by the autonomic nervous system",
+                "Actions that are consciously controlled and directed by the will, managed primarily by the central nervous system (specifically the cerebrum and somatic nervous system)",
+                "Reflex actions that occur instantly without conscious thought via the spinal cord",
+                "Hormonal secretions released by endocrine glands in response to stress"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Voluntary functions are actions that we can consciously choose to perform and control, such as walking, writing, or talking. These are regulated by the somatic nervous system, with commands originating in the conscious parts of the brain like the cerebrum."
+        },
+        {
+            "id": 55,
+            "question": "What are involuntary functions in the human body, and how are they typically regulated?",
+            "options": [
+                "Actions that are consciously controlled and directed by the individual's will",
+                "Rapid, temporary responses to environmental stimuli controlled entirely by spinal reflexes",
+                "Hormonal secretions produced exclusively during high-stress situations",
+                "Automatic physiological processes that happen without conscious thought, regulated by the autonomic nervous system and brainstem"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Involuntary functions are automatic bodily processes that occur without conscious control or thought, such as heartbeat, digestion, peristalsis, and breathing. These essential functions are primarily regulated and coordinated by the autonomic nervous system and control centers in the brainstem (like the medulla oblongata)."
+        }
     ]
 }
