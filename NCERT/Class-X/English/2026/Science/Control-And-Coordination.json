@@ -356,9 +356,319 @@
     "correctAnswer": 1,
     "explanation": "Abscisic acid (ABA) is a plant hormone that generally inhibits growth. It plays an important role in responses to environmental stress—such as water scarcity (causing stomata to close)—and promotes processes like the wilting and falling of leaves (abscission) and seed dormancy."
 },
+{
+    "id": 30,
+    "question": "What is the primary function and composition of the endocrine system in animals and humans?",
+    "options": [
+        "A network of nerves that transmits fast electrical impulses to coordinate voluntary movements",
+        "A system of specialized ductless glands that secrete chemical messengers called hormones directly into the bloodstream to regulate bodily functions",
+        "A group of organs responsible exclusively for mechanical digestion and nutrient absorption",
+        "A specialized framework of bones and joints providing structural support and protection"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The endocrine system consists of ductless glands that release hormones directly into the bloodstream. Unlike the nervous system's rapid electrical signals, the endocrine system uses these chemical messengers to coordinate slow, long-lasting physiological responses and maintain internal balance (homeostasis)."
+},
+{
+    "id": 31,
+    "question": "Where is the hormone adrenaline produced in the human body?",
+    "options": [
+        "Pituitary gland",
+        "Thyroid gland",
+        "Adrenal glands (located above the kidneys)",
+        "Pancreas"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adrenaline is secreted by the adrenal glands, which are situated right above the kidneys. It is released directly into the blood during emergency situations (like 'fight or flight' responses) to help the body react quickly."
+},
+{
+    "id": 32,
+    "question": "What is the primary function of the hormone adrenaline when released into the bloodstream during emergency or stressful situations?",
+    "options": [
+        "Promoting slow, continuous cell division in tissues",
+        "Preparing the body for a 'fight or flight' response by increasing heart rate, breathing rate, and blood flow to muscles",
+        "Regulating blood sugar levels by storing excess glucose as glycogen in the liver",
+        "Controlling the basal metabolic rate and overall physical growth"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Adrenaline is secreted directly into the blood during emergency situations. It prepares the body for 'fight or flight' by speeding up the heart rate, increasing breathing rate, raising blood pressure, and diverting blood flow away from the digestive system toward skeletal muscles to handle sudden physical demands."
+},
+{
+    "id": 33,
+    "question": "Where are the adrenal glands anatomically located in the human body?",
+    "options": [
+        "At the base of the brain, just below the hypothalamus",
+        "Right on top of each of the two kidneys",
+        "In the front of the neck, wrapped around the windpipe",
+        "Behind the stomach, near the loop of the small intestine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The adrenal glands are small, triangular endocrine glands located superiorly, right on top of each kidney. They secrete hormones like adrenaline directly into the bloodstream during stress or emergency situations."
+},
+{
+    "id": 34,
+    "question": "What is the primary function of the thyroxine hormone in the human body?",
+    "options": [
+        "Regulating the metabolism of carbohydrates, fats, and proteins in the body",
+        "Preparing the body for sudden 'fight or flight' responses during emergencies",
+        "Lowering blood sugar levels after a heavy meal",
+        "Controlling the development of secondary sexual characters"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Thyroxine is a hormone produced by the thyroid gland (which requires iodine for its synthesis) that regulates the metabolism of carbohydrates, fats, and proteins, ensuring proper energy balance and overall body growth."
+},
+{
+    "id": 35,
+    "question": "Where is the thyroxine hormone produced in the human body?",
+    "options": [
+        "Adrenal glands",
+        "Thyroid gland",
+        "Pituitary gland",
+        "Pancreas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thyroxine is produced by the thyroid gland, which is located in the neck. The thyroid gland requires iodine to synthesize thyroxine, a hormone responsible for regulating the body's overall metabolism."
+},
+{
+    "id": 36,
+    "question": "Where is the thyroid gland anatomically located in the human body?",
+    "options": [
+        "Right on top of the kidneys in the lower back",
+        "In the front of the neck, situated around the windpipe (trachea)",
+        "At the base of the brain, right beneath the hypothalamus",
+        "Behind the stomach, near the small intestine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The thyroid gland is located in the neck region, specifically in the front of the neck wrapped around or in front of the windpipe (trachea). It produces the hormone thyroxine, which regulates carbohydrate, fat, and protein metabolism."
+},
+{
+    "id": 37,
+    "question": "Which element is essential for the synthesis of the hormone thyroxine by the thyroid gland?",
+    "options": [
+        "Iron",
+        "Iodine",
+        "Calcium",
+        "Potassium"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Iodine is an essential element required by the thyroid gland to produce thyroxine. Without sufficient dietary iodine, the thyroid gland cannot synthesize enough thyroxine, which can lead to an enlargement of the gland known as a goiter."
+},
+{
+    "id": 38,
+    "question": "Which deficiency disease is caused by a lack of iodine in the diet?",
+    "options": [
+        "Scurvy",
+        "Goitre",
+        "Rickets",
+        "Beriberi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Goitre is a deficiency disease caused by a lack of iodine in the diet. Since iodine is essential for the synthesis of thyroxine by the thyroid gland, a shortage of iodine causes the gland to enlarge in an attempt to produce more hormone, leading to a swollen neck known as goitre."
+},
+{
+    "id": 39,
+    "question": "Where is the growth hormone produced in the human body?",
+    "options": [
+        "Pituitary gland",
+        "Thyroid gland",
+        "Adrenal glands",
+        "Pancreas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Growth hormone is produced by the pituitary gland, which is located at the base of the brain. It regulates overall growth, bone development, and metabolism in the body."
+},
+{
+    "id": 40,
+    "question": "Where is the pituitary gland anatomically located in the human body?",
+    "options": [
+        "At the base of the brain, just beneath the hypothalamus",
+        "In the front of the neck, wrapped around the windpipe",
+        "Right on top of each of the two kidneys",
+        "Behind the stomach, near the small intestine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The pituitary gland is a crucial endocrine gland located at the base of the brain, right below the hypothalamus. Often referred to as the 'master gland,' it secretes hormones like growth hormone that regulate many other endocrine glands and bodily processes."
+},
+{
+    "id": 41,
+    "question": "What is testosterone, and what is its primary role in the human body?",
+    "options": [
+        "A plant hormone responsible for controlling phototropism and shoot elongation",
+        "A male sex hormone produced primarily by the testes that regulates secondary sexual characteristics and development",
+        "A digestive hormone secreted by the stomach lining to break down dietary proteins",
+        "A stress hormone released by the adrenal glands during emergency situations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Testosterone is the primary male sex hormone produced by the testes. It plays a key role in developing male secondary sexual characteristics—such as facial hair, deepening of the voice, and muscle development—as well as regulating reproductive function."
+},
+{
+    "id": 42,
+    "question": "Where is the hormone testosterone primarily produced in the human body?",
+    "options": [
+        "Testes",
+        "Ovaries",
+        "Pituitary gland",
+        "Adrenal glands"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Testosterone is primarily produced by the testes in males. It is the main male sex hormone responsible for regulating reproductive development and secondary sexual characteristics."
+},
 
+        {
+    "id": 43,
+    "question": "Where are the testes anatomically located in the human male body?",
+    "options": [
+        "Inside the abdominal cavity behind the stomach",
+        "Within the scrotum, which hangs outside the abdominopelvic cavity",
+        "At the base of the brain near the pituitary gland",
+        "In the front of the neck adjacent to the windpipe"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The testes are located in the scrotum, a pouch of skin hanging outside the male abdominal cavity. This external placement keeps the temperature slightly lower than the core body temperature, which is necessary for proper sperm production and testosterone synthesis."
+},
+{
+    "id": 44,
+    "question": "What is estrogen, and what is its primary role in the human body?",
+    "options": [
+        "A plant hormone responsible for root growth and hydrotropism",
+        "A female sex hormone produced primarily by the ovaries that regulates secondary sexual characteristics and the menstrual cycle",
+        "A digestive hormone secreted by the pancreas to break down dietary fats",
+        "A stress hormone released by the adrenal glands during emergency situations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Estrogen is the primary female sex hormone produced mainly by the ovaries. It plays a crucial role in regulating the female reproductive system, the menstrual cycle, and the development of secondary sexual characteristics such as breast development and body shape changes."
+},
+{
+    "id": 45,
+    "question": "Where is the hormone estrogen primarily produced in the human female body?",
+    "options": [
+        "Ovaries",
+        "Testes",
+        "Pituitary gland",
+        "Thyroid gland"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Estrogen is primarily produced by the ovaries in females. It is the key female sex hormone responsible for regulating the menstrual cycle, reproductive development, and secondary sexual characteristics."
+},
 
-        
-
+{
+    "id": 46,
+    "question": "Where are the ovaries anatomically located in the human female body?",
+    "options": [
+        "In the lower pelvic cavity, one on each side of the uterus",
+        "Within the scrotum outside the main body cavity",
+        "At the base of the brain near the pituitary gland",
+        "In the front of the neck adjacent to the windpipe"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The ovaries are a pair of female reproductive organs located in the lower pelvic cavity, one on either side of the uterus. They are responsible for producing eggs (ova) as well as female sex hormones like estrogen and progesterone."
+},
+{
+    "id": 47,
+    "question": "Where is the hormone testosterone primarily produced in the human body?",
+    "options": [
+        "Testes",
+        "Ovaries",
+        "Thyroid gland",
+        "Adrenal glands"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Testosterone is primarily produced by the testes in males, where it plays a vital role in reproductive development and the regulation of secondary sexual characteristics."
+},
+{
+    "id": 48,
+    "question": "What is insulin, and what is its primary function in the human body?",
+    "options": [
+        "A hormone produced by the pancreas that helps regulate and lower blood sugar levels",
+        "A stress hormone secreted by the adrenal glands during emergency situations",
+        "A plant hormone responsible for shoot elongation and cell division",
+        "A digestive enzyme produced in the stomach to break down proteins"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insulin is a hormone produced by the pancreas. Its primary role is to regulate blood glucose levels by facilitating the uptake of glucose from the bloodstream into body cells, thereby lowering blood sugar levels after eating."
+},
+{
+    "id": 49,
+    "question": "Where is the hormone insulin produced in the human body?",
+    "options": [
+        "Pancreas",
+        "Pituitary gland",
+        "Thyroid gland",
+        "Adrenal glands"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insulin is produced by specialized clusters of cells within the pancreas known as the islets of Langerhans. From there, it is secreted directly into the bloodstream to regulate and lower blood glucose levels."
+},
+{
+    "id": 50,
+    "question": "Which disease or condition develops when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces?",
+    "options": [
+        "Goitre",
+        "Diabetes mellitus",
+        "Scurvy",
+        "Rickets"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diabetes mellitus occurs when the pancreas fails to produce sufficient insulin or when body cells do not respond properly to the insulin produced. This leads to abnormally high levels of glucose in the blood, which can cause various health complications if left unmanaged."
+},
+{
+    "id": 51,
+    "question": "Where is the pancreas anatomically located in the human body?",
+    "options": [
+        "At the base of the brain, just beneath the hypothalamus",
+        "Behind the stomach in the upper abdomen, near the loop of the small intestine",
+        "In the front of the neck, wrapped around the windpipe",
+        "Right on top of each of the two kidneys"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pancreas is an elongated gland located in the upper abdomen, positioned horizontally behind the stomach and near the loop of the small intestine. It functions as both an endocrine gland (producing hormones like insulin and glucagon) and an exocrine gland (producing digestive juices)."
+},
+{
+    "id": 52,
+    "question": "What is the primary function of the hypothalamus in the human body?",
+    "options": [
+        "Producing digestive enzymes to break down food in the stomach",
+        "Regulating body temperature, hunger, thirst, and controlling the pituitary gland to link the nervous and endocrine systems",
+        "Controlling the basal metabolic rate by secreting thyroxine",
+        "Producing insulin to lower blood glucose levels"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The hypothalamus is a vital region of the brain that links the nervous system to the endocrine system. It regulates essential homeostatic functions such as body temperature, hunger, thirst, fatigue, and sleep, and it secretes releasing or inhibiting hormones that direct the activity of the pituitary gland."
+},
+{
+    "id": 53,
+    "question": "Where is the hypothalamus anatomically located in the human body?",
+    "options": [
+        "At the base of the brain, right beneath the thalamus and above the pituitary gland",
+        "In the front of the neck, adjacent to the windpipe",
+        "Right on top of each of the two kidneys in the lower back",
+        "Behind the stomach in the upper abdomen"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The hypothalamus is located in the lower central region of the brain, sitting at the base right beneath the thalamus and directly above the pituitary gland. It acts as the primary control center linking the nervous system to the endocrine system."
+},
+{
+    "id": 54,
+    "question": "What are voluntary functions in the human body, and which part of the nervous system primarily controls them?",
+    "options": [
+        "Actions that are consciously controlled and directed by the will, managed primarily by the central nervous system (specifically the cerebrum and somatic nervous system)",
+        "Automatic physiological processes like heartbeat, digestion, and breathing controlled by the autonomic nervous system",
+        "Reflex actions that occur instantly without conscious thought via the spinal cord",
+        "Hormonal secretions released by endocrine glands in response to stress"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Voluntary functions are actions that we can consciously choose to perform and control, such as walking, writing, or talking. These are regulated by the somatic nervous system, with commands originating in the conscious parts of the brain like the cerebrum."
+},
+{
+    "id": 55,
+    "question": "What are involuntary functions in the human body, and how are they typically regulated?",
+    "options": [
+        "Actions that are consciously controlled and directed by the individual's will",
+        "Automatic physiological processes that happen without conscious thought, regulated by the autonomic nervous system and brainstem",
+        "Rapid, temporary responses to environmental stimuli controlled entirely by spinal reflexes",
+        "Hormonal secretions produced exclusively during high-stress situations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Involuntary functions are automatic bodily processes that occur without conscious control or thought, such as heartbeat, digestion, peristalsis, and breathing. These essential functions are primarily regulated and coordinated by the autonomic nervous system and control centers in the brainstem (like the medulla oblongata)."
+}
     ]
 }
