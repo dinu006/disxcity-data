@@ -1,0 +1,364 @@
+{
+    "chapter": "Control and Coordination",
+    "class": "Class-X",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Nerve cells are also called",
+            "options": [
+                "Nephrons",
+                "Neurons",
+                "Neutrons",
+                "Nucleotides"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nerve cells are structurally and functionally called neurons, which are specialized cells responsible for receiving and transmitting electrical and chemical signals throughout the body."
+        },
+        {
+            "id": 2,
+            "question": "Identify the part of a neuron where information is acquired.",
+            "options": [
+                "Axon",
+                "Dendritic tip",
+                "Cell body",
+                "Synapse"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Information is acquired at the end of the dendritic tip of a nerve cell. Chemical reactions at these tips set off an electrical impulse that travels along the neuron."
+        },
+        {
+            "id": 3,
+            "question": "Through which pathway does information travel as an electrical impulse in a neuron?",
+            "options": [
+                "Axon to dendrite",
+                "Cell body to dendritic tip",
+                "Dendrite to cell body and then along the axon",
+                "Synapse to cell body"
+            ],
+            "correctAnswer": 2,
+            "explanation": "In a neuron, information travels as an electrical impulse starting from the dendritic tip, moving through the cell body, and then traveling along the axon to its ending."
+        },
+        {
+            "id": 4,
+            "question": "Identify the part of a neuron where electrical impulses must be converted into a chemical signal for onward transmission.",
+            "options": [
+                "Dendritic tips",
+                "Cell body",
+                "Axon ending or Nerve ending",
+                "Nucleus"
+            ],
+            "correctAnswer": 2,
+            "explanation": "At the end of the axon, the electrical impulse triggers the release of chemical messengers. These chemicals cross the microscopic gap (synapse) to pass the signal on to the next neuron, where they convert back into an electrical impulse."
+        },
+        {
+            "id": 5,
+            "question": "Why does the taste of food seem to change or diminish when we close our nose while eating?",
+            "options": [
+                "Because smell and taste work together, and blocking the nose prevents aromas from reaching olfactory receptors via the back of the throat.",
+                "Because closing the nose stops saliva production on the taste buds.",
+                "Because taste buds only function when airflow passes through the nasal cavity.",
+                "Because olfactory nerves are directly connected to the tongue muscles."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Much of what we perceive as 'taste' is actually smell (retronasal olfaction). When we chew food, aromas travel from the back of the mouth up into the nasal cavity. Closing the nose blocks this pathway, reducing our ability to fully experience the flavor of the food."
+        },
+        {
+    "id": 6,
+    "question": "What is a reflex arc?",
+    "options": [
+        "The pathway of communication between neurons in the brain during conscious thought.",
+        "The pathway taken by nerve impulses in a reflex action from receptor to effector.",
+        "The mechanism by which electrical impulses cross a synapse.",
+        "The chemical signal released by endocrine glands."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A reflex arc is the pathway taken by nerve impulses during a reflex action. It typically consists of a sensory receptor, a sensory neuron, an integration center (usually in the spinal cord), a motor neuron, and an effector, allowing for rapid and involuntary responses to stimuli."
+},
+{
+    "id": 7,
+    "question": "Name the section where nerves from all over the body meet in a bundle on their way to the brain.",
+    "options": [
+        "Cerebrum",
+        "Spinal cord",
+        "Cerebellum",
+        "Hypothalamus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nerves from all over the body meet in a bundle in the spinal cord on their way to the brain. Reflex arcs are also formed in the spinal cord itself to handle immediate, involuntary responses."
+},
+{
+    "id": 8,
+    "question": "What is the function of a sensory neuron?",
+    "options": [
+        "Transmits impulses from the central nervous system to effectors like muscles or glands",
+        "Transmits impulses from receptors (sense organs) to the central nervous system (brain and spinal cord)",
+        "Acts as an intermediate or relay neuron to connect other neurons within the spinal cord",
+        "Carries electrical signals directly from one muscle fiber to another"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sensory neurons are specialized nerve cells that detect environmental changes via receptors and transmit those nerve impulses toward the central nervous system (brain and spinal cord) for processing."
+},
+{
+    "id": 9,
+    "question": "What is the function of a motor neuron?",
+    "options": [
+        "Transmits impulses from receptors to the central nervous system",
+        "Transmits impulses from the central nervous system to effectors like muscles or glands",
+        "Connects sensory and motor neurons exclusively within the brain",
+        "Converts electrical impulses into chemical signals at the synapse"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Motor neurons carry nerve impulses away from the central nervous system (brain and spinal cord) to effectors such as muscles or glands, directing them to take action or respond."
+},
+{
+    "id": 10,
+    "question": "What does CNS stand for, and what are its main components?",
+    "options": [
+        "Cardiac Nervous System, consisting of the heart and nerves",
+        "Cellular Nucleus System, consisting of neurons and glial cells",
+        "Central Nervous System, consisting of the brain and spinal cord",
+        "Central Nodal System, consisting of sensory and motor nerves"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CNS stands for the Central Nervous System. It comprises the brain and the spinal cord, which together receive information from all parts of the body and coordinate actions."
+},
+{
+    "id": 11,
+    "question": "What does the peripheral nervous system (PNS) consist of, and what is its main function?",
+    "options": [
+        "It consists of the brain and spinal cord, and it processes conscious thoughts.",
+        "It consists of cranial nerves arising from the brain and spinal nerves arising from the spinal cord, connecting the CNS to the rest of the body.",
+        "It consists only of voluntary skeletal muscles and motor neurons.",
+        "It consists of chemical hormones secreted by endocrine glands into the bloodstream."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The peripheral nervous system (PNS) is composed of cranial nerves (arising from the brain) and spinal nerves (arising from the spinal cord). It acts as the communication link between the central nervous system (CNS) and the rest of the body."
+},
+{
+    "id": 12,
+    "question": "What is the main function of the cerebrum in the human brain?",
+    "options": [
+        "Regulating involuntary actions like blood pressure, salivation, and vomiting",
+        "Maintaining posture, balance, and precision of voluntary movements",
+        "Acting as the main thinking part of the brain, responsible for reasoning, memory, and voluntary actions",
+        "Controlling reflex arcs directly within the spinal cord"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The cerebrum is the main thinking part of the brain. It contains specific regions for receiving sensory impulses, interpreting data, processing information, storing memory, and controlling voluntary actions."
+},
+{
+    "id": 13,
+    "question": "What is the main function of the cerebellum in the human brain?",
+    "options": [
+        "Regulating involuntary actions like heartbeat, breathing, and blood pressure",
+        "Maintaining posture, balance, and coordinating precision of voluntary actions",
+        "Serving as the main thinking part of the brain for reasoning and memory",
+        "Receiving and processing sensory information related to smell and taste"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The cerebellum, which is part of the hind-brain, is responsible for maintaining the posture and balance of the body and coordinating precise voluntary movements (such as riding a bicycle or walking in a straight line)."
+},
+{
+    "id": 14,
+    "question": "What is the main function of the medulla oblongata in the human brain?",
+    "options": [
+        "Maintaining body posture and balance",
+        "Controlling conscious thought and reasoning",
+        "Regulating involuntary actions such as blood pressure, salivation, and vomiting",
+        "Interpreting visual and auditory sensory information"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The medulla (part of the hind-brain) is responsible for controlling various involuntary actions such as blood pressure, heart rate, breathing, salivation, and vomiting."
+},
+{
+    "id": 15,
+    "question": "What are the three major regions or parts of the human brain?",
+    "options": [
+        "Cerebrum, Cerebellum, and Medulla",
+        "Fore-brain, Mid-brain, and Hind-brain",
+        "Sensory brain, Motor brain, and Association brain",
+        "Cortex, Thalamus, and Hypothalamus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The human brain is broadly divided into three major regions: the fore-brain (the main thinking part), the mid-brain, and the hind-brain (which includes the cerebellum and medulla)."
+},
+{
+    "id": 16,
+    "question": "What are the primary functions of the fore-brain, mid-brain, and hind-brain?",
+    "options": [
+        "Fore-brain is the main thinking part with regions for sensory processing and voluntary actions; mid-brain handles involuntary reflexes (like visual and auditory responses); hind-brain controls posture, balance, and vital involuntary actions like heart rate, blood pressure, and breathing.",
+        "Fore-brain handles only involuntary actions; mid-brain handles memory and reasoning; hind-brain handles sensory inputs.",
+        "Fore-brain, mid-brain, and hind-brain exclusively coordinate the spinal cord reflex arcs.",
+        "Fore-brain coordinates balance and posture; mid-brain coordinates reasoning; hind-brain handles complex thinking."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The human brain is divided into three major regions: the fore-brain (acting as the main thinking and sensory processing center), the mid-brain (managing reflex pathways and responses), and the hind-brain (including the cerebellum for balance and the medulla for vital involuntary actions like respiration and blood pressure)."
+},
+{
+    "id": 17,
+    "question": "Which of the following options correctly matches the major regions of the human brain with their primary components or functions?",
+    "options": [
+        "Fore-brain: Cerebellum; Mid-brain: Medulla; Hind-brain: Cerebrum",
+        "Fore-brain: Cerebrum (main thinking part); Mid-brain: Controls involuntary actions and reflex movements; Hind-brain: Cerebellum ,Medulla and pons",
+        "Fore-brain: Spinal cord; Mid-brain: Cerebrum; Hind-brain: Pons",
+        "Fore-brain: Medulla; Mid-brain: Cerebellum; Hind-brain: Hypothalamus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to NCERT, the human brain is divided into the fore-brain (dominated by the cerebrum, the main thinking and voluntary coordination center), the mid-brain (managing involuntary reflex responses of the eyes and ears), and the hind-brain (comprising the cerebellum for balance and the medulla for vital involuntary actions like heartbeat and breathing)."
+},
+
+{
+    "id": 18,
+    "question": "Which skeletal structure or bone protects the spinal cord?",
+    "options": [
+        "Skull (Cranium)",
+        "Rib cage",
+        "Vertebral column (Backbone)",
+        "Sternum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The spinal cord is a vital bundle of nerve fibers that is enclosed and protected by a bony structure called the vertebral column or backbone."
+}
+,
+{
+    "id": 19,
+    "question": "Which bony structure protects the brain?",
+    "options": [
+        "Vertebral column",
+        "Rib cage",
+        "Skull (Cranium)",
+        "Sternum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The brain is the main coordinating center of the body and is safely enclosed and protected within a hard, bony box called the skull (or cranium)."
+},
+
+{
+    "id": 20,
+    "question": "What is germination?",
+    "options": [
+        "The process by which a seed develops into a seedling under favorable conditions",
+        "The shedding of leaves by a plant during the winter season",
+        "The growth of a plant root away from the source of light",
+        "The fusion of male and female gametes inside the ovule"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Germination is the process by which an organism grows from a seed or spore, typically resulting in the formation of a seedling under appropriate environmental conditions like water, oxygen, and suitable temperature."
+},
+{
+    "id": 21,
+    "question": "What is a tendril in climbing plants, and how does it function?",
+    "options": [
+        "A specialized thread-like structure (modified leaf or stem) that coils around a support object to help climbing plants grow upwards",
+        "A root modification that stores surplus food and water underground during unfavorable seasons",
+        "A protective waxy coating on the epidermis that prevents excessive water loss through transpiration",
+        "A reproductive flower organ specialized for attracting pollinators using bright colors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tendrils are thread-like growths (modified leaves or stems) seen in climbers like peas or gourds. When a tendril touches a surface or object, the parts in contact do not grow as fast as the parts away from the object, causing the tendril to circle and securely coil around the support."
+},
+{
+    "id": 22,
+    "question": "What is phototropic movement in plants, and how is it typically caused?",
+    "options": [
+        "Directional movement of plant parts in response to the touch of a solid object",
+        "Directional growth movement of a plant in response to light, regulated by the unequal distribution of auxin",
+        "Non-directional movement of flowers opening and closing in response to temperature changes",
+        "Downward movement of roots in response to the force of gravity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Phototropic movement is the directional growth of a plant part (such as shoots bending towards light) in response to a light stimulus. This happens because the plant hormone auxin moves toward the shaded side, causing those cells to elongate faster than those on the illuminated side."
+},
+{
+    "id": 23,
+    "question": "What is hydrotropism in plants?",
+    "options": [
+        "Directional growth movement of plant parts in response to water or moisture",
+        "Growth movement of plant parts away from the direction of gravity",
+        "Rapid response of plant leaves to the touch of a solid object",
+        "Bending of plant shoots towards a source of light"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hydrotropism is a directional growth movement in which plant parts (such as roots) grow toward or away from moisture or water in the environment, helping them locate and absorb water from the soil."
+},
+{
+    "id": 24,
+    "question": "What is chemotropism in plants, and what is a classic example of it?",
+    "options": [
+        "Directional growth movement in response to a chemical stimulus, such as the growth of a pollen tube towards the ovule",
+        "Non-directional movement of leaves in response to mechanical shock or touch",
+        "Bending of plant shoots towards a directional light source",
+        "Downward movement of roots in response to the force of gravity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chemotropism is the directional growth of plant parts in response to a chemical stimulus. A prominent example is the growth of a pollen tube down the style towards the ovule during plant fertilization, which is guided by specific chemical signals."
+},
+{
+    "id": 25,
+    "question": "Why are chemical messengers like hormones produced in specific endocrine glands located at a distance from their target organs in the body?",
+    "options": [
+        "Because hormones can only function properly if they are first stored inside bones.",
+        "Because specialized glands secrete them into the bloodstream to be transported to distant target tissues, overcoming the limitations of slow diffusion in complex multicellular bodies.",
+        "Because every organ must synthesize its own identical set of chemical messengers independently.",
+        "To prevent any chemical communication from ever reaching the nervous system."
+    ],
+    "correctAnswer": 1,
+    "explanation": "In complex multicellular organisms, simple diffusion is too slow and inefficient to transmit signals across long distances. Instead, specialized endocrine glands produce hormones and release them into the blood, which transports them to specific target organs equipped with the right receptors to respond."
+},
+{
+    "id": 26,
+    "question": "What is the primary role and site of synthesis of auxin in plants?",
+    "options": [
+        "A plant hormone synthesized at the shoot tip that promotes cell elongation and directional growth like phototropism",
+        "A specialized mineral nutrient absorbed from soil to speed up root cellular respiration",
+        "A chemical compound produced in leaves exclusively to cause rapid falling of autumn leaves",
+        "A digestive enzyme secreted to break down complex starches inside plant seeds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Auxin is a plant hormone synthesized at the tip of the shoot. It helps cells grow longer and plays a major role in plant movements, such as bending towards light (phototropism) by accumulating on the shaded side."
+},
+{
+    "id": 27,
+    "question": "What is the primary function of gibberellins in plants?",
+    "options": [
+        "Promoting the growth of stems and overall plant development",
+        "Inhibiting all forms of plant growth and causing permanent seed dormancy",
+        "Directing root growth exclusively away from moisture sources",
+        "Causing rapid wilting and dropping of mature leaves"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gibberellins are a group of plant hormones that help in the growth of stems and overall plant development, often working alongside auxins to regulate elongation and other growth processes."
+},
+{
+    "id": 28,
+    "question": "What is the primary function of cytokinins in plants?",
+    "options": [
+        "Promoting cell division and being present in high concentrations in areas of rapid growth like fruits and seeds",
+        "Inhibiting all forms of plant growth and causing immediate seed dormancy",
+        "Directing root growth directly away from sources of water in the soil",
+        "Causing rapid wilting and falling of leaves during seasonal changes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cytokinins are plant hormones that promote cell division (cytokinesis). They are naturally synthesized in areas of rapid cell division, such as developing fruits and seeds, helping to drive overall growth and tissue development."
+},
+{
+    "id": 29,
+    "question": "What is the primary function of abscisic acid (ABA) in plants?",
+    "options": [
+        "Promoting rapid cell division in fruits and seeds",
+        "Inhibiting growth, promoting the wilting or falling of leaves (abscission), and helping regulate water stress",
+        "Stimulating shoot elongation towards a directional light source",
+        "Directing pollen tube growth toward the ovule via chemical signals"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Abscisic acid (ABA) is a plant hormone that generally inhibits growth. It plays an important role in responses to environmental stress—such as water scarcity (causing stomata to close)—and promotes processes like the wilting and falling of leaves (abscission) and seed dormancy."
+},
+
+
+        
+
+    ]
+}

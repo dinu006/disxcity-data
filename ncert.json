@@ -97,6 +97,10 @@
         {
           "name": "Life Processes",
           "file": "NCERT/Class-X/English/2026/Science/Life-Processes.json"
+        },
+        {
+          "name": "Control and Coordination",
+          "file": "NCERT/Class-X/English/2026/Science/Control-And-Coordination.json"
         }
       ]
     },
