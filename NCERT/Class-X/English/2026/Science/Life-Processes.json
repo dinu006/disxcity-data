@@ -702,6 +702,18 @@
             "explanation": "When the terminal phosphate linkage in ATP is broken down using water (hydrolysis), an energy equivalent to 30.5 kJ/mol is released, which cells use to drive various endothermic reactions."
         },
         {
+    "id": 59,
+    "question": "Why is the rate of breathing in aquatic organisms much faster than that seen in terrestrial organisms?",
+    "options": [
+        "Water contains a much higher concentration of dissolved oxygen than air.",
+        "The amount of dissolved oxygen in water is relatively low compared to the amount of oxygen in air, requiring a faster breathing rate to obtain enough oxygen.",
+        "Aquatic organisms have complex lungs that process oxygen at a much slower rate.",
+        "Water moves slower across gills than air moves across lungs."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Because aquatic organisms obtain oxygen dissolved in water, and the amount of dissolved oxygen is fairly low compared to the amount of oxygen available in the atmosphere, they must breathe much faster to take in sufficient oxygen for their metabolic needs."
+},
+        {
             "id": 60,
             "question": "What are the bronchi in the human respiratory system, and what is their primary function?",
             "options": [
