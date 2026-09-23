@@ -121,6 +121,10 @@
         {
           "name":"Force And Laws of Motion",
           "file":"NCERT/Class-IX/English/2026/Science/Force-And-Laws-Of-Motion.json"
+        },
+        {
+          "name":"Matter In Our urroundings",
+          "file": "NCERT/Class-IX/English/2026/Science/Matter-In-Our-Surroundings.json"
         }
       ]
     }
