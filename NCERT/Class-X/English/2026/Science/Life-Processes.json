@@ -30,223 +30,784 @@
             "explanation": "Respiration involves the breakdown of food sources like glucose inside the cells to release energy for various life processes."
         },
         {
-    "id": 3,
-    "question": "What is the biological process involved in the removal of harmful metabolic waste products from the body?",
+            "id": 3,
+            "question": "What is the biological process involved in the removal of harmful metabolic waste products from the body?",
+            "options": [
+                "Excretion",
+                "Respiration",
+                "Nutrition",
+                "Transportation"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Excretion is the process by which harmful metabolic waste byproducts are removed from the living organism's body."
+        },
+        {
+            "id": 4,
+            "question": "What is the true definition and purpose of nutrition in living organisms?",
+            "options": [
+                "The removal of toxic metabolic wastes from body tissues",
+                "The process of transferring oxygen from lungs to the body cells",
+                "The process of intake of nutrients and utilizing them to obtain energy, build new tissues, and repair worn-out parts",
+                "The transport of water and minerals from roots to leaves"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Nutrition is the process of acquiring and utilizing food/nutrients by an organism to derive energy, support growth, and repair damaged body tissues."
+        },
+        {
+            "id": 5,
+            "question": "Which of the following statements correctly defines autotrophs?",
+            "options": [
+                "Organisms that depend entirely on other organisms for their readymade food requirements",
+                "Organisms that break down complex organic matter into simpler substances outside their body",
+                "Organisms that synthesize their own organic food from simple inorganic substances using an external energy source like sunlight",
+                "Organisms that derive nutrition exclusively from parasitic relationships"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Autotrophs are organisms, such as green plants and certain bacteria, that prepare their own food from simple inorganic materials (like carbon dioxide and water) using light or chemical energy."
+        },
+        {
+            "id": 6,
+            "question": "Which of the following statements accurately describes heterotrophic organisms?",
+            "options": [
+                "Organisms that synthesize their own food using sunlight and inorganic substances",
+                "Organisms that produce organic compounds entirely through chemosynthesis",
+                "Organisms that depend on other organisms for food because they cannot manufacture their own organic molecules",
+                "Organisms that do not require any external source of energy or food"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Heterotrophs are organisms that cannot synthesize their own food from simple inorganic materials like carbon dioxide and water, and thus depend directly or indirectly on other organisms for their nutrition."
+        },
+        {
+            "id": 7,
+            "question": "What are enzymes in the context of biological systems and life processes?",
+            "options": [
+                "Inorganic molecules that store genetic information in the nucleus",
+                "Waste substances produced by cells during protein catabolism",
+                "Biological catalysts (usually proteins) that speed up biochemical reactions in living organisms",
+                "Structural lipids that form the core of the cell membrane"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Enzymes are biological catalysts—mostly proteins—that accelerate the rate of biochemical reactions in living organisms without being used up or permanently changed in the process."
+        },
+        {
+            "id": 8,
+            "question": "Which of the following best defines photosynthesis in green plants?",
+            "options": [
+                "The breakdown of complex organic molecules to release metabolic energy",
+                "The process by which autotrophs convert inorganic substances like carbon dioxide and water into carbohydrates using sunlight and chlorophyll",
+                "The absorption of water and minerals directly from the soil through root hairs",
+                "The release of carbon dioxide and water vapor through the stomatal pores"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Photosynthesis is the process used by autotrophs to intake external substances (carbon dioxide and water) and convert them into stored energy in the form of carbohydrates, utilizing sunlight and chlorophyll."
+        },
+        {
+            "id": 9,
+            "question": "What is starch in the context of plant nutrition and life processes?",
+            "options": [
+                "A lipid molecule responsible for waterproofing plant leaves",
+                "An inorganic waste product excreted by autotrophs during photosynthesis",
+                "A type of protein used for structural repair in animal cells",
+                "The complex carbohydrate used by plants to store extra energy synthesized during photosynthesis"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Starch is a complex carbohydrate synthesized by plants during photosynthesis, serving as an internal energy reserve that is stored for future metabolic use."
+        },
+        {
+            "id": 10,
+            "question": "What is glycogen in the context of animal nutrition and energy storage?",
+            "options": [
+                "The structural lipid found in animal cell membranes",
+                "The complex carbohydrate used by animals and humans to store extra energy",
+                "An inorganic waste product excreted through sweat",
+                "A digestive enzyme secreted by the small intestine"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Glycogen is a complex carbohydrate (polysaccharide) that serves as an energy reserve in animals, functioning similarly to how starch acts as an energy store in plants."
+        },
+        {
+            "id": 11,
+            "question": "Which of the following represents the correct balanced chemical equation for photosynthesis as given in NCERT?",
+            "options": [
+                "C6H12O6 + 6O2 -> 6CO2 + 6H2O + Energy",
+                "6O2 + 6H2O -> C6H12O6 + 6CO2",
+                "6CO2 + 6H2O -> (Sunlight and Chlorophyll) -> C6H12O6 + 6O2 + H2O",
+                "C6H12O6 -> 2C2H5OH + 2CO2 + Energy"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The overall balanced equation for photosynthesis is 6CO2 + 6H2O in the presence of sunlight and chlorophyll yielding C6H12O6 (glucose) and 6O2 (oxygen)."
+        },
+        {
+            "id": 12,
+            "question": "What is the correct sequence of major events that occur during photosynthesis?",
+            "options": [
+                "Splitting of water molecules into hydrogen and oxygen -> Reduction of carbon dioxide -> Absorption of light energy",
+                "Absorption of light energy by chlorophyll -> Conversion of light energy to chemical energy and splitting of water molecules into hydrogen and oxygen -> Reduction of carbon dioxide to carbohydrates",
+                "Reduction of carbon dioxide to carbohydrates -> Absorption of light energy by chlorophyll -> Splitting of water molecules",
+                "Conversion of chemical energy to solar energy -> Reduction of oxygen molecules -> Absorption of water through roots"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The main events of photosynthesis in sequence are: (1) Absorption of light energy by chlorophyll, (2) Conversion of light energy to chemical energy and splitting of water molecules into hydrogen and oxygen, and (3) Reduction of carbon dioxide to carbohydrates."
+        },
+        {
+            "id": 13,
+            "question": "If we observe a cross-section of a leaf under a microscope, we notice green cell organelles called chloroplasts which contain the green pigment chlorophyll. What is the primary role of this chlorophyll?",
+            "options": [
+                "To absorb light energy required for photosynthesis",
+                "To transport water and minerals from the roots to the leaves",
+                "To break down stored starch into glucose during respiration",
+                "To act as a waste product during cellular excretion"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Chlorophyll is the green pigment present in chloroplasts that is essential for absorbing light energy from the sun, which drives the process of photosynthesis."
+        },
+        {
+            "id": 14,
+            "question": "How does the iodine test confirm the presence of starch in a leaf?",
+            "options": [
+                "Iodine reacts with starch to turn the solution a bright red or pink color.",
+                "Iodine reacts with starch to give a blue-black color, indicating photosynthesis has occurred.",
+                "Iodine dissolves the chlorophyll, turning the leaf completely transparent.",
+                "Iodine breaks down glucose into carbon dioxide and water molecules."
+            ],
+            "correctAnswer": 1,
+            "explanation": "In the starch test, a leaf is first decolorized in boiling alcohol to remove chlorophyll, and then a few drops of iodine solution are added. Iodine reacts with starch to form a blue-black complex, confirming the presence of stored food produced by photosynthesis."
+        },
+        {
+            "id": 15,
+            "question": "In the iodine test, what does the appearance of a blue-black color specifically indicate?",
+            "options": [
+                "It shows that oxygen gas is trapped inside the intercellular spaces of the leaf.",
+                "It proves that chlorophyll has been completely removed from the plant tissue.",
+                "It indicates the presence of proteins synthesized during cellular growth.",
+                "It indicates the presence of starch, which reacts chemically with iodine to produce a blue-black complex."
+            ],
+            "correctAnswer": 3,
+            "explanation": "The chemical reaction between iodine and starch forms a characteristic blue-black complex, which serves as a positive test confirming the presence of starch in the tested plant part."
+        },
+        {
+            "id": 16,
+            "question": "What are stomata and what is their primary role in plants?",
+            "options": [
+                "Vascular tissues responsible for transporting water from roots to leaves",
+                "Hard protective covering layers on the outer epidermis of seeds",
+                "Tiny pores present on the surface of leaves through which exchange of gases and transpiration take place",
+                "Specialized organelles inside plant cells that store chlorophyll pigments"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Stomata are tiny pores present on the epidermis of leaves. They play a vital role in the exchange of gases (like taking in carbon dioxide and releasing oxygen) and in the loss of water vapor via transpiration."
+        },
+        {
+            "id": 17,
+            "question": "In the experiment to show that carbon dioxide is necessary for photosynthesis, two potted plants are used—one with potassium hydroxide (KOH) inside the bell jar and one without. What do we observe when an iodine test is performed on leaves from both plants?",
+            "options": [
+                "Both leaves turn blue-black, proving carbon dioxide is not required for photosynthesis.",
+                "The leaf from the plant without KOH turns blue-black (showing starch is present), whereas the leaf from the plant with KOH (which absorbed carbon dioxide) does not turn blue-black.",
+                "Neither leaf turns blue-black because the bell-jars block all necessary sunlight.",
+                "The leaf from the plant with KOH turns bright red, while the other turns green."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Potassium hydroxide (KOH) absorbs carbon dioxide from the surrounding air inside the bell jar. The leaf from the plant kept with KOH cannot perform photosynthesis due to the lack of carbon dioxide and thus forms no starch (giving a negative iodine test). The other leaf, which has access to carbon dioxide, performs photosynthesis and turns blue-black with iodine."
+        },
+        {
+            "id": 18,
+            "question": "What is a parasitic mode of nutrition?",
+            "options": [
+                "A mode of nutrition where organisms synthesize their own food using sunlight",
+                "A mode of nutrition where an organism derives food from another living organism (host) without killing it",
+                "A mode of nutrition involving the ingestion of solid organic food particles",
+                "A mode of nutrition where dead and decaying organic matter is broken down externally"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In parasitic nutrition, an organism (the parasite) lives on or inside another living organism (the host) and derives its nutrition directly from the host's body without immediately killing it (e.g., Cuscuta, ticks, lice)."
+        },
+        {
+            "id": 19,
+            "question": "How does Amoeba obtain its food?",
+            "options": [
+                "By absorbing dissolved nutrients directly across its cell membrane through osmosis",
+                "By using cilia to sweep food particles into a specialized oral groove",
+                "By using temporary finger-like extensions of the cell surface (pseudopodia) to engulf food particles into a food vacuole",
+                "By carrying out photosynthesis inside specialized chloroplasts"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Amoeba ingests food by forming temporary finger-like projections of its cell surface called pseudopodia around the food particle, forming a food vacuole where complex substances are broken down into simpler ones."
+        },
+        {
+            "id": 20,
+            "question": "How does Paramoecium, a unicellular organism, obtain its food?",
+            "options": [
+                "By engulfing food particles from anywhere on its body using random pseudopodia",
+                "By moving food to a specific spot using cilia that cover the entire surface of the cell",
+                "By absorbing nutrients purely through osmosis across the cell wall",
+                "By synthesizing food internally using sunlight and chlorophyll"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Paramoecium has a definite shape and obtains food through a specific spot. Food is moved to this spot by the movement of cilia, which cover the entire surface of the cell."
+        },
+        {
+            "id": 21,
+            "question": "What is another common scientific name for the food pipe in humans?",
+            "options": [
+                "Trachea",
+                "Oesophagus",
+                "Pharynx",
+                "Duodenum"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The food pipe is scientifically known as the oesophagus, which connects the mouth to the stomach using peristaltic movements to push food downward."
+        },
+        {
+            "id": 22,
+            "question": "Which of the following best describes the human alimentary canal?",
+            "options": [
+                "A gland responsible for producing digestive enzymes in the mouth",
+                "The blood vessel system that transports digested food to cells",
+                "A long, muscular tube extending from the mouth to the anus, specialized for ingestion, digestion, absorption, and egestion",
+                "A specialized respiratory organ that exchanges oxygen and carbon dioxide"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The alimentary canal is a long, muscular tube extending from the mouth to the anus, through which food is processed, digested, and absorbed across the body."
+        },
+        {
+            "id": 23,
+            "question": "The oesophagus is a muscular tube that forms an essential part of which of the following systems in humans?",
+            "options": [
+                "The respiratory system",
+                "The human alimentary canal (digestive system)",
+                "The excretory system",
+                "The nervous system"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The oesophagus, commonly known as the food pipe, is a muscular tube that acts as a major part of the alimentary canal, transporting swallowed food from the mouth down to the stomach."
+        },
+        {
+            "id": 24,
+            "question": "What is saliva and what is its role in human digestion?",
+            "options": [
+                "A digestive fluid secreted by the liver that helps emulsify dietary fats",
+                "A watery fluid secreted by the salivary glands in the mouth that contains the enzyme salivary amylase to break down starch into sugar",
+                "An acidic juice produced in the stomach to kill bacteria present in food",
+                "A protective mucus lining that prevents the stomach wall from digesting itself"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Saliva is secreted by the salivary glands in the mouth. It moistens food and contains an enzyme called salivary amylase (or ptyalin) that breaks down complex starch into simple sugars."
+        },
+        {
+            "id": 25,
+            "question": "Where are the salivary glands located in the human digestive system?",
+            "options": [
+                "Inside the walls of the small intestine",
+                "Attached directly to the lower surface of the liver",
+                "In the oral cavity (mouth)",
+                "Lining the inner walls of the stomach"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Salivary glands are located in the oral cavity (mouth) where they secrete saliva containing salivary amylase to initiate the breakdown of starch into simpler sugars."
+        },
+        {
+    "id": 27,
+    "question": "Through which glands or cells in the human digestive system is hydrochloric acid (HCl) produced?",
     "options": [
-        "Excretion",
-        "Respiration",
-        "Nutrition",
-        "Transportation"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Excretion is the process by which harmful metabolic waste byproducts are removed from the living organism's body."
-},
-{
-    "id": 4,
-    "question": "What is the true definition and purpose of nutrition in living organisms?",
-    "options": [
-        "The removal of toxic metabolic wastes from body tissues",
-        "The process of transferring oxygen from lungs to the body cells",
-        "The process of intake of nutrients and utilizing them to obtain energy, build new tissues, and repair worn-out parts",
-        "The transport of water and minerals from roots to leaves"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Nutrition is the process of acquiring and utilizing food/nutrients by an organism to derive energy, support growth, and repair damaged body tissues."
-},
-{
-    "id": 5,
-    "question": "Which of the following statements correctly defines autotrophs?",
-    "options": [
-        "Organisms that depend entirely on other organisms for their readymade food requirements",
-        "Organisms that break down complex organic matter into simpler substances outside their body",
-        "Organisms that synthesize their own organic food from simple inorganic substances using an external energy source like sunlight",
-        "Organisms that derive nutrition exclusively from parasitic relationships"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Autotrophs are organisms, such as green plants and certain bacteria, that prepare their own food from simple inorganic materials (like carbon dioxide and water) using light or chemical energy."
-},
-{
-    "id": 6,
-    "question": "Which of the following statements accurately describes heterotrophic organisms?",
-    "options": [
-        "Organisms that synthesize their own food using sunlight and inorganic substances",
-        "Organisms that produce organic compounds entirely through chemosynthesis",
-        "Organisms that depend on other organisms for food because they cannot manufacture their own organic molecules",
-        "Organisms that do not require any external source of energy or food"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Heterotrophs are organisms that cannot synthesize their own food from simple inorganic materials like carbon dioxide and water, and thus depend directly or indirectly on other organisms for their nutrition."
-},
-{
-    "id": 7,
-    "question": "What are enzymes in the context of biological systems and life processes?",
-    "options": [
-        "Inorganic molecules that store genetic information in the nucleus",
-        "Waste substances produced by cells during protein catabolism",
-        "Biological catalysts (usually proteins) that speed up biochemical reactions in living organisms",
-        "Structural lipids that form the core of the cell membrane"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Enzymes are biological catalysts—mostly proteins—that accelerate the rate of biochemical reactions in living organisms without being used up or permanently changed in the process."
-},
-{
-    "id": 8,
-    "question": "Which of the following best defines photosynthesis in green plants?",
-    "options": [
-        "The breakdown of complex organic molecules to release metabolic energy",
-        "The process by which autotrophs convert inorganic substances like carbon dioxide and water into carbohydrates using sunlight and chlorophyll",
-        "The absorption of water and minerals directly from the soil through root hairs",
-        "The release of carbon dioxide and water vapor through the stomatal pores"
+        "Salivary glands in the mouth",
+        "Gastric glands present in the wall of the stomach",
+        "The pancreas and liver",
+        "Intestinal glands in the small intestine"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis is the process used by autotrophs to intake external substances (carbon dioxide and water) and convert them into stored energy in the form of carbohydrates, utilizing sunlight and chlorophyll."
+    "explanation": "Hydrochloric acid (HCl) is secreted by gastric glands located in the wall of the stomach, where it creates an acidic medium to facilitate the action of the enzyme pepsin and kill harmful bacteria."
 },
 {
-    "id": 9,
-    "question": "What is starch in the context of plant nutrition and life processes?",
+    "id": 28,
+    "question": "Which of the following are the primary protein-digesting enzymes secreted during human digestion?",
     "options": [
-        "A lipid molecule responsible for waterproofing plant leaves",
-        "An inorganic waste product excreted by autotrophs during photosynthesis",
-        "A type of protein used for structural repair in animal cells",
-        "The complex carbohydrate used by plants to store extra energy synthesized during photosynthesis"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Starch is a complex carbohydrate synthesized by plants during photosynthesis, serving as an internal energy reserve that is stored for future metabolic use."
-},
-{
-    "id": 10,
-    "question": "What is glycogen in the context of animal nutrition and energy storage?",
-    "options": [
-        "The structural lipid found in animal cell membranes",
-        "The complex carbohydrate used by animals and humans to store extra energy",
-        "An inorganic waste product excreted through sweat",
-        "A digestive enzyme secreted by the small intestine"
+        "Salivary amylase and pancreatic lipase",
+        "Pepsin and trypsin",
+        "Hydrochloric acid and bile juice",
+        "Lactase and sucrase"
     ],
     "correctAnswer": 1,
-    "explanation": "Glycogen is a complex carbohydrate (polysaccharide) that serves as an energy reserve in animals, functioning similarly to how starch acts as an energy store in plants."
+    "explanation": "Pepsin (active in the stomach) and trypsin (secreted by the pancreas into the small intestine) are the primary enzymes responsible for digesting proteins."
 },
 {
-    "id": 11,
-    "question": "Which of the following represents the correct balanced chemical equation for photosynthesis as given in NCERT?",
+    "id": 29,
+    "question": "What is the primary function of the mucus secreted by the gastric glands in the stomach wall?",
     "options": [
-        "C6H12O6 + 6O2 -> 6CO2 + 6H2O + Energy",
-        "6O2 + 6H2O -> C6H12O6 + 6CO2",
-        "6CO2 + 6H2O -> (Sunlight and Chlorophyll) -> C6H12O6 + 6O2 + H2O",
-        "C6H12O6 -> 2C2H5OH + 2CO2 + Energy"
+        "To convert complex proteins into simpler amino acids",
+        "To provide an alkaline environment that neutralizes all digestive juices",
+        "To protect the inner lining of the stomach from the corrosive action of hydrochloric acid",
+        "To digest dietary fats into fatty acids and glycerol"
     ],
     "correctAnswer": 2,
-    "explanation": "The overall balanced equation for photosynthesis is 6CO2 + 6H2O in the presence of sunlight and chlorophyll yielding C6H12O6 (glucose) and 6O2 (oxygen)."
-},
-
-{
-    "id": 12,
-    "question": "What is the correct sequence of major events that occur during photosynthesis?",
-    "options": [
-        "Splitting of water molecules into hydrogen and oxygen -> Reduction of carbon dioxide -> Absorption of light energy",
-        "Absorption of light energy by chlorophyll -> Conversion of light energy to chemical energy and splitting of water molecules into hydrogen and oxygen -> Reduction of carbon dioxide to carbohydrates",
-        "Reduction of carbon dioxide to carbohydrates -> Absorption of light energy by chlorophyll -> Splitting of water molecules",
-        "Conversion of chemical energy to solar energy -> Reduction of oxygen molecules -> Absorption of water through roots"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The main events of photosynthesis in sequence are: (1) Absorption of light energy by chlorophyll, (2) Conversion of light energy to chemical energy and splitting of water molecules into hydrogen and oxygen, and (3) Reduction of carbon dioxide to carbohydrates."
-},
-
-{
-    "id": 13,
-    "question": "If we observe a cross-section of a leaf under a microscope, we notice green cell organelles called chloroplasts which contain the green pigment chlorophyll. What is the primary role of this chlorophyll?",
-    "options": [
-        "To absorb light energy required for photosynthesis",
-        "To transport water and minerals from the roots to the leaves",
-        "To break down stored starch into glucose during respiration",
-        "To act as a waste product during cellular excretion"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Chlorophyll is the green pigment present in chloroplasts that is essential for absorbing light energy from the sun, which drives the process of photosynthesis."
+    "explanation": "Mucus plays a crucial protective role by lining the inner walls of the stomach, shielding the delicate tissue from being damaged or eroded by the strong hydrochloric acid present in gastric juice."
 },
 {
-    "id": 14,
-    "question": "How does the iodine test confirm the presence of starch in a leaf?",
+    "id": 30,
+    "question": "What is the longest or largest part of the human alimentary canal?",
     "options": [
-        "Iodine reacts with starch to turn the solution a bright red or pink color.",
-        "Iodine reacts with starch to give a blue-black color, indicating photosynthesis has occurred.",
-        "Iodine dissolves the chlorophyll, turning the leaf completely transparent.",
-        "Iodine breaks down glucose into carbon dioxide and water molecules."
-    ],
-    "correctAnswer": 1,
-    "explanation": "In the starch test, a leaf is first decolorized in boiling alcohol to remove chlorophyll, and then a few drops of iodine solution are added. Iodine reacts with starch to form a blue-black complex, confirming the presence of stored food produced by photosynthesis."
-},
-{
-    "id": 15,
-    "question": "In the iodine test, what does the appearance of a blue-black color specifically indicate?",
-    "options": [
-        "It shows that oxygen gas is trapped inside the intercellular spaces of the leaf.",
-        "It proves that chlorophyll has been completely removed from the plant tissue.",
-        "It indicates the presence of proteins synthesized during cellular growth.",
-        "It indicates the presence of starch, which reacts chemically with iodine to produce a blue-black complex."
-    ],
-    "correctAnswer": 3,
-    "explanation": "The chemical reaction between iodine and starch forms a characteristic blue-black complex, which serves as a positive test confirming the presence of starch in the tested plant part."
-},
-{
-    "id": 16,
-    "question": "What are stomata and what is their primary role in plants?",
-    "options": [
-        "Vascular tissues responsible for transporting water from roots to leaves",
-        "Hard protective covering layers on the outer epidermis of seeds",
-        "Tiny pores present on the surface of leaves through which exchange of gases and transpiration take place",
-        "Specialized organelles inside plant cells that store chlorophyll pigments"
+        "Oesophagus",
+        "Stomach",
+        "Small intestine",
+        "Large intestine"
     ],
     "correctAnswer": 2,
-    "explanation": "Stomata are tiny pores present on the epidermis of leaves. They play a vital role in the exchange of gases (like taking in carbon dioxide and releasing oxygen) and in the loss of water vapor via transpiration."
+    "explanation": "The small intestine is the longest part of the human alimentary canal, designed with extensive coiling to fit into the abdominal cavity and provide a large surface area for the complete digestion and absorption of food."
 },
 {
-    "id": 17,
-    "question": "In the experiment to show that carbon dioxide is necessary for photosynthesis, two potted plants are used—one with potassium hydroxide (KOH) inside the bell jar and one without. What do we observe when an iodine test is performed on leaves from both plants?",
+    "id": 31,
+    "question": "What are animals that eat other animals (meat) primarily called?",
     "options": [
-        "Both leaves turn blue-black, proving carbon dioxide is not required for photosynthesis.",
-        "The leaf from the plant without KOH turns blue-black (showing starch is present), whereas the leaf from the plant with KOH (which absorbed carbon dioxide) does not turn blue-black.",
-        "Neither leaf turns blue-black because the bell-jars block all necessary sunlight.",
-        "The leaf from the plant with KOH turns bright red, while the other turns green."
+        "Herbivores",
+        "Carnivores",
+        "Omnivores",
+        "Parasites"
     ],
     "correctAnswer": 1,
-    "explanation": "Potassium hydroxide (KOH) absorbs carbon dioxide from the surrounding air inside the bell jar. The leaf from the plant kept with KOH cannot perform photosynthesis due to the lack of carbon dioxide and thus forms no starch (giving a negative iodine test). The other leaf, which has access to carbon dioxide, performs photosynthesis and turns blue-black with iodine."
+    "explanation": "Carnivores are animals that feed primarily or exclusively on the flesh of other animals (meat), possessing specialized digestive systems adapted to process protein-rich diets."
 },
 {
-    "id": 18,
-    "question": "What is a parasitic mode of nutrition?",
+    "id": 32,
+    "question": "What are animals that feed primarily on plants and grass called?",
     "options": [
-        "A mode of nutrition where organisms synthesize their own food using sunlight",
-        "A mode of nutrition where an organism derives food from another living organism (host) without killing it",
-        "A mode of nutrition involving the ingestion of solid organic food particles",
-        "A mode of nutrition where dead and decaying organic matter is broken down externally"
-    ],
-    "correctAnswer": 1,
-    "explanation": "In parasitic nutrition, an organism (the parasite) lives on or inside another living organism (the host) and derives its nutrition directly from the host's body without immediately killing it (e.g., Cuscuta, ticks, lice)."
-},
-{
-    "id": 19,
-    "question": "How does Amoeba obtain its food?",
-    "options": [
-        "By absorbing dissolved nutrients directly across its cell membrane through osmosis",
-        "By using cilia to sweep food particles into a specialized oral groove",
-        "By using temporary finger-like extensions of the cell surface (pseudopodia) to engulf food particles into a food vacuole",
-        "By carrying out photosynthesis inside specialized chloroplasts"
+        "Carnivores",
+        "Omnivores",
+        "Herbivores",
+        "Saprotrophs"
     ],
     "correctAnswer": 2,
-    "explanation": "Amoeba ingests food by forming temporary finger-like projections of its cell surface called pseudopodia around the food particle, forming a food vacuole where complex substances are broken down into simpler ones."
+    "explanation": "Herbivores are animals that feed exclusively or primarily on plants and grass. They typically have a longer small intestine compared to carnivores to allow adequate time for the digestion of cellulose found in plant material."
 },
 {
-    "id": 20,
-    "question": "How does Paramoecium, a unicellular organism, obtain its food?",
+    "id": 33,
+    "question": "What are animals that feed on both plant matter and other animals (meat) called?",
     "options": [
-        "By engulfing food particles from anywhere on its body using random pseudopodia",
-        "By moving food to a specific spot using cilia that cover the entire surface of the cell",
-        "By absorbing nutrients purely through osmosis across the cell wall",
-        "By synthesizing food internally using sunlight and chlorophyll"
+        "Herbivores",
+        "Carnivores",
+        "Omnivores",
+        "Parasites"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Omnivores are animals whose dietary intake includes both plant material (like grass or fruits) and animal matter (meat). Examples include humans, bears, and crows."
+},
+{
+    "id": 34,
+    "question": "Between carnivores and herbivores, which type of animal generally has a longer small intestine?",
+    "options": [
+        "Carnivores, because meat is harder to catch and hunt",
+        "Herbivores, because grass and plant matter contain cellulose which takes longer to digest",
+        "Both have identical small intestine lengths regardless of diet",
+        "Carnivores, because meat requires extensive fermentation chambers"
     ],
     "correctAnswer": 1,
-    "explanation": "Paramoecium has a definite shape and obtains food through a specific spot. Food is moved to this spot by the movement of cilia, which cover the entire surface of the cell."
+    "explanation": "Herbivores have a longer small intestine compared to carnivores because plant matter contains cellulose, which is difficult to digest and requires more time for complete breakdown and nutrient absorption. Meat, being easier to digest, allows carnivores to have a shorter small intestine."
+},
+{
+    "id": 35,
+    "question": "Which part of the human alimentary canal receives the secretions from the liver and the pancreas?",
+    "options": [
+        "Stomach",
+        "Small intestine",
+        "Large intestine",
+        "Oesophagus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The small intestine (specifically the upper part called the duodenum) receives secretions from the liver (bile juice) and the pancreas (pancreatic juice) to facilitate the digestion of fats, proteins, and carbohydrates."
+},
+{
+    "id": 36,
+    "question": "The food coming from the stomach is acidic and needs to be made alkaline so that pancreatic enzymes can act on it. What substance neutralizes this acidity in the small intestine?",
+    "options": [
+        "Mucus secreted by the stomach lining",
+        "Salivary amylase released in the oral cavity",
+        "Bile juice secreted by the liver",
+        "Pepsin enzyme produced by gastric glands"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The food coming from the stomach is acidic due to hydrochloric acid and must be made alkaline for the pancreatic enzymes to function properly. Bile juice from the liver accomplishes this, while also breaking down large fat globules into smaller ones (emulsification)."
+},
+{
+    "id": 37,
+    "question": "Large fat globules entering the small intestine are broken down into smaller globules to increase enzyme action. What substance is primarily responsible for this process called emulsification?",
+    "options": [
+        "Salivary amylase",
+        "Hydrochloric acid",
+        "Bile salts from the bile juice",
+        "Trypsin enzyme"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bile salts present in the bile juice secreted by the liver break down large fat globules into smaller globules (emulsification), which drastically increases the surface area for lipase enzyme action."
+},
+{
+    "id": 38,
+    "question": "What is the primary function of the enzyme trypsin, which is secreted by the pancreas into the small intestine?",
+    "options": [
+        "To break down complex starch into simpler sugars",
+        "To digest proteins into amino acids",
+        "To emulsify large fat globules into smaller ones",
+        "To provide an acidic medium for chemical digestion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trypsin is a pancreatic enzyme that aids in the digestion of proteins, breaking them down into simpler units, while lipase digests emulsified fats and pancreatic amylase breaks down carbohydrates."
+},
+{
+    "id": 39,
+    "question": "What is the final action of the enzymes present in the intestinal juice secreted by the walls of the small intestine?",
+    "options": [
+        "To convert simple sugars back into complex starch for storage",
+        "To break down proteins directly into hydrochloric acid",
+        "To finally convert proteins into amino acids, complex carbohydrates into glucose, and fats into fatty acids and glycerol",
+        "To emulsify large fat droplets into smaller globules"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The walls of आंब- (the small intestine) contain glands that secrete intestinal juice. The enzymes in this juice perform the final steps of digestion, converting proteins into amino acids, complex carbohydrates into glucose, and fats into fatty acids and glycerol."
+},
+{
+    "id": 40,
+    "question": "What are the finger-like projections present in the inner lining of the small intestine, and what is their primary function?",
+    "options": [
+        "Gastric pits, which secrete digestive acids into the lumen",
+        "Villi, which greatly increase the surface area for the absorption of digested food",
+        "Cilia, which push undigested waste into the large intestine",
+        "Alveoli, which facilitate the exchange of respiratory gases"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The inner walls of the small intestine contain numerous finger-like projections called villi. These villi significantly increase the surface area available for the efficient absorption of digested food into the blood vessels."
+},
+{
+    "id": 41,
+    "question": "What is the primary function of the large intestine in the human digestive system?",
+    "options": [
+        "To secrete digestive enzymes that break down complex proteins and fats",
+        "To absorb the majority of water and essential minerals from the unabsorbed food material",
+        "To produce bile juice for the emulsification of dietary fats",
+        "To store food temporarily before it undergoes chemical breakdown in the stomach"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The unabsorbed food material is sent to the large intestine, where its wall absorbs most of the water and necessary minerals from the material, leaving the remaining waste to be expelled from the body."
+},
+{
+    "id": 42,
+    "question": "Where does the large intestine send the remaining unabsorbed waste material for temporary storage before it is eliminated from the body?",
+    "options": [
+        "Back to the small intestine",
+        "To the rectum and Anus",
+        "To the liver",
+        "To the gallbladder"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The large intestine passes the remaining waste material into the rectum, where it is stored temporarily as semi-solid faeces until it is expelled from the body through the anus via the process of egestion."
+},
+{
+    "id": 43,
+    "question": "What muscular structure regulates the exit of waste material from the body through the anus?",
+    "options": [
+        "Pyloric sphincter",
+        "Anal sphincter",
+        "Cardiac sphincter",
+        "Oesophageal sphincter"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The exit of waste material (faeces) from the body is regulated by the anal sphincter, which controls the release of faecal matter through the anus during the process of egestion."
+},
+{
+    "id": 44,
+    "question": "What is the primary cause of tooth decay (dental caries) when sugary food particles are left on the teeth?",
+    "options": [
+        "Direct chemical corrosion of enamel by sugar molecules alone",
+        "The action of bacteria on leftover sugar and food particles, which produces acids that gradually soften and damage the tooth enamel",
+        "Excessive production of saliva by the salivary glands",
+        "Friction caused by the movement of the tongue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tooth decay (dental caries) occurs when bacteria act on leftover sugar and food particles in the mouth, producing acids that degrade the hard tooth enamel. Saliva helps neutralize acid, but regular brushing is necessary to remove food debris and plaque that prevent saliva from reaching the tooth surface effectively."
+},
+{
+    "id": 45,
+    "question": "What is observed when carbon dioxide gas is passed through lime water (calcium hydroxide solution), and what causes this observation?",
+    "options": [
+        "The solution turns deep blue due to the formation of complex copper salts.",
+        "The solution turns milky due to the formation of insoluble calcium carbonate precipitate.",
+        "The solution bubbles vigorously, releasing hydrogen gas.",
+        "The solution becomes completely acidic and neutralizes instantly."
+    ],
+    "correctAnswer": 1,
+    "explanation": "When carbon dioxide is passed through lime water (calcium hydroxide), it reacts to form a white precipitate of insoluble calcium carbonate, which turns the clear solution milky."
+},
+{
+    "id": 46,
+    "question": "What is pyruvate and how is it produced during cellular respiration?",
+    "options": [
+        "A 6-carbon molecule formed directly from fats in the small intestine",
+        "A 3-carbon molecule produced in the cytoplasm by the breakdown of a 6-carbon glucose molecule during the first step of cellular respiration",
+        "An enzyme secreted by the pancreas to digest carbohydrates",
+        "A waste gas eliminated through the lungs during exhalation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pyruvate is a 3-carbon molecule formed in the cytoplasm when glucose (a 6-carbon molecule) is broken down during the first step of cellular respiration (glycolysis)."
+},
+{
+    "id": 47,
+    "question": "What are the typical products formed when pyruvate undergoes fermentation (anaerobic respiration) in yeast?",
+    "options": [
+        "Lactic acid and energy",
+        "Carbon dioxide, water, and a large amount of energy",
+        "Ethanol, carbon dioxide, and energy",
+        "Glucose and oxygen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "During fermentation in yeast (which takes place in the absence of oxygen), the 3-carbon pyruvate molecule is broken down into ethanol, carbon dioxide, and energy."
+},
+{
+    "id": 48,
+    "question": "In cellular respiration, where does the complete breakdown of pyruvate using oxygen (aerobic respiration) take place within the cell?",
+    "options": [
+        "Cytoplasm",
+        "Mitochondria",
+        "Ribosome",
+        "Nucleus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The breakdown of pyruvate using oxygen (aerobic respiration) takes place inside the mitochondria. This process releases carbon dioxide, water, and a large amount of energy in the form of ATP."
+},
+{
+    "id": 49,
+    "question": "What is anaerobic respiration, and where or how does it typically occur?",
+    "options": [
+        "Respiration that requires a continuous supply of oxygen inside the mitochondria to generate large amounts of energy.",
+        "Respiration that takes place in the absence of oxygen, where pyruvate is converted into products like ethanol or lactic acid, releasing less energy.",
+        "The process of absorbing carbon dioxide from the atmosphere to synthesize glucose in plant leaves.",
+        "The breakdown of complex proteins into amino acids within the digestive tract."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Anaerobic respiration is cellular respiration that occurs without oxygen. Because oxygen is absent, pyruvate is not fully broken down in the mitochondria; instead, it forms ethanol and carbon dioxide (in yeast) or lactic acid (in animal muscles during sudden strenuous activity), producing a smaller amount of energy than aerobic respiration."
+},
+{
+    "id": 50,
+    "question": "What is aerobic respiration, and what are its key characteristics?",
+    "options": [
+        "Respiration occurring in the absence of oxygen, producing ethanol and carbon dioxide.",
+        "Respiration occurring in the presence of oxygen, resulting in the complete breakdown of pyruvate into carbon dioxide and water inside the mitochondria with a high yield of energy.",
+        "The initial breakdown of glucose into a 3-carbon pyruvate molecule within the cytoplasm.",
+        "The absorption of oxygen from the lungs into the blood vessels."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aerobic respiration takes place in the presence of oxygen. During this process, pyruvate is completely broken down into carbon dioxide and water inside the mitochondria, releasing a large amount of energy."
+},
+{
+    "id": 51,
+    "question": "Where does the formation of pyruvate from glucose take place within the cell during cellular respiration?",
+    "options": [
+        "Mitochondria",
+        "Cytoplasm",
+        "Nucleus",
+        "Endoplasmic reticulum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The formation of pyruvate occurs during the first step of cellular respiration (glycolysis), which takes place in the cytoplasm of the cell where a 6-carbon glucose molecule is broken down into 3-carbon pyruvate molecules."
+},
+{
+    "id": 52,
+    "question": "How does the amount of energy released during aerobic respiration (in the presence of oxygen) compare to the amount released during anaerobic respiration?",
+    "options": [
+        "It is lower than anaerobic respiration",
+        "It is much higher than anaerobic respiration",
+        "It is exactly equal to anaerobic respiration",
+        "No energy is released in either process"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aerobic respiration releases a much higher amount of energy compared to anaerobic respiration because the food is completely broken down into carbon dioxide and water in the presence of oxygen."
+},
+{
+    "id": 53,
+    "question": "During cellular respiration, glucose is first broken down into pyruvate in the cytoplasm. When this pyruvate undergoes anaerobic respiration (fermentation) in yeast due to the absence of oxygen, what are the end products?",
+    "options": [
+        "Lactic acid and energy",
+        "Carbon dioxide, water, and a large amount of energy",
+        "Ethanol, carbon dioxide, and energy",
+        "Glucose and oxygen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In the cytoplasm, glucose is broken down into a 3-carbon molecule called pyruvate. In the absence of oxygen (anaerobic respiration) in yeast, pyruvate is further converted into ethanol and carbon dioxide, releasing a smaller amount of energy."
+},
+{
+    "id": 54,
+    "question": "When there is a lack of oxygen in our muscle cells during sudden strenuous activity, what is pyruvate converted into?",
+    "options": [
+        "Ethanol and carbon dioxide",
+        "Lactic acid and energy",
+        "Carbon dioxide and water",
+        "Glucose and oxygen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When there is a lack of oxygen in human muscle cells (such as during heavy exercise), pyruvate is converted into lactic acid. The build-up of this 3-carbon molecule is what often causes painful muscle cramps."
+},
+{
+    "id": 55,
+    "question": "When pyruvate is broken down in the presence of oxygen inside the mitochondria during aerobic respiration, what are the resulting end products?",
+    "options": [
+        "Ethanol and carbon dioxide",
+        "Lactic acid and energy",
+        "Carbon dioxide, water, and energy",
+        "Glucose and oxygen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In the presence of oxygen, pyruvate is completely broken down inside the mitochondria. This aerobic process yields carbon dioxide, water, and a large amount of energy."
+},
+{
+    "id": 56,
+    "question": "What is ATP (Adenosine Triphosphate) and what is its role in the cell?",
+    "options": [
+        "A waste product eliminated during anaerobic respiration in muscle cells",
+        "The primary energy currency of the cell, used to fuel various cellular processes by storing and releasing energy",
+        "An enzyme that breaks down complex starch molecules in the small intestine",
+        "A 3-carbon molecule formed directly from the digestion of dietary fats"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ATP (Adenosine Triphosphate) is known as the energy currency of the cell. The energy released during both aerobic and anaerobic cellular respiration is used to synthesize ATP from ADP and inorganic phosphate, which the cell then utilizes to drive its various life processes."
+},
+{
+    "id": 57,
+    "question": "What is the full form of ATP, the energy currency of the cell?",
+    "options": [
+        "Adenosine Diphosphate",
+        "Adenosine Triphosphate",
+        "Amino Triphosphate",
+        "Adenine Tetraphosphate"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ATP stands for Adenosine Triphosphate. It serves as the primary energy currency of the cell, providing energy for various cellular activities."
+},
+{
+    "id": 58,
+    "question": "When the terminal phosphate linkage in ATP is broken using water, how much energy is typically released?",
+    "options": [
+        "15.2 kJ/mol",
+        "30.5 kJ/mol",
+        "61.0 kJ/mol",
+        "91.5 kJ/mol"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When the terminal phosphate linkage in ATP is broken down using water (hydrolysis), an energy equivalent to 30.5 kJ/mol is released, which cells use to drive various endothermic reactions."
+},
+{
+    "id": 60,
+    "question": "What are the bronchi in the human respiratory system, and what is their primary function?",
+    "options": [
+        "Tiny air sacs where gas exchange directly takes place with the blood",
+        "The main air passages that branch off from the trachea and direct air into the left and right lungs",
+        "Muscular flaps that prevent food from entering the windpipe during swallowing",
+        "The dome-shaped muscle sheet that controls chest cavity expansion during breathing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The trachea (windpipe) divides into two main branches called bronchi (singular: bronchus). Each bronchus enters a lung, where it branches further into smaller tubes called bronchioles, ultimately delivering air to the alveoli for gas exchange."
+},
+{
+    "id": 61,
+    "question": "What are bronchioles in the human respiratory system?",
+    "options": [
+        "The main windpipe that connects the throat to the chest cavity",
+        "Smaller tubes formed by the branching of bronchi inside the lungs that eventually terminate in alveoli",
+        "The muscular diaphragm responsible for controlling breathing movements",
+        "The primary blood vessels surrounding the heart"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bronchioles are smaller tubes that result from the further branching of the bronchi inside the lungs. They transport air deeper into the respiratory system, eventually terminating in tiny air sacs called alveoli where gas exchange occurs."
+},
+{
+    "id": 62,
+    "question": "What are alveoli, and what is their primary function in the human respiratory system?",
+    "options": [
+        "The primary cartilage rings that keep the trachea open and prevent it from collapsing",
+        "Tiny, balloon-like air sacs at the terminal ends of bronchioles that provide a massive surface area for gas exchange between air and blood capillaries",
+        "The muscular sheet of tissue that controls the expansion and contraction of the chest cavity",
+        "The main tubes carrying air from the nasal cavity down into the throat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alveoli are tiny, thin-walled air sacs located at the end of bronchioles. They are surrounded by a dense network of blood capillaries and provide a large surface area where oxygen diffuses into the blood and carbon dioxide diffuses out into the lungs to be exhaled."
+},
+{
+    "id": 63,
+    "question": "What is the singular form of the word 'alveoli'?",
+    "options": [
+        "Alveola",
+        "Alveolus",
+        "Alvelum",
+        "Alveolite"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Alveolus' is the singular form referring to a single tiny air sac in the lungs, whereas 'alveoli' is the plural form."
+},
+{
+    "id": 64,
+    "question": "What is the main function of the alveoli in the human respiratory system?",
+    "options": [
+        "To produce mucus and trap dust particles entering the nose and trachea",
+        "To provide a large surface area for the exchange of gases (oxygen and carbon dioxide) between the air and the blood",
+        "To act as a muscular pump that forces air in and out of the chest cavity",
+        "To warm, filter, and moisten incoming air before it reaches the bronchi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The main function of the alveoli is to provide a massive surface area with very thin walls, allowing oxygen from inhaled air to diffuse rapidly into the blood capillaries, and carbon dioxide from the blood to diffuse into the alveoli to be exhaled."
+},
+{
+    "id": 65,
+    "question": "What is the diaphragm, and what is its primary role in the human respiratory system?",
+    "options": [
+        "A tiny air sac where direct gas exchange takes place with the blood capillaries.",
+        "A dome-shaped muscular sheet separating the chest and abdominal cavities that contracts and relaxes to drive breathing movements.",
+        "The main windpipe that connects the nasal cavity to the bronchial tubes.",
+        "A muscular sphincter that regulates the passage of waste material out of the body."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The diaphragm is a dome-shaped muscular partition that separates the thoracic (chest) cavity from the abdominal cavity. During inhalation, it contracts and flattens to increase chest volume and draw air into the lungs, and during exhalation, it relaxes and curves upward to help force air out."
+},
+{
+    "id": 66,
+    "question": "What is the function of cilia in the human respiratory tract?",
+    "options": [
+        "To absorb oxygen molecules directly from the inhaled air into the blood capillaries",
+        "To beat rhythmically and move mucus containing trapped dust, bacteria, and foreign particles upward out of the respiratory passages",
+        "To expand and contract the chest cavity during inhalation and exhalation",
+        "To act as tiny air sacs where the actual exchange of gases occurs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cilia are tiny, hair-like projections on the cells lining the respiratory tract (such as the trachea and bronchi). They beat in unison to push mucus—along with trapped dust, smoke, and germs—upward toward the throat, helping to keep the lungs clean and free of infection."
+},
+{
+    "id": 67,
+    "question": "What is the main function of hemoglobin in human respiration?",
+    "options": [
+        "To produce mucus and trap foreign particles in the trachea",
+        "To bind with oxygen molecules in the lungs and transport them through the blood to body tissues",
+        "To act as a muscular pump that forces air in and out of the alveoli",
+        "To convert carbon dioxide directly into glucose within red blood cells"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hemoglobin is a respiratory pigment contained in red blood cells with a high affinity for oxygen. It binds to oxygen in the lungs—where the oxygen concentration is high—and carries it through the circulatory system to body tissues that require it for aerobic respiration."
+},
+{
+    "id": 68,
+    "question": "If the alveolar surface within the human lungs were completely spread out, it would cover an area of approximately how much?",
+    "options": [
+        "20 square meters",
+        "50 square meters",
+        "80 square meters",
+        "120 square meters"
+    ],
+    "correctAnswer": 2,
+    "explanation": "If the alveolar surface were spread out, it would cover about 80 $m^2$. This exceptionally large surface area ensures a highly efficient exchange of oxygen and carbon dioxide between the air and the blood capillaries in the lungs."
+},
+{
+    "id": 69,
+    "question": "If diffusion were to move oxygen in our body instead of the circulatory system, it is estimated that it would take approximately how many years for a molecule of oxygen to get to our toes from our lungs?",
+    "options": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "10 years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diffusion is a very slow process over long distances. It is estimated that if oxygen relied solely on diffusion to travel from the lungs to the toes in humans, it would take about 3 years, which is why multicellular organisms require a specialized transport system (blood and hemoglobin)."
 }
-
     ]
 }
