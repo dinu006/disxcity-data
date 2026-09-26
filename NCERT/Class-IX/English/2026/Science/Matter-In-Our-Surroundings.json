@@ -7,15 +7,603 @@
     "questions": [
         {
             "id": 1,
-            "question": "Who first discovered and named 'cells' by observing a thin slice of cork under a microscope in 1665?",
+            "question": "Early Indian philosophers classified matter in how many pradastha and what were they?",
             "options": [
-                "Scientist: Robert Brown",
-                "Scientist: Rudolf Virchow",
-                "Scientist: Antonie van Leeuwenhoek",
-                "Scientist: Robert Hooke"
+                "Three pradastha: Solid, Liquid, Gas",
+                "Five pradastha (Panch Tatva): Air, Earth, Fire, Sky, Water",
+                "Four pradastha: Atoms, Molecules, Compounds, Mixtures",
+                "Two pradastha: Matter and Energy"
             ],
-            "correctAnswer": 3,
-            "explanation": "Robert Hooke discovered and named cells in 1665 by observing dead plant cell walls in cork. He called them cells, which means 'little rooms'."
+            "correctAnswer": 1,
+            "explanation": "Early Indian philosophers classified matter in the form of five basic elements known as the Panch Tatva—air, earth, fire, sky, and water. According to them, everything living or non-living was made up of these five basic elements."
+        },
+        {
+            "id": 2,
+            "question": "Modern day scientists have evolved two types of classification of matter based on their which properties?",
+            "options": [
+                "Mechanical and thermal properties",
+                "Physical properties and chemical nature",
+                "Atomic and molecular weights",
+                "Electrical and optical properties"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Modern-day scientists have evolved two types of classification of matter based on their physical properties and chemical nature."
+        },
+        {
+            "id": 3,
+            "question": "What is the SI unit of mass?",
+            "options": [
+                "Gram (g)",
+                "Kilogram (kg)",
+                "Milligram (mg)",
+                "Newton (N)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The SI unit of mass is the kilogram (kg). Although smaller units like grams or milligrams are frequently used, the kilogram is the base unit of mass in the International System of Units (SI)."
+        },
+        {
+            "id": 4,
+            "question": "What is the SI unit of volume?",
+            "options": [
+                "Litre (L)",
+                "Millilitre (mL)",
+                "Cubic metre (m³)",
+                "Cubic centimetre (cm³)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The SI unit of volume is cubic metre (m³). Other common units used for measuring volume include litres (L), millilitres (mL), and cubic centimetres (cm³), where 1 L = 1 dm³ and 1 L = 1000 mL."
+        },
+        {
+            "id": 5,
+            "question": "What is 1 litre (L) equal to in terms of cubic decimetres (dm³)?",
+            "options": [
+                "0.1 dm³",
+                "1 dm³",
+                "10 dm³",
+                "1000 dm³"
+            ],
+            "correctAnswer": 1,
+            "explanation": "1 litre is equal to 1 cubic decimetre (1 L = 1 dm³). In relation to other units, 1 L is also equal to 1000 mL or 1000 cm³."
+        },
+        {
+            "id": 6,
+            "question": "What is the colour of potassium permanganate?",
+            "options": [
+                "Colorless",
+                "Pink / Purple",
+                "Green",
+                "Yellow"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Potassium permanganate crystals have a dark purple colour, and when dissolved in water, they form a pink or deep purple solution. In NCERT Class 9 Science, it is commonly used in activities to demonstrate that matter is made up of millions of tiny particles."
+        },
+        {
+            "id": 7,
+            "question": "What is the chemical formula of potassium permanganate?",
+            "options": [
+                "KMnO₄",
+                "K₂MnO₄",
+                "KOH",
+                "KMnO₃"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The chemical formula of potassium permanganate is KMnO₄. In NCERT Class 9 Science, it is commonly used in activities to demonstrate that matter is made of tiny particles with spaces between them."
+        },
+        {
+            "id": 8,
+            "question": "What is the colour of copper sulphate?",
+            "options": [
+                "Blue",
+                "Green",
+                "White",
+                "Yellow"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Hydrated copper sulphate crystals (copper sulphate pentahydrate, CuSO₄·5H₂O) are blue in colour. When dissolved in water, they form a clear blue solution, commonly used in experiments to demonstrate the particulate nature of matter."
+        },
+        {
+            "id": 9,
+            "question": "How does the kinetic energy of particles change as the temperature of matter increases?",
+            "options": [
+                "It decreases because particles slow down.",
+                "It remains constant regardless of temperature changes.",
+                "It increases because particles move faster at higher temperatures.",
+                "It fluctuates randomly without any relation to temperature."
+            ],
+            "correctAnswer": 2,
+            "explanation": "As the temperature rises, the kinetic energy of the particles increases because they move faster. In other words, an increase in temperature supplies thermal energy, causing the particles to vibrate or move with greater speed."
+        },
+        {
+            "id": 10,
+            "question": "What is diffusion?",
+            "options": [
+                "The process by which a solid changes directly into a gas",
+                "The intermixing of particles of two different types of matter on their own",
+                "The settling down of heavy particles at the bottom of a liquid container",
+                "The conversion of a liquid into vapour below its boiling point"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Diffusion is defined as the intermixing of particles of two different types of matter on their own. This occurs because particles move randomly and occupy the empty spaces between each other, and the rate of diffusion increases with an increase in temperature."
+        },
+        {
+            "id": 11,
+            "question": "What is the full form of LPG?",
+            "options": [
+                "Liquid Petroleum Gas",
+                "Liquefied Petroleum Gas",
+                "Low Pressure Gas",
+                "Light Petroleum Gasoline"
+            ],
+            "correctAnswer": 1,
+            "explanation": "LPG stands for Liquefied Petroleum Gas. In the NCERT chapter 'Matter in Our Surroundings', it is cited as an example of a gas that is compressed into liquid form under high pressure for easy storage and transportation."
+        },
+        {
+            "id": 12,
+            "question": "What is the full form of CNG?",
+            "options": [
+                "Compressed Natural Gas",
+                "Carbon Nitrogen Gas",
+                "Condensed Natural Gasoline",
+                "Combustible Natural Gas"
+            ],
+            "correctAnswer": 0,
+            "explanation": "CNG stands for Compressed Natural Gas. In the NCERT chapter 'Matter in Our Surroundings', it is cited as an example of a gas that can be compressed under high pressure for use as a fuel."
+        },
+        {
+            "id": 13,
+            "question": "Where is CNG (Compressed Natural Gas) commonly used?",
+            "options": [
+                "As a fuel for vehicles like cars and buses",
+                "As a refrigerant in air conditioning systems",
+                "As a fertilizer for agricultural crops",
+                "As a raw material for making glass"
+            ],
+            "correctAnswer": 0,
+            "explanation": "CNG is widely used as an eco-friendly and cleaner-burning fuel for vehicles such as cars, buses, and autorickshaws because it produces significantly fewer harmful emissions compared to petrol and diesel."
+        },
+        {
+            "id": 14,
+            "question": "Where is LPG (Liquefied Petroleum Gas) commonly used?",
+            "options": [
+                "As a fuel in homes for cooking and in industries",
+                "Exclusively as a refrigerant in deep freezers",
+                "As a raw material for manufacturing glass only",
+                "Directly as fuel in jet aircraft engines"
+            ],
+            "correctAnswer": 0,
+            "explanation": "LPG is commonly used as a fuel in homes for cooking (supplied in cylinders) as well as in commercial settings and industries due to its high calorific value and efficient burning properties."
+        },
+        {
+            "id": 15,
+            "question": "The mass per unit volume of a substance is called what?",
+            "options": [
+                "Density",
+                "Pressure",
+                "Force",
+                "Viscosity"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Density is defined as mass per unit volume (Density = Mass / Volume). Its SI unit is kilogram per cubic metre (kg/m³). In the NCERT chapter, it is often arranged in increasing order of density for different substances."
+        },
+        {
+            "id": 16,
+            "question": "What is rigidity?",
+            "options": [
+                "The tendency of a substance to flow freely in all directions",
+                "The property of a substance to maintain its shape when subjected to an outside force",
+                "The rate at which particles of two different types of matter mix together",
+                "The mass per unit volume of a substance"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Rigidity is the property of matter that allows it to maintain its shape and resist any change in shape when an external force is applied. Solids possess high rigidity, whereas liquids and gases are fluids and lack rigidity."
+        },
+        {
+            "id": 17,
+            "question": "What is fluidity?",
+            "options": [
+                "The ability of a substance to maintain a rigid shape under external force",
+                "The property of substances to flow or change shape easily",
+                "The measurement of mass packed per unit volume",
+                "The direct conversion of a solid into a gas without changing into a liquid"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Fluidity is the property of a substance that allows it to flow and change its shape, rather than remaining rigid. Unlike solids, both liquids and gases exhibit fluidity."
+        },
+        {
+            "id": 18,
+            "question": "What is compressibility?",
+            "options": [
+                "The ability of a substance to maintain a rigid shape under pressure",
+                "The property of a substance due to which its volume can be reduced greatly by applying high pressure",
+                "The intermixing of particles of two different types of matter on their own",
+                "The mass per unit volume of a substance"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Compressibility is the property by virtue of which the volume of a substance can be decreased significantly under the application of high pressure. Gases possess high compressibility due to the large empty spaces between their particles."
+        },
+        {
+            "id": 19,
+            "question": "The minimum temperature at which a solid melts to become a liquid at atmospheric pressure is called what?",
+            "options": [
+                "Boiling point",
+                "Melting point",
+                "Freezing point",
+                "Condensation point"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The minimum temperature at which a solid melts to become a liquid at atmospheric pressure is called its melting point. The melting point of a solid is an indication of the strength of the force of attraction between its particles."
+        },
+        {
+            "id": 20,
+            "question": "The change of solid state into liquid state is known as what?",
+            "options": [
+                "Condensation",
+                "Fusion",
+                "Sublimation",
+                "Vaporisation"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The process of melting, that is, the change of solid state into liquid state is also known as fusion."
+        },
+        {
+            "id": 21,
+            "question": "What is the definition of latent heat during a change of state?",
+            "options": [
+                "The heat required to raise the temperature of a substance by exactly 1 degree Celsius",
+                "The heat energy absorbed or released during a phase change without causing any change in temperature",
+                "The total kinetic energy possessed by all particles in a solid substance",
+                "The heat lost when a gas directly converts into a solid"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Latent heat (derived from the Latin word 'latere', meaning hidden) is the heat energy that is bound or absorbed by a substance during a change of state (such as solid to liquid or liquid to gas) without showing any rise in temperature on a thermometer."
+        },
+        {
+            "id": 22,
+            "question": "The amount of heat energy that is required to change one kilogram of solid into liquid at atmospheric pressure at its melting point is known as:",
+            "options": [
+                "Latent heat of vaporization",
+                "Latent heat of fusion",
+                "Specific heat capacity",
+                "Boiling point"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The amount of heat energy that is required to change 1 kg of a solid into liquid at atmospheric pressure at its melting point is known as the latent heat of fusion."
+        },
+        {
+            "id": 23,
+            "question": "The temperature at which a liquid starts boiling at the atmospheric pressure is known as",
+            "options": [
+                "Melting point",
+                "Boiling point",
+                "Freezing point",
+                "Condensation point"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The temperature at which a liquid starts boiling at atmospheric pressure is known as its boiling point. Boiling is a bulk phenomenon where particles from the bulk of the liquid gain enough energy to change into the vapour state."
+        },
+        {
+            "id": 24,
+            "question": "What is the latent heat of vaporization?",
+            "options": [
+                "The amount of heat energy required to change 1 kg of a solid into liquid at its melting point",
+                "The amount of heat energy required to change 1 kg of a liquid into gas at atmospheric pressure at its boiling point",
+                "The heat released when a gas condenses into a liquid at constant temperature",
+                "The total thermal energy contained in a boiling liquid"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The latent heat of vaporization is the amount of heat energy required to change 1 kg of a liquid into gas at atmospheric pressure at its boiling point. Particles in steam (water vapour at 373 K or 100 °C) have more energy than water at the same temperature because they have absorbed extra latent heat of vaporization."
+        },
+        {
+            "id": 25,
+            "question": "What is the SI unit of temperature?",
+            "options": [
+                "Celsius (°C)",
+                "Fahrenheit (°F)",
+                "Kelvin (K)",
+                "Rankine (°R)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The SI unit of temperature is Kelvin (K). On the Kelvin scale, 0 °C is equal to 273.15 K (commonly approximated as 273 K in NCERT problems)."
+        },
+        {
+            "id": 26,
+            "question": "Zero degree Celsius is equal to how much Kelvin?",
+            "options": [
+                "100 K",
+                "273 K",
+                "373 K",
+                "0 K"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Zero degree Celsius is equal to 273.15 K, which is commonly taken as 273 K in calculations. To convert temperature from Celsius to Kelvin, you add 273 to the Celsius temperature."
+        },
+        {
+            "id": 27,
+            "question": "The direct change of solid to gas without changing into liquid state is known as",
+            "options": [
+                "Condensation",
+                "Fusion",
+                "Sublimation",
+                "Vaporisation"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The change of solid state directly to gas without changing into liquid state (or vice versa) is known as sublimation. Common examples include camphor, ammonium chloride, and solid carbon dioxide (dry ice)."
+        },
+        {
+            "id": 28,
+            "question": "The direct change of gas into solid without changing into liquid is known as",
+            "options": [
+                "Condensation",
+                "Fusion",
+                "Sublimation",
+                "Vaporisation"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The direct change of gas into solid without changing into liquid is known as deposition (also frequently referred to as sublimation). In NCERT terminology, sublimation describes the phase transition directly between the solid and gas states in either direction."
+        },
+        {
+            "id": 29,
+            "question": "Highly compressed carbon dioxide in solid state at pressure lower than one atmosphere is known as",
+            "options": [
+                "Liquid carbon dioxide",
+                "Dry ice",
+                "Supercooled ice",
+                "Compressed gas ice"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Solid carbon dioxide is stored under high pressure and is known as dry ice. It gets converted directly to gaseous state on a decrease of pressure to 1 atmosphere without changing into liquid state, which is why it is called dry ice."
+        },
+        {
+            "id": 30,
+            "question": "The changing of liquid into gaseous state is known as",
+            "options": [
+                "Fusion",
+                "Condensation",
+                "Vaporisation",
+                "Sublimation"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The change of liquid into gaseous state is known as vaporisation. This process can happen either slowly at any temperature below the boiling point (evaporation) or rapidly at the boiling point (boiling)."
+        },
+        {
+            "id": 31,
+            "question": "The change of a gas directly into a solid state without changing into a liquid state is known as",
+            "options": [
+                "Condensation",
+                "Fusion",
+                "Sublimation",
+                "Vaporisation"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The direct change of a gas into a solid without changing into a liquid state is known as sublimation (also referred to as deposition in some contexts). In the NCERT textbook, sublimation refers to the direct phase transition between solid and gas states in both directions."
+        },
+        {
+            "id": 32,
+            "question": "The change of a liquid into a solid state is known as",
+            "options": [
+                "Melting",
+                "Freezing",
+                "Condensation",
+                "Vaporisation"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The change of a liquid into a solid state is known as freezing (or solidification). It is the reverse of melting and occurs when thermal energy is removed from the liquid."
+        },
+        {
+            "id": 33,
+            "question": "The change of a solid into a liquid state is known as:",
+            "options": [
+                "Freezing",
+                "Melting",
+                "Vaporisation",
+                "Condensation"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The change of a solid state into a liquid state is known as melting (also referred to as fusion). It occurs when heat is supplied to a solid, increasing the kinetic energy of its particles until they break free from their fixed positions and overcome the forces of attraction holding them together."
+        },
+        {
+            "id": 34,
+            "question": "The change of a solid directly into a gas is known as",
+            "options": [
+                "Condensation",
+                "Fusion",
+                "Sublimation",
+                "Vaporisation"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The change of a solid state directly into a gas without passing through the liquid state is known as sublimation. Common examples include camphor, ammonium chloride, and dry ice."
+        },
+        {
+            "id": 35,
+            "question": "The change of a gas directly into a solid state without passing through the liquid state is known as",
+            "options": [
+                "Condensation",
+                "Fusion",
+                "Sublimation",
+                "Vaporisation"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The direct change of a gas into a solid state without changing into a liquid is known as sublimation (also referred to as deposition). In the NCERT textbook, sublimation covers the direct phase transition between solid and gaseous states in both directions."
+        },
+        {
+            "id": 36,
+            "question": "What is the SI unit of pressure?",
+            "options": [
+                "Pascal (Pa)",
+                "Atmosphere (atm)",
+                "Newton (N)",
+                "Joule (J)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The SI unit of pressure is the Pascal (Pa), named after the scientist Blaise Pascal. It is defined as one Newton per square meter (N/m²). Another common unit of pressure measurement is the atmospheric pressure (atm)."
+        },
+        {
+            "id": 37,
+            "question": "What is the value of one atmospheric pressure (1 atm) in Pascals?",
+            "options": [
+                "1.01 × 10⁵ Pa",
+                "1.01 × 10³ Pa",
+                "9.8 × 10⁴ Pa",
+                "1.01 × 10⁶ Pa"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The atmospheric pressure at sea level is 1 atmosphere (atm), which is equal to 1.01 × 10⁵ Pa (Pascal). Atmospheric pressure is defined as the pressure exerted by the weight of air on the earth's surface."
+        },
+        {
+            "id": 38,
+            "question": "The pressure exerted by the air of the atmosphere is known as:",
+            "options": [
+                "Atmospheric pressure",
+                "Hydrostatic pressure",
+                "Vapour pressure",
+                "Standard pressure"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The pressure exerted by the weight of air in the atmosphere is known as atmospheric pressure. The unit of measurement is atmosphere (atm), where 1 atm is equal to 1.01 × 10⁵ Pa."
+        },
+        {
+            "id": 39,
+            "question": "The change of a liquid into vapor at any temperature below its boiling point is called",
+            "options": [
+                "Boiling",
+                "Evaporation",
+                "Condensation",
+                "Sublimation"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The phenomenon of change of a liquid into vapors at any temperature below its boiling point is called evaporation. Unlike boiling, which is a bulk phenomenon, evaporation is a surface phenomenon."
+        },
+        {
+            "id": 40,
+            "question": "Which of the following are the four key factors upon which the rate of evaporation depends?",
+            "options": [
+                "Volume, pressure, density, and mass",
+                "Surface area, temperature, humidity, and wind speed",
+                "Melting point, boiling point, latent heat, and altitude",
+                "Color, viscosity, transparency, and odor"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The rate of evaporation increases with an increase in surface area, an increase in temperature, an increase in wind speed, and a decrease in humidity."
+        },
+        {
+            "id": 41,
+            "question": "How does the rate of evaporation change with an increase in temperature?",
+            "options": [
+                "It increases",
+                "It decreases",
+                "It remains unaffected",
+                "It first decreases and then increases"
+            ],
+            "correctAnswer": 0,
+            "explanation": "With an increase in temperature, a greater number of particles get enough kinetic energy to break the forces of attraction and escape into the vapour state, thereby increasing the rate of evaporation."
+        },
+        {
+            "id": 42,
+            "question": "With an increase in surface area, the rate of evaporation",
+            "options": [
+                "increases",
+                "decreases",
+                "remains the same",
+                "stops"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Since evaporation is a surface phenomenon, an increase in surface area exposes more liquid particles to the surrounding air, thereby increasing the rate of evaporation (for example, spreading out clothes helps them dry faster)."
+        },
+        {
+            "id": 43,
+            "question": "How does the rate of evaporation change with an increase in humidity?",
+            "options": [
+                "decreases",
+                "increases",
+                "remains unaffected",
+                "first increases and then decreases"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Humidity is the amount of water vapour present in the air. Since the air around us can hold only a definite amount of water vapour at a given temperature, an increase in humidity decreases the rate of evaporation because the surrounding air is already close to its water vapour capacity."
+        },
+        {
+            "id": 44,
+            "question": "With an increase in wind speed, the rate of evaporation",
+            "options": [
+                "decreases",
+                "increases",
+                "remains unchanged",
+                "becomes zero"
+            ],
+            "correctAnswer": 1,
+            "explanation": "With an increase in wind speed, the particles of water vapour move away with the wind, decreasing the amount of water vapour in the surrounding area and thereby increasing the rate of evaporation."
+        },
+        {
+            "id": 45,
+            "question": "Nail polish remover is made up of which of the following chemicals?",
+            "options": [
+                "Acetone",
+                "Ethanol",
+                "Benzene",
+                "Formaldehyde"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Nail polish remover typically contains acetone (propanone). It has a low boiling point and evaporates very rapidly, absorbing heat energy from your skin (latent heat of vaporization) and producing a noticeable cooling sensation."
+        },
+        {
+            "id": 46,
+            "question": "What is the SI unit of length?",
+            "options": [
+                "Meter (m)",
+                "Centimeter (cm)",
+                "Kilometer (km)",
+                "Millimeter (mm)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The SI (International System of Units) fundamental unit of length is the meter (m)."
+        },
+        {
+            "id": 47,
+            "question": "The SI unit of mass is",
+            "options": [
+                "Gram (g)",
+                "Kilogram (kg)",
+                "Milligram (mg)",
+                "Tonne (t)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The SI (International System of Units) fundamental base unit of mass is the kilogram (kg)."
+        },
+        {
+            "id": 48,
+            "question": "The SI unit of weight is",
+            "options": [
+                "Kilogram (kg)",
+                "Newton (N)",
+                "Joule (J)",
+                "Pascal (Pa)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Weight is the force with which gravity attracts an object (W = mg). Because weight is a force, its SI unit is the Newton (N), whereas mass (the quantity of matter) is measured in kilograms (kg)."
+        },
+        {
+            "id": 49,
+            "question": "The SI unit of density is",
+            "options": [
+                "kg/m³",
+                "g/cm³",
+                "kg/L",
+                "g/m³"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Density is defined as mass per unit volume (Density = Mass / Volume). Since the SI unit of mass is the kilogram (kg) and the SI unit of volume is the cubic meter (m³), the SI unit of density is kilogram per cubic meter (kg/m³)."
+        },
+        {
+            "id": 50,
+            "question": "The SI unit of volume is",
+            "options": [
+                "Cubic meter (m³)",
+                "Liter (L)",
+                "Milliliter (mL)",
+                "Cubic centimeter (cm³)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The SI derived unit of volume is the cubic meter (m³). However, in everyday laboratory practice and chemistry, volume is also commonly expressed in liters (L) or milliliters (mL)."
         }
     ]
 }
