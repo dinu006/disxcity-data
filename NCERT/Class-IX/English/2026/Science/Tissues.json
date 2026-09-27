@@ -9,12 +9,12 @@
             "id": 1,
             "question": "A group of cells that perform a similar function in structure and or work together to achieve a particular function is called",
             "options": [
-                "Organ",
                 "Tissue",
-                "Organ system",
-                "Cell organelle"
+                "Organ",
+                "Cell organelle",
+                "Organ system"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, a tissue is defined as a group of cells that are similar in structure and/or work together to achieve a particular function."
         },
         {
@@ -22,23 +22,23 @@
             "question": "What are the two main types of plant tissue?",
             "options": [
                 "Xylem and Phloem",
-                "Meristematic and Permanent tissue",
                 "Simple and Complex tissue",
-                "Epidermis and Cortex"
+                "Epidermis and Cortex",
+                "Meristematic and Permanent tissue"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, plant tissues are broadly classified into two main types based on their dividing capacity: meristematic tissue and permanent tissue."
         },
         {
             "id": 3,
             "question": "The growth of a plant occurs only in certain specific regions. This is because the dividing tissues are also known as",
             "options": [
-                "Permanent tissue",
-                "Meristematic tissue",
+                "Protective tissue",
                 "Complex tissue",
-                "Protective tissue"
+                "Meristematic tissue",
+                "Permanent tissue"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "According to NCERT, plant growth occurs only in specific regions because the dividing tissues, known as meristematic tissues, are localized in those areas."
         },
         {
@@ -46,32 +46,32 @@
             "question": "Which of the following is not a part of meristematic tissue?",
             "options": [
                 "Apical meristem",
-                "Lateral meristem",
                 "Intercalary meristem",
-                "Xylem"
+                "Xylem",
+                "Lateral meristem"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 2,
             "explanation": "According to NCERT, meristematic tissues are classified based on their region into apical, lateral, and intercalary meristems. Xylem is a type of complex permanent tissue, not a meristematic tissue."
         },
         {
             "id": 5,
             "question": "What is the function of apical meristem?",
             "options": [
-                "To increase the girth of the stem or root",
-                "To increase the length of the stem and root",
                 "To store water and nutrients",
-                "To provide mechanical support"
+                "To provide mechanical support",
+                "To increase the length of the stem and root",
+                "To increase the girth of the stem or root"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "According to NCERT, apical meristem is present at the growing tips of stems and roots and functions primarily to increase the length of the stem and root."
         },
         {
             "id": 6,
             "question": "What is the function of intercalary meristematic tissue?",
             "options": [
-                "To increase the girth of the stem or root",
-                "To increase the length of internodes and the base of leaves",
                 "To store food and provide flexibility",
+                "To increase the length of internodes and the base of leaves",
+                "To increase the girth of the stem or root",
                 "To transport organic food materials"
             ],
             "correctAnswer": 1,
@@ -81,10 +81,10 @@
             "id": 7,
             "question": "What is the function of lateral meristematic tissue?",
             "options": [
-                "To increase the length of the root or stem",
-                "To increase the girth of the stem or root",
                 "To help in photosynthesis",
-                "To transport water and minerals"
+                "To increase the girth of the stem or root",
+                "To transport water and minerals",
+                "To increase the length of the root or stem"
             ],
             "correctAnswer": 1,
             "explanation": "According to NCERT, lateral meristematic tissue (such as cambium) is located in the peripheral regions and is responsible for increasing the girth or diameter of the stem or root."
@@ -93,10 +93,10 @@
             "id": 8,
             "question": "Lateral meristematic tissue is also known as",
             "options": [
-                "Apical meristem",
+                "Simple tissue",
                 "Intercalary meristem",
                 "Cambium",
-                "Simple tissue"
+                "Apical meristem"
             ],
             "correctAnswer": 2,
             "explanation": "According to NCERT, lateral meristematic tissue is also known as the cambium, which is responsible for increasing the girth (diameter) of the stem or root."
@@ -105,24 +105,24 @@
             "id": 9,
             "question": "Why do meristematic tissues lack vacuoles?",
             "options": [
-                "Because they store large amounts of food and water for plant growth",
                 "Because vacuoles occupy space and these cells are continuously dividing with dense cytoplasm and high metabolic activity",
+                "Because they are dead tissues that do not require any cellular organelles",
                 "Because they possess thick lignified cell walls that leave no room for internal structures",
-                "Because they are dead tissues that do not require any cellular organelles"
+                "Because they store large amounts of food and water for plant growth"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, cells of meristematic tissues lack vacuoles because they are actively involved in continuous cell division and high metabolic activity. Vacuoles mainly serve for storage and would occupy space needed for dense cytoplasm and rapid cell multiplication."
         },
         {
             "id": 10,
             "question": "When meristematic tissue loses the ability to divide, what is it called?",
             "options": [
-                "Simple tissue",
                 "Complex tissue",
-                "Permanent tissue",
-                "Meristematic tissue"
+                "Meristematic tissue",
+                "Simple tissue",
+                "Permanent tissue"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, when cells produced by meristematic tissue take up a specific role and lose their ability to divide, they undergo differentiation to form permanent tissue."
         },
         {
@@ -130,21 +130,21 @@
             "question": "The process of meristematic tissue converting into permanent tissue is called",
             "options": [
                 "Cell division",
-                "Differentiation",
                 "Photosynthesis",
-                "Transpiration"
+                "Transpiration",
+                "Differentiation"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, the process by which cells of meristematic tissue take up a specific permanent shape, size, and function after losing their ability to divide is called differentiation."
         },
         {
             "id": 12,
             "question": "What are the two types of permanent tissues?",
             "options": [
-                "Meristematic and Intercalary tissue",
+                "Epidermis and Cork",
                 "Simple and Complex permanent tissue",
                 "Xylem and Phloem",
-                "Epidermis and Cork"
+                "Meristematic and Intercalary tissue"
             ],
             "correctAnswer": 1,
             "explanation": "According to NCERT, permanent tissues are classified into two main types based on their cellular composition: simple permanent tissues (made of a single type of similar cells) and complex permanent tissues (made of more than one type of cells working together)."
@@ -153,72 +153,72 @@
             "id": 13,
             "question": "What is the main function of simple permanent tissue?",
             "options": [
+                "Conducting photosynthesis exclusively",
                 "Transporting water and minerals throughout the plant",
-                "Providing support, protection, and storage of food",
                 "Continuous cell division to increase length and girth",
-                "Conducting photosynthesis exclusively"
+                "Providing support, protection, and storage of food"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, simple permanent tissues (such as parenchyma, collenchyma, and sclerenchyma) are primarily responsible for providing mechanical support, protection (such as the epidermal layers), and storage of food and nutrients in plants."
         },
         {
             "id": 14,
             "question": "Which of the following simple permanent tissues consists of loosely arranged cells with intercellular spaces and generally stores food?",
             "options": [
-                "Collenchyma",
-                "Sclerenchyma",
+                "Xylem",
                 "Parenchyma",
-                "Xylem"
+                "Collenchyma",
+                "Sclerenchyma"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "According to NCERT, parenchyma is a simple permanent tissue made of relatively unspecialized cells that are loosely arranged with intercellular spaces, and their primary function is food storage."
         },
         {
             "id": 15,
             "question": "Which of the following simple permanent tissues contains chlorophyll and performs photosynthesis?",
             "options": [
-                "Aerenchyma",
                 "Chlorenchyma",
                 "Sclerenchyma",
+                "Aerenchyma",
                 "Collenchyma"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, in some situations, parenchyma tissue contains chlorophyll and performs photosynthesis, in which case it is called chlorenchyma."
         },
         {
             "id": 16,
             "question": "In aquatic plants, large air cavities are present in parenchyma to give buoyancy and help them float. What is this type of parenchyma called?",
             "options": [
-                "Chlorenchyma",
                 "Aerenchyma",
                 "Sclerenchyma",
-                "Collenchyma"
+                "Collenchyma",
+                "Chlorenchyma"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, in aquatic plants, parenchyma has large air cavities to give buoyancy and help them float, which is known as aerenchyma."
         },
         {
             "id": 17,
             "question": "The flexibility in plants is due to a permanent tissue that allows bending of various parts like tendrils and stems of climbers without breaking. What is it called?",
             "options": [
-                "Parenchyma",
                 "Collenchyma",
+                "Xylem",
                 "Sclerenchyma",
-                "Xylem"
+                "Parenchyma"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, collenchyma is a simple permanent tissue characterized by unevenly thickened cell walls at the corners, which provides mechanical support and flexibility to plants, allowing easy bending in parts like tendrils and stems of climbers without breaking."
         },
         {
             "id": 18,
             "question": "Which simple permanent tissue helps to make the plant hard and stiff?",
             "options": [
-                "Parenchyma",
                 "Collenchyma",
-                "Sclerenchyma",
-                "Aerenchyma"
+                "Aerenchyma",
+                "Parenchyma",
+                "Sclerenchyma"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, sclerenchyma is a simple permanent tissue made of dead cells with thick, lignified walls, which provides strength and makes plant parts hard and stiff (such as the husk of a coconut)."
         },
         {
@@ -226,23 +226,23 @@
             "question": "The husk of a coconut is made up of which type of tissue?",
             "options": [
                 "Parenchyma",
-                "Collenchyma",
                 "Sclerenchyma",
-                "Meristematic tissue"
+                "Meristematic tissue",
+                "Collenchyma"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "According to NCERT, the husk of a coconut is made up of sclerenchyma tissue, which consists of dead cells with thick lignified walls that provide mechanical strength, hardness, and stiffness to plant parts."
         },
         {
             "id": 20,
             "question": "What is the outermost layer of cells in plants called?",
             "options": [
-                "Endodermis",
                 "Epidermis",
                 "Cambium",
-                "Cortex"
+                "Cortex",
+                "Endodermis"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, the epidermis is the outermost layer of cells in plants, which is usually made of a single layer of cells and provides protection against water loss, mechanical injury, and infection."
         },
         {
@@ -250,9 +250,9 @@
             "question": "Which of the following cells form a continuous layer of tissue without intercellular spaces?",
             "options": [
                 "Parenchyma",
-                "Sclerenchyma",
+                "Meristematic tissue",
                 "Epidermis",
-                "Meristematic tissue"
+                "Sclerenchyma"
             ],
             "correctAnswer": 2,
             "explanation": "According to NCERT, the cells of the epidermis form a continuous layer without intercellular spaces, which provides protection against water loss and mechanical injury to all parts of the plant."
@@ -262,21 +262,21 @@
             "question": "The small pores present in the epidermis of leaves, enclosed by kidney-shaped guard cells, are called",
             "options": [
                 "Guard cells",
+                "Chloroplasts",
                 "Stomata",
-                "Lenticels",
-                "Chloroplasts"
+                "Lenticels"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "According to NCERT, the small pores present in the epidermis of leaves are called stomata. These pores are enclosed by two kidney-shaped cells known as guard cells, which regulate the exchange of gases and transpiration."
         },
         {
             "id": 23,
             "question": "What is the main function of stomata?",
             "options": [
-                "Storage of water and food nutrients",
+                "Transport of water and minerals from roots",
                 "Exchange of gases and transpiration",
-                "Providing structural hardness and stiffness",
-                "Transport of water and minerals from roots"
+                "Storage of water and food nutrients",
+                "Providing structural hardness and stiffness"
             ],
             "correctAnswer": 1,
             "explanation": "According to NCERT, stomata are essential for gaseous exchange (such as carbon dioxide and oxygen intake/release) during photosynthesis and respiration, as well as for the process of transpiration in plants."
@@ -285,9 +285,9 @@
             "id": 24,
             "question": "Epidermal cells of which plant part commonly bear long hair-like structures that greatly increase the total surface area for absorption of water?",
             "options": [
-                "Leaves",
-                "Roots",
                 "Stem",
+                "Roots",
+                "Leaves",
                 "Flowers"
             ],
             "correctAnswer": 1,
@@ -298,33 +298,33 @@
             "question": "Which of the following chemical substances found in the cells of cork has waterproof qualities that prevent gas and water loss?",
             "options": [
                 "Lignin",
-                "Cutin",
                 "Suberin",
-                "Pectin"
+                "Pectin",
+                "Cutin"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "According to NCERT, the walls of cork cells are coated with a chemical substance called suberin, which makes them impervious to gases and water, giving them waterproof qualities for protection."
         },
         {
             "id": 26,
             "question": "Why is cutin (a thick waxy coating) present in desert plants?",
             "options": [
-                "To facilitate rapid gaseous exchange and respiration",
-                "To provide mechanical support and structural stiffness",
                 "To prevent excessive water loss due to evaporation",
-                "To store minerals and nutrients in dry soil"
+                "To store minerals and nutrients in dry soil",
+                "To provide mechanical support and structural stiffness",
+                "To facilitate rapid gaseous exchange and respiration"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, desert plants have a thick waxy coating of cutin on their epidermis to prevent excessive water loss through transpiration, which is crucial for survival in dry environments."
         },
         {
             "id": 27,
             "question": "What is the main function of cork in plants?",
             "options": [
-                "To transport water and minerals from roots to leaves",
+                "To increase the length and height of the plant stem",
                 "To act as a protective layer preventing water loss, mechanical injury, and infection",
-                "To perform photosynthesis and store food nutrients",
-                "To increase the length and height of the plant stem"
+                "To transport water and minerals from roots to leaves",
+                "To perform photosynthesis and store food nutrients"
             ],
             "correctAnswer": 1,
             "explanation": "According to NCERT, cork cells are dead with walls coated in suberin, acting as a protective outer layer that prevents excessive water loss, mechanical injury, and infection in older stems and roots."
@@ -334,23 +334,23 @@
             "question": "The substance present in the cell walls of cork that makes them impervious to gases and water is called:",
             "options": [
                 "Lignin",
+                "Pectin",
                 "Cutin",
-                "Suberin",
-                "Pectin"
+                "Suberin"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, the cell walls of cork are coated with a chemical substance called suberin, which makes them impervious to gases and water."
         },
         {
             "id": 29,
             "question": "Tissues which are made up of same type of cells are called",
             "options": [
-                "Complex tissues",
                 "Meristematic tissues",
-                "Simple tissues",
-                "Vascular tissues"
+                "Vascular tissues",
+                "Complex tissues",
+                "Simple tissues"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, simple tissues are composed of only one type of cells that look alike and work together to perform a common function."
         },
         {
@@ -358,21 +358,21 @@
             "question": "Tissues which are made up of more than one type of cells are called",
             "options": [
                 "Simple permanent tissues",
+                "Protective tissues",
                 "Meristematic tissues",
-                "Complex permanent tissues",
-                "Protective tissues"
+                "Complex permanent tissues"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, complex permanent tissues are made up of more than one type of cells, where all these cells coordinate to perform a common function (such as the conduction of water, minerals, and food)."
         },
         {
             "id": 31,
             "question": "Which of the following are examples of complex permanent tissue?",
             "options": [
-                "Parenchyma and Collenchyma",
+                "Epidermis and Cork",
                 "Xylem and Phloem",
                 "Apical and Intercalary meristem",
-                "Epidermis and Cork"
+                "Parenchyma and Collenchyma"
             ],
             "correctAnswer": 1,
             "explanation": "According to NCERT, complex permanent tissues are made up of more than one type of cell that coordinate to perform a common function. Xylem and Phloem are the primary examples of complex permanent tissues in plants, responsible for the transport of water, minerals, and food."
@@ -381,24 +381,24 @@
             "id": 32,
             "question": "Which of the following are the components or types of cells that make up xylem tissue?",
             "options": [
-                "Tracheids, vessels, xylem parenchyma, and xylem fibres",
                 "Sieve tubes, companion cells, phloem parenchyma, and phloem fibres",
-                "Parenchyma, collenchyma, and sclerenchyma",
-                "Apical, lateral, and intercalary meristems"
+                "Tracheids, vessels, xylem parenchyma, and xylem fibres",
+                "Apical, lateral, and intercalary meristems",
+                "Parenchyma, collenchyma, and sclerenchyma"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "According to NCERT, xylem is a complex permanent tissue composed of four types of elements: tracheids, vessels, xylem parenchyma, and xylem fibres. Except for xylem parenchyma, most of these cells are dead and they work together to transport water and minerals vertically from roots to other parts of the plant."
         },
         {
             "id": 33,
             "question": "Which component of the xylem tissue helps in storing food?",
             "options": [
+                "Xylem fibres",
                 "Tracheids",
                 "Vessels",
-                "Xylem parenchyma",
-                "Xylem fibres"
+                "Xylem parenchyma"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, xylem parenchyma consists of living cells whose main functions are to store food (such as starch or fat) and assist in the lateral conduction of water."
         },
         {
@@ -406,8 +406,8 @@
             "question": "Which component of the xylem tissue is mainly supportive in function?",
             "options": [
                 "Tracheids",
-                "Vessels",
                 "Xylem parenchyma",
+                "Vessels",
                 "Xylem fibres"
             ],
             "correctAnswer": 3,
@@ -418,44 +418,44 @@
             "question": "Which of the following xylem components are tubular structures with thick walls and are dead at maturity, primarily responsible for conducting water and minerals?",
             "options": [
                 "Xylem parenchyma",
-                "Tracheids and vessels",
                 "Xylem fibres",
-                "Phloem sieve tubes"
+                "Phloem sieve tubes",
+                "Tracheids and vessels"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, tracheids and vessels are tubular structures with thick, lignified walls that are dead at maturity, which allows them to efficiently transport water and minerals vertically through the plant."
         },
         {
             "id": 36,
             "question": "In angiosperms, phloem is a complex permanent tissue made up of how many main types of elements, and what are they?",
             "options": [
-                "Four types: Tracheids, vessels, xylem parenchyma, and xylem fibres",
                 "Four types: Sieve tubes, companion cells, phloem parenchyma, and phloem fibres",
                 "Five types: Sieve tubes, companion cells, phloem parenchyma, phloem fibres, and sieve cells",
+                "Four types: Tracheids, vessels, xylem parenchyma, and xylem fibres",
                 "Three types: Parenchyma, collenchyma, and sclerenchyma"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, phloem is a complex permanent tissue composed of four main types of elements in angiosperms: sieve tubes, companion cells, phloem parenchyma, and phloem fibres. (Note: While sieve elements include sieve tubes and sieve cells across different plant groups, angiosperm phloem specifically comprises these four primary components)."
         },
         {
             "id": 37,
             "question": "Which component of phloem tissue consists of tubular cells with perforated walls?",
             "options": [
-                "Companion cells",
-                "Sieve tubes",
                 "Phloem parenchyma",
-                "Phloem fibres"
+                "Phloem fibres",
+                "Companion cells",
+                "Sieve tubes"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, sieve tubes are tubular cells with perforated walls (known as sieve plates) that are responsible for the transport of food in plants."
         },
         {
             "id": 38,
             "question": "Except for which phloem component are all other phloem elements living cells?",
             "options": [
+                "Phloem parenchyma",
                 "Sieve tubes",
                 "Companion cells",
-                "Phloem parenchyma",
                 "Phloem fibres"
             ],
             "correctAnswer": 3,
@@ -467,8 +467,8 @@
             "options": [
                 "Xylem",
                 "Phloem",
-                "Meristematic tissue",
-                "Collenchyma"
+                "Collenchyma",
+                "Meristematic tissue"
             ],
             "correctAnswer": 1,
             "explanation": "According to NCERT, phloem is the complex permanent tissue responsible for transporting food from the leaves to other parts of the plant."
@@ -478,11 +478,11 @@
             "question": "Which of the following tissue helps in transporting water and minerals from the roots to the rest of the plant?",
             "options": [
                 "Phloem",
-                "Xylem",
+                "Collenchyma",
                 "Parenchyma",
-                "Collenchyma"
+                "Xylem"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, xylem is the complex permanent tissue responsible for the upward transport of water and minerals from the roots to the leaves and other parts of the plant."
         },
         {
@@ -490,143 +490,143 @@
             "question": "Which of the following are the four major types of animal tissues?",
             "options": [
                 "Meristematic, Permanent, Xylem, and Phloem",
-                "Epithelial, Connective, Muscular, and Nervous",
                 "Simple, Complex, Protective, and Secretory",
-                "Squamous, Cuboidal, Columnar, and Glandular"
+                "Squamous, Cuboidal, Columnar, and Glandular",
+                "Epithelial, Connective, Muscular, and Nervous"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, animal tissues are broadly classified into four main types: epithelial tissue, connective tissue, muscular tissue, and nervous tissue, each specialized for specific functions in the body."
         },
         {
             "id": 42,
             "question": "The covering and protective tissues in the animal body are called:",
             "options": [
-                "Connective tissue",
-                "Muscular tissue",
+                "Nervous tissue",
                 "Epithelial tissue",
-                "Nervous tissue"
+                "Muscular tissue",
+                "Connective tissue"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "According to NCERT, epithelial tissue acts as the covering or protective tissue in most organs and cavities within the animal body, forming a barrier to keep different body systems separate."
         },
         {
             "id": 43,
             "question": "The simple flat kind of epithelium found in cells lining blood vessels or lung alveoli where transportation of substances occurs through a selectively permeable surface is called:",
             "options": [
-                "Cuboidal epithelium",
-                "Columnar epithelium",
                 "Squamous epithelium",
-                "Ciliated epithelium"
+                "Ciliated epithelium",
+                "Cuboidal epithelium",
+                "Columnar epithelium"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, squamous epithelium consists of extremely thin and flat cells that form a delicate lining, found in places like the lining of blood vessels and lung alveoli where substances selectively pass across a permeable surface."
         },
         {
             "id": 44,
             "question": "What does the Latin word 'squama', from which squamous epithelium derives its name, mean?",
             "options": [
-                "Cube",
                 "Scale",
-                "Tube",
-                "Pillar"
+                "Pillar",
+                "Cube",
+                "Tube"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "According to anatomical terminology, 'squama' is a Latin word meaning 'scale', which describes the extremely thin, flat, plate-like structure of squamous epithelial cells resembling fish scales."
         },
         {
             "id": 45,
             "question": "When squamous epithelial cells are arranged in a pattern of layers (multi-layered) to protect against wear and tear, the epithelium is called:",
             "options": [
+                "Ciliated epithelium",
                 "Simple squamous epithelium",
-                "Stratified squamous epithelium",
                 "Cuboidal epithelium",
-                "Ciliated epithelium"
+                "Stratified squamous epithelium"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, when squamous cells are arranged in many layers to protect against wear and tear and mechanical stress (such as in the skin), the tissue is called stratified squamous epithelium (or compound epithelium)."
         },
         {
             "id": 46,
             "question": "Where absorption and secretion occur, such as in the inner lining of the intestine, tall and pillar-like epithelial cells are present. These are called:",
             "options": [
-                "Squamous epithelium",
                 "Cuboidal epithelium",
-                "Columnar epithelium",
-                "Stratified squamous epithelium"
+                "Squamous epithelium",
+                "Stratified squamous epithelium",
+                "Columnar epithelium"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, columnar epithelium consists of tall, pillar-like cells that line areas like the inner lining of the intestine, where they facilitate absorption and secretion."
         },
         {
             "id": 47,
             "question": "If columnar epithelial cells bear hair-like projections called cilia on their outer surface, what is this type of tissue called?",
             "options": [
-                "Squamous epithelium",
                 "Cuboidal epithelium",
                 "Ciliated epithelium",
-                "Stratified epithelium"
+                "Stratified epithelium",
+                "Squamous epithelium"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "According to NCERT, if columnar or cuboidal epithelial cells possess cilia (hair-like projections) on their free surfaces, the tissue is called ciliated epithelium. These cilia can move, and their rhythmic movement pushes mucus or other substances forward (such as in the respiratory tract)."
         },
         {
             "id": 48,
             "question": "The hair-like structures present on the outer surface of columnar or cuboidal epithelial cells are called:",
             "options": [
-                "Flagella",
-                "Cilia",
                 "Microvilli",
-                "Villi"
+                "Flagella",
+                "Villi",
+                "Cilia"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, the hair-like projections present on the free surface of columnar or cuboidal epithelial cells are called cilia, which function to rhythmically move mucus or other substances forward across the epithelial surface."
         },
         {
             "id": 49,
             "question": "The epithelial tissue consisting of cube-like cells that forms the lining of kidney tubules and ducts of salivary glands, aiding in secretion and absorption, is called:",
             "options": [
+                "Columnar epithelium",
                 "Squamous epithelium",
                 "Cuboidal epithelium",
-                "Columnar epithelium",
                 "Ciliated epithelium"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "According to NCERT, cuboidal epithelium is composed of cube-like cells that look like squares in section, forming the lining of kidney tubules and ducts of salivary glands to provide mechanical support and help in secretion and absorption."
         },
         {
             "id": 50,
             "question": "Which of the following is an example of a connective tissue?",
             "options": [
-                "Squamous epithelium",
-                "Blood",
+                "Neuron",
                 "Cardiac muscle",
-                "Neuron"
+                "Squamous epithelium",
+                "Blood"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, connective tissues are specialized to bind, support, and pack together other tissues or organs of the body. Blood is classified as a fluid connective tissue, consisting of a fluid matrix (plasma) with suspended red blood cells, white blood cells, and platelets."
         },
         {
             "id": 51,
             "question": "Blood is a type of connective tissue that has a fluid matrix called:",
             "options": [
-                "Lymph",
-                "Plasma",
+                "Cytoplasm",
                 "Serum",
-                "Cytoplasm"
+                "Lymph",
+                "Plasma"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, blood is a fluid connective tissue consisting of a fluid matrix known as plasma, in which red blood cells (RBCs), white blood cells (WBCs), and platelets are suspended."
         },
         {
             "id": 52,
             "question": "According to NCERT, blood plasma has various components suspended in it. Which of the following is NOT suspended in blood plasma?",
             "options": [
-                "Red Blood Cells (RBCs)",
-                "White Blood Cells (WBCs)",
                 "Platelets",
-                "Neuron cells"
+                "White Blood Cells (WBCs)",
+                "Neuron cells",
+                "Red Blood Cells (RBCs)"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 2,
             "explanation": "According to NCERT, blood is a fluid connective tissue where red blood cells (RBCs), white blood cells (WBCs), and platelets are suspended in plasma. Neuron cells belong to nervous tissue, not blood."
         },
         {
@@ -634,9 +634,9 @@
             "question": "Besides blood cells and platelets, what does blood plasma contain dissolved in it?",
             "options": [
                 "Proteins, salts, and hormones",
+                "Starch and cellulose",
                 "Only oxygen and carbon dioxide",
-                "Neurons and muscle fibers",
-                "Starch and cellulose"
+                "Neurons and muscle fibers"
             ],
             "correctAnswer": 0,
             "explanation": "According to NCERT, blood plasma is a fluid matrix that contains proteins, salts, and hormones dissolved in it, along with suspended red blood cells, white blood cells, and platelets."
@@ -647,8 +647,8 @@
             "options": [
                 "Gases, digested food, hormones, and waste materials",
                 "Only oxygen and carbon dioxide",
-                "Only water and mineral salts",
-                "Nerve impulses and electrical signals"
+                "Nerve impulses and electrical signals",
+                "Only water and mineral salts"
             ],
             "correctAnswer": 0,
             "explanation": "According to NCERT, blood is a fluid connective tissue that flows and transports gases (like oxygen and carbon dioxide), digested food, hormones, and waste materials to and from different parts of the body."
@@ -659,8 +659,8 @@
             "options": [
                 "Red Body Corpuscle",
                 "Red Blood Cell",
-                "Rapid Blood Count",
-                "Respiration Blood Cell"
+                "Respiration Blood Cell",
+                "Rapid Blood Count"
             ],
             "correctAnswer": 1,
             "explanation": "According to NCERT and general biological terminology, RBC stands for Red Blood Cell (also referred to as a red blood corpuscle), which contains hemoglobin and is primarily responsible for transporting oxygen from the lungs to body tissues."
@@ -669,46 +669,46 @@
             "id": 56,
             "question": "What is the full form of WBC?",
             "options": [
-                "White Blood Cell",
                 "Water Borne Cell",
-                "White Bio Component",
-                "Whole Body Cell"
+                "White Blood Cell",
+                "Whole Body Cell",
+                "White Bio Component"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "According to NCERT and general biological terminology, WBC stands for White Blood Cell (or white blood corpuscle), which plays a crucial role in the body's immune defense system by fighting off infections."
         },
         {
             "id": 57,
             "question": "Bone is an example of which major type of animal tissue?",
             "options": [
-                "Epithelial tissue",
                 "Connective tissue",
-                "Muscular tissue",
-                "Nervous tissue"
+                "Epithelial tissue",
+                "Nervous tissue",
+                "Muscular tissue"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, bone is a strong, non-flexible type of connective tissue that forms the skeletal framework supporting the main organs and body structure."
         },
         {
             "id": 58,
             "question": "Bone cells are embedded in a hard matrix that is composed of:",
             "options": [
-                "Sodium and potassium salts",
                 "Calcium and phosphorus compounds",
+                "Chloride and sulfur compounds",
                 "Iron and magnesium elements",
-                "Chloride and sulfur compounds"
+                "Sodium and potassium salts"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, bone is a strong and non-flexible connective tissue whose cells are embedded in a rigid, hard matrix composed of calcium and phosphorus compounds, providing structural framework and support to the body."
         },
         {
             "id": 59,
             "question": "Two bones are connected to each other by another type of connective tissue called:",
             "options": [
-                "Tendon",
-                "Ligament",
                 "Cartilage",
-                "Adipose tissue"
+                "Ligament",
+                "Adipose tissue",
+                "Tendon"
             ],
             "correctAnswer": 1,
             "explanation": "According to NCERT, ligaments are strong and elastic connective tissues that connect two bones to each other, providing strength and stability to joints."
@@ -717,36 +717,36 @@
             "id": 60,
             "question": "Which fibrous connective tissue connects skeletal muscles to bones to enable body movement?",
             "options": [
-                "Ligament",
-                "Tendon",
+                "Adipose tissue",
                 "Cartilage",
-                "Adipose tissue"
+                "Tendon",
+                "Ligament"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "According to NCERT, tendons are tough, inelastic dense connective tissues that connect muscles to bones (note that ligaments connect bone to bone, rather than muscle to muscle)."
         },
         {
             "id": 61,
             "question": "A type of connective tissue that has widely spaced cells in a solid matrix, can bend, and is present in the tip of the nose, outer ear, trachea, and joints is called:",
             "options": [
-                "Ligament",
-                "Tendon",
                 "Cartilage",
-                "Bone"
+                "Bone",
+                "Ligament",
+                "Tendon"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, cartilage has widely spaced cells and a solid matrix composed of proteins and sugars. It smoothens bone surfaces at joints and is found in the nose, ear, trachea, and larynx to provide flexibility and support."
         },
         {
             "id": 62,
             "question": "The connective tissue that helps in the repair of tissues and is found between the skin and muscles, around blood vessels and nerves, and in the bone marrow is called:",
             "options": [
-                "Adipose tissue",
-                "Areolar tissue",
                 "Cartilage",
-                "Tendon"
+                "Tendon",
+                "Adipose tissue",
+                "Areolar tissue"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, areolar connective tissue is found between the skin and muscles, around blood vessels and nerves, and in the bone marrow. It fills the space inside organs, supports internal organs, and helps in the repair of tissues."
         },
         {
@@ -754,35 +754,35 @@
             "question": "The tissue that is present below the skin and between internal organs and specializes in storing fat is called:",
             "options": [
                 "Areolar tissue",
+                "Cartilage",
                 "Adipose tissue",
-                "Tendon",
-                "Cartilage"
+                "Tendon"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "According to NCERT, adipose tissue is found below the skin and between internal organs. The cells of this tissue are filled with fat globules, and it serves as a fat reservoir and acts as an insulator."
         },
         {
             "id": 64,
             "question": "Which tissue is responsible for movements in our body?",
             "options": [
+                "Nervous tissue",
                 "Epithelial tissue",
                 "Muscular tissue",
-                "Connective tissue",
-                "Nervous tissue"
+                "Connective tissue"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "According to NCERT, muscular tissue consists of elongated cells called muscle fibers and is responsible for all movements in our body."
         },
         {
             "id": 65,
             "question": "Muscles contain special proteins that contract and relax to cause movement, known as:",
             "options": [
-                "Hemoglobin and insulin",
                 "Contractile proteins",
+                "Antibodies and enzymes",
                 "Keratin and collagen",
-                "Antibodies and enzymes"
+                "Hemoglobin and insulin"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, muscle tissue contains special proteins called contractile proteins, which contract and relax to cause movement."
         },
         {
@@ -790,21 +790,21 @@
             "question": "Which of the following best defines voluntary muscles?",
             "options": [
                 "Muscles that function automatically without our conscious control",
-                "Muscles that can be moved according to our conscious will",
                 "Muscles found exclusively in the walls of internal visceral organs",
-                "Muscles that lack striations and are under involuntary control"
+                "Muscles that lack striations and are under involuntary control",
+                "Muscles that can be moved according to our conscious will"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "According to NCERT, muscles that can be moved according to our will are called voluntary muscles. Most of these are skeletal muscles attached to bones and help in body movements."
         },
         {
             "id": 67,
             "question": "Which of the following best defines involuntary muscles?",
             "options": [
-                "Muscles that can be consciously moved whenever we choose",
-                "Muscles that function automatically and cannot be moved directly by our conscious will",
                 "Muscles that are exclusively attached to skeletal bones",
-                "Muscles that only contract when stimulated by conscious thought"
+                "Muscles that function automatically and cannot be moved directly by our conscious will",
+                "Muscles that only contract when stimulated by conscious thought",
+                "Muscles that can be consciously moved whenever we choose"
             ],
             "correctAnswer": 1,
             "explanation": "According to NCERT, involuntary muscles function automatically and cannot be moved according to our conscious will. They are found in visceral organs such as the alimentary canal, blood vessels, and the iris of the eye."
@@ -813,36 +813,36 @@
             "id": 68,
             "question": "Which type of muscular tissue is also commonly referred to as skeletal muscle?",
             "options": [
+                "Cardiac muscle",
                 "Smooth muscle",
                 "Striated muscle",
-                "Cardiac muscle",
                 "Involuntary muscle"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "According to NCERT, striated muscles are also called skeletal muscles because most of them are closely attached to bones and are responsible for body movements."
         },
         {
             "id": 69,
             "question": "Which of the following muscle types are long, cylindrical, unbranched, multinucleated, and show alternate light and dark bands (striations)?",
             "options": [
+                "Cardiac muscles",
                 "Smooth muscles",
                 "Striated muscles (Skeletal muscles)",
-                "Cardiac muscles",
                 "Uninucleated visceral muscles"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "According to NCERT, striated muscles (also known as skeletal or voluntary muscles) are made up of long, cylindrical, unbranched, and multinucleate cells that exhibit alternate light and dark bands or striations."
         },
         {
             "id": 70,
             "question": "Involuntary muscles (other than cardiac muscles) are also commonly referred to as:",
             "options": [
+                "Smooth muscles (or unstriated muscles)",
                 "Skeletal muscles",
                 "Striated muscles",
-                "Smooth muscles (or unstriated muscles)",
                 "Voluntary muscles"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "According to NCERT, involuntary muscles that lack striations are called smooth muscles or unstriated muscles. They are found in the walls of internal organs such as the stomach, intestine, and blood vessels."
         },
         {
@@ -850,9 +850,9 @@
             "question": "The involuntary muscles found in the heart that show rhythmic contraction and relaxation throughout life are called:",
             "options": [
                 "Skeletal muscles",
-                "Smooth muscles",
+                "Areolar muscles",
                 "Cardiac muscles",
-                "Areolar muscles"
+                "Smooth muscles"
             ],
             "correctAnswer": 2,
             "explanation": "According to NCERT, the muscles of the heart exhibit rhythmic contraction and relaxation throughout life and are known as cardiac muscles. They are involuntary, cylindrical, branched, and uninucleated."
@@ -861,48 +861,48 @@
             "id": 72,
             "question": "The electrical or electrochemical signal that passes along a nerve fiber is called:",
             "options": [
-                "Nerve impulse",
                 "Muscle twitch",
                 "Plasma wave",
+                "Nerve impulse",
                 "Axon reflex"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 2,
             "explanation": "According to NCERT, cells of the nervous tissue are called neurons. Each neuron has a cell body, a nucleus, cytoplasm, dendrites, and a long axon. The signal that passes along a nerve fiber is called a nerve impulse, which enables us to move our muscles and respond to stimuli."
         },
         {
             "id": 73,
             "question": "The specialized cells of the nervous tissue responsible for being stimulated and transmitting the stimulus very rapidly from one place to another within the body are called:",
             "options": [
-                "Neurons (Nerve cells)",
                 "Muscle fibers",
-                "Chondrocytes",
-                "Osteocytes"
+                "Neurons (Nerve cells)",
+                "Osteocytes",
+                "Chondrocytes"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "According to NCERT, the cells of nervous tissue are called neurons. They are highly specialized for being stimulated and then transmitting the stimulus very rapidly from one place to another within the body."
         },
         {
             "id": 74,
             "question": "The individual cells that make up the nervous tissue are called:",
             "options": [
+                "Chondrocytes",
                 "Nephrons",
                 "Neurons",
-                "Chondrocytes",
                 "Osteocytes"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "According to NCERT, the cells of the nervous tissue are called neurons. They consist of a cell body (cyton) with a nucleus and cytoplasm, short branching parts called dendrites, and a long process called an axon."
         },
         {
             "id": 75,
             "question": "What is the main function of the axon in a neuron?",
             "options": [
+                "To provide physical insulation and structural support to the cell body",
                 "To transmit nerve impulses away from the cell body to other neurons, muscles, or glands",
                 "To receive chemical signals and impulses from neighboring dendrites",
-                "To synthesize proteins and store the main cellular genetic material",
-                "To provide physical insulation and structural support to the cell body"
+                "To synthesize proteins and store the main cellular genetic material"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "According to NCERT, the axon is a long, fiber-like process of a neuron responsible for transmitting nerve impulses (electrical signals) away from the cell body to other neurons or effector organs like muscles."
         },
         {
@@ -911,8 +911,8 @@
             "options": [
                 "To transmit nerve impulses away from the cell body to effector organs",
                 "To receive nerve impulses or signals from other neurons and convey them toward the cell body",
-                "To insulate the axon and speed up electrical transmission",
-                "To synthesize structural proteins for muscle contraction"
+                "To synthesize structural proteins for muscle contraction",
+                "To insulate the axon and speed up electrical transmission"
             ],
             "correctAnswer": 1,
             "explanation": "According to NCERT, dendrites are the short, branching cytoplasmic extensions of a neuron that receive chemical or electrical signals from other neurons or sensory receptors and transmit them toward the cell body."
@@ -921,10 +921,10 @@
             "id": 77,
             "question": "What is the main function of nerve endings (axon terminals) in a neuron?",
             "options": [
-                "To receive incoming signals directly from neighboring dendrites",
-                "To pass the nerve impulse across a synapse to the next neuron, muscle, or gland",
                 "To provide a rigid physical coating and structural insulation to the axon",
-                "To synthesize and store all the genetic material of the nerve cell"
+                "To pass the nerve impulse across a synapse to the next neuron, muscle, or gland",
+                "To synthesize and store all the genetic material of the nerve cell",
+                "To receive incoming signals directly from neighboring dendrites"
             ],
             "correctAnswer": 1,
             "explanation": "According to NCERT and neurobiology principles, nerve endings are the terminal branches of an axon that release chemical neurotransmitters to pass the nerve impulse across a synapse to another neuron or an effector organ like a muscle or gland."
@@ -933,10 +933,10 @@
             "id": 78,
             "question": "How is glandular epithelium formed from basic epithelial tissues like cuboidal or columnar epithelium?",
             "options": [
-                "By shedding layers of dead cells to form a protective barrier",
+                "By losing all cellular nuclei and hardening with calcium and phosphorus",
                 "By a portion of the epithelial tissue folding inward to form a multicellular gland specialized for secretion",
                 "By transforming permanently into muscular tissue for rhythmic contractions",
-                "By losing all cellular nuclei and hardening with calcium and phosphorus"
+                "By shedding layers of dead cells to form a protective barrier"
             ],
             "correctAnswer": 1,
             "explanation": "According to NCERT, sometimes a portion of epithelial tissue (such as cuboidal or columnar epithelium) folds inward, forming a multicellular gland that secretes substances, which is referred to as glandular epithelium."
