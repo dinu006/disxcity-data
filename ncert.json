@@ -100,7 +100,12 @@
           "file": "NCERT/Class-IX/English/2026/Science/Matter-In-Our-Surroundings.json"
         },
         {
-          "name": "Work And Energy"
+          "name": "Work And Energy",
+          "file": "NCERT/Class-IX/English/2026/Science/Work-And-Energy.json"
+        },
+        {
+          "name": "Tissues",
+          "file": "NCERT/Class-IX/English/2026/Science/Tissues.json"
         }
       ]
     },
