@@ -1,0 +1,287 @@
+{
+    "chapter": "Work And Energy",
+    "class": "Class-IX",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        
+        {
+    "id": 1,
+    "question": "What are the two conditions that should be satisfied so that we can say work is done?",
+    "options": [
+        "A force should act on the object and the object must be displaced.",
+        "Only a force should act on the object, regardless of displacement.",
+        "Only displacement must occur, without any force acting.",
+        "The object must gain acceleration without any external force."
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT physics, two conditions need to be satisfied for work to be done: (1) a force must act on the object, and (2) the object must be displaced."
+},
+{
+    "id": 2,
+    "question": "Work done is equal to",
+    "options": [
+        "Product of force and displacement",
+        "Product of mass and acceleration",
+        "Product of power and time",
+        "Product of force and velocity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, work done by a constant force is defined as the product of the magnitude of the force and the displacement of the object in the direction of the force (W = F × s)."
+},
+{
+    "id": 3,
+    "question": "Work is a vector quantity or scalar quantity?",
+    "options": [
+        "Vector quantity",
+        "Scalar quantity",
+        "Tensor quantity",
+        "Dimensionless quantity"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to NCERT, work is a scalar quantity. Although it involves two vector quantities (force and displacement), work has only magnitude and no direction because it is defined as the scalar product (dot product) of force and displacement."
+},
+{
+    "id": 4,
+    "question": "What is the SI unit of work?",
+    "options": [
+        "Watt",
+        "Joule",
+        "Newton",
+        "Pascal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to NCERT, the SI unit of work is the joule (J). One joule is defined as the amount of work done on an object when a force of 1 newton displaces it by 1 metre along the line of action of the force."
+},
+{
+    "id": 5,
+    "question": "One Newton meter is equal to",
+    "options": [
+        "1 Joule",
+        "1 Watt",
+        "1 Pascal",
+        "1 Erg"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, 1 newton meter (N m) is equal to 1 joule (J), because work done is measured in joules when a force of 1 newton displaces an object by 1 metre (1 J = 1 N × 1 m)."
+},
+{
+    "id": 6,
+    "question": "What is the SI unit of force?",
+    "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to NCERT, the SI unit of force is the newton (N), named in honor of Sir Isaac Newton."
+},
+{
+    "id": 7,
+    "question": "The work done by an object or force can be",
+    "options": [
+        "Positive, negative, or zero",
+        "Only positive",
+        "Only negative",
+        "Always zero"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, work done can be positive (when force and displacement are in the same direction), negative (when force and displacement are in opposite directions), or zero (when force and displacement are perpendicular to each other or there is no displacement)."
+},
+{
+    "id": 8,
+    "question": "The capability of doing work is said to possess",
+    "options": [
+        "Power",
+        "Energy",
+        "Momentum",
+        "Force"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to NCERT, an object having the capability to do work is said to possess energy. The energy possessed by an object is measured in terms of its capacity of doing work, and its unit is the same as that of work (joule)."
+},
+{
+    "id": 9,
+    "question": "The SI unit of energy is",
+    "options": [
+        "Watt",
+        "Joule",
+        "Newton",
+        "Pascal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to NCERT, energy is the capacity to do work, so its SI unit is the same as that of work, which is the joule (J)."
+},
+{
+    "id": 10,
+    "question": "Mechanical energy is the sum of which two energies?",
+    "options": [
+        "Kinetic energy and potential energy",
+        "Chemical energy and thermal energy",
+        "Electrical energy and magnetic energy",
+        "Solar energy and nuclear energy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, the mechanical energy of an object is the sum of its kinetic energy and potential energy."
+},
+{
+    "id": 11,
+    "question": "Which British physicist is known for his research in electricity and thermodynamics, and formulated the law for the heating effect of electric current?",
+    "options": [
+        "James Prescott Joule",
+        "Sir Isaac Newton",
+        "James Watt",
+        "Michael Faraday"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, James Prescott Joule was a British physicist best known for his research in electricity and thermodynamics, who formulated Joule's law of heating (the SI unit of work and energy, the joule, is named after him)."
+},
+{
+    "id": 12,
+    "question": "After which scientist is the unit of work and energy, the joule, named?",
+    "options": [
+        "James Prescott Joule",
+        "Sir Isaac Newton",
+        "James Watt",
+        "Albert Einstein"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, the SI unit of work and energy (the joule) is named in honor of the British physicist James Prescott Joule."
+},
+{
+    "id": 13,
+    "question": "The energy possessed by a body due to its motion is called",
+    "options": [
+        "Kinetic energy",
+        "Potential energy",
+        "Chemical energy",
+        "Thermal energy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, the energy possessed by an object due to its motion is called kinetic energy (for example, a moving car, a falling coconut, or a running athlete possesses kinetic energy)."
+},
+{
+    "id": 14,
+    "question": "The kinetic energy possessed by an object of mass m and moving with a uniform velocity of v is given as",
+    "options": [
+        "1/2 mv²",
+        "mgh",
+        "mv",
+        "1/2 mv"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, the kinetic energy (Ek) possessed by an object of mass m and moving with a uniform velocity v is given by the formula Ek = 1/2 mv²."
+},
+{
+    "id": 15,
+    "question": "The energy possessed by an object because of its position or shape (state) is called",
+    "options": [
+        "Potential energy",
+        "Kinetic energy",
+        "Chemical energy",
+        "Thermal energy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, the energy stored or possessed by an object due to its change in position or shape (state) is called potential energy."
+},
+{
+    "id": 16,
+    "question": "What is the gravitational potential energy of an object of mass 'm' at a height 'h' above the ground?",
+    "options": [
+        "mgh",
+        "1/2 mv²",
+        "mgh²",
+        "1/2 mgh"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, the gravitational potential energy (Ep) of an object at a height above the ground is defined as the work done in raising it from the ground to that height against gravity, and it is given by the formula Ep = mgh."
+},
+{
+    "id": 17,
+    "question": "The gravitational potential energy of an object of mass m at a height h above the ground is given by the expression:",
+    "options": [
+        "mgh",
+        "1/2 mv²",
+        "mg/h",
+        "mgh²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, the gravitational potential energy of an object at a height h above the ground is the energy stored due to its position, given by the formula Ep = mgh."
+},
+{
+    "id": 18,
+    "question": "Does gravitational potential energy depend on the path taken to lift an object to a certain height?",
+    "options": [
+        "No, it depends only on the initial and final vertical height.",
+        "Yes, a longer path stores more potential energy.",
+        "Yes, it depends on the total distance covered along the path.",
+        "No, it depends only on the velocity and acceleration of the object."
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, gravitational potential energy depends only on the initial and final height of the object (vertical displacement) and is completely independent of the path taken to lift it up."
+},
+{
+    "id": 19,
+    "question": "What does the law of conservation of energy state?",
+    "options": [
+        "Energy can only be created and never destroyed.",
+        "Energy can neither be created nor destroyed; it can only be transformed from one form to another.",
+        "Energy always decreases over time in an isolated system.",
+        "Mechanical energy is always converted into heat energy permanently."
+    ],
+    "correctAnswer": 1,
+    "explanation": "According to NCERT, the law of conservation of energy states that energy can only be converted from one form to another; it can neither be created nor destroyed. The total energy before and after any transformation always remains constant."
+},
+{
+    "id": 20,
+    "question": "Which of the following is the correct definition of power?",
+    "options": [
+        "Rate of doing work or rate of transfer of energy",
+        "Product of force and displacement",
+        "Total mechanical energy in an isolated system",
+        "Ratio of force to time"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, power is defined as the rate of doing work or the rate of transfer of energy. It is measured in watts (W), where 1 watt is the power of an agent that does work at the rate of 1 joule per second."
+},
+{
+    "id": 21,
+    "question": "What is the formula for power (P)?",
+    "options": [
+        "P = W / t",
+        "P = F × s",
+        "P = mgh",
+        "P = 1/2 mv²"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, power (P) is defined as the rate of doing work, and its formula is P = W / t, where W is the work done and t is the time taken."
+},
+{
+    "id": 22,
+    "question": "What is the SI unit of power?",
+    "options": [
+        "Watt",
+        "Joule",
+        "Newton",
+        "Pascal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, the SI unit of power is the watt (W), named in honor of James Watt. One watt is the power of an agent that does work at the rate of 1 joule per second (1 W = 1 J/s)."
+},
+{
+    "id": 23,
+    "question": "In honor of which scientist is the SI unit of power named?",
+    "options": [
+        "James Watt",
+        "James Prescott Joule",
+        "Sir Isaac Newton",
+        "Michael Faraday"
+    ],
+    "correctAnswer": 0,
+    "explanation": "According to NCERT, the SI unit of power, the watt (W), is named in honor of James Watt, who played a key role in the development of the steam engine."
+}
+        
+    ]
+}
