@@ -9,68 +9,68 @@
             "id": 1,
             "question": "Who first discovered and named 'cells' by observing a thin slice of cork under a microscope in 1665?",
             "options": [
-                "Scientist: Robert Brown",
                 "Scientist: Rudolf Virchow",
-                "Scientist: Antonie van Leeuwenhoek",
-                "Scientist: Robert Hooke"
+                "Scientist: Robert Brown",
+                "Scientist: Robert Hooke",
+                "Scientist: Antonie van Leeuwenhoek"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 2,
             "explanation": "Robert Hooke discovered and named cells in 1665 by observing dead plant cell walls in cork. He called them cells, which means 'little rooms'."
         },
         {
             "id": 2,
             "question": "Who discovered free-living living cells (such as bacteria and protozoa) in pond water for the first time in 1674?",
             "options": [
-                "Scientist: Antonie van Leeuwenhoek",
-                "Scientist: Matthias Schleiden",
                 "Scientist: Robert Brown",
-                "Scientist: Robert Hooke"
+                "Scientist: Robert Hooke",
+                "Scientist: Antonie van Leeuwenhoek",
+                "Scientist: Matthias Schleiden"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 2,
             "explanation": "Antonie van Leeuwenhoek discovered free-living cells in pond water for the first time in 1674 using an improved microscope."
         },
         {
             "id": 3,
             "question": "Who discovered the nucleus inside plant cells in the year 1831?",
             "options": [
-                "Scientist: Robert Hooke",
                 "Scientist: Robert Brown",
-                "Scientist: Antonie van Leeuwenhoek",
-                "Scientist: Matthias Schleiden"
+                "Scientist: Robert Hooke",
+                "Scientist: Matthias Schleiden",
+                "Scientist: Antonie van Leeuwenhoek"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "Robert Brown discovered the nucleus inside plant cells in 1831."
         },
         {
             "id": 4,
             "question": "Who used the term 'protoplasm' for the fluid substance of the cell for the first time in 1839?",
             "options": [
-                "Scientist: Jan Evangelista Purkinje",
                 "Scientist: Robert Hooke",
-                "Scientist: Antonie van Leeuwenhoek",
-                "Scientist: Robert Brown"
+                "Scientist: Jan Evangelista Purkinje",
+                "Scientist: Robert Brown",
+                "Scientist: Antonie van Leeuwenhoek"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "The Czech physiologist Jan Evangelista Purkinje coined the term protoplasm in 1839 to describe the living fluid substance of a cell."
         },
         {
             "id": 5,
             "question": "Who presented the initial formulation of the Cell Theory, stating that all plants and animals are composed of cells?",
             "options": [
-                "Scientist: Jan Evangelista Purkinje",
-                "Scientists: Robert Hooke and Antonie van Leeuwenhoek",
                 "Scientists: Matthias Schleiden and Theodor Schwann",
+                "Scientists: Robert Hooke and Antonie van Leeuwenhoek",
+                "Scientist: Jan Evangelista Purkinje",
                 "Scientists: Robert Brown and Rudolf Virchow"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "Matthias Schleiden and Theodor Schwann formulated the cell theory, which states that all living things are made of cells."
         },
         {
             "id": 6,
             "question": "Which of the following is NOT a unicellular organism?",
             "options": [
-                "Paramecium",
                 "Amoeba and Bacteria",
+                "Paramecium",
                 "Chlamydomonas",
                 "Plant"
             ],
@@ -81,22 +81,22 @@
             "id": 7,
             "question": "What best defines a unicellular organism?",
             "options": [
-                "A specialized reproductive cell found in plants",
-                "An organism that can only survive inside another host cell",
                 "An organism composed of many different types of tissues",
-                "An organism consisting of only a single cell that carries out all life processes"
+                "An organism that can only survive inside another host cell",
+                "An organism consisting of only a single cell that carries out all life processes",
+                "A specialized reproductive cell found in plants"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 2,
             "explanation": "A unicellular organism consists of a single cell that performs all vital functions independently."
         },
         {
             "id": 8,
             "question": "What best defines a multicellular organism?",
             "options": [
-                "An organism consisting of only a single cell that performs all functions",
-                "An organism composed of many cells that exhibit specialization and division of labor",
                 "A group of independent single cells living together without any specialization",
-                "A non-cellular infectious particle"
+                "An organism composed of many cells that exhibit specialization and division of labor",
+                "A non-cellular infectious particle",
+                "An organism consisting of only a single cell that performs all functions"
             ],
             "correctAnswer": 1,
             "explanation": "A multicellular organism is composed of many cells that are specialized for different functions, showing division of labor."
@@ -105,36 +105,36 @@
             "id": 9,
             "question": "What enables different cells in a multicellular organism to perform specialized functions?",
             "options": [
+                "Constant uncontrolled cell division",
                 "Division of labor and structural adaptation",
                 "Having multiple nuclei in every cell",
-                "Absence of a plasma membrane",
-                "Constant uncontrolled cell division"
+                "Absence of a plasma membrane"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "In multicellular organisms, cells differentiate and show a division of labor, adopting specialized structures to perform specific tasks efficiently."
         },
         {
             "id": 10,
             "question": "What is the process by which generic cells develop into many different kinds of specialized cells in a multicellular organism?",
             "options": [
-                "Binary fission",
-                "Osmosis",
+                "Simple diffusion",
                 "Cell differentiation",
-                "Simple diffusion"
+                "Binary fission",
+                "Osmosis"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "Cell differentiation is the developmental process through which cells change from one cell type to another, usually to a more specialized type."
         },
         {
             "id": 11,
             "question": "Can a multicellular organism possess different kinds of specialized cells?",
             "options": [
-                "Only organisms that reproduce asexually can have different kinds of cells.",
                 "No, all cells in any organism are completely identical in structure and function.",
                 "No, cell variety only exists in unicellular organisms.",
-                "Yes, multicellular organisms contain many different types of specialized cells tailored for specific functions."
+                "Yes, multicellular organisms contain many different types of specialized cells tailored for specific functions.",
+                "Only organisms that reproduce asexually can have different kinds of cells."
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 2,
             "explanation": "Multicellular organisms are composed of various specialized cell types, such as nerve cells and muscle cells, which undergo differentiation to perform distinct tasks."
         },
         {
@@ -142,21 +142,21 @@
             "question": "What is the correct definition of a cell organelle?",
             "options": [
                 "The fluid matrix that stores only waste products inside a cell.",
+                "The outer protective cell wall found exclusively in bacteria.",
                 "A specialized, membrane-bound structure within a cell that performs a specific function.",
-                "A type of unicellular organism that lives independently.",
-                "The outer protective cell wall found exclusively in bacteria."
+                "A type of unicellular organism that lives independently."
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Cell organelles are specialized structures enclosed within membranes inside a cell that perform distinct, vital functions to keep the cell alive and functioning properly."
         },
         {
             "id": 13,
             "question": "Which of the following is NOT one of the three main parts found in almost every cell?",
             "options": [
-                "Nucleus",
-                "Mitochondria",
                 "Cytoplasm",
-                "Plasma membrane"
+                "Mitochondria",
+                "Plasma membrane",
+                "Nucleus"
             ],
             "correctAnswer": 1,
             "explanation": "Almost every cell consists of three primary parts: the plasma membrane, nucleus, and cytoplasm. Mitochondria is a specialized cell organelle found within the cytoplasm rather than one of the three fundamental structural divisions."
@@ -165,22 +165,22 @@
             "id": 14,
             "question": "What is another common name for the plasma membrane?",
             "options": [
-                "Nuclear envelope",
                 "Cell wall",
                 "Cell membrane",
-                "Tonoplast"
+                "Tonoplast",
+                "Nuclear envelope"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "The plasma membrane is also widely known as the cell membrane, acting as the semi-permeable outer boundary of the cell."
         },
         {
             "id": 15,
             "question": "What is the outermost covering of an animal cell?",
             "options": [
-                "Cell wall",
+                "Chloroplast",
                 "Nuclear membrane",
                 "Plasma membrane",
-                "Chloroplast"
+                "Cell wall"
             ],
             "correctAnswer": 2,
             "explanation": "The plasma membrane serves as the delicate outer covering that separates the cell's interior from its external environment."
@@ -189,9 +189,9 @@
             "id": 16,
             "question": "Which type of membrane permits the entry and exit of only certain materials in and out of the cell?",
             "options": [
+                "Impermeable membrane",
                 "Rigid non-living membrane",
                 "Fully permeable membrane",
-                "Impermeable membrane",
                 "Selectively permeable membrane"
             ],
             "correctAnswer": 3,
@@ -201,82 +201,82 @@
             "id": 17,
             "question": "Which membrane is known as a selectively permeable membrane because it regulates the movement of substances in and out of the cell?",
             "options": [
-                "Tonoplast",
-                "Plasma membrane",
+                "Nuclear membrane",
                 "Cell wall",
-                "Nuclear membrane"
+                "Plasma membrane",
+                "Tonoplast"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "The plasma membrane acts as a selectively permeable barrier, carefully controlling which molecules can enter or leave the cell."
         },
         {
             "id": 18,
             "question": "By which process do small molecules like carbon dioxide and oxygen move across the cell membrane?",
             "options": [
+                "Endocytosis through vesicle formation",
                 "Active transport requiring cellular energy",
-                "Diffusion along a concentration gradient",
                 "Osmosis involving only water molecules",
-                "Endocytosis through vesicle formation"
+                "Diffusion along a concentration gradient"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "Gases like carbon dioxide and oxygen move freely across the cell membrane via diffusion, moving from a region of higher concentration to a region of lower concentration without using energy."
         },
         {
             "id": 19,
             "question": "Which of the following best describes the process of osmosis?",
             "options": [
-                "The movement of water molecules across a selectively permeable membrane from a higher to a lower water concentration",
-                "The active pumping of salt ions against a concentration gradient using cellular energy",
                 "The random movement of solid waste particles out of the cell wall",
-                "The breakdown of complex food molecules into energy inside the mitochondria"
+                "The active pumping of salt ions against a concentration gradient using cellular energy",
+                "The breakdown of complex food molecules into energy inside the mitochondria",
+                "The movement of water molecules across a selectively permeable membrane from a higher to a lower water concentration"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 3,
             "explanation": "Osmosis is the net movement of water molecules through a selectively permeable membrane from a region of higher water concentration to a region of lower water concentration."
         },
         {
             "id": 20,
             "question": "What happens to a cell when it is placed in a hypotonic solution?",
             "options": [
-                "Water molecules move out of the cell, causing it to shrink.",
                 "Water molecules move into the cell via osmosis, causing it to swell.",
-                "There is no movement of water because the concentrations are equal.",
-                "Solutes move out of the cell rapidly without any water movement."
+                "Water molecules move out of the cell, causing it to shrink.",
+                "Solutes move out of the cell rapidly without any water movement.",
+                "There is no movement of water because the concentrations are equal."
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "In a hypotonic solution, the surrounding medium has a lower solute concentration than the cell, causing water to enter the cell through osmosis and lead to swelling."
         },
         {
             "id": 21,
             "question": "What happens to a cell when it is placed in an isotonic solution?",
             "options": [
-                "There is no net movement of water, allowing the cell to maintain its original size and shape.",
                 "Water rushes into the cell, causing it to swell and burst.",
+                "Solutes actively pump out of the cell against the concentration gradient.",
                 "Water leaves the cell rapidly, causing it to shrink and shrivel.",
-                "Solutes actively pump out of the cell against the concentration gradient."
+                "There is no net movement of water, allowing the cell to maintain its original size and shape."
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 3,
             "explanation": "In an isotonic solution, the solute concentration outside the cell equals the concentration inside, resulting in no net movement of water and maintaining the cell's shape."
         },
         {
             "id": 22,
             "question": "What happens to a cell when it is placed in a hypertonic solution?",
             "options": [
-                "There is no net movement of water across the cell membrane.",
-                "The cell remains completely unaffected by the external solution.",
                 "Water molecules move into the cell, causing it to swell and burst.",
-                "Water molecules move out of the cell via osmosis, causing it to shrink or shrivel."
+                "Water molecules move out of the cell via osmosis, causing it to shrink or shrivel.",
+                "The cell remains completely unaffected by the external solution.",
+                "There is no net movement of water across the cell membrane."
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 1,
             "explanation": "In a hypertonic solution, the external medium has a higher solute concentration than the cell interior, causing water to leave the cell through osmosis and resulting in cell shrinkage."
         },
         {
             "id": 23,
             "question": "Which of the following best defines the process of diffusion?",
             "options": [
-                "The active transport of molecules against a concentration gradient requiring cellular energy",
+                "The engulfing of solid food particles by the cell membrane",
                 "The specific movement of water molecules across a selectively permeable membrane",
                 "The spontaneous movement of particles from a region of higher concentration to a region of lower concentration",
-                "The engulfing of solid food particles by the cell membrane"
+                "The active transport of molecules against a concentration gradient requiring cellular energy"
             ],
             "correctAnswer": 2,
             "explanation": "Diffusion is the passive movement of particles from an area of higher concentration to an area of lower concentration down a concentration gradient until equilibrium is reached."
@@ -285,34 +285,34 @@
             "id": 24,
             "question": "Which primary organic molecules make up the structural framework of the plasma membrane?",
             "options": [
-                "Triglycerides and pure glycogen",
                 "Lipids (phospholipids) and proteins",
+                "Nucleic acids and complex starches",
                 "Pure cellulose and rigid chitin",
-                "Nucleic acids and complex starches"
+                "Triglycerides and pure glycogen"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "The plasma membrane is chiefly composed of lipids (specifically a phospholipid bilayer) and proteins, which together provide structure, flexibility, and transport capabilities."
         },
         {
             "id": 25,
             "question": "Which of the following best describes the process of endocytosis?",
             "options": [
-                "The specific movement of water molecules across a selectively permeable membrane down a concentration gradient",
                 "The process by which a cell engulfs external materials by folding its plasma membrane inward to form a vesicle",
-                "The outward release of waste materials and cellular products by fusing vesicles with the plasma membrane",
-                "The passive movement of small non-polar gases like oxygen directly through the lipid bilayer"
+                "The specific movement of water molecules across a selectively permeable membrane down a concentration gradient",
+                "The passive movement of small non-polar gases like oxygen directly through the lipid bilayer",
+                "The outward release of waste materials and cellular products by fusing vesicles with the plasma membrane"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "Endocytosis is an active cellular process where the plasma membrane invaginates to engulf extracellular substances and bring them inside the cell enclosed in a vesicle."
         },
         {
             "id": 26,
             "question": "What is the primary characteristic and function of the cell wall in plant cells?",
             "options": [
+                "A flexible lipid membrane that controls cellular respiration and ATP production.",
                 "A thin, selective barrier that actively regulates molecular entry via endocytosis.",
-                "A fluid-filled internal space responsible for storing waste materials.",
                 "A rigid outer layer primarily made of cellulose that provides structural support and protection.",
-                "A flexible lipid membrane that controls cellular respiration and ATP production."
+                "A fluid-filled internal space responsible for storing waste materials."
             ],
             "correctAnswer": 2,
             "explanation": "The cell wall is a rigid, non-living layer outside the plasma membrane that is rich in cellulose in plants, giving the cell structural strength and shape."
@@ -322,23 +322,23 @@
             "question": "Which of the following structures is absent in human (animal) cells?",
             "options": [
                 "Nucleus",
-                "Mitochondria",
+                "Cell wall",
                 "Plasma membrane",
-                "Cell wall"
+                "Mitochondria"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 1,
             "explanation": "Human cells are animal cells and lack a cell wall; their outermost boundary is the flexible plasma membrane. Plant cells, fungi, and bacteria possess cell walls, but animal cells do not."
         },
         {
             "id": 28,
             "question": "What is the primary chemical substance that plant cell walls are mainly composed of?",
             "options": [
-                "Cellulose",
                 "Glycogen",
+                "Chitin",
                 "Peptidoglycan",
-                "Chitin"
+                "Cellulose"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 3,
             "explanation": "Plant cell walls are primarily composed of cellulose, a complex structural carbohydrate that provides rigidity and mechanical support to the plant."
         },
         {
@@ -346,33 +346,33 @@
             "question": "What happens during the process of plasmolysis in a plant cell?",
             "options": [
                 "The cell swells and bursts due to rapid water entry in a hypotonic medium.",
+                "The rigid cell wall completely dissolves when exposed to an isotonic environment.",
                 "The living content inside the plant cell shrinks away from the cell wall due to water loss in a hypertonic solution.",
-                "Water molecules stop moving across the plasma membrane entirely.",
-                "The rigid cell wall completely dissolves when exposed to an isotonic environment."
+                "Water molecules stop moving across the plasma membrane entirely."
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Plasmolysis occurs when a plant cell loses water by osmosis in a hypertonic solution, causing the protoplasm to shrink away from the rigid cell wall."
         },
         {
             "id": 30,
             "question": "Which of the following best describes a flaccid plant cell?",
             "options": [
-                "A cell whose internal contents have completely shrunk away from the cell wall.",
                 "A cell that has burst open due to excessive water rushing inward.",
-                "A cell that is extremely rigid and firm due to maximum internal water pressure.",
-                "A cell that is limp and lacks firmness because there is no net turgor pressure pushing against the cell wall."
+                "A cell that is limp and lacks firmness because there is no net turgor pressure pushing against the cell wall.",
+                "A cell whose internal contents have completely shrunk away from the cell wall.",
+                "A cell that is extremely rigid and firm due to maximum internal water pressure."
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 1,
             "explanation": "A flaccid cell is limp and soft because it lacks turgor pressure, which happens when water moves in and out at equal rates in an isotonic environment without building up internal pressure against the cell wall."
         },
         {
             "id": 31,
             "question": "What characterizes a turgid plant cell?",
             "options": [
-                "It has completely shrunken away from the cell wall due to water loss.",
-                "It is swollen and firm due to internal pressure pushing against the cell wall.",
                 "It has burst open because it lacks a protective cell wall.",
-                "It is limp and wilting due to an equal rate of water exchange."
+                "It is swollen and firm due to internal pressure pushing against the cell wall.",
+                "It is limp and wilting due to an equal rate of water exchange.",
+                "It has completely shrunken away from the cell wall due to water loss."
             ],
             "correctAnswer": 1,
             "explanation": "A turgid cell is swollen and firm because water has entered via osmosis in a hypotonic environment, creating turgor pressure against the rigid cell wall without bursting the cell."
@@ -381,36 +381,36 @@
             "id": 32,
             "question": "What is the primary function of chloroplasts in plant cells?",
             "options": [
-                "To provide a rigid outer barrier primarily made of cellulose.",
+                "To digest cellular waste and foreign particles using digestive enzymes.",
                 "To act as the central control room storing the cell's genetic material.",
-                "To carry out photosynthesis by capturing light energy to produce food.",
-                "To digest cellular waste and foreign particles using digestive enzymes."
+                "To provide a rigid outer barrier primarily made of cellulose.",
+                "To carry out photosynthesis by capturing light energy to produce food."
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "Chloroplasts contain chlorophyll and serve as the site for photosynthesis, converting solar energy into chemical energy to feed the plant."
         },
         {
             "id": 33,
             "question": "In which specific plant cell organelle is chlorophyll primarily found?",
             "options": [
-                "Nucleus",
                 "Chloroplast",
                 "Mitochondria",
-                "Vacuole"
+                "Vacuole",
+                "Nucleus"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "Chlorophyll is located within chloroplasts (specifically in the thylakoid membranes), where it captures light energy required for photosynthesis."
         },
         {
             "id": 34,
             "question": "What is the primary function of the nucleus in a eukaryotic cell?",
             "options": [
-                "To generate chemical energy (ATP) through cellular respiration.",
                 "To store the cell's genetic material (DNA) and direct cellular activities.",
+                "To generate chemical energy (ATP) through cellular respiration.",
                 "To provide a rigid outer barrier primarily made of cellulose.",
                 "To capture sunlight and manufacture food via photosynthesis."
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "The nucleus functions as the control center of the cell by storing DNA and coordinating activities such as growth, metabolism, and reproduction."
         },
         {
@@ -418,35 +418,35 @@
             "question": "What is the double-layered covering that surrounds the nucleus called?",
             "options": [
                 "Cell wall",
-                "Plasma membrane",
                 "Nuclear membrane",
+                "Plasma membrane",
                 "Tonoplast"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "The nuclear membrane (or nuclear envelope) is a double-layered membrane that encloses the nucleus, featuring pores to control the passage of materials in and out."
         },
         {
             "id": 36,
             "question": "Which specific part of the cell contains the chromosomes that carry genetic information?",
             "options": [
-                "Cell wall",
-                "Mitochondria",
+                "Nucleus",
                 "Cytoplasm",
-                "Nucleus"
+                "Mitochondria",
+                "Cell wall"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 0,
             "explanation": "The nucleus houses the cell's DNA organized into chromosomes, serving as the central control room for genetic instruction."
         },
         {
             "id": 37,
             "question": "When do chromosomes become distinctly visible as rod-shaped structures under a microscope?",
             "options": [
-                "Only when the cell is about to divide",
-                "Only when the cell is placed in a hypertonic solution",
                 "Whenever the cell undergoes endocytosis",
-                "At all times during the cell's normal metabolic life"
+                "Only when the cell is placed in a hypertonic solution",
+                "At all times during the cell's normal metabolic life",
+                "Only when the cell is about to divide"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 3,
             "explanation": "When a cell is not dividing, genetic material is present as an entangled mass of thread-like chromatin. It condenses into distinct, rod-shaped chromosomes only when the cell is about to divide."
         },
         {
@@ -477,36 +477,36 @@
             "id": 40,
             "question": "Chromosomes are primarily composed of which two components?",
             "options": [
-                "RNA and starch",
-                "Cellulose and lipids",
                 "Chlorophyll and water",
-                "DNA and proteins"
+                "DNA and proteins",
+                "Cellulose and lipids",
+                "RNA and starch"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 1,
             "explanation": "Chromosomes are made up of DNA, which contains hereditary information, and proteins, which provide structural support to keep the DNA tightly organized within the nucleus."
         },
         {
             "id": 41,
             "question": "What is the functional segment of DNA responsible for heredity and protein synthesis called?",
             "options": [
-                "Nucleolus",
-                "Chromatin",
                 "Gene",
+                "Chromatin",
+                "Nucleolus",
                 "Ribosome"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "A gene is a functional segment of DNA that contains the specific genetic instructions required to build proteins and determine inherited traits."
         },
         {
             "id": 42,
             "question": "What is the entangled mass of thread-like structures found in the nucleus of a non-dividing cell called?",
             "options": [
-                "Cellulose",
+                "Chromosomes",
                 "Cytoplasm",
-                "Chromatin",
-                "Chromosomes"
+                "Cellulose",
+                "Chromatin"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "When a cell is not dividing, its genetic material exists as an entangled mass of thread-like structures called chromatin, which condenses into distinct chromosomes prior to cell division."
         },
         {
@@ -525,12 +525,12 @@
             "id": 44,
             "question": "What is the primary structural difference between a nucleoid and a eukaryotic nucleus?",
             "options": [
-                "A nucleoid lacks a protective nuclear membrane, whereas a true nucleus is enclosed by a nuclear envelope.",
-                "A nucleoid is composed entirely of cellulose rather than genetic material.",
+                "A nucleoid is only found in plant cells alongside chloroplasts.",
                 "A nucleoid contains proteins instead of DNA.",
-                "A nucleoid is only found in plant cells alongside chloroplasts."
+                "A nucleoid lacks a protective nuclear membrane, whereas a true nucleus is enclosed by a nuclear envelope.",
+                "A nucleoid is composed entirely of cellulose rather than genetic material."
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 2,
             "explanation": "A nucleoid is an open, membrane-less region in prokaryotic cells where DNA resides, unlike a true eukaryotic nucleus which is enclosed by a double-layered nuclear membrane."
         },
         {
@@ -539,22 +539,22 @@
             "options": [
                 "They are exclusively multicellular organisms.",
                 "They contain a well-defined nucleus enclosed by a nuclear envelope.",
-                "Their genetic material is located in a membrane-less region called a nucleoid. They lack a true nucleus.",
-                "They possess multiple membrane-bound organelles like mitochondria."
+                "They possess multiple membrane-bound organelles like mitochondria.",
+                "Their genetic material is located in a membrane-less region called a nucleoid. They lack a true nucleus."
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "Prokaryotic cells lack a true nucleus surrounded by a nuclear membrane; instead, their genetic material resides freely in an open region called the nucleoid."
         },
         {
             "id": 46,
             "question": "Which of the following is a defining feature of eukaryotic cells that separates them from prokaryotic cells?",
             "options": [
-                "Their genetic material floats freely in an open region called a nucleoid.",
-                "They completely lack any genetic material or DNA.",
                 "They possess a true, membrane-bound nucleus and membrane-bound organelles.",
-                "They are exclusively single-celled microscopic organisms."
+                "They completely lack any genetic material or DNA.",
+                "They are exclusively single-celled microscopic organisms.",
+                "Their genetic material floats freely in an open region called a nucleoid."
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "Eukaryotic cells are defined by the presence of a true nucleus enclosed by a nuclear membrane, along with various membrane-bound organelles like mitochondria, unlike prokaryotes."
         },
         {
@@ -562,59 +562,59 @@
             "question": "Which type of cell completely lacks membrane-bound cytoplasmic organelles like mitochondria and endoplasmic reticulum?",
             "options": [
                 "Eukaryotic cells",
-                "Plant cells",
                 "Animal cells",
-                "Prokaryotic cells"
+                "Prokaryotic cells",
+                "Plant cells"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 2,
             "explanation": "Prokaryotic cells lack membrane-bound cytoplasmic organelles and a true nucleus, unlike eukaryotic cells which contain these specialized internal compartments."
         },
         {
             "id": 48,
             "question": "What best describes the cytoplasm of a cell?",
             "options": [
-                "The rigid outer layer made of cellulose that protects plant cells.",
                 "The thread-like mass of DNA and proteins found inside the nucleus.",
-                "The jelly-like fluid substance enclosed by the plasma membrane that suspends organelles and hosts metabolic reactions.",
-                "The double-layered membrane that completely encloses the genetic material."
+                "The double-layered membrane that completely encloses the genetic material.",
+                "The rigid outer layer made of cellulose that protects plant cells.",
+                "The jelly-like fluid substance enclosed by the plasma membrane that suspends organelles and hosts metabolic reactions."
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "The cytoplasm is the fluid matrix inside the cell membrane where organelles are suspended and many essential metabolic reactions take place."
         },
         {
             "id": 49,
             "question": "Which of the following is completely absent in a prokaryotic cell?",
             "options": [
-                "Ribosomes",
                 "Plasma membrane",
-                "A true membrane-bound nucleus",
-                "Cytoplasm"
+                "Ribosomes",
+                "Cytoplasm",
+                "A true membrane-bound nucleus"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "Prokaryotic cells lack a true membrane-bound nucleus and other membrane-bound organelles, whereas they do have a plasma membrane, cytoplasm, and ribosomes."
         },
         {
             "id": 50,
             "question": "Which of the following features characteristic of prokaryotes is NOT present in eukaryotic cells?",
             "options": [
-                "A nucleoid (an open, membrane-less region containing genetic material)",
                 "Membrane-bound cytoplasmic organelles like mitochondria",
+                "A nucleoid (an open, membrane-less region containing genetic material)",
                 "A true membrane-bound nucleus",
                 "Linear chromosomes composed of DNA and proteins"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "Eukaryotic cells possess a true, membrane-bound nucleus rather than a nucleoid, which is an open, membrane-less region characteristic of prokaryotic cells."
         },
         {
             "id": 51,
             "question": "Why are viruses not classified as prokaryotic cells?",
             "options": [
+                "Because they are exclusively multicellular plants.",
                 "Because they are acellular and lack cellular structures like a plasma membrane, cytoplasm, and ribosomes.",
                 "Because they contain chloroplasts and carry out photosynthesis independently.",
-                "Because they are exclusively multicellular plants.",
                 "Because they contain a true nucleus surrounded by a nuclear membrane."
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "Viruses are not cells (they are acellular) and completely lack cytoplasmic organelles, a cell membrane, and metabolic machinery, distinguishing them from living prokaryotic cells."
         },
         {
@@ -633,72 +633,72 @@
             "id": 53,
             "question": "Which of the following cellular components is found in both prokaryotic and eukaryotic cells?",
             "options": [
-                "Mitochondria",
+                "Nucleus",
                 "Endoplasmic reticulum",
-                "Ribosomes",
-                "Nucleus"
+                "Mitochondria",
+                "Ribosomes"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "Ribosomes are present in both prokaryotic and eukaryotic cells to synthesize proteins, whereas the other three structures are unique to or characteristic of eukaryotes."
         },
         {
             "id": 54,
             "question": "What term describes the open region in a prokaryotic cell where genetic material is located without being enclosed by a nuclear membrane?",
             "options": [
+                "Nucleoid",
                 "Endoplasmic reticulum",
-                "Golgi apparatus",
                 "Nucleolus",
-                "Nucleoid"
+                "Golgi apparatus"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 0,
             "explanation": "The nucleoid is the membrane-less region in prokaryotic cells where the single circular chromosome resides, lacking any nuclear membrane."
         },
         {
             "id": 55,
             "question": "What defines the difference between a nucleoid and a nucleus?",
             "options": [
-                "A nucleoid contains multiple linear chromosomes wrapped in histones.",
-                "A nucleoid completely lacks a nuclear membrane, whereas a nucleus is fully enclosed by one.",
                 "A nucleoid is surrounded by a double lipid membrane, while a nucleus is not.",
-                "A nucleoid is only found in complex multicellular plants and animals."
+                "A nucleoid contains multiple linear chromosomes wrapped in histones.",
+                "A nucleoid is only found in complex multicellular plants and animals.",
+                "A nucleoid completely lacks a nuclear membrane, whereas a nucleus is fully enclosed by one."
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "A nucleoid lacks a protective nuclear membrane entirely, allowing genetic material to sit directly in the cytoplasm, unlike a true nucleus which is enclosed by a nuclear envelope."
         },
         {
             "id": 56,
             "question": "What is the term for the structure formed when genetic material is fully enclosed by a nuclear membrane inside a cell?",
             "options": [
-                "A true nucleus",
-                "A nucleoid",
                 "Cytoplasm",
+                "A nucleoid",
+                "A true nucleus",
                 "A ribosome"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 2,
             "explanation": "When genetic material is completely enclosed by a nuclear membrane, it forms a true nucleus, which is characteristic of eukaryotic cells."
         },
         {
             "id": 57,
             "question": "Which of the following pairs contains items that are NOT cell organelles?",
             "options": [
-                "Cytoplasm and cell wall",
                 "Ribosome and Golgi apparatus",
-                "Nucleus and Plastids",
-                "Mitochondria and Endoplasmic Reticulum"
+                "Mitochondria and Endoplasmic Reticulum",
+                "Cytoplasm and cell wall",
+                "Nucleus and Plastids"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 2,
             "explanation": "Cytoplasm and cell wall are neither membrane-bound cell organelles; cytoplasm is the fluid matrix, and the cell wall is an outer protective layer."
         },
         {
             "id": 58,
             "question": "Which cell organelle is described as a large network of membrane-bound tubes and sheets that includes both rough and smooth regions?",
             "options": [
-                "Golgi apparatus and Chloroplast",
-                "Mitochondria and Lysosomes",
+                "Endoplasmic reticulum",
                 "Nucleus and Nucleoid",
-                "Endoplasmic reticulum"
+                "Mitochondria and Lysosomes",
+                "Golgi apparatus and Chloroplast"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 0,
             "explanation": "The Endoplasmic Reticulum forms a vast network of membrane-bound tubes and sheets responsible for lipid and protein synthesis."
         },
         {
@@ -706,8 +706,8 @@
             "question": "Which of the following correctly describes the structural and functional difference between Rough ER and Smooth ER?",
             "options": [
                 "Both types of ER are non-membrane-bound structures found exclusively in prokaryotic cells.",
-                "Rough ER acts as the cellular power generator, while Smooth ER packages and ships proteins.",
                 "Rough ER lacks ribosomes and stores water, while Smooth ER produces nuclear membranes.",
+                "Rough ER acts as the cellular power generator, while Smooth ER packages and ships proteins.",
                 "Rough ER is studded with ribosomes and synthesizes proteins, whereas Smooth ER lacks ribosomes and synthesizes fat molecules or lipids and detoxifies chemicals."
             ],
             "correctAnswer": 3,
@@ -717,46 +717,46 @@
             "id": 60,
             "question": "Which cell structures are primarily responsible for synthesizing the proteins and lipids required for membrane biogenesis?",
             "options": [
-                "Mitochondria and vacuoles",
-                "The Endoplasmic Reticulum (Rough ER for proteins, Smooth ER for lipids)",
                 "Ribosomes acting entirely independently without any membrane involvement",
-                "The cell wall and cytoplasm"
+                "The cell wall and cytoplasm",
+                "Mitochondria and vacuoles",
+                "The Endoplasmic Reticulum (Rough ER for proteins, Smooth ER for lipids)"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "Membrane biogenesis relies heavily on the Endoplasmic Reticulum, where Rough ER produces the necessary proteins and Smooth ER produces the lipids."
         },
         {
             "id": 61,
             "question": "What are the distinct primary roles of lipids and proteins when they make up a cell membrane?",
             "options": [
-                "Lipids synthesize ribosomes, while proteins act as the primary fluid matrix of the cytoplasm.",
-                "Lipids carry genetic traits, while proteins act as the main powerhouse of the cell.",
                 "Lipids form the flexible structural barrier (lipid bilayer) of the membrane, while proteins function as channels, transporters, receptors, and enzymes.",
+                "Lipids carry genetic traits, while proteins act as the main powerhouse of the cell.",
+                "Lipids synthesize ribosomes, while proteins act as the primary fluid matrix of the cytoplasm.",
                 "Lipids act strictly as energy storage units, while proteins form the rigid outer cell wall."
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "Lipids provide the foundational structural barrier (the lipid bilayer) for cell membranes, while proteins embedded within them handle specialized tasks like transport, signaling, and enzymatic reactions."
         },
         {
             "id": 62,
             "question": "What is the specific role of the Endoplasmic Reticulum regarding proteins and lipids?",
             "options": [
+                "It absorbs sunlight to convert carbon dioxide into glucose.",
                 "It manufactures proteins (via Rough ER) and lipids (via Smooth ER) which are crucial for membrane biogenesis and cellular functions.",
                 "It destroys excess proteins and stores pure water inside vacuoles.",
-                "It absorbs sunlight to convert carbon dioxide into glucose.",
                 "It acts as the primary fluid matrix known as the cytoplasm."
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "The Endoplasmic Reticulum is the cellular factory where Rough ER produces proteins and Smooth ER produces lipids, supplying the materials needed for membranes, enzymes, and other functions."
         },
         {
             "id": 63,
             "question": "Which of the following cell structures functions as a cytoplasmic framework providing a surface for some of the cell's biochemical activities?",
             "options": [
+                "Vacuole",
                 "Golgi apparatus",
-                "Mitochondria",
                 "Endoplasmic Reticulum",
-                "Vacuole"
+                "Mitochondria"
             ],
             "correctAnswer": 2,
             "explanation": "The Endoplasmic Reticulum acts as a structural cytoplasmic framework and provides a surface area for various vital biochemical reactions in the cell."
@@ -765,105 +765,105 @@
             "id": 64,
             "question": "Which specific organelle or sub-structure is specialized for detoxifying many poisons and drugs within the cell?",
             "options": [
-                "Free ribosomes",
                 "Rough Endoplasmic Reticulum",
-                "Nuclear membrane",
-                "Smooth Endoplasmic Reticulum"
+                "Free ribosomes",
+                "Smooth Endoplasmic Reticulum",
+                "Nuclear membrane"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 2,
             "explanation": "The Smooth Endoplasmic Reticulum lacks ribosomes and is responsible for lipid synthesis and the detoxification of various drugs and poisons."
         },
         {
             "id": 65,
             "question": "What structural feature characterizes the physical composition of the Endoplasmic Reticulum?",
             "options": [
-                "A collection of free-floating, membrane-less ribosomes",
-                "A fluid-filled vacuole completely detached from all other cell parts",
                 "A solid, single-layered wall made entirely of cellulose",
-                "A large network of membrane-bound tubes and flattened sheets"
+                "A large network of membrane-bound tubes and flattened sheets",
+                "A fluid-filled vacuole completely detached from all other cell parts",
+                "A collection of free-floating, membrane-less ribosomes"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 1,
             "explanation": "The Endoplasmic Reticulum is structurally composed of a large, interconnected network of membrane-bound tubes and sheets that provide a framework for cellular activities."
         },
         {
             "id": 66,
             "question": "Which scientist first described and observed the Golgi apparatus in 1898 using a specialized staining technique?",
             "options": [
+                "Antonie van Leeuwenhoek",
                 "Camillo Golgi",
-                "Matthias Schleiden",
                 "Robert Hooke",
-                "Antonie van Leeuwenhoek"
+                "Matthias Schleiden"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "Camillo Golgi first described the Golgi apparatus in 1898 while examining nerve cells with his staining method."
         },
         {
             "id": 67,
             "question": "Which organelle is composed of a system of membrane-bound flattened sacs (cisternae) arranged in stacks parallel to each other?",
             "options": [
+                "Nucleolus",
                 "Ribosome",
                 "Mitochondria",
-                "Golgi apparatus",
-                "Nucleolus"
+                "Golgi apparatus"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "The Golgi apparatus consists of a system of membrane-bound vesicles and flattened sacs arranged in stacks, responsible for packaging and shipping cellular substances."
         },
         {
             "id": 68,
             "question": "What are the flattened, membrane-bound sacs that make up the stacked structure of the Golgi apparatus called?",
             "options": [
-                "Ribosomes",
                 "Cisternae",
+                "Ribosomes",
                 "Chromosomes",
                 "Nucleoids"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "Cisternae are the flattened, membrane-bound sacs arranged in parallel stacks that form the core structure of the Golgi apparatus."
         },
         {
             "id": 69,
             "question": "Which cell organelle's membranes often have physical connections with the Endoplasmic Reticulum, constituting another portion of a complex cellular membrane system?",
             "options": [
-                "Golgi apparatus",
-                "Mitochondria",
                 "Ribosome",
-                "Lysosome"
+                "Mitochondria",
+                "Lysosome",
+                "Golgi apparatus"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 3,
             "explanation": "The Golgi apparatus membranes often connect with the Endoplasmic Reticulum, forming another portion of the cell's complex membrane system."
         },
         {
             "id": 70,
             "question": "Which organelle is responsible for packaging and dispatching materials synthesized near the Endoplasmic Reticulum?",
             "options": [
+                "Golgi apparatus",
                 "Ribosome",
                 "Vacuole",
-                "Golgi apparatus",
                 "Mitochondria"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "The Golgi apparatus receives materials synthesized near the ER, packages them, and dispatches them to intracellular and extracellular destinations."
         },
         {
             "id": 71,
             "question": "Which organelle is primarily responsible for the storage, modification, and packaging of products in vesicles?",
             "options": [
-                "Smooth Endoplasmic Reticulum",
-                "Ribosome",
                 "Mitochondria",
-                "Golgi apparatus"
+                "Ribosome",
+                "Golgi apparatus",
+                "Smooth Endoplasmic Reticulum"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 2,
             "explanation": "The Golgi apparatus handles the storage, modification, and packaging of cellular products inside vesicles."
         },
         {
             "id": 72,
             "question": "Which cell organelle plays a key role in the formation of lysosomes by packaging digestive enzymes?",
             "options": [
-                "Mitochondria",
-                "Ribosome",
                 "Smooth Endoplasmic Reticulum",
+                "Ribosome",
+                "Mitochondria",
                 "Golgi apparatus"
             ],
             "correctAnswer": 3,
@@ -873,24 +873,24 @@
             "id": 73,
             "question": "Which of the following cell structures are membrane-bound sacs filled with powerful digestive enzymes?",
             "options": [
-                "Ribosomes",
                 "Mitochondria",
-                "Lysosomes",
-                "Centrosomes"
+                "Centrosomes",
+                "Ribosomes",
+                "Lysosomes"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "Lysosomes are membrane-bound sacs containing digestive enzymes that help clean up the cell by breaking down various materials and waste."
         },
         {
             "id": 74,
             "question": "Which cellular structure is responsible for synthesizing the protein-based digestive enzymes found inside lysosomes?",
             "options": [
-                "Mitochondria",
-                "Golgi apparatus",
                 "Rough Endoplasmic Reticulum",
-                "Smooth Endoplasmic Reticulum"
+                "Golgi apparatus",
+                "Smooth Endoplasmic Reticulum",
+                "Mitochondria"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "The digestive enzymes of lysosomes are synthesized by the Rough Endoplasmic Reticulum and then transported to the Golgi apparatus for packaging."
         },
         {
@@ -898,9 +898,9 @@
             "question": "Why are lysosomes commonly referred to as the 'suicide bags' of the cell?",
             "options": [
                 "Because their digestive enzymes can burst out and digest the cell itself when damaged or dying.",
+                "Because they destroy the nucleus to start cell division.",
                 "Because they produce energy by consuming glucose.",
-                "Because they store water and toxic waste permanently.",
-                "Because they destroy the nucleus to start cell division."
+                "Because they store water and toxic waste permanently."
             ],
             "correctAnswer": 0,
             "explanation": "Lysosomes are called suicide bags because if the cell gets damaged or disrupted, their digestive enzymes can be released and break down the cell's own components."
@@ -909,46 +909,46 @@
             "id": 76,
             "question": "Which organelle acts as the waste disposal system of the cell, helping to clean it up by breaking down foreign materials and worn-out cell parts?",
             "options": [
-                "Mitochondria",
-                "Golgi apparatus",
+                "Lysosomes",
                 "Ribosomes",
-                "Lysosomes"
+                "Golgi apparatus",
+                "Mitochondria"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 0,
             "explanation": "Lysosomes function as the cell's waste disposal system, digesting foreign materials, debris, and worn-out organelles."
         },
         {
             "id": 77,
             "question": "In which village was Camillo Golgi, the scientist who discovered the Golgi apparatus, born?",
             "options": [
-                "Pavia",
-                "Corteno",
                 "Milan",
-                "Rome"
+                "Rome",
+                "Corteno",
+                "Pavia"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Camillo Golgi was born in Corteno, Italy, a village later renamed Corteno Golgi in recognition of his scientific contributions."
         },
         {
             "id": 78,
             "question": "At which university did Camillo Golgi study medicine and conduct his pioneering research?",
             "options": [
-                "University of Padua",
                 "University of Pavia",
                 "University of Rome",
-                "University of Bologna"
+                "University of Bologna",
+                "University of Padua"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "Camillo Golgi studied medicine at the University of Pavia, where he also spent a major part of his academic and professional career."
         },
         {
             "id": 79,
             "question": "At which hospital did Camillo Golgi serve as Chief Medical Officer starting in 1872, where he famously set up a laboratory in the kitchen?",
             "options": [
-                "Novara Hospital",
+                "Hospital of the University of Pavia",
                 "San Matteo Hospital",
                 "Pio Luogo degli Incurabili in Abbiategrasso",
-                "Hospital of the University of Pavia"
+                "Novara Hospital"
             ],
             "correctAnswer": 2,
             "explanation": "Camillo Golgi served as Chief Medical Officer at the Pio Luogo degli Incurabili in Abbiategrasso, where he conducted his groundbreaking neurological staining research."
@@ -959,8 +959,8 @@
             "options": [
                 "1906, shared with Santiago Ramón y Cajal",
                 "1900, shared with Robert Koch",
-                "1910, shared with Paul Ehrlich",
-                "1898, shared with Louis Pasteur"
+                "1898, shared with Louis Pasteur",
+                "1910, shared with Paul Ehrlich"
             ],
             "correctAnswer": 0,
             "explanation": "Camillo Golgi was awarded the Nobel Prize in Physiology or Medicine in 1906, sharing it with Santiago Ramón y Cajal for their work on the nervous system."
@@ -969,72 +969,72 @@
             "id": 81,
             "question": "Which key chemical compound is used along with potassium dichromate in Camillo Golgi's famous 'black reaction' staining method?",
             "options": [
-                "Sodium chloride",
                 "Silver nitrate",
-                "Methylene blue",
-                "Copper sulfate"
+                "Sodium chloride",
+                "Copper sulfate",
+                "Methylene blue"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "Camillo Golgi used silver nitrate combined with potassium dichromate to create the black reaction precipitate that stains neurons black."
         },
         {
             "id": 82,
             "question": "Which organelle is widely known as the 'powerhouse of the cell' due to its role in generating chemical energy (ATP)?",
             "options": [
-                "Mitochondria",
                 "Golgi apparatus",
+                "Smooth Endoplasmic Reticulum",
                 "Lysosome",
-                "Smooth Endoplasmic Reticulum"
+                "Mitochondria"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 3,
             "explanation": "Mitochondria are called the powerhouses of the cell because they produce ATP, which serves as the cell's main energy currency."
         },
         {
             "id": 83,
             "question": "Which cell organelle is characterized by having a double-membrane system consisting of an outer membrane and a folded inner membrane?",
             "options": [
-                "Mitochondria",
-                "Lysosome",
                 "Centrosome",
-                "Ribosome"
+                "Lysosome",
+                "Ribosome",
+                "Mitochondria"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 3,
             "explanation": "Mitochondria possess a double-membrane structure, with a smooth outer membrane and a folded inner membrane (cristae)."
         },
         {
             "id": 84,
             "question": "Which organelle is characterized by a porous outer membrane and a deeply folded inner membrane that increases surface area for energy production?",
             "options": [
-                "Endoplasmic Reticulum",
                 "Mitochondria",
+                "Endoplasmic Reticulum",
                 "Golgi apparatus",
                 "Lysosome"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "Mitochondria have a porous outer membrane and an inner membrane folded into cristae to maximize surface area for cellular respiration."
         },
         {
             "id": 85,
             "question": "What is the primary advantage of the deep folds (cristae) in the inner mitochondrial membrane?",
             "options": [
-                "They increase the surface area available for ATP-producing chemical reactions and enzymes.",
+                "They help the organelle divide more rapidly during cell division.",
                 "They allow the mitochondria to store water and waste products.",
                 "They create a barrier to prevent the escape of digestive enzymes.",
-                "They help the organelle divide more rapidly during cell division."
+                "They increase the surface area available for ATP-producing chemical reactions and enzymes."
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 3,
             "explanation": "The folds or cristae provide a much larger surface area to host the Electron Transport Chain and ATP synthase enzymes, maximizing energy production."
         },
         {
             "id": 86,
             "question": "What does ATP stand for in cellular biology?",
             "options": [
-                "Acetyl Triphosphate",
-                "Amino Thymine Phosphate",
                 "Adenosine Triphosphate",
-                "Adenine Triphosphate Polymer"
+                "Acetyl Triphosphate",
+                "Adenine Triphosphate Polymer",
+                "Amino Thymine Phosphate"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "ATP stands for Adenosine Triphosphate, the main energy carrier molecule in living cells."
         },
         {
@@ -1042,11 +1042,11 @@
             "question": "Which molecule is universally known as the energy currency of the cell?",
             "options": [
                 "DNA",
-                "ATP",
                 "Glycogen",
-                "RNA"
+                "RNA",
+                "ATP"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "ATP is the primary energy currency used by cells to store and transport chemical energy."
         },
         {
@@ -1065,12 +1065,12 @@
             "id": 89,
             "question": "Which of the following cell structures is present exclusively in plant cells and not in animal cells?",
             "options": [
+                "Plastids",
                 "Cell membrane",
                 "Ribosomes",
-                "Mitochondria",
-                "Plastids"
+                "Mitochondria"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 0,
             "explanation": "Plastids, such as chloroplasts, are unique to plant cells and are not found in animal cells."
         },
         {
@@ -1078,35 +1078,35 @@
             "question": "According to standard biological classification, what are the two main types of plastids found in plant cells?",
             "options": [
                 "Vacuoles and Centrosomes",
-                "Ribosomes and Lysosomes",
                 "Mitochondria and Chloroplasts",
-                "Chromoplasts and Leucoplasts"
+                "Chromoplasts and Leucoplasts",
+                "Ribosomes and Lysosomes"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 2,
             "explanation": "Plastids are broadly classified into two main types: chromoplasts (coloured plastids, including chloroplasts) and leucoplasts (colourless plastids)."
         },
         {
             "id": 91,
             "question": "What is the primary function of leucoplasts, the colorless plastids found in plant cells?",
             "options": [
-                "To store materials such as starch, oils, and proteins",
                 "To provide bright red and yellow colors to flowers",
+                "To store materials such as starch, oils, and proteins",
                 "To act as the suicide bags of the plant cell",
                 "To perform photosynthesis using chlorophyll"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "Leucoplasts are colourless plastids whose primary function is the storage of nutrients like starch, oils, and protein granules in plant cells."
         },
         {
             "id": 92,
             "question": "Which part of plastids contains the pigments responsible for Photosynthesis?",
             "options": [
-                "Chromoplasts which contains the chlorophyll pigments",
-                "Leucoplasts which contains the choroplasts pigments",
                 "Leucoplasts which contains the anthocyanin pigments",
+                "Leucoplasts which contains the choroplasts pigments",
+                "Chromoplasts which contains the chlorophyll pigments",
                 "Leucoplasts which contains carotenoids pigments"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 2,
             "explanation": "Plastids are made up of leucoplasts and chromoplasts (coloured plastids). The coloured plastids (chromoplasts, which include chloroplasts) contain pigments such as chlorophyll, while leucoplasts are colourless and only store food."
         },
         {
@@ -1115,8 +1115,8 @@
             "options": [
                 "To absorb sunlight directly using chlorophyll pigments",
                 "To host the light-independent reactions (Calvin cycle) of photosynthesis and house chloroplast DNA/ribosomes",
-                "To provide a rigid structural wall protecting the plant cell",
-                "To act as a digestive enzyme storage sac similar to a lysosome"
+                "To act as a digestive enzyme storage sac similar to a lysosome",
+                "To provide a rigid structural wall protecting the plant cell"
             ],
             "correctAnswer": 1,
             "explanation": "The stroma is the fluid matrix where the Calvin cycle occurs, sugar synthesis takes place, and the chloroplast's own DNA and ribosomes are located."
@@ -1125,12 +1125,12 @@
             "id": 94,
             "question": "Which of the following cellular organelles possess their own DNA and ribosomes, enabling them to make some of their own proteins?",
             "options": [
+                "Ribosomes and Centrosomes",
                 "Mitochondria and Chloroplasts",
                 "Golgi apparatus and Lysosomes",
-                "Ribosomes and Centrosomes",
                 "Endoplasmic reticulum and Vacuoles"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "Both mitochondria and chloroplasts contain their own circular DNA and ribosomes, making them semi-autonomous organelles capable of protein synthesis."
         },
         {
@@ -1163,8 +1163,8 @@
             "options": [
                 "50% to 90%",
                 "Up to 10%",
-                "10% to 30%",
-                "95% to 100%"
+                "95% to 100%",
+                "10% to 30%"
             ],
             "correctAnswer": 0,
             "explanation": "In plant cells, the large central vacuole can occupy 50% to 90% of the cell's total volume, providing structural support and turgidity."
@@ -1173,22 +1173,22 @@
             "id": 98,
             "question": "Which of the following is NOT a function of the plant cell vacuole?",
             "options": [
-                "Digesting cellular waste and foreign materials",
                 "Synthesizing ATP for energy",
-                "Storing water and nutrients",
-                "Maintaining turgor pressure for structural support"
+                "Digesting cellular waste and foreign materials",
+                "Maintaining turgor pressure for structural support",
+                "Storing water and nutrients"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "Vacuoles do not synthesize ATP; their primary functions include storage, maintaining turgor pressure, and sometimes digesting waste, but energy production is the role of mitochondria."
         },
         {
             "id": 99,
             "question": "Which of the following cellular structures is primarily responsible for synthesizing proteins within the cell?",
             "options": [
-                "Vacuoles",
+                "Mitochondria",
                 "Ribosomes",
                 "Lysosomes",
-                "Mitochondria"
+                "Vacuoles"
             ],
             "correctAnswer": 1,
             "explanation": "Proteins are synthesized at the ribosomes, which act as the protein factories of the cell."
@@ -1197,46 +1197,46 @@
             "id": 100,
             "question": "Which of the following is defined as the fundamental structural and functional unit of all living organisms?",
             "options": [
-                "Atom",
-                "Tissue",
+                "Cell",
                 "Organ",
-                "Cell"
+                "Tissue",
+                "Atom"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 0,
             "explanation": "The cell is the basic structural and functional unit of life, as established by the cell theory."
         },
         {
             "id": 101,
             "question": "What is the biological process by which new cells are created from pre-existing cells?",
             "options": [
-                "Cell respiration",
                 "Photosynthesis",
-                "Osmosis",
-                "Cell division"
+                "Cell division",
+                "Cell respiration",
+                "Osmosis"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 1,
             "explanation": "Cell division is the process through which new cells are formed from pre-existing cells, a core principle of the cell theory."
         },
         {
             "id": 102,
             "question": "What are the two main types of cell division that occur in eukaryotic organisms?",
             "options": [
-                "Binary fission and budding",
-                "Mitosis and meiosis",
+                "Transcription and translation",
                 "Osmosis and diffusion",
-                "Transcription and translation"
+                "Mitosis and meiosis",
+                "Binary fission and budding"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Mitosis and meiosis are the two primary types of cell division, with mitosis used for somatic growth and repair, and meiosis used to form reproductive cells."
         },
         {
             "id": 103,
             "question": "Which of the following accurately contrasts mitosis and meiosis?",
             "options": [
-                "Both mitosis and meiosis are used exclusively for the production of gametes in sexual reproduction.",
+                "Mitosis produces four genetically unique haploid cells, whereas meiosis produces two identical diploid cells.",
                 "Mitosis is an equational division producing two identical diploid cells, while meiosis is a reductional division producing four unique haploid cells.",
                 "Mitosis results in a reduction of chromosome number, whereas meiosis maintains the exact parental chromosome number.",
-                "Mitosis produces four genetically unique haploid cells, whereas meiosis produces two identical diploid cells."
+                "Both mitosis and meiosis are used exclusively for the production of gametes in sexual reproduction."
             ],
             "correctAnswer": 1,
             "explanation": "Mitosis is an equational division that maintains the chromosome number (diploid to diploid) for growth, whereas meiosis is a reductional division that halves the chromosome number (diploid to haploid) to form gametes."
@@ -1246,11 +1246,11 @@
             "question": "What is the primary significance of meiosis in terms of chromosome number and genetic makeup?",
             "options": [
                 "It maintains an identical diploid chromosome count with no genetic variation across daughter cells.",
+                "It reduces the chromosome number by half and introduces genetic variation to form haploid gametes.",
                 "It doubles the chromosome number to create larger, polyploid cells for somatic growth.",
-                "It produces two identical somatic cells directly through binary fission.",
-                "It reduces the chromosome number by half and introduces genetic variation to form haploid gametes."
+                "It produces two identical somatic cells directly through binary fission."
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 1,
             "explanation": "Meiosis reduces the diploid chromosome number to haploid and introduces vital genetic variation via crossing over, preparing cells for sexual reproduction."
         }
     ]
