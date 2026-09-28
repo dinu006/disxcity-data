@@ -76,27 +76,26 @@
         }
       ]
     },
-    
     {
-      "class":"Class-IX",
-      "language":"English",
-      "year":"2026",
-      "subject":"Science",
-      "chapters":[
+      "class": "Class-IX",
+      "language": "English",
+      "year": "2026",
+      "subject": "Science",
+      "chapters": [
         {
-          "name":"Atoms and Molecules",
-          "file":"NCERT/Class-IX/English/2026/Science/Atoms-And-Molecules.json"
+          "name": "Atoms and Molecules",
+          "file": "NCERT/Class-IX/English/2026/Science/Atoms-And-Molecules.json"
         },
         {
-          "name":"The Fundamental Unit of Life",
-          "file":"NCERT/Class-IX/English/2026/Science/The-Fundamental-Unit-Of-Life.json"
+          "name": "The Fundamental Unit of Life",
+          "file": "NCERT/Class-IX/English/2026/Science/The-Fundamental-Unit-Of-Life.json"
         },
         {
-          "name":"Force And Laws of Motion",
-          "file":"NCERT/Class-IX/English/2026/Science/Force-And-Laws-Of-Motion.json"
+          "name": "Force And Laws of Motion",
+          "file": "NCERT/Class-IX/English/2026/Science/Force-And-Laws-Of-Motion.json"
         },
         {
-          "name":"Matter In Our Surroundings",
+          "name": "Matter In Our Surroundings",
           "file": "NCERT/Class-IX/English/2026/Science/Matter-In-Our-Surroundings.json"
         },
         {
