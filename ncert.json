@@ -134,6 +134,10 @@
         {
           "name": "Control and Coordination",
           "file": "NCERT/Class-X/English/2026/Science/Control-And-Coordination.json"
+        },
+        {
+          "name": "Electricity",
+          "file": "NCERT/Class-IX/English/2026/Science/Electricity.json"
         }
       ]
     }
