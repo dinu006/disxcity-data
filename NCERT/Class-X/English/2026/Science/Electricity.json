@@ -6,626 +6,556 @@
     "subject": "Science",
     "questions": [
         {
-    "id": 1,
-    "question": "The rate of flow of electric charge is called",
-    "options": [
-        "Electric potential",
-        "Electric current",
-        "Electric resistance",
-        "Electric power"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Electric current is defined as the rate of flow of electric charge through a conductor. Mathematically, it is the amount of charge flowing per unit time, and its SI unit is the ampere (A)."
-},
-
-{
-    "id": 2,
-    "question": "The flow of current is determined by the direction of",
-    "options": [
-        "Flow of electrons",
-        "Flow of neutrons",
-        "Flow of positive charge",
-        "Random motion of atoms"
-    ],
-    "correctAnswer": 2,
-    "explanation": "By convention, the direction of electric current is taken as the direction of flow of positive charge, which is opposite to the direction of flow of electrons."
-},
-
-{
-    "id": 3,
-    "question": "The formula of current is",
-    "options": [
-        "Q × t",
-        "t / Q",
-        "Q / t",
-        "W × Q"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Electric current (I) is defined as the amount of charge (Q) flowing through a conductor per unit time (t). Therefore, the formula is expressed as I = Q / t."
-},
-
-{
-    "id": 4,
-    "question": "The SI unit of current is",
-    "options": [
-        "Volt",
-        "Ampere",
-        "Ohm",
-        "Watt"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The SI unit of electric current is the ampere (A), named after the French physicist André-Marie Ampère. One ampere is equivalent to a flow of one coulomb of charge per second."
-},
-
-{
-    "id": 5,
-    "question": "The charge carried by an electron is",
-    "options": [
-        "9.1 × 10^-31 C",
-        "1.6 × 10^-19 C",
-        "6.02 × 10^23 C",
-        "3 × 10^8 C"
-    ],
-    "correctAnswer": 1,
-    "explanation": "An electron carries a negative electric charge with a standard magnitude of 1.6 × 10^-19 Coulombs (C)."
-},
-
-
-{
-    "id": 6,
-    "question": "How many electrons flow per second to constitute a current of one ampere?",
-    "options": [
-        "6.022 × 10^23 electrons",
-        "1.6 × 10^-19 electrons",
-        "6.25 × 10^18 electrons",
-        "9.1 × 10^31 electrons"
-    ],
-    "correctAnswer": 2,
-    "explanation": "One ampere is defined as a current of one coulomb of charge flowing per second (1 A = 1 C/s). Since the charge on a single electron is 1.6 × 10^-19 C, the number of electrons (n) is n = Q / e = 1 / (1.6 × 10^-19) = 6.25 × 10^18 electrons."
-}
-,
-{
-    "id": 7,
-    "question": "The SI unit of charge is",
-    "options": [
-        "Ampere",
-        "Volt",
-        "Coulomb",
-        "Ohm"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The SI unit of electric charge is the coulomb (C), named after the French physicist Charles-Augustin de Coulomb. One coulomb is approximately equal to the charge of 6.25 × 10^18 electrons."
-},
-
-{
-    "id": 8,
-    "question": "The ampere is named after which scientist?",
-    "options": [
-        "Alessandro Volta",
-        "André-Marie Ampère",
-        "Georg Simon Ohm",
-        "James Prescott Joule"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The SI unit of electric current, the ampere (A), is named in honor of the French physicist and mathematician André-Marie Ampère, who is considered one of the main founders of the science of electromagnetism."
-},
-
-{
-    "id": 9,
-    "question": "One milliampere is equals to",
-    "options": [
-        "10^-3 A",
-        "10^-6 A",
-        "10^3 A",
-        "10^6 A"
-    ],
-    "correctAnswer": 0,
-    "explanation": "A milliampere is a submultiple of the ampere. The prefix 'milli-' stands for one-thousandth, so one milliampere (mA) is equal to 10^-3 amperes or 0.001 A."
-},
-
-
-{
-    "id": 10,
-    "question": "One microampere is equals to",
-    "options": [
-        "10^-3 A",
-        "10^-6 A",
-        "10^3 A",
-        "10^6 A"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A microampere is a submultiple of the ampere. The prefix 'micro-' stands for one-millionth, so one microampere (μA) is equal to 10^-6 amperes (or 0.000001 A)."
-},
-
-
-{
-    "id": 11,
-    "question": "Instrument used to measure current is",
-    "options": [
-        "Voltmeter",
-        "Ammeter",
-        "Galvanometer",
-        "Rheostat"
-    ],
-    "correctAnswer": 1,
-    "explanation": "An ammeter is an instrument used to measure electric current in a circuit. It is always connected in series with the circuit element and has a very low resistance so that it does not significantly alter the current flowing through it."
-},
-
-
-{
-    "id": 12,
-    "question": "Ammeter is always connected in",
-    "options": [
-        "Parallel",
-        "Series",
-        "Both series and parallel",
-        "Across the load"
-    ],
-    "correctAnswer": 1,
-    "explanation": "An ammeter is always connected in series with the circuit in which the current is to be measured so that the entire current flows through it. It is designed to have a very low electrical resistance to prevent it from altering the circuit current significantly."
-},
-
-
-{
-    "id": 13,
-    "question": "What is the correct definition of electric potential difference?",
-    "options": [
-        "The product of current and resistance",
-        "The work done to move a unit positive charge from one point to the other",
-        "The rate of flow of charge per unit time",
-        "The opposition offered to the flow of electrons"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the electric potential difference between two points in an electric circuit is defined as the amount of work done to move a unit charge from one point to the other (V = W / Q)."
-},
-
-
-{
-    "id": 14,
-    "question": "What is the correct definition of electric potential?",
-    "options": [
-        "The work done in bringing a unit positive charge from infinity to a point",
-        "The product of current and resistance",
-        "The rate of flow of electric charge per unit time",
-        "The total resistance of a circuit"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Electric potential at a point in an electric field is defined as the amount of work done in bringing a unit positive charge from infinity to that point. Its SI unit is the volt (V)."
-},
-
-
-{
-    "id": 15,
-    "question": "The formula for potential difference is",
-    "options": [
-        "V = W / Q",
-        "V = I × t",
-        "V = Q / W",
-        "V = R / I"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Electric potential difference (V) between two points is defined as the work done (W) in moving a unit charge (Q) from one point to the other, given by the formula V = W / Q."
-},
-
-
-{
-    "id": 16,
-    "question": "The SI unit of electric potential difference is",
-    "options": [
-        "Ampere",
-        "Volt",
-        "Ohm",
-        "Watt"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The SI unit of electric potential difference is the volt (V), named in honor of the Italian physicist Alessandro Volta. One volt is defined as the potential difference when 1 joule of work is done to move a charge of 1 coulomb between two points (1 V = 1 J/C)."
-},
-
-{
-    "id": 17,
-    "question": "The volt unit is named after",
-    "options": [
-        "Alessandro Volta",
-        "André-Marie Ampère",
-        "Georg Simon Ohm",
-        "James Prescott Joule"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The volt, the SI unit of electric potential difference, is named in honor of the Italian physicist Alessandro Volta, who invented the voltaic pile (the first chemical battery)."
-},
-
-{
-    "id": 18,
-    "question": "Instrument used to measure volt is",
-    "options": [
-        "Ammeter",
-        "Voltmeter",
-        "Galvanometer",
-        "Rheostat"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A voltmeter is an instrument used to measure electric potential difference (voltage) between two points in a circuit. It is always connected in parallel across the load and possesses a very high electrical resistance to ensure that it draws minimal current from the circuit."
-},
-
-
-{
-    "id": 19,
-    "question": "The alloy of nickel, chromium, manganese, and iron metal is",
-    "options": [
-        "Brass",
-        "Bronze",
-        "Nichrome",
-        "Solder"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Nichrome is an alloy made up of nickel, chromium, manganese, and iron. It is commonly used as a heating element in electrical appliances (like toasters and irons) because of its high resistivity and ability to withstand high temperatures without oxidizing."
-},
-
-
-{
-    "id": 20,
-    "question": "Who discovered or formulated Ohm's law?",
-    "options": [
-        "Alessandro Volta",
-        "Georg Simon Ohm",
-        "André-Marie Ampère",
-        "James Prescott Joule"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ohm's law was formulated by the German physicist Georg Simon Ohm in 1827. It states that the electric current flowing through a conductor is directly proportional to the potential difference across its ends, provided that physical conditions like temperature remain constant."
-},
-
-{
-    "id": 21,
-    "question": "The letter R in Ohm's law (V = IR) stands for",
-    "options": [
-        "Resistance",
-        "Reactance",
-        "Resistivity",
-        "Rate of charge"
-    ],
-    "correctAnswer": 0,
-    "explanation": "In Ohm's law (V = IR), R stands for electrical resistance, which is the property of a conductor that opposes the flow of electric current. Its SI unit is the ohm (Ω)."
-},
-
-
-{
-    "id": 22,
-    "question": "The SI unit of resistance is",
-    "options": [
-        "Volt",
-        "Ampere",
-        "Ohm",
-        "Watt"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The SI unit of electrical resistance is the ohm (Ω), named in honor of the German physicist Georg Simon Ohm. One ohm is defined as the resistance of a conductor through which a current of one ampere flows when a potential difference of one volt is applied across its ends."
-},
-
-
-{
-    "id": 23,
-    "question": "The component used to regulate or change the resistance in an electric circuit is called",
-    "options": [
-        "Ammeter",
-        "Voltmeter",
-        "Rheostat",
-        "Galvanometer"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A rheostat is a type of variable resistor used in electrical circuits to adjust or change the resistance, thereby controlling the flow of electric current without altering the source voltage."
-},
-
-{
-    "id": 24,
-    "question": "A component having a fixed resistance is called a",
-    "options": [
-        "Rheostat",
-        "Resistor",
-        "Ammeter",
-        "Voltmeter"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A resistor is a two-terminal electrical component that has a fixed electrical resistance, used to restrict or control the flow of electric current in a circuit. Conversely, a rheostat is a variable resistor."
-},
-
-{
-    "id": 25,
-    "question": "A component that offers very high or practically infinite resistance to the flow of electric current is a",
-    "options": [
-        "Good conductor",
-        "Semiconductor",
-        "Bad conductor or insulator",
-        "Superconductor"
-    ],
-    "correctAnswer": 2,
-    "explanation": "An insulator (or a bad conductor) offers extremely high electrical resistance, effectively preventing electric current from passing through it under normal conditions."
-},
-
-
-{
-    "id": 26,
-    "question": "The resistance of a wire does not depend on which of the following factors?",
-    "options": [
-        "Length of the wire",
-        "Area of cross-section of the wire",
-        "Nature of the material",
-        "Potential difference applied across the wire"
-    ],
-    "correctAnswer": 3,
-    "explanation": "According to NCERT, the resistance of a conductor depends on its length, cross-sectional area, nature of the material (resistivity), and temperature. It does not depend on the potential difference applied across it or the current flowing through it, as resistance is an intrinsic property of the conductor at a constant temperature."
-},
-
-
-{
-    "id": 27,
-    "question": "What is the formula that relates resistance (R) with resistivity (ρ), length (l), and cross-sectional area (A) of a conductor?",
-    "options": [
-        "R = ρ × (A / l)",
-        "R = ρ × (l / A)",
-        "R = A / (ρ × l)",
-        "R = l / (ρ × A)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The resistance (R) of a uniform conductor is directly proportional to its length (l) and inversely proportional to its cross-sectional area (A). Combining these relations gives the formula R = ρ × (l / A), where ρ (rho) is the electrical resistivity of the material."
-},
-
-{
-    "id": 28,
-    "question": "The constant of proportionality rho (ρ) in the formula relating resistance, length, and cross-sectional area of a conductor is called",
-    "options": [
-        "Electrical conductivity",
-        "Electrical resistivity",
-        "Temperature coefficient",
-        "Electric permittivity"
-    ],
-    "correctAnswer": 1,
-    "explanation": "In the formula R = ρ × (l / A), the constant of proportionality ρ (rho) is called electrical resistivity (or specific resistance). It is an intrinsic property of the material of the conductor, meaning it depends on the nature of the material and temperature, but not on its shape or size."
-},
-
-
-{
-    "id": 29,
-    "question": "The SI unit of electrical resistivity is",
-    "options": [
-        "Ohm",
-        "Ohm-meter",
-        "Ohm per meter",
-        "Siemens per meter"
-    ],
-    "correctAnswer": 1,
-    "explanation": "From the formula for resistance R = ρ × (l / A), we can rearrange it for resistivity as ρ = (R × A) / l. Substituting the SI units for resistance (ohms, Ω), area (square meters, m²), and length (meters, m), we get (Ω × m²) / m = Ω·m (ohm-meter)."
-},
-
-
-{
-    "id": 30,
-    "question": "The substance which conducts electricity is called a",
-    "options": [
-        "Insulator",
-        "Conductor",
-        "Semiconductor",
-        "Resistor"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A substance that allows electric current to flow through it easily is called a conductor. Conductors have a large number of free electrons that facilitate the flow of charge (such as metals like copper, aluminum, and silver)."
-},
-
-{
-    "id": 31,
-    "question": "Which of the following substances is used as the filament for an electric bulb?",
-    "options": [
-        "Copper",
-        "Aluminum",
-        "Tungsten",
-        "Nichrome"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Tungsten is used as the filament for electric bulbs because it has an extremely high melting point (around 3380 °C) and high resistivity, allowing it to retain its shape and glow brightly at very high temperatures without melting or burning out."
-},
-
-{
-    "id": 32,
-    "question": "Which of the following materials is considered the best conductor of electricity?",
-    "options": [
-        "Copper",
-        "Aluminum",
-        "Silver",
-        "Iron"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Silver is the best electrical conductor among all metals because it possesses the lowest electrical resistivity and highest conductivity. However, copper and aluminum are more widely used for practical electrical wiring and power lines due to economic and availability factors."
-},
-
-
-{
-    "id": 33,
-    "question": "When resistances are connected end to end in a single path, this connection is called",
-    "options": [
-        "Parallel combination",
-        "Series combination",
-        "Mixed combination",
-        "Bridge connection"
-    ],
-    "correctAnswer": 1,
-    "explanation": "When resistances are connected end-to-end, it is called a series combination. In this arrangement, the same electric current flows through all the resistors, and the equivalent total resistance is equal to the sum of the individual resistances (R_s = R_1 + R_2 + R_3 + ...)."
-},
-
-
-{
-    "id": 34,
-    "question": "The connection in which all the appliances are connected together across common terminals to a source or battery is called",
-    "options": [
-        "Series combination",
-        "Parallel combination",
-        "Mixed combination",
-        "Bridge connection"
-    ],
-    "correctAnswer": 1,
-    "explanation": "In a parallel combination, electrical appliances are connected across the same potential difference, providing separate paths for current. This ensures that every appliance receives the full source voltage and can operate independently with its own switch."
-},
-
-
-{
-    "id": 35,
-    "question": "In a series connection of resistors, the voltage across each individual component is",
-    "options": [
-        "The same across all components",
-        "Divided or different across each component, proportional to its resistance",
-        "Always equal to zero",
-        "Equal to the total source voltage for every component"
-    ],
-    "correctAnswer": 1,
-    "explanation": "In a series combination, the same electric current flows through all the components, but the total potential difference is divided among them. The voltage drop across each resistor is proportional to its resistance, and the sum of individual voltage drops equals the total applied voltage (V = V_1 + V_2 + V_3 + ...)."
-},
-
-
-{
-    "id": 36,
-    "question": "In a parallel connection, the voltage across all the components is",
-    "options": [
-        "The same across all components",
-        "Divided among the components",
-        "Proportional to the resistance of each component",
-        "Zero"
-    ],
-    "correctAnswer": 0,
-    "explanation": "In a parallel connection, all appliances or resistors are connected across the same two common points, meaning the potential difference (voltage) across each individual component is the same and equal to the source voltage, while the total circuit current is divided among the parallel branches."
-},
-
-
-{
-    "id": 37,
-    "question": "In a parallel connection, the electric current through each individual component is",
-    "options": [
-        "The same across all components",
-        "Divided among the components depending on their resistance",
-        "Always equal to zero",
-        "Equal to the total current multiplied by the number of components"
-    ],
-    "correctAnswer": 1,
-    "explanation": "In a parallel connection, the total current entering the circuit divides among the parallel branches. The current through each individual component depends on its resistance (inversely proportional, by Ohm's law), and the total circuit current is the sum of the currents through all the individual branches (I = I_1 + I_2 + I_3 + ...)."
-},
-
-
-{
-    "id": 38,
-    "question": "When several resistors are connected in series, the total equivalent resistance of the combination is",
-    "options": [
-        "Equal to the sum of individual resistances",
-        "Less than the smallest individual resistance",
-        "Equal to the product of individual resistances",
-        "Equal to the reciprocal sum of individual resistances"
-    ],
-    "correctAnswer": 0,
-    "explanation": "In a series combination, the total equivalent resistance is equal to the sum of all individual resistances (R_s = R_1 + R_2 + R_3 + ...). Because of this, connecting resistors in series increases the overall resistance of the circuit to a value greater than any individual component."
-},
-
-{
-    "id": 39,
-    "question": "What is the formula for the equivalent total resistance (R) of resistors connected in a parallel combination?",
-    "options": [
-        "R = R_1 + R_2 + R_3",
-        "1/R = 1/R_1 + 1/R_2 + 1/R_3",
-        "R = (R_1 × R_2 × R_3) / (R_1 + R_2 + R_3)",
-        "R = R_1 - R_2 - R_3"
-    ],
-    "correctAnswer": 1,
-    "explanation": "When resistors are connected in parallel, the reciprocal of the equivalent total resistance is equal to the sum of the reciprocals of the individual resistances (1/R = 1/R_1 + 1/R_2 + 1/R_3). Because of this reciprocal relationship, the total equivalent resistance in a parallel circuit is always less than the smallest individual resistance in that combination."
-},
-
-{
-    "id": 40,
-    "question": "What is the formula for the equivalent total resistance (R) of resistors connected in a series combination?",
-    "options": [
-        "R = R_1 + R_2 + R_3",
-        "1/R = 1/R_1 + 1/R_2 + 1/R_3",
-        "R = (R_1 × R_2) / (R_1 + R_2)",
-        "R = R_1 - R_2 - R_3"
-    ],
-    "correctAnswer": 0,
-    "explanation": "When resistors are connected in series, the total equivalent resistance is simply the sum of all individual resistances (R = R_1 + R_2 + R_3). Consequently, the equivalent resistance in a series circuit is always greater than any individual resistor in that chain."
-},
-
-{
-    "id": 41,
-    "question": "What is the formula for the heat (H) produced by an electric current flowing through a resistor of resistance R for time t?",
-    "options": [
-        "H = I^2Rt",
-        "H = IR^2t",
-        "H = V^2It",
-        "H = I / (Rt)"
-    ],
-    "correctAnswer": 0,
-    "explanation": "According to Joule's law of heating, the heat produced in a resistor is directly proportional to the square of current (I^2), the resistance of the circuit (R), and the time (t) for which the current flows, giving the formula H = I^2Rt."
-},
-
-{
-    "id": 42,
-    "question": "What is the correct mathematical relation between electric power (P), voltage (V), and current (I)?",
-    "options": [
-        "P = V / I",
-        "P = V * I",
-        "P = I / V",
-        "P = V + I"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Electric power (P) is defined as the rate at which electrical work is done or energy is consumed in a circuit. It is given by the product of the potential difference (voltage, V) and the electric current (I), represented by the formula P = VI. Its SI unit is the watt (W)."
-},
-
-{
-    "id": 43,
-    "question": "An electric fuse is always connected in which part of an electrical circuit?",
-    "options": [
-        "Parallel with the live wire",
-        "Series with the live wire",
-        "Series with the neutral wire",
-        "Parallel with the earth wire"
-    ],
-    "correctAnswer": 1,
-    "explanation": "An electric fuse is always connected in series with the live wire. Because it is in series, the total current of the circuit passes through it. If a fault causes the current to exceed safe limits (due to overloading or short-circuiting), the fuse wire heats up and melts, automatically breaking the circuit and protecting appliances."
-},
-
-{
-    "id": 44,
-    "question": "The rate of doing work or the rate at which energy is consumed is called",
-    "options": [
-        "Power",
-        "Energy",
-        "Force",
-        "Momentum"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Power is defined as the rate of doing work or the rate at which work is transferred or consumed over time ($P = W/t$). In an electric circuit, electric power represents the rate at which electrical energy is transformed into other forms of energy like heat, light, or mechanical work."
-},
-
-{
-    "id": 45,
-    "question": "What is the SI unit of electric power?",
-    "options": [
-        "Joule",
-        "Volt",
-        "Watt",
-        "Ampere"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The SI unit of electric power is the watt (W), named after the Scottish inventor James Watt. One watt of power is consumed when an electric device operates at a potential difference of 1 volt with a current of 1 ampere flowing through it (1 W = 1 V × 1 A)."
-},
-
-
-{
-    "id": 46,
-    "question": "When an electrical power of one kilowatt is used continuously for one hour, the energy consumed is equal to one",
-    "options": [
-        "Watt-second",
-        "Kilowatt-hour (kWh)",
-        "Joule per second",
-        "Ampere-hour"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The commercial unit of electrical energy is the kilowatt-hour (kWh), often simply referred to as a 'unit' of electricity. One kilowatt-hour is defined as the electrical energy consumed when a device of 1000 watts power operates for one hour (1 kWh = 3.6 x 10^6 joules)."
-}
-
-
+            "id": 1,
+            "question": "The rate of flow of electric charge is called",
+            "options": [
+                "Electric current",
+                "Electric resistance",
+                "Electric power",
+                "Electric potential"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Electric current is defined as the rate of flow of electric charge through a conductor. Mathematically, it is the amount of charge flowing per unit time, and its SI unit is the ampere (A)."
+        },
+        {
+            "id": 2,
+            "question": "The flow of current is determined by the direction of",
+            "options": [
+                "Flow of neutrons",
+                "Flow of positive charge",
+                "Random motion of atoms",
+                "Flow of electrons"
+            ],
+            "correctAnswer": 1,
+            "explanation": "By convention, the direction of electric current is taken as the direction of flow of positive charge, which is opposite to the direction of flow of electrons."
+        },
+        {
+            "id": 3,
+            "question": "The formula of current is",
+            "options": [
+                "Q × t",
+                "t / Q",
+                "W × Q",
+                "Q / t"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Electric current (I) is defined as the amount of charge (Q) flowing through a conductor per unit time (t). Therefore, the formula is expressed as I = Q / t."
+        },
+        {
+            "id": 4,
+            "question": "The SI unit of current is",
+            "options": [
+                "Volt",
+                "Ohm",
+                "Ampere",
+                "Watt"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The SI unit of electric current is the ampere (A), named after the French physicist André-Marie Ampère. One ampere is equivalent to a flow of one coulomb of charge per second."
+        },
+        {
+            "id": 5,
+            "question": "The charge carried by an electron is",
+            "options": [
+                "6.02 × 10^23 C",
+                "1.6 × 10^-19 C",
+                "3 × 10^8 C",
+                "9.1 × 10^-31 C"
+            ],
+            "correctAnswer": 1,
+            "explanation": "An electron carries a negative electric charge with a standard magnitude of 1.6 × 10^-19 Coulombs (C)."
+        },
+        {
+            "id": 6,
+            "question": "How many electrons flow per second to constitute a current of one ampere?",
+            "options": [
+                "1.6 × 10^-19 electrons",
+                "6.25 × 10^18 electrons",
+                "9.1 × 10^31 electrons",
+                "6.022 × 10^23 electrons"
+            ],
+            "correctAnswer": 1,
+            "explanation": "One ampere is defined as a current of one coulomb of charge flowing per second (1 A = 1 C/s). Since the charge on a single electron is 1.6 × 10^-19 C, the number of electrons (n) is n = Q / e = 1 / (1.6 × 10^-19) = 6.25 × 10^18 electrons."
+        },
+        {
+            "id": 7,
+            "question": "The SI unit of charge is",
+            "options": [
+                "Ohm",
+                "Coulomb",
+                "Ampere",
+                "Volt"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The SI unit of electric charge is the coulomb (C), named after the French physicist Charles-Augustin de Coulomb. One coulomb is approximately equal to the charge of 6.25 × 10^18 electrons."
+        },
+        {
+            "id": 8,
+            "question": "The ampere is named after which scientist?",
+            "options": [
+                "André-Marie Ampère",
+                "Georg Simon Ohm",
+                "James Prescott Joule",
+                "Alessandro Volta"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The SI unit of electric current, the ampere (A), is named in honor of the French physicist and mathematician André-Marie Ampère, who is considered one of the main founders of the science of electromagnetism."
+        },
+        {
+            "id": 9,
+            "question": "One milliampere is equals to",
+            "options": [
+                "10^-6 A",
+                "10^3 A",
+                "10^-3 A",
+                "10^6 A"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A milliampere is a submultiple of the ampere. The prefix 'milli-' stands for one-thousandth, so one milliampere (mA) is equal to 10^-3 amperes or 0.001 A."
+        },
+        {
+            "id": 10,
+            "question": "One microampere is equals to",
+            "options": [
+                "10^3 A",
+                "10^-6 A",
+                "10^-3 A",
+                "10^6 A"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A microampere is a submultiple of the ampere. The prefix 'micro-' stands for one-millionth, so one microampere (μA) is equal to 10^-6 amperes (or 0.000001 A)."
+        },
+        {
+            "id": 11,
+            "question": "Instrument used to measure current is",
+            "options": [
+                "Ammeter",
+                "Voltmeter",
+                "Rheostat",
+                "Galvanometer"
+            ],
+            "correctAnswer": 0,
+            "explanation": "An ammeter is an instrument used to measure electric current in a circuit. It is always connected in series with the circuit element and has a very low resistance so that it does not significantly alter the current flowing through it."
+        },
+        {
+            "id": 12,
+            "question": "Ammeter is always connected in",
+            "options": [
+                "Across the load",
+                "Parallel",
+                "Series",
+                "Both series and parallel"
+            ],
+            "correctAnswer": 2,
+            "explanation": "An ammeter is always connected in series with the circuit in which the current is to be measured so that the entire current flows through it. It is designed to have a very low electrical resistance to prevent it from altering the circuit current significantly."
+        },
+        {
+            "id": 13,
+            "question": "What is the correct definition of electric potential difference?",
+            "options": [
+                "The work done to move a unit positive charge from one point to the other",
+                "The opposition offered to the flow of electrons",
+                "The product of current and resistance",
+                "The rate of flow of charge per unit time"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the electric potential difference between two points in an electric circuit is defined as the amount of work done to move a unit charge from one point to the other (V = W / Q)."
+        },
+        {
+            "id": 14,
+            "question": "What is the correct definition of electric potential?",
+            "options": [
+                "The rate of flow of electric charge per unit time",
+                "The work done in bringing a unit positive charge from infinity to a point",
+                "The total resistance of a circuit",
+                "The product of current and resistance"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Electric potential at a point in an electric field is defined as the amount of work done in bringing a unit positive charge from infinity to that point. Its SI unit is the volt (V)."
+        },
+        {
+            "id": 15,
+            "question": "The formula for potential difference is",
+            "options": [
+                "V = Q / W",
+                "V = W / Q",
+                "V = R / I",
+                "V = I × t"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Electric potential difference (V) between two points is defined as the work done (W) in moving a unit charge (Q) from one point to the other, given by the formula V = W / Q."
+        },
+        {
+            "id": 16,
+            "question": "The SI unit of electric potential difference is",
+            "options": [
+                "Watt",
+                "Ampere",
+                "Volt",
+                "Ohm"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The SI unit of electric potential difference is the volt (V), named in honor of the Italian physicist Alessandro Volta. One volt is defined as the potential difference when 1 joule of work is done to move a charge of 1 coulomb between two points (1 V = 1 J/C)."
+        },
+        {
+            "id": 17,
+            "question": "The volt unit is named after",
+            "options": [
+                "Alessandro Volta",
+                "James Prescott Joule",
+                "André-Marie Ampère",
+                "Georg Simon Ohm"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The volt, the SI unit of electric potential difference, is named in honor of the Italian physicist Alessandro Volta, who invented the voltaic pile (the first chemical battery)."
+        },
+        {
+            "id": 18,
+            "question": "Instrument used to measure volt is",
+            "options": [
+                "Galvanometer",
+                "Rheostat",
+                "Ammeter",
+                "Voltmeter"
+            ],
+            "correctAnswer": 3,
+            "explanation": "A voltmeter is an instrument used to measure electric potential difference (voltage) between two points in a circuit. It is always connected in parallel across the load and possesses a very high electrical resistance to ensure that it draws minimal current from the circuit."
+        },
+        {
+            "id": 19,
+            "question": "The alloy of nickel, chromium, manganese, and iron metal is",
+            "options": [
+                "Nichrome",
+                "Solder",
+                "Brass",
+                "Bronze"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Nichrome is an alloy made up of nickel, chromium, manganese, and iron. It is commonly used as a heating element in electrical appliances (like toasters and irons) because of its high resistivity and ability to withstand high temperatures without oxidizing."
+        },
+        {
+            "id": 20,
+            "question": "Who discovered or formulated Ohm's law?",
+            "options": [
+                "James Prescott Joule",
+                "Georg Simon Ohm",
+                "Alessandro Volta",
+                "André-Marie Ampère"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Ohm's law was formulated by the German physicist Georg Simon Ohm in 1827. It states that the electric current flowing through a conductor is directly proportional to the potential difference across its ends, provided that physical conditions like temperature remain constant."
+        },
+        {
+            "id": 21,
+            "question": "The letter R in Ohm's law (V = IR) stands for",
+            "options": [
+                "Resistance",
+                "Rate of charge",
+                "Reactance",
+                "Resistivity"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In Ohm's law (V = IR), R stands for electrical resistance, which is the property of a conductor that opposes the flow of electric current. Its SI unit is the ohm (Ω)."
+        },
+        {
+            "id": 22,
+            "question": "The SI unit of resistance is",
+            "options": [
+                "Watt",
+                "Ohm",
+                "Volt",
+                "Ampere"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The SI unit of electrical resistance is the ohm (Ω), named in honor of the German physicist Georg Simon Ohm. One ohm is defined as the resistance of a conductor through which a current of one ampere flows when a potential difference of one volt is applied across its ends."
+        },
+        {
+            "id": 23,
+            "question": "The component used to regulate or change the resistance in an electric circuit is called",
+            "options": [
+                "Galvanometer",
+                "Rheostat",
+                "Voltmeter",
+                "Ammeter"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A rheostat is a type of variable resistor used in electrical circuits to adjust or change the resistance, thereby controlling the flow of electric current without altering the source voltage."
+        },
+        {
+            "id": 24,
+            "question": "A component having a fixed resistance is called a",
+            "options": [
+                "Voltmeter",
+                "Resistor",
+                "Rheostat",
+                "Ammeter"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A resistor is a two-terminal electrical component that has a fixed electrical resistance, used to restrict or control the flow of electric current in a circuit. Conversely, a rheostat is a variable resistor."
+        },
+        {
+            "id": 25,
+            "question": "A component that offers very high or practically infinite resistance to the flow of electric current is a",
+            "options": [
+                "Bad conductor or insulator",
+                "Good conductor",
+                "Superconductor",
+                "Semiconductor"
+            ],
+            "correctAnswer": 0,
+            "explanation": "An insulator (or a bad conductor) offers extremely high electrical resistance, effectively preventing electric current from passing through it under normal conditions."
+        },
+        {
+            "id": 26,
+            "question": "The resistance of a wire does not depend on which of the following factors?",
+            "options": [
+                "Nature of the material",
+                "Potential difference applied across the wire",
+                "Length of the wire",
+                "Area of cross-section of the wire"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, the resistance of a conductor depends on its length, cross-sectional area, nature of the material (resistivity), and temperature. It does not depend on the potential difference applied across it or the current flowing through it, as resistance is an intrinsic property of the conductor at a constant temperature."
+        },
+        {
+            "id": 27,
+            "question": "What is the formula that relates resistance (R) with resistivity (ρ), length (l), and cross-sectional area (A) of a conductor?",
+            "options": [
+                "R = ρ × (l / A)",
+                "R = l / (ρ × A)",
+                "R = ρ × (A / l)",
+                "R = A / (ρ × l)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The resistance (R) of a uniform conductor is directly proportional to its length (l) and inversely proportional to its cross-sectional area (A). Combining these relations gives the formula R = ρ × (l / A), where ρ (rho) is the electrical resistivity of the material."
+        },
+        {
+            "id": 28,
+            "question": "The constant of proportionality rho (ρ) in the formula relating resistance, length, and cross-sectional area of a conductor is called",
+            "options": [
+                "Temperature coefficient",
+                "Electrical resistivity",
+                "Electrical conductivity",
+                "Electric permittivity"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In the formula R = ρ × (l / A), the constant of proportionality ρ (rho) is called electrical resistivity (or specific resistance). It is an intrinsic property of the material of the conductor, meaning it depends on the nature of the material and temperature, but not on its shape or size."
+        },
+        {
+            "id": 29,
+            "question": "The SI unit of electrical resistivity is",
+            "options": [
+                "Ohm-meter",
+                "Ohm",
+                "Siemens per meter",
+                "Ohm per meter"
+            ],
+            "correctAnswer": 0,
+            "explanation": "From the formula for resistance R = ρ × (l / A), we can rearrange it for resistivity as ρ = (R × A) / l. Substituting the SI units for resistance (ohms, Ω), area (square meters, m²), and length (meters, m), we get (Ω × m²) / m = Ω·m (ohm-meter)."
+        },
+        {
+            "id": 30,
+            "question": "The substance which conducts electricity is called a",
+            "options": [
+                "Semiconductor",
+                "Insulator",
+                "Conductor",
+                "Resistor"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A substance that allows electric current to flow through it easily is called a conductor. Conductors have a large number of free electrons that facilitate the flow of charge (such as metals like copper, aluminum, and silver)."
+        },
+        {
+            "id": 31,
+            "question": "Which of the following substances is used as the filament for an electric bulb?",
+            "options": [
+                "Tungsten",
+                "Copper",
+                "Nichrome",
+                "Aluminum"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Tungsten is used as the filament for electric bulbs because it has an extremely high melting point (around 3380 °C) and high resistivity, allowing it to retain its shape and glow brightly at very high temperatures without melting or burning out."
+        },
+        {
+            "id": 32,
+            "question": "Which of the following materials is considered the best conductor of electricity?",
+            "options": [
+                "Iron",
+                "Silver",
+                "Copper",
+                "Aluminum"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Silver is the best electrical conductor among all metals because it possesses the lowest electrical resistivity and highest conductivity. However, copper and aluminum are more widely used for practical electrical wiring and power lines due to economic and availability factors."
+        },
+        {
+            "id": 33,
+            "question": "When resistances are connected end to end in a single path, this connection is called",
+            "options": [
+                "Mixed combination",
+                "Series combination",
+                "Bridge connection",
+                "Parallel combination"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When resistances are connected end-to-end, it is called a series combination. In this arrangement, the same electric current flows through all the resistors, and the equivalent total resistance is equal to the sum of the individual resistances (R_s = R_1 + R_2 + R_3 + ...)."
+        },
+        {
+            "id": 34,
+            "question": "The connection in which all the appliances are connected together across common terminals to a source or battery is called",
+            "options": [
+                "Parallel combination",
+                "Bridge connection",
+                "Series combination",
+                "Mixed combination"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In a parallel combination, electrical appliances are connected across the same potential difference, providing separate paths for current. This ensures that every appliance receives the full source voltage and can operate independently with its own switch."
+        },
+        {
+            "id": 35,
+            "question": "In a series connection of resistors, the voltage across each individual component is",
+            "options": [
+                "Always equal to zero",
+                "Equal to the total source voltage for every component",
+                "Divided or different across each component, proportional to its resistance",
+                "The same across all components"
+            ],
+            "correctAnswer": 2,
+            "explanation": "In a series combination, the same electric current flows through all the components, but the total potential difference is divided among them. The voltage drop across each resistor is proportional to its resistance, and the sum of individual voltage drops equals the total applied voltage (V = V_1 + V_2 + V_3 + ...)."
+        },
+        {
+            "id": 36,
+            "question": "In a parallel connection, the voltage across all the components is",
+            "options": [
+                "The same across all components",
+                "Proportional to the resistance of each component",
+                "Zero",
+                "Divided among the components"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In a parallel connection, all appliances or resistors are connected across the same two common points, meaning the potential difference (voltage) across each individual component is the same and equal to the source voltage, while the total circuit current is divided among the parallel branches."
+        },
+        {
+            "id": 37,
+            "question": "In a parallel connection, the electric current through each individual component is",
+            "options": [
+                "Equal to the total current multiplied by the number of components",
+                "Divided among the components depending on their resistance",
+                "The same across all components",
+                "Always equal to zero"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In a parallel connection, the total current entering the circuit divides among the parallel branches. The current through each individual component depends on its resistance (inversely proportional, by Ohm's law), and the total circuit current is the sum of the currents through all the individual branches (I = I_1 + I_2 + I_3 + ...)."
+        },
+        {
+            "id": 38,
+            "question": "When several resistors are connected in series, the total equivalent resistance of the combination is",
+            "options": [
+                "Less than the smallest individual resistance",
+                "Equal to the product of individual resistances",
+                "Equal to the sum of individual resistances",
+                "Equal to the reciprocal sum of individual resistances"
+            ],
+            "correctAnswer": 2,
+            "explanation": "In a series combination, the total equivalent resistance is equal to the sum of all individual resistances (R_s = R_1 + R_2 + R_3 + ...). Because of this, connecting resistors in series increases the overall resistance of the circuit to a value greater than any individual component."
+        },
+        {
+            "id": 39,
+            "question": "What is the formula for the equivalent total resistance (R) of resistors connected in a parallel combination?",
+            "options": [
+                "R = R_1 + R_2 + R_3",
+                "R = R_1 - R_2 - R_3",
+                "1/R = 1/R_1 + 1/R_2 + 1/R_3",
+                "R = (R_1 × R_2 × R_3) / (R_1 + R_2 + R_3)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When resistors are connected in parallel, the reciprocal of the equivalent total resistance is equal to the sum of the reciprocals of the individual resistances (1/R = 1/R_1 + 1/R_2 + 1/R_3). Because of this reciprocal relationship, the total equivalent resistance in a parallel circuit is always less than the smallest individual resistance in that combination."
+        },
+        {
+            "id": 40,
+            "question": "What is the formula for the equivalent total resistance (R) of resistors connected in a series combination?",
+            "options": [
+                "R = R_1 - R_2 - R_3",
+                "R = R_1 + R_2 + R_3",
+                "1/R = 1/R_1 + 1/R_2 + 1/R_3",
+                "R = (R_1 × R_2) / (R_1 + R_2)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When resistors are connected in series, the total equivalent resistance is simply the sum of all individual resistances (R = R_1 + R_2 + R_3). Consequently, the equivalent resistance in a series circuit is always greater than any individual resistor in that chain."
+        },
+        {
+            "id": 41,
+            "question": "What is the formula for the heat (H) produced by an electric current flowing through a resistor of resistance R for time t?",
+            "options": [
+                "H = I^2Rt",
+                "H = I / (Rt)",
+                "H = V^2It",
+                "H = IR^2t"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to Joule's law of heating, the heat produced in a resistor is directly proportional to the square of current (I^2), the resistance of the circuit (R), and the time (t) for which the current flows, giving the formula H = I^2Rt."
+        },
+        {
+            "id": 42,
+            "question": "What is the correct mathematical relation between electric power (P), voltage (V), and current (I)?",
+            "options": [
+                "P = I / V",
+                "P = V * I",
+                "P = V + I",
+                "P = V / I"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Electric power (P) is defined as the rate at which electrical work is done or energy is consumed in a circuit. It is given by the product of the potential difference (voltage, V) and the electric current (I), represented by the formula P = VI. Its SI unit is the watt (W)."
+        },
+        {
+            "id": 43,
+            "question": "An electric fuse is always connected in which part of an electrical circuit?",
+            "options": [
+                "Series with the live wire",
+                "Parallel with the live wire",
+                "Parallel with the earth wire",
+                "Series with the neutral wire"
+            ],
+            "correctAnswer": 0,
+            "explanation": "An electric fuse is always connected in series with the live wire. Because it is in series, the total current of the circuit passes through it. If a fault causes the current to exceed safe limits (due to overloading or short-circuiting), the fuse wire heats up and melts, automatically breaking the circuit and protecting appliances."
+        },
+        {
+            "id": 44,
+            "question": "The rate of doing work or the rate at which energy is consumed is called",
+            "options": [
+                "Momentum",
+                "Power",
+                "Energy",
+                "Force"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Power is defined as the rate of doing work or the rate at which work is transferred or consumed over time (P = W/t). In an electric circuit, electric power represents the rate at which electrical energy is transformed into other forms of energy like heat, light, or mechanical work."
+        },
+        {
+            "id": 45,
+            "question": "What is the SI unit of electric power?",
+            "options": [
+                "Ampere",
+                "Watt",
+                "Joule",
+                "Volt"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The SI unit of electric power is the watt (W), named after the Scottish inventor James Watt. One watt of power is consumed when an electric device operates at a potential difference of 1 volt with a current of 1 ampere flowing through it (1 W = 1 V × 1 A)."
+        },
+        {
+            "id": 46,
+            "question": "When an electrical power of one kilowatt is used continuously for one hour, the energy consumed is equal to one",
+            "options": [
+                "Ampere-hour",
+                "Kilowatt-hour (kWh)",
+                "Watt-second",
+                "Joule per second"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The commercial unit of electrical energy is the kilowatt-hour (kWh), often simply referred to as a 'unit' of electricity. One kilowatt-hour is defined as the electrical energy consumed when a device of 1000 watts power operates for one hour (1 kWh = 3.6 x 10^6 joules)."
+        }
     ]
 }

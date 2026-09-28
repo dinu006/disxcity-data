@@ -1,0 +1,657 @@
+{
+    "chapter": "Sound",
+    "class": "Class-IX",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "The sound of human voice is produced due to the vibration of which part?",
+            "options": [
+                "Vocal cords",
+                "Lungs",
+                "Teeth",
+                "Windpipe"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In humans, sound is produced by the voice box or larynx. Inside the larynx, two vocal cords are stretched with a narrow slit between them. When air is forced through this slit by the lungs, the vocal cords vibrate to produce sound."
+        },
+        {
+            "id": 2,
+            "question": "The matter or substance through which sound is transmitted is called:",
+            "options": [
+                "Radiation",
+                "Vacuum",
+                "Medium",
+                "Frequency"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Sound needs a substance or matter to travel through, which is known as a medium. This medium can be solid, liquid, or gas. Sound cannot travel through a vacuum because there is no matter present."
+        },
+        {
+            "id": 3,
+            "question": "Sound waves are characterized by the motion of particles in the medium and are called:",
+            "options": [
+                "Electromagnetic waves",
+                "Matter waves",
+                "Transverse waves",
+                "Mechanical waves"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, sound waves require a material medium to propagate and are characterized by the motion of particles within that medium, which is why they are classified as mechanical waves."
+        },
+        {
+            "id": 4,
+            "question": "What is the correct definition for compression in a medium due to a sound wave?",
+            "options": [
+                "A region of high pressure and high density",
+                "A region of low pressure and low density",
+                "A region where particles move perpendicular to the wave propagation",
+                "A region where no particles are present"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, a compression is the region of high pressure and high density created when a vibrating object moves forward and pushes the surrounding air particles closer together."
+        },
+        {
+            "id": 5,
+            "question": "The region of low pressure and low density created in a medium during the propagation of a sound wave is called:",
+            "options": [
+                "Amplitude",
+                "Compression",
+                "Rarefaction",
+                "Frequency"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When a vibrating object moves backward, it creates a region of low pressure and low density in the medium, which is called a rarefaction (R). In this region, the particles are spread apart compared to normal pressure."
+        },
+        {
+            "id": 6,
+            "question": "What is the region of high pressure and high density in a medium created by a vibration called?",
+            "options": [
+                "Amplitude",
+                "Wavelength",
+                "Rarefaction",
+                "Compression"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, a compression is a region of high pressure and high density where the particles of the medium are crowded closer together when a vibrating object moves forward."
+        },
+        {
+            "id": 7,
+            "question": "What are the two main types of waves based on the direction of particle motion relative to wave propagation?",
+            "options": [
+                "Longitudinal waves and Transverse waves",
+                "Mechanical waves and Electromagnetic waves",
+                "Sound waves and Light waves",
+                "Stationary waves and Progressive waves"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Depending on the direction of vibration of the particles relative to the direction of wave propagation, mechanical waves are classified into two types: longitudinal waves (where particles oscillate parallel to the wave direction, like sound waves) and transverse waves (where particles oscillate perpendicular to the wave direction)."
+        },
+        {
+            "id": 8,
+            "question": "Sound wave is an example of which type of wave?",
+            "options": [
+                "Electromagnetic wave",
+                "Transverse wave",
+                "Longitudinal wave",
+                "Surface wave"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, a sound wave is a longitudinal wave because the individual particles of the medium vibrate in a direction parallel to the direction of the propagation of the wave disturbance."
+        },
+        {
+            "id": 9,
+            "question": "The waves in which the individual particles of the medium move in a direction parallel to the direction of propagation of the disturbance are called:",
+            "options": [
+                "Electromagnetic waves",
+                "Stationary waves",
+                "Transverse waves",
+                "Longitudinal waves"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, in a longitudinal wave, the individual particles of the medium oscillate back and forth parallel to the direction in which the wave travels or propagates. Sound waves are a primary example of longitudinal waves."
+        },
+        {
+            "id": 10,
+            "question": "The to-and-fro or back-and-forth motion of the particles of a medium about their mean position is called:",
+            "options": [
+                "Propagation",
+                "Reflection",
+                "Vibration (or Oscillation)",
+                "Rarefaction"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, the to-and-fro or back-and-forth motion of an object or particles of a medium about its mean position is known as a vibration or oscillation, which is responsible for producing and transmitting sound waves."
+        },
+        {
+            "id": 11,
+            "question": "The waves in which the particles of the medium oscillate up and down (perpendicular to the direction of propagation) are called:",
+            "options": [
+                "Sound waves",
+                "Electromagnetic waves",
+                "Transverse waves",
+                "Longitudinal waves"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, in a transverse wave, the individual particles of the medium move up and down perpendicular to the direction in which the wave propagates (such as waves on a string or light waves)."
+        },
+        {
+            "id": 12,
+            "question": "In a longitudinal wave, the individual particles of the medium move:",
+            "options": [
+                "In a circular path",
+                "Parallel to the direction of wave propagation",
+                "Perpendicular to the direction of wave propagation",
+                "Randomly in all directions"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, in a longitudinal wave, the particles of the medium oscillate back and forth parallel to the direction in which the wave travels or propagates, creating regions of compression and rarefaction."
+        },
+        {
+            "id": 13,
+            "question": "The peak or highest point of a transverse wave is called:",
+            "options": [
+                "Compression",
+                "Crest",
+                "Trough",
+                "Rarefaction"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to wave mechanics in NCERT, the highest point or peak of a transverse wave is called a crest, whereas the lowest point or valley is called a trough."
+        },
+        {
+            "id": 14,
+            "question": "The lowest point or valley in a transverse wave is called:",
+            "options": [
+                "Compression",
+                "Crest",
+                "Rarefaction",
+                "Trough"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to wave mechanics, the highest point or peak of a transverse wave is called a crest, while the lowest point or valley is called a trough."
+        },
+        {
+            "id": 15,
+            "question": "The distance between two consecutive compressions or two consecutive rarefactions is called:",
+            "options": [
+                "Wavelength",
+                "Amplitude",
+                "Frequency",
+                "Time period"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the distance between two consecutive compressions (C) or two consecutive rarefactions (R) is called the wavelength. It is usually represented by the Greek letter lambda and its SI unit is the metre (m)."
+        },
+        {
+            "id": 16,
+            "question": "The wavelength is usually represented by which symbol?",
+            "options": [
+                "Nu",
+                "Mu",
+                "Lambda",
+                "Alpha"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, wavelength is usually represented by the Greek letter lambda. Its SI unit is the metre (m)."
+        },
+        {
+            "id": 17,
+            "question": "The SI unit of wavelength is:",
+            "options": [
+                "Second",
+                "Metre per second",
+                "Hertz",
+                "Metre"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, since wavelength is a measure of distance (the distance between two consecutive compressions or rarefactions), its SI unit is the metre (m)."
+        },
+        {
+            "id": 18,
+            "question": "When was the German physicist Heinrich Rudolf Hertz born?",
+            "options": [
+                "February 22, 1857",
+                "January 1, 1894",
+                "March 14, 1879",
+                "July 15, 1860"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Heinrich Rudolf Hertz, the physicist after whom the SI unit of frequency (hertz) is named, was born on February 22, 1857, in Hamburg, German Confederation."
+        },
+        {
+            "id": 19,
+            "question": "Where was the German physicist Heinrich Rudolf Hertz born?",
+            "options": [
+                "Munich, Germany",
+                "Hamburg, Germany",
+                "Berlin, Germany",
+                "Vienna, Austria"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Heinrich Rudolf Hertz was born in Hamburg, Germany (then the German Confederation) on February 22, 1857. The SI unit of frequency, the hertz (Hz), is named in his honor."
+        },
+        {
+            "id": 20,
+            "question": "Who confirmed J. C. Maxwell's electromagnetic theory by his experiment?",
+            "options": [
+                "Isaac Newton",
+                "Albert Einstein",
+                "Heinrich Rudolf Hertz",
+                "Michael Faraday"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Heinrich Rudolf Hertz successfully confirmed James Clerk Maxwell's electromagnetic theory through his pioneering experiments by producing and detecting electromagnetic waves in the laboratory."
+        },
+        {
+            "id": 21,
+            "question": "Who laid the foundation for the future development of radio, telephone, telegraph, and television through his work on electromagnetic waves?",
+            "options": [
+                "Alexander Graham Bell",
+                "Heinrich Rudolf Hertz",
+                "Guglielmo Marconi",
+                "James Clerk Maxwell"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to the NCERT textbook, Heinrich Rudolf Hertz's work in producing and detecting electromagnetic waves laid the foundation for the future development of radio, telephone, telegraph, and television."
+        },
+        {
+            "id": 22,
+            "question": "Who discovered the phenomenon of photoelectric emission?",
+            "options": [
+                "Albert Einstein",
+                "Max Planck",
+                "J. J. Thomson",
+                "Heinrich Rudolf Hertz"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, the phenomenon of photoelectric emission was discovered in 1887 by Heinrich Rudolf Hertz during his electromagnetic wave experiments. (Note: While Einstein later provided the theoretical explanation for it using light quanta, the initial discovery of the effect belongs to Hertz.)"
+        },
+        {
+            "id": 23,
+            "question": "Who discovered the photoelectric effect?",
+            "options": [
+                "Heinrich Rudolf Hertz",
+                "Albert Einstein",
+                "Max Planck",
+                "J. J. Thomson"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The phenomenon of the photoelectric effect was first experimentally observed and discovered by Heinrich Rudolf Hertz in 1887 during his work on electromagnetic waves. (Albert Einstein later provided the theoretical explanation for it, for which he received the Nobel Prize.)"
+        },
+        {
+            "id": 24,
+            "question": "The number of complete oscillations or vibrations per unit time is called:",
+            "options": [
+                "Wavelength",
+                "Frequency",
+                "Amplitude",
+                "Time period"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, the number of complete oscillations or cycles per unit time is known as frequency. Its SI unit is the hertz (Hz)."
+        },
+        {
+            "id": 25,
+            "question": "The SI unit of frequency is:",
+            "options": [
+                "Metre",
+                "Second",
+                "Hertz",
+                "Metre per second"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, the SI unit of frequency is hertz (Hz), named after the physicist Heinrich Rudolf Hertz. One hertz is equal to one cycle or oscillation per second."
+        },
+        {
+            "id": 26,
+            "question": "What is the SI unit of frequency?",
+            "options": [
+                "Newton",
+                "Metre",
+                "Second",
+                "Hertz"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, the SI unit of frequency is the hertz (Hz), named after the German physicist Heinrich Rudolf Hertz. One hertz is equal to one complete oscillation or cycle per second."
+        },
+        {
+            "id": 27,
+            "question": "The time taken for one complete oscillation (or cycle) of a wave is called:",
+            "options": [
+                "Time period",
+                "Frequency",
+                "Amplitude",
+                "Wavelength"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the time taken for one complete oscillation in the pressure or density of the medium is known as the time period of the wave. Its SI unit is the second (s)."
+        },
+        {
+            "id": 28,
+            "question": "How are the time period (T) and frequency of a wave related to each other?",
+            "options": [
+                "Frequency is directly proportional to the time period",
+                "Frequency has no relation with the time period",
+                "Frequency is equal to the square of the time period",
+                "Frequency is the reciprocal of the time period"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, the frequency of a wave is the reciprocal of its time period, which can be expressed mathematically as frequency = 1 / time period (or v = 1 / T)."
+        },
+        {
+            "id": 29,
+            "question": "A higher frequency of sound corresponds to:",
+            "options": [
+                "A lower pitch",
+                "No change in pitch",
+                "A higher pitch",
+                "Zero amplitude"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, the pitch of a sound is determined by its frequency. A higher frequency produces a higher pitch (a shriller sound), whereas a lower frequency produces a lower pitch."
+        },
+        {
+            "id": 30,
+            "question": "The magnitude of the maximum disturbance in the medium on either side of the mean value is called:",
+            "options": [
+                "Wavelength",
+                "Amplitude",
+                "Frequency",
+                "Time period"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, the magnitude of the maximum disturbance in the medium on either side of the mean value is called the amplitude of the wave. It is usually represented by the letter A, and for sound waves, it is related to the loudness or volume of the sound."
+        },
+        {
+            "id": 31,
+            "question": "The loudness or softness of a sound is determined primarily by its:",
+            "options": [
+                "Amplitude",
+                "Frequency",
+                "Wavelength",
+                "Speed"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the loudness or softness of a sound is determined by its amplitude. A sound with a larger amplitude is louder, while a sound with a smaller amplitude is softer because amplitude corresponds to the magnitude of maximum disturbance in the medium."
+        },
+        {
+            "id": 32,
+            "question": "A sound of a single frequency is called a:",
+            "options": [
+                "Note",
+                "Noise",
+                "Tone",
+                "Chord"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, a sound of a single frequency is called a tone, whereas a sound that is produced by a mixture of several frequencies and is pleasant to listen to is called a note."
+        },
+        {
+            "id": 33,
+            "question": "A sound produced by a mixture of several frequencies is called a:",
+            "options": [
+                "Noise",
+                "Tone",
+                "Echo",
+                "Note"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, a sound produced by a mixture of several frequencies is called a note. While a tone consists of a single frequency, a note is a pleasant sound made up of multiple frequencies combined harmoniously."
+        },
+        {
+            "id": 34,
+            "question": "Which mathematical relation correctly represents the relationship between wave speed, frequency, and wavelength?",
+            "options": [
+                "Speed = Frequency / Wavelength",
+                "Speed = Frequency × Wavelength",
+                "Speed = Wavelength / Frequency",
+                "Speed = Frequency + Wavelength"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, the speed of a wave is indeed equal to the product of its wavelength and frequency. Since wave speed is distance traveled per unit time, and frequency is the reciprocal of time period, it simplifies to wavelength × frequency."
+        },
+        {
+            "id": 35,
+            "question": "The amount of sound energy passing each second through a unit area is called:",
+            "options": [
+                "Intensity",
+                "Loudness",
+                "Pitch",
+                "Frequency"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the amount of sound energy passing each second through a unit area is called the intensity of sound. Note that intensity is a physical quantity, whereas loudness is a measure of the ear's response to that sound."
+        },
+        {
+            "id": 36,
+            "question": "How does the speed of sound in a medium, such as air, vary with an increase in temperature?",
+            "options": [
+                "It remains constant regardless of temperature",
+                "It decreases with an increase in temperature",
+                "It increases with an increase in temperature",
+                "It becomes zero at high temperatures"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, the speed of sound depends on the properties of the medium, including its temperature. The speed of sound increases as the temperature of the medium increases (for instance, the speed of sound in air is 331 m/s at 0°C and 344 m/s at 22°C)."
+        },
+        {
+            "id": 37,
+            "question": "What happens to the speed of sound in a medium when the temperature increases?",
+            "options": [
+                "It decreases",
+                "It remains unchanged",
+                "It increases",
+                "It first increases and then becomes zero"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, the speed of sound depends on the temperature of the medium. As the temperature of the medium increases, the speed of sound also increases."
+        },
+        {
+            "id": 38,
+            "question": "Among solids, liquids, and gases, the speed of sound is generally the highest in:",
+            "options": [
+                "Liquids",
+                "Solids",
+                "Gases",
+                "It is the same in all states"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, the speed of sound depends on the properties of the medium, particularly its density and elasticity. Sound travels fastest in solids, slower in liquids, and slowest in gases."
+        },
+        {
+            "id": 39,
+            "question": "What is the approximate speed of sound in air at room temperature (22°C)?",
+            "options": [
+                "344 m/s",
+                "331 m/s",
+                "3 × 10^8 m/s",
+                "1500 m/s"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the speed of sound in air depends on temperature, being 331 m/s at 0°C and approximately 344 m/s at 22°C (room temperature)."
+        },
+        {
+            "id": 40,
+            "question": "To hear a distinct echo, what is the minimum distance that the reflecting obstacle should be from the source of sound in air at room temperature?",
+            "options": [
+                "34.4 metres",
+                "10.5 metres",
+                "17.2 metres",
+                "50.0 metres"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, the sensation of sound persists in our brain for about 0.1 s (persistence of hearing). To hear a distinct echo, the time interval between the original sound and the reflected sound must be at least 0.1 s. Given the speed of sound in air is approximately 344 m/s, the sound travels a total distance of 34.4 m in 0.1 s, meaning the obstacle must be at least half of that distance away, which is 17.2 m."
+        },
+        {
+            "id": 41,
+            "question": "What is the minimum time interval required between the original sound and the reflected sound for the human brain to perceive a distinct echo?",
+            "options": [
+                "0.1 s",
+                "0.01 s",
+                "0.5 s",
+                "1.0 s"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the sensation of sound persists in our brain for about 0.1 s (known as the persistence of hearing). Therefore, to hear a distinct echo, the minimum time duration required between the emission of the original sound and the arrival of the reflected sound is 0.1 seconds."
+        },
+        {
+            "id": 42,
+            "question": "The repeated reflection of sound in a large enclosure or hall that results in the persistence of sound is called:",
+            "options": [
+                "Reverberation",
+                "Echo",
+                "Refraction",
+                "Resonance"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, a sound created in a big hall persists because of repeated reflections from the walls. This repeated reflection that results in the persistence of sound is called reverberation."
+        },
+        {
+            "id": 43,
+            "question": "Which medical instrument is used by doctors to listen to the sounds produced within the body, chiefly the heart and lungs?",
+            "options": [
+                "Sphygmomanometer",
+                "Barometer",
+                "Stethoscope",
+                "Thermometer"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, a stethoscope is a medical instrument used for listening to sounds produced within the body, chiefly in the heart or lungs. It works on the principle of multiple reflections of sound."
+        },
+        {
+            "id": 44,
+            "question": "The audible range of sound for human beings extends from about:",
+            "options": [
+                "20 Hz to 20,000 Hz",
+                "2 Hz to 200 Hz",
+                "20,000 Hz to 200,000 Hz",
+                "1 Hz to 10 Hz"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the audible range of sound for human beings extends from about 20 Hz to 20,000 Hz (20 kHz). Children under the age of five and some animals can hear up to 25,000 Hz, while frequencies below 20 Hz are called infrasonic and above 20,000 Hz are ultrasonic."
+        },
+        {
+            "id": 45,
+            "question": "Children under the age of five can hear sounds up to approximately what frequency?",
+            "options": [
+                "10 kHz",
+                "20 kHz",
+                "50 kHz",
+                "25 kHz"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, while the normal audible range for human adults is from 20 Hz to 20,000 Hz (20 kHz), children under the age of five can hear sounds up to 25,000 Hz (25 kHz), which decreases with age as the ears become less sensitive."
+        },
+        {
+            "id": 46,
+            "question": "Sounds of frequencies higher than 20,000 Hz (20 kHz) are referred to as:",
+            "options": [
+                "Ultrasonic sound",
+                "Infrasonic sound",
+                "Audible sound",
+                "Sonic boom"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, sounds of frequencies higher than 20,000 Hz are called ultrasonic sound or ultrasound. Humans cannot hear them, but certain animals like dogs, dolphins, and bats can detect or produce them."
+        },
+        {
+            "id": 47,
+            "question": "Sounds of frequencies below how much are referred to as infrasonic sound (or infrasound)?",
+            "options": [
+                "2 Hz",
+                "200 Hz",
+                "20 Hz",
+                "2,000 Hz"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, sounds of frequencies below 20 Hz are called infrasonic sound or infrasound. Animals such as whales, elephants, and rhinoceroses communicate using infrasound."
+        },
+        {
+            "id": 48,
+            "question": "Frequencies higher than 20 kHz (or 20,000 Hz) are referred to as:",
+            "options": [
+                "Infrasound",
+                "Audible sound",
+                "Sonic boom",
+                "Ultrasound"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, sound frequencies higher than 20 kHz (20,000 Hz) are called ultrasonic sound or ultrasound. Humans are unable to hear these frequencies, but creatures like bats, dolphins, and certain insects can produce and detect them."
+        },
+        {
+            "id": 49,
+            "question": "Which of the following animals typically communicate using infrasound rather than ultrasonic sound?",
+            "options": [
+                "Bats",
+                "Whales",
+                "Dolphins",
+                "Rats"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, whales and elephants communicate using infrasonic sound (frequencies below 20 Hz). In contrast, bats, dolphins, and rats produce and use ultrasonic sounds (frequencies above 20 kHz) for navigation and communication."
+        },
+        {
+            "id": 50,
+            "question": "Which of the following animals does not produce infrasonic sound?",
+            "options": [
+                "Elephants",
+                "Bats",
+                "Whales",
+                "Rhinoceroses"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, whales, elephants, and rhinoceroses communicate using infrasonic sound (frequencies below 20 Hz). In contrast, bats produce ultrasonic sound (frequencies above 20,000 Hz) for navigation and locating prey."
+        },
+        {
+            "id": 51,
+            "question": "Which electronic device is commonly used by people with hearing impairment to amplify sound and assist them in hearing clearly?",
+            "options": [
+                "Stethoscope",
+                "Megaphone",
+                "Hearing aid",
+                "Sonar"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, people with hearing loss often use a hearing aid. It is an electronic, battery-operated device that receives sound through a microphone, amplifies the sound waves, and sends the enhanced signals to the ear via a small speaker to help individuals with impaired hearing."
+        },
+        {
+            "id": 52,
+            "question": "What is echocardiography, and which type of wave does it primarily use for medical diagnosis?",
+            "options": [
+                "An imaging technique using ultrasonic waves to study heart structure and function",
+                "A listening device using infrasonic waves to measure blood pressure",
+                "An X-ray technique using high-frequency electromagnetic radiation for bones",
+                "A surgical tool using audible sound waves to clear blocked arteries"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, echocardiography is a diagnostic technique that uses ultrasonic waves (frequencies greater than 20,000 Hz) to reflect off different parts of the heart and form a detailed image of the heart's structure and action."
+        },
+        {
+            "id": 53,
+            "question": "Which type of sound waves are used for cleaning parts in hard-to-reach places, such as electronic components, and for detecting cracks or flaws in metal blocks?",
+            "options": [
+                "Infrasonic",
+                "Ultrasonic",
+                "Audible",
+                "Subsonic"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, ultrasound (ultrasonic waves) is used in industry for cleaning objects like electronic components and spiral tubes by placing them in a cleaning solution through which ultrasonic waves are sent. It is also used to detect cracks and flaws in metal blocks used in buildings and machines."
+        },
+        {
+            "id": 54,
+            "question": "The medical procedure of using high-frequency ultrasonic waves to break small stones formed in the kidneys into fine grains is called:",
+            "options": [
+                "Ultrasonography",
+                "Echocardiography",
+                "Lithotripsy",
+                "Fluoroscopy"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, ultrasound may be employed to break small stones formed in the kidneys into fine grains, which are then flushed out with urine. This specialized medical technique using ultrasonic waves is known as lithotripsy."
+        }
+    ]
+}

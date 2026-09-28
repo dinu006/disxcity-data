@@ -106,6 +106,10 @@
         {
           "name": "Tissues",
           "file": "NCERT/Class-IX/English/2026/Science/Tissues.json"
+        },
+        {
+          "name": "Sound",
+          "file": "NCERT/Class-IX/English/2026/Science/Sound.json"
         }
       ]
     },
@@ -137,7 +141,7 @@
         },
         {
           "name": "Electricity",
-          "file": "NCERT/Class-IX/English/2026/Science/Electricity.json"
+          "file": "NCERT/Class-X/English/2026/Science/Electricity.json"
         }
       ]
     }
