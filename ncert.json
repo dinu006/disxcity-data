@@ -141,6 +141,10 @@
         {
           "name": "Electricity",
           "file": "NCERT/Class-X/English/2026/Science/Electricity.json"
+        },
+        {
+          "name": "How Do Organisms Reproduce",
+          "file": "NCERT/Class-X/English/2026/Science/How_Do_Organisms_Reproduce.json"
         }
       ]
     }

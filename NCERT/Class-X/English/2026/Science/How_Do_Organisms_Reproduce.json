@@ -6,1043 +6,892 @@
     "subject": "Science",
     "questions": [
         {
-    "id": 1,
-    "question": "Which part of the cell contains the information for the inheritance of features from parents to the next generation in the form of DNA?",
-    "options": [
-        "Cytoplasm",
-        "Nucleus (Chromosomes)",
-        "Ribosome",
-        "Cell membrane"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The chromosomes located within the nucleus of a cell contain DNA, which acts as the fundamental information source for inheriting physical and biological features from parents to the next generation."
-},
-{
-    "id": 2,
-    "question": "What is the full form of DNA?",
-    "options": [
-        "Deoxyribonucleic Acid",
-        "Ribonucleic Acid",
-        "Deoxyribose Nitrogen Acid",
-        "Dichloronucleic Acid"
-    ],
-    "correctAnswer": 0,
-    "explanation": "DNA stands for Deoxyribonucleic Acid. It is the hereditary material in humans and almost all other organisms that stores and transmits genetic information from parents to the next generation."
-},
-{
-    "id": 3,
-    "question": "The DNA in the cell nucleus is the information source for making which of the following?",
-    "options": [
-        "Proteins",
-        "Carbohydrates",
-        "Lipids",
-        "Vitamins"
-    ],
-    "correctAnswer": 0,
-    "explanation": "According to NCERT, the DNA in the cell nucleus acts as the fundamental information source for making proteins. If this information changes, different proteins are synthesized, which can lead to alterations in body design."
-},
-{
-    "id": 4,
-    "question": "Why is variation in a species important?",
-    "options": [
-        "It makes all individual organisms completely identical",
-        "It ensures the survival of the species during drastic or adverse environmental changes",
-        "It stops DNA copying completely",
-        "It prevents organisms from adapting to new habitats"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Variations are beneficial to a species because they help organisms adapt to changing environments and ensure that at least some individuals survive even when drastic environmental changes occur."
-},
-{
-    "id": 5,
-    "question": "Which of the following are NOT modes of reproduction used by single organisms?",
-    "options": [
-        "Binary fission and Budding",
-        "Fragmentation and Regeneration",
-        "Sexual reproduction and Fertilization",
-        "Spore formation and Vegetative propagation"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Modes of reproduction used by single organisms are forms of asexual reproduction involving a single parent (such as fission, budding, fragmentation, regeneration, spore formation, and vegetative propagation). Sexual reproduction and fertilization require two parents and the fusion of gametes, making them distinct from the single-organism asexual modes outlined in NCERT."
-},
-{
-    "id": 6,
-    "question": "What happens when a slice of bread is kept in a cool, moist, and dark place?",
-    "options": [
-        "It undergoes binary fission and multiplies",
-        "Spore-containing bodies of Rhizopus (bread mold) germinate and grow on it",
-        "It turns into green algae through vegetative propagation",
-        "It remains completely unchanged due to lack of sunlight"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, keeping a damp slice of bread in a cool, moist, and dark place allows airborne spores of the fungus Rhizopus (bread mold) to land, germinate, and rapidly grow thread-like structures called hyphae along with tiny blob-like structures (sporangia) containing spores."
-},
-{
-    "id": 7,
-    "question": "What happens when dry yeast granules are mixed with warm water and sugar?",
-    "options": [
-        "The yeast dissolves permanently without any visible change",
-        "The yeast cells activate and undergo budding, producing carbon dioxide gas and bubbles",
-        "The sugar completely destroys the yeast cells",
-        "The mixture turns solid and forms spores instantly"
-    ],
-    "correctAnswer": 1,
-    "explanation": "When dry yeast granules are mixed with warm water and sugar (which acts as a food source), the dormant yeast cells become active, begin to respire, and rapidly multiply through budding, producing bubbles of carbon dioxide gas."
-},
-
-{
-    "id": 8,
-    "question": "Which of the following is the correct definition of fission in unicellular organisms?",
-    "options": [
-        "The splitting of a parent cell into two or more daughter cells",
-        "The fusion of male and female gametes to form a zygote",
-        "The breaking down of an organism into pieces that grow into new individuals",
-        "The growth of a bud directly from the body of the parent organism"
-    ],
-    "correctAnswer": 0,
-    "explanation": "In unicellular organisms, fission (such as binary or multiple fission) is a form of asexual reproduction where the parent cell splits or divides into two or more daughter cells."
-},
-
-{
-    "id": 9,
-    "question": "Which statement best describes binary fission in Leishmania?",
-    "options": [
-        "It occurs in any random plane, just like in Amoeba",
-        "It occurs in a specific, organized orientation in relation to the whip-like structure (flagellum) at its end",
-        "It involves multiple cells splitting simultaneously into many daughter cells",
-        "It occurs only through spore formation under unfavorable conditions"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Yes, you are correct! In Leishmania (which causes kala-azar), binary fission occurs in a definite, organized orientation in relation to the whip-like flagellum at the end of the organism, distinguishing it from organisms like Amoeba which can split in any plane."
-},
-
-{
-    "id": 10,
-    "question": "Which of the following unicellular organisms divides into multiple daughter cells simultaneously?",
-    "options": [
-        "Amoeba",
-        "Leishmania",
-        "Plasmodium (malarial parasite)",
-        "Yeast"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, many protozoa such as Plasmodium (the malarial parasite) divide into many daughter cells simultaneously through a process called multiple fission, whereas organisms like Amoeba and Leishmania typically undergo binary fission."
-},
-
-{
-    "id": 11,
-    "question": "Which of the following unicellular organisms typically divides by binary fission under normal conditions rather than multiple fission?",
-    "options": [
-        "Plasmodium",
-        "Malarial parasite",
-        "Amoeba",
-        "Both Plasmodium and malarial parasite"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, Amoeba typically reproduces by binary fission under normal conditions by splitting into two daughter cells, whereas Plasmodium (the malarial parasite) reproduces by multiple fission, dividing into many daughter cells simultaneously."
-},
-
-
-{
-    "id": 12,
-    "question": "What is the mode of asexual reproduction in simple multicellular organisms where the body breaks up into smaller pieces upon maturation, and each piece grows into a new individual?",
-    "options": [
-        "Budding",
-        "Fragmentation",
-        "Binary fission",
-        "Regeneration"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, in simple multicellular organisms like Spirogyra, the body breaks up into smaller pieces upon maturation. These fragments grow into new individuals, a process known as fragmentation."
-},
-
-
-{
-    "id": 13,
-    "question": "Which of the following organisms uses fragmentation as a method of reproduction?",
-    "options": [
-        "Plasmodium",
-        "Malarial parasite",
-        "Spirogyra",
-        "Amoeba"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, simple multicellular organisms such as Spirogyra use fragmentation as a method of reproduction, where the body breaks up into smaller pieces upon maturation and each piece grows into a new individual."
-},
-
-
-{
-    "id": 14,
-    "question": "The process in which a fully differentiated organism can give rise to new individuals from its body parts if it is cut or broken into pieces is called:",
-    "options": [
-        "Regeneration",
-        "Fragmentation",
-        "Binary fission",
-        "Spore formation"
-    ],
-    "correctAnswer": 0,
-    "explanation": "According to NCERT, many fully differentiated organisms like Hydra and Planaria have the ability to give rise to new individual organisms from their body parts if they are cut or broken, which is known as regeneration."
-},
-
-
-{
-    "id": 15,
-    "question": "Which of the following organisms use the method of regeneration to reproduce?",
-    "options": [
-        "Malaria and parasite",
-        "Plasmodia and yeast",
-        "Spirogyra and amoeba",
-        "Hydra and planaria"
-    ],
-    "correctAnswer": 3,
-    "explanation": "According to NCERT, simple animals like Hydra and Planaria have specialized cells that can proliferate and make large numbers of cells, allowing them to give rise to new individuals if their body is cut or broken into pieces. This process is called regeneration."
-},
-
-
-
-{
-    "id": 16,
-    "question": "The process in which the body of an organism forms a bud which is then detached from the parent body to form a new individual is called:",
-    "options": [
-        "Regeneration",
-        "Budding",
-        "Fragmentation",
-        "Binary fission"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, organisms like Hydra use regenerative cells for reproduction in the process of budding, where a bud develops as an outgrowth due to repeated cell division at a specific site and eventually detaches to become a new independent individual."
-},
-
-
-
-{
-    "id": 17,
-    "question": "Which of the following organisms uses budding as a process of reproduction?",
-    "options": [
-        "Hydra",
-        "Plasmodium",
-        "Spirogyra",
-        "Amoeba"
-    ],
-    "correctAnswer": 0,
-    "explanation": "According to NCERT, Hydra uses regenerative cells for reproduction in the process of budding, where a bud develops as an outgrowth due to repeated cell division at a specific site and eventually detaches to become a new individual."
-},
-
-
-{
-    "id": 18,
-    "question": "The process in which plant parts like roots, stems, and leaves develop into new plants under appropriate conditions is called:",
-    "options": [
-        "Vegetative propagation",
-        "Spore formation",
-        "Fragmentation",
-        "Regeneration"
-    ],
-    "correctAnswer": 0,
-    "explanation": "According to NCERT, vegetative propagation is a method of asexual reproduction where new plants grow from the vegetative parts of the parent plant such as roots, stems, and leaves."
-},
-
-
-{
-    "id": 19,
-    "question": "The process in which new plants are grown by removing cells or tissue from the growing tip of a plant and placing them in an artificial nutrient medium to develop into plantlets is called:",
-    "options": [
-        "Vegetative propagation",
-        "Tissue culture",
-        "Spore formation",
-        "Fragmentation"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, in tissue culture, new plants are grown by removing tissue or separating cells from the growing tip of a plant and placing them in an artificial nutrient medium where they divide to form a callus. This callus is then transferred to a medium containing hormones for growth and differentiation before being planted in soil."
-},
-
-
-{
-    "id": 20,
-    "question": "What is the correct definition of spore formation?",
-    "options": [
-        "The splitting of a parent organism into two or more equal-sized daughter cells",
-        "The production of microscopic reproductive structures called spores inside sporangia that germinate into new individuals under favorable conditions",
-        "The growth of a new plant exclusively from underground roots and stems",
-        "The detachment of a bud from the parent organism's body"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, spore formation is a mode of asexual reproduction where microscopic reproductive structures called spores are produced (often inside blob-like structures called sporangia). When released and exposed to suitable conditions like moisture and warmth, these spores germinate to form new individuals."
-},
-
-
-{
-    "id": 21,
-    "question": "Which of the following organisms uses spore formation as a mode of reproduction?",
-    "options": [
-        "Hydra and Planaria",
-        "Spirogyra",
-        "Rhizopus (Bread mold)",
-        "Amoeba and Leishmania"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, organisms such as Rhizopus (bread mold) use spore formation, where thread-like structures develop blob-like sporangia containing spores that eventually germinate into new individuals under favorable conditions."
-},
-
-
-{
-    "id": 22,
-    "question": "What is the mode of reproduction in which only a single parent is involved without the formation and fusion of gametes?",
-    "options": [
-        "Sexual reproduction",
-        "Asexual reproduction",
-        "Cross-fertilization",
-        "Syngamy"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, asexual reproduction is the mode of reproduction where new individuals are created from a single parent without the involvement of gametes or fertilization."
-},
-
-{
-    "id": 23,
-    "question": "What is the specialized cell division process in sexually reproducing organisms that reduces the amount of DNA or chromosome number to half in germ cells?",
-    "options": [
-        "Mitosis",
-        "Meiosis (Reduction division)",
-        "Binary fission",
-        "Budding"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, sexually reproducing organisms involve specialized cells (germ cells) where the amount of DNA is reduced to half through meiosis. When two such germ cells fuse during fertilization, the original amount of DNA and chromosome number is restored in the new generation."
-},
-
-
-{
-    "id": 24,
-    "question": "In sexually reproducing organisms, what is the active and motile germ-cell called?",
-    "options": [
-        "Female gamete",
-        "Male gamete",
-        "Zygote",
-        "Spore"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, in sexually reproducing organisms where the two germ-cells are differentiated, one germ-cell is typically smaller and actively motile and is called the male gamete, while the other contains stored food and is larger, called the female gamete."
-},
-
-{
-    "id": 25,
-    "question": "In sexually reproducing organisms, what is the larger germ cell that stores food called?",
-    "options": [
-        "Female gamete",
-        "Male gamete",
-        "Zygote",
-        "Spore"
-    ],
-    "correctAnswer": 0,
-    "explanation": "According to NCERT, in sexually reproducing organisms where the two germ cells are of different types, the germ cell that is larger and stores food is called the female gamete (or egg), whereas the smaller, motile germ cell is the male gamete."
-},
-
-{
-    "id": 26,
-    "question": "What is the correct definition of a zygote?",
-    "options": [
-        "The smaller, motile germ cell that stores no food",
-        "The cell formed by the fusion of male and female gametes during fertilization",
-        "The specialized germ cell formed by meiosis in reproductive organs",
-        "The vegetative part of a plant used for tissue culture"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, a zygote is the single cell formed by the fusion of male and female gametes (fertilization) during sexual reproduction, which subsequently develops into a new organism."
-},
-
-
-{
-    "id": 27,
-    "question": "What are the four main parts (whorls) of a typical flower?",
-    "options": [
-        "Root, stem, leaves, and branches",
-        "Sepals, petals, stamens, and carpels (pistil)",
-        "Anther, filament, style, and ovary",
-        "Zygote, embryo, seed, and fruit"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, a typical flower consists of four main parts or whorls: sepals, petals, stamens (the male reproductive organ), and carpels or pistil (the female reproductive organ)."
-},
-
-
-{
-    "id": 28,
-    "question": "Which of the following correctly defines sepals in a flower?",
-    "options": [
-        "The innermost whorl containing the ovary, style, and stigma",
-        "The green, leaf-like outermost part that protects the flower in the bud stage",
-        "The brightly colored part that attracts insects for pollination",
-        "The male reproductive organ consisting of anther and filament"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, sepals form the outermost green, leaf-like whorl of a flower, whose primary function is to protect the inner delicate floral parts when the flower is in the bud stage."
-},
-
-
-
-{
-    "id": 29,
-    "question": "Which of the following correctly defines the petals in a flower?",
-    "options": [
-        "The green, leaf-like outermost part that protects the flower in the bud stage",
-        "The brightly colored part of a flower that attracts insects and animals for pollination",
-        "The male reproductive organ consisting of anther and filament",
-        "The female part consisting of stigma, style, and ovary"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, petals are usually brightly colored and sometimes scented to attract insects and other animals, which plays a crucial role in pollination."
-},
-
-
-{
-    "id": 30,
-    "question": "Which of the following correctly defines the pistil (or carpel) in a flower?",
-    "options": [
-        "The outermost green, leaf-like whorl that protects the flower in the bud stage",
-        "The brightly colored part that attracts insects for pollination",
-        "The male reproductive organ consisting of an anther and a filament",
-        "The female reproductive organ located in the center of the flower, consisting of the ovary, style, and stigma"
-    ],
-    "correctAnswer": 3,
-    "explanation": "According to NCERT, the pistil (or carpel) is the female reproductive organ situated in the center of a flower, made up of three parts: the basal ovary, the middle elongated style, and the terminal stigma which receives pollen."
-},
-
-
-{
-    "id": 31,
-    "question": "Which of the following correctly describes a stamen in a flower?",
-    "options": [
-        "The female reproductive organ consisting of stigma, style, and ovary",
-        "The male reproductive organ consisting of an anther and a filament",
-        "The green, leaf-like outermost part that protects the flower in the bud stage",
-        "The brightly colored part that attracts insects for pollination"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the stamen is the male reproductive organ of a flower, consisting of two main parts: an anther (which contains pollen grains that produce male germ-cells) and a filament."
-},
-
-
-{
-    "id": 32,
-    "question": "Which of the following two are the parts of a stamen?",
-    "options": [
-        "Ovary and style",
-        "Stigma and anther",
-        "Anther and filament",
-        "Sepal and petal"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, the stamen is the male reproductive organ of a flower and consists of two parts: the anther (which produces pollen grains containing male germ-cells) and the filament (the supporting stalk)."
-},
-
-
-{
-    "id": 33,
-    "question": "Which of the following are the parts of a pistil (carpel)?",
-    "options": [
-        "Anther and filament",
-        "Sepal and petal",
-        "Ovary, style, and stigma",
-        "Filament and style"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, the pistil (or carpel) is the female reproductive part of a flower and consists of three parts: the basal swollen ovary, the elongated middle style, and the terminal stigma."
-},
-
-
-
-{
-    "id": 34,
-    "question": "What is the female reproductive organ of a flower called?",
-    "options": [
-        "Stamen",
-        "Pistil (or carpel)",
-        "Anther",
-        "Filament"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the pistil (or carpel) is the female reproductive part of a flower, located in the center, and consists of three parts: the ovary, style, and stigma."
-},
-
-
-{
-    "id": 35,
-    "question": "What is the male reproductive organ of a flower called?",
-    "options": [
-        "Pistil (or carpel)",
-        "Stamen",
-        "Ovary",
-        "Sepal"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the stamen is the male reproductive organ of a flower, consisting of an anther and a filament, which produces pollen grains containing the male germ-cells."
-},
-
-
-
-{
-    "id": 36,
-    "question": "Which of the following plants bear unisexual flowers (flowers containing either stamens or pistils, but not both)?",
-    "options": [
-        "Hibiscus and mustard",
-        "Papaya and watermelon",
-        "Rose and petunia",
-        "Hibiscus and rose"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, flowers that contain either stamen or pistil are called unisexual flowers, with examples including papaya and watermelon. In contrast, flowers like hibiscus and mustard are bisexual because they contain both stamen and pistil."
-},
-
-
-
-{
-    "id": 37,
-    "question": "Which of the following are examples of bisexual flowers (flowers that contain both stamens and pistils)?",
-    "options": [
-        "Papaya and watermelon",
-        "Hibiscus and mustard",
-        "Watermelon and cucumber",
-        "Papaya and cucumber"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, flowers that contain both stamen and pistil are called bisexual flowers, with common examples including hibiscus and mustard. In contrast, papaya and watermelon bear unisexual flowers."
-},
-
-
-
-{
-    "id": 38,
-    "question": "Which part of the stamen produces pollen grains in a flower?",
-    "options": [
-        "Filament",
-        "Anther",
-        "Stigma",
-        "Ovary"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the stamen is the male reproductive organ made up of a filament and an anther, and it is the anther that produces pollen grains containing the male germ-cells."
-},
-
-
-
-{
-    "id": 39,
-    "question": "What is the natural color of pollen grains in flowers?",
-    "options": [
-        "Always pure white in every plant",
-        "Always bright red",
-        "They vary in color (commonly yellow, but can be white, orange, red, green, or brown depending on the plant species)",
-        "Completely transparent and colorless"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to botanical science, while yellow is the most common and recognizable color for pollen grains due to pigments like carotenoids, pollen actually exhibits a wide variety of colors—including white, orange, red, green, purple, and brown—depending entirely on the specific plant species."
-},
-
-
-
-{
-    "id": 40,
-    "question": "What is the basal, swollen, or round-shaped bottom part of a flower's pistil called?",
-    "options": [
-        "Stigma",
-        "Style",
-        "Ovary",
-        "Anther"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, the pistil is made up of three parts: the basal swollen ovary, the middle elongated style, and the terminal stigma. The round bottom part is the ovary, which contains the ovules."
-},
-
-
-
-{
-    "id": 41,
-    "question": "What is the long, elongated middle part of the pistil in a flower called?",
-    "options": [
-        "Stigma",
-        "Style",
-        "Ovary",
-        "Filament"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the pistil consists of three parts: the basal swollen ovary, the elongated middle style, and the terminal stigma."
-},
-
-
-
-{
-    "id": 42,
-    "question": "What is the terminal top part of the pistil in a flower that receives pollen grains?",
-    "options": [
-        "Ovary",
-        "Style",
-        "Stigma",
-        "Filament"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, the pistil consists of three parts: the basal ovary, the middle style, and the terminal stigma at the top, which is sticky and serves as the landing platform for pollen grains."
-},
-
-
-
-{
-    "id": 43,
-    "question": "What is the topmost, often knob-like or rounded terminal receptive surface of the pistil known as?",
-    "options": [
-        "Style",
-        "Ovary",
-        "Stigma",
-        "Anther"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT and plant anatomy, the stigma is the terminal top part of the pistil (carpel) that receives pollen grains. It is often swollen, capitate (head-like or round), or feathery to efficiently trap pollen."
-},
-
-
-
-{
-    "id": 44,
-    "question": "What is the structure contained within the ovary that bears the female germ-cells (eggs)?",
-    "options": [
-        "Pollen grain",
-        "Ovule",
-        "Style",
-        "Anther"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the ovary is the basal swollen part of the pistil that contains ovules. Each ovule contains an egg cell, which is the female gamete."
-},
-
-
-{
-    "id": 45,
-    "question": "What is formed when the male germ cell from a pollen grain fuses with the female gamete inside the ovule during fertilization?",
-    "options": [
-        "Fruit",
-        "Zygote",
-        "Spore",
-        "Anther"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the fusion of the male germ-cell (from the pollen grain) with the female gamete (egg in the ovule) during fertilization results in the formation of a zygote."
-},
-
-
-
-{
-    "id": 46,
-    "question": "What is the transfer of pollen grains from the anther to the stigma of the same flower (or another flower of the same plant) called?",
-    "options": [
-        "Cross-pollination",
-        "Self-pollination",
-        "Fertilization",
-        "Germination"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the transfer of pollen grains from the anther to the stigma of a flower is called pollination. When this transfer occurs within the same flower or another flower of the same plant, it is known as self-pollination, whereas transfer to a different plant of the same species is called cross-pollination."
-},
-
-
-{
-    "id": 47,
-    "question": "What is the transfer of pollen grains from the anther to the stigma of another plant of the same species called?",
-    "options": [
-        "Self-pollination",
-        "Cross-pollination",
-        "Fertilization",
-        "Germination"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, when pollen grains are transferred from the anther of a flower to the stigma of another flower on a different plant of the same species, it is called cross-pollination."
-},
-
-
-
-{
-    "id": 48,
-    "question": "Through which part of the pistil does the pollen tube grow and pass to reach the ovary after landing on the stigma?",
-    "options": [
-        "Anther",
-        "Filament",
-        "Style",
-        "Sepal"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, after pollen grains land on the sticky stigma, they germinate and form a pollen tube that grows down through the elongated **style** to reach the ovary and deliver the male germ-cells to the ovule."
-},
-
-
-
-{
-    "id": 49,
-    "question": "After fertilization, the zygote divides several times to form what inside the ovule?",
-    "options": [
-        "Seed",
-        "Fruit",
-        "Embryo",
-        "Pollen tube"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, after fertilization, the zygote divides several times to form an embryo within the ovule. The ovule subsequently develops a tough coat and turns into a seed, while the ovary ripens into a fruit."
-},
-
-
-
-{
-    "id": 50,
-    "question": "After fertilization, the ovule develops a tough coat and is converted into which of the following?",
-    "options": [
-        "Fruit",
-        "Seed",
-        "Zygote",
-        "Flower"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, after fertilization, the zygote divides several times to form an embryo within the ovule. The ovule develops a tough protective coat and is converted into a seed, while the ovary ripens into a fruit."
-},
-
-
-
-{
-    "id": 51,
-    "question": "What is the process by which the embryo inside a seed develops into a seedling under appropriate conditions?",
-    "options": [
-        "Pollination",
-        "Fertilization",
-        "Germination",
-        "Dispersal"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, the seed contains the future plant or embryo which develops into a seedling under appropriate conditions (like adequate water, oxygen, and temperature). This process is known as germination."
-},
-
-
-{
-    "id": 52,
-    "question": "What is the period during adolescence when the rate of general body growth begins to slow down and reproductive tissues begin to mature called?",
-    "options": [
-        "Metamorphosis",
-        "Puberty",
-        "Germination",
-        "Pollination"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT science content, adolescence is marked by several changes in the body, and the period during adolescence when the rate of general body growth begins to slow down and reproductive tissues begin to mature is called puberty."
-},
-
-
-
-{
-    "id": 53,
-    "question": "Where are the male germ-cells or sperms produced in the human male reproductive system?",
-    "options": [
-        "Vas deferens",
-        "Testes",
-        "Prostate gland",
-        "Seminal vesicle"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the male reproductive system includes the testes which are located outside the abdominal cavity in the scrotum. The formation of germ-cells or sperms takes place in the testes."
-},
-
-
-{
-    "id": 54,
-    "question": "Where are the testes located in the human male reproductive system, which helps maintain a lower temperature required for sperm production?",
-    "options": [
-        "Inside the abdominal cavity",
-        "Inside the urinary bladder",
-        "In the scrotum outside the abdominal cavity",
-        "Inside the prostate gland"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, the testes are located outside the abdominal cavity in a pouch-like sac called the scrotum because the sperm formation requires a lower temperature than the normal body temperature."
-},
-
-
-{
-    "id": 55,
-    "question": "Why are the testes located in the scrotum outside the abdominal cavity?",
-    "options": [
-        "To provide a higher temperature for sperm production",
-        "To provide a lower temperature (than normal body temperature) required for sperm production",
-        "To store urine before excretion",
-        "To secrete testosterone directly into the bloodstream"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the testes are located in the scrotum outside the abdominal cavity because sperm formation requires a temperature lower than the normal body temperature."
-},
-
-
-{
-    "id": 56,
-    "question": "Which hormone is produced by the testes in human males?",
-    "options": [
-        "Estrogen",
-        "Testosterone",
-        "Progesterone",
-        "Insulin"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the testes perform two main functions: they produce the male germ-cells (sperms) and they secrete the hormone testosterone, which brings about changes in appearance seen in boys at the time of puberty."
-},
-
-
-{
-    "id": 57,
-    "question": "What is the tube through which sperms are delivered from the testes to the urethra in the human male reproductive system?",
-    "options": [
-        "Ureter",
-        "Vas deferens",
-        "Fallopian tube",
-        "Urethra"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the sperms formed in the testes are delivered through a fine tube called the vas deferens, which unites with a tube coming from the urinary bladder to form a common passage called the urethra."
-},
-
-
-{
-    "id": 58,
-    "question": "The vas deferens unites with a tube coming from the urinary bladder to form a common passage for both sperms and urine called:",
-    "options": [
-        "Ureter",
-        "Urethra",
-        "Fallopian tube",
-        "Vas deferens"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the vas deferens unites with a tube coming from the urinary bladder to form a common passage called the urethra, which carries both sperms and urine out of the body through the penis."
-},
-
-
-{
-    "id": 59,
-    "question": "Which glands add their secretions along the path of the vas deferens before the sperms enter the urethra?",
-    "options": [
-        "Adrenal and Pituitary glands",
-        "Prostate gland and seminal vesicles",
-        "Thyroid and parathyroid glands",
-        "Sweat and sebaceous glands"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, along the path of the vas deferens, glands like the prostate gland and seminal vesicles add their secretions so that the sperms are carried in a fluid which makes their transport easier and also provides nutrition."
-},
-
-
-{
-    "id": 60,
-    "question": "According to NCERT, sperms are tiny bodies that mainly consist of which two primary components?",
-    "options": [
-        "Testes and scrotum",
-        "Genetic material and a long tail",
-        "Prostate gland and seminal vesicle",
-        "Urethra and vas deferens"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT Class 10 Science, sperms are tiny bodies that consist of mainly genetic material (located in the head region) and a long tail, which helps them move towards the female germ-cell."
-},
-
-
-{
-    "id": 61,
-    "question": "Where are the female germ-cells or eggs produced in the human female reproductive system?",
-    "options": [
-        "Fallopian tube",
-        "Ovaries",
-        "Uterus",
-        "Vagina"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, female germ-cells or eggs are produced in the ovaries. The ovaries are also responsible for producing female hormones."
-},
-
-
-{
-    "id": 62,
-    "question": "Which organ in the human female reproductive system is responsible for producing the female hormone estrogen?",
-    "options": [
-        "Uterus",
-        "Fallopian tube",
-        "Ovary",
-        "Cervix"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, the ovaries produce female germ-cells (eggs) and also secrete female hormones such as estrogen and progesterone."
-},
-
-
-{
-    "id": 63,
-    "question": "Through which tube are the eggs carried from the ovary to the uterus (womb) in the human female reproductive system?",
-    "options": [
-        "Urethra",
-        "Vas deferens",
-        "Fallopian tube (Oviduct)",
-        "Cervix"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT, the eggs produced by the ovaries are carried from the ovaries to the uterus (womb) through a thin, tube-like structure called the oviduct or fallopian tube."
-},
-
-
-
-{
-    "id": 64,
-    "question": "What is the elastic bag-like structure into which the oviducts unite, where the growth and development of the fetus takes place?",
-    "options": [
-        "Ovary",
-        "Uterus",
-        "Vagina",
-        "Cervix"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the two oviducts unite into an elastic bag-like structure known as the uterus (or womb), where the development of the fertilized egg into a fetus takes place."
-},
-
-
-{
-    "id": 65,
-    "question": "Through which structure does the uterus open into the vagina in the human female reproductive system?",
-    "options": [
-        "Fallopian tube",
-        "Cervix",
-        "Ovary",
-        "Urethra"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the uterus opens into the vagina through a narrow structure called the cervix."
-},
-
-
-{
-    "id": 66,
-    "question": "What is the fertilized egg formed by the fusion of a sperm and an egg in the human female reproductive system called?",
-    "options": [
-        "Embryo",
-        "Zygote",
-        "Fetus",
-        "Placenta"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, fertilization typically takes place in the fallopian tube (oviduct) where the sperm fuses with the egg, and the resulting fertilized egg is called a zygote."
-},
-
-
-
-{
-    "id": 67,
-    "question": "Where does the zygote divide and get implanted for further development in the human female reproductive system?",
-    "options": [
-        "In the ovary",
-        "In the lining of the uterus",
-        "In the fallopian tube",
-        "In the cervix"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT Class 10 Science, the zygote gets implanted in the lining of the uterus, where it divides and develops into an embryo, getting nourishment from the mother's blood through a special tissue called the placenta."
-},
-
-
-{
-    "id": 68,
-    "question": "What is the special disk-shaped tissue embedded in the uterine wall that provides nutrition and oxygen from the mother's blood to the embryo?",
-    "options": [
-        "Fallopian tube",
-        "Placenta",
-        "Cervix",
-        "Amniotic sac"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT Class 10 Science, the embryo gets nutrition from the mother's blood with the help of a special disc-shaped tissue called the placenta. It provides a large surface area for oxygen and glucose to pass from the mother to the developing embryo, and for waste products to be removed."
-},
-
-
-
-{
-    "id": 69,
-    "question": "What is the average duration of the development of the embryo inside the mother's womb (gestation period) in humans?",
-    "options": [
-        "6 months",
-        "9 months",
-        "12 months",
-        "3 months"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, the development of the child inside the mother's womb takes approximately 9 months, a period known as gestation, after which the child is born as a result of rhythmic contractions of the muscles in the uterus."
-},
-
-
-{
-    "id": 70,
-    "question": "What is the process called when the thick, spongy lining of the uterus breaks down and comes out through the vagina along with blood and mucus if the egg is not fertilized?",
-    "options": [
-        "Ovulation",
-        "Menstruation",
-        "Implantation",
-        "Gestations"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, if the egg is not fertilized, the lining of the uterus is not needed and slowly breaks, coming out through the vagina as blood and mucus. This cycle lasts for about two to eight days and is known as menstruation."
-},
-
-
-{
-    "id": 71,
-    "question": "Which of the following barrier methods used on the penis can help prevent the transmission of sexually transmitted diseases like HIV-AIDS while also acting as a contraceptive?",
-    "options": [
-        "IUD (Intrauterine Device)",
-        "Oral contraceptive pills",
-        "Condom",
-        "Tubectomy"
-    ],
-    "correctAnswer": 2,
-    "explanation": "According to NCERT Class 10 Science, the use of barrier methods such as condoms on the penis helps prevent the transmission of sexually transmitted infections (STIs) such as bacterial infections (gonorrhoea, syphilis) and viral infections (HIV-AIDS) alongside preventing pregnancy."
-},
-
-
-
-{
-    "id": 72,
-    "question": "What is the function of the seminal vesicles in the human male reproductive system?",
-    "options": [
-        "To produce male germ-cells or sperms",
-        "To add secretions that make the transport of sperms easier and provide nutrition",
-        "To store urine temporarily before excretion",
-        "To secrete the male hormone testosterone"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, along the path of the vas deferens, glands like the prostate gland and seminal vesicles add their secretions to the sperms, providing a fluid medium that makes their transport easier and also supplies nutrition."
-},
-
-
-
-{
-    "id": 73,
-    "question": "What is the function of the prostate gland in the human male reproductive system?",
-    "options": [
-        "To produce male germ-cells or sperms",
-        "To add secretions along the path of the vas deferens that make sperm transport easier and provide nutrition",
-        "To produce the male hormone testosterone",
-        "To filter waste products from the blood"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, along the path of the vas deferens, the prostate gland and seminal vesicles add their secretions to the sperms, which carries them in a fluid medium that makes their transport easier and also provides nutrition."
-},
-
-
-{
-    "id": 74,
-    "question": "What is the primary purpose of a Copper-T in the human reproductive system?",
-    "options": [
-        "To produce female hormones like estrogen and progesterone",
-        "To prevent pregnancy by acting as an intrauterine contraceptive device",
-        "To prevent the transmission of sexually transmitted diseases like HIV-AIDS",
-        "To help in the implantation of the zygote in the uterus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "According to NCERT, a Copper-T is placed in the uterus as an intrauterine contraceptive device (IUD) to prevent pregnancy. However, unlike barrier methods such as condoms, IUDs like Copper-T do not protect against sexually transmitted infections (STIs)."
-}
+            "id": 1,
+            "question": "Which part of the cell contains the information for the inheritance of features from parents to the next generation in the form of DNA?",
+            "options": [
+                "Nucleus (Chromosomes)",
+                "Cytoplasm",
+                "Ribosome",
+                "Cell membrane"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The chromosomes located within the nucleus of a cell contain DNA, which acts as the fundamental information source for inheriting physical and biological features from parents to the next generation[cite: 1]."
+        },
+        {
+            "id": 2,
+            "question": "What is the full form of DNA?",
+            "options": [
+                "Ribonucleic Acid",
+                "Deoxyribonucleic Acid",
+                "Deoxyribose Nitrogen Acid",
+                "Dichloronucleic Acid"
+            ],
+            "correctAnswer": 1,
+            "explanation": "DNA stands for Deoxyribonucleic Acid. It is the hereditary material in humans and almost all other organisms that stores and transmits genetic information from parents to the next generation[cite: 1]."
+        },
+        {
+            "id": 3,
+            "question": "The DNA in the cell nucleus is the information source for making which of the following?",
+            "options": [
+                "Carbohydrates",
+                "Lipids",
+                "Proteins",
+                "Vitamins"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, the DNA in the cell nucleus acts as the fundamental information source for making proteins. If this information changes, different proteins are synthesized, which can lead to alterations in body design[cite: 1]."
+        },
+        {
+            "id": 4,
+            "question": "Why is variation in a species important?",
+            "options": [
+                "It makes all individual organisms completely identical",
+                "It stops DNA copying completely",
+                "It prevents organisms from adapting to new habitats",
+                "It ensures the survival of the species during drastic or adverse environmental changes"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Variations are beneficial to a species because they help organisms adapt to changing environments and ensure that at least some individuals survive even when drastic environmental changes occur[cite: 1]."
+        },
+        {
+            "id": 5,
+            "question": "Which of the following are NOT modes of reproduction used by single organisms?",
+            "options": [
+                "Sexual reproduction and Fertilization",
+                "Binary fission and Budding",
+                "Fragmentation and Regeneration",
+                "Spore formation and Vegetative propagation"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Modes of reproduction used by single organisms are forms of asexual reproduction involving a single parent (such as fission, budding, fragmentation, regeneration, spore formation, and vegetative propagation). Sexual reproduction and fertilization require two parents and the fusion of gametes, making them distinct from the single-organism asexual modes outlined in NCERT[cite: 1]."
+        },
+        {
+            "id": 6,
+            "question": "What happens when a slice of bread is kept in a cool, moist, and dark place?",
+            "options": [
+                "It turns into green algae through vegetative propagation",
+                "Spore-containing bodies of Rhizopus (bread mold) germinate and grow on it",
+                "It undergoes binary fission and multiplies",
+                "It remains completely unchanged due to lack of sunlight"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, keeping a damp slice of bread in a cool, moist, and dark place allows airborne spores of the fungus Rhizopus (bread mold) to land, germinate, and rapidly grow thread-like structures called hyphae along with tiny blob-like structures (sporangia) containing spores[cite: 1]."
+        },
+        {
+            "id": 7,
+            "question": "What happens when dry yeast granules are mixed with warm water and sugar?",
+            "options": [
+                "The sugar completely destroys the yeast cells",
+                "The mixture turns solid and forms spores instantly",
+                "The yeast dissolves permanently without any visible change",
+                "The yeast cells activate and undergo budding, producing carbon dioxide gas and bubbles"
+            ],
+            "correctAnswer": 3,
+            "explanation": "When dry yeast granules are mixed with warm water and sugar (which acts as a food source), the dormant yeast cells become active, begin to respire, and rapidly multiply through budding, producing bubbles of carbon dioxide gas[cite: 1]."
+        },
+        {
+            "id": 8,
+            "question": "Which of the following is the correct definition of fission in unicellular organisms?",
+            "options": [
+                "The splitting of a parent cell into two or more daughter cells",
+                "The fusion of male and female gametes to form a zygote",
+                "The breaking down of an organism into pieces that grow into new individuals",
+                "The growth of a bud directly from the body of the parent organism"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In unicellular organisms, fission (such as binary or multiple fission) is a form of asexual reproduction where the parent cell splits or divides into two or more daughter cells[cite: 1]."
+        },
+        {
+            "id": 9,
+            "question": "Which statement best describes binary fission in Leishmania?",
+            "options": [
+                "It occurs in any random plane, just like in Amoeba",
+                "It involves multiple cells splitting simultaneously into many daughter cells",
+                "It occurs in a specific, organized orientation in relation to the whip-like structure (flagellum) at its end",
+                "It occurs only through spore formation under unfavorable conditions"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Yes, you are correct! In Leishmania (which causes kala-azar), binary fission occurs in a definite, organized orientation in relation to the whip-like flagellum at the end of the organism, distinguishing it from organisms like Amoeba which can split in any plane[cite: 1]."
+        },
+        {
+            "id": 10,
+            "question": "Which of the following unicellular organisms divides into multiple daughter cells simultaneously?",
+            "options": [
+                "Amoeba",
+                "Plasmodium (malarial parasite)",
+                "Leishmania",
+                "Yeast"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, many protozoa such as Plasmodium (the malarial parasite) divide into many daughter cells simultaneously through a process called multiple fission, whereas organisms like Amoeba and Leishmania typically undergo binary fission[cite: 1]."
+        },
+        {
+            "id": 11,
+            "question": "Which of the following unicellular organisms typically divides by binary fission under normal conditions rather than multiple fission?",
+            "options": [
+                "Plasmodium",
+                "Malarial parasite",
+                "Both Plasmodium and malarial parasite",
+                "Amoeba"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, Amoeba typically reproduces by binary fission under normal conditions by splitting into two daughter cells, whereas Plasmodium (the malarial parasite) reproduces by multiple fission, dividing into many daughter cells simultaneously[cite: 1]."
+        },
+        {
+            "id": 12,
+            "question": "What is the mode of asexual reproduction in simple multicellular organisms where the body breaks up into smaller pieces upon maturation, and each piece grows into a new individual?",
+            "options": [
+                "Fragmentation",
+                "Budding",
+                "Binary fission",
+                "Regeneration"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, in simple multicellular organisms like Spirogyra, the body breaks up into smaller pieces upon maturation. These fragments grow into new individuals, a process known as fragmentation[cite: 1]."
+        },
+        {
+            "id": 13,
+            "question": "Which of the following organisms uses fragmentation as a method of reproduction?",
+            "options": [
+                "Plasmodium",
+                "Spirogyra",
+                "Malarial parasite",
+                "Amoeba"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, simple multicellular organisms such as Spirogyra use fragmentation as a method of reproduction, where the body breaks up into smaller pieces upon maturation and each piece grows into a new individual[cite: 1]."
+        },
+        {
+            "id": 14,
+            "question": "The process in which a fully differentiated organism can give rise to new individuals from its body parts if it is cut or broken into pieces is called:",
+            "options": [
+                "Fragmentation",
+                "Binary fission",
+                "Regeneration",
+                "Spore formation"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, many fully differentiated organisms like Hydra and Planaria have the ability to give rise to new individual organisms from their body parts if they are cut or broken, which is known as regeneration[cite: 1]."
+        },
+        {
+            "id": 15,
+            "question": "Which of the following organisms use the method of regeneration to reproduce?",
+            "options": [
+                "Malaria and parasite",
+                "Hydra and planaria",
+                "Plasmodia and yeast",
+                "Spirogyra and amoeba"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, simple animals like Hydra and Planaria have specialized cells that can proliferate and make large numbers of cells, allowing them to give rise to new individuals if their body is cut or broken into pieces. This process is called regeneration[cite: 1]."
+        },
+        {
+            "id": 16,
+            "question": "The process in which the body of an organism forms a bud which is then detached from the parent body to form a new individual is called:",
+            "options": [
+                "Regeneration",
+                "Fragmentation",
+                "Binary fission",
+                "Budding"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, organisms like Hydra use regenerative cells for reproduction in the process of budding, where a bud develops as an outgrowth due to repeated cell division at a specific site and eventually detaches to become a new independent individual[cite: 1]."
+        },
+        {
+            "id": 17,
+            "question": "Which of the following organisms uses budding as a process of reproduction?",
+            "options": [
+                "Plasmodium",
+                "Hydra",
+                "Spirogyra",
+                "Amoeba"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, Hydra uses regenerative cells for reproduction in the process of budding, where a bud develops as an outgrowth due to repeated cell division at a specific site and eventually detaches to become a new individual[cite: 1]."
+        },
+        {
+            "id": 18,
+            "question": "The process in which plant parts like roots, stems, and leaves develop into new plants under appropriate conditions is called:",
+            "options": [
+                "Spore formation",
+                "Vegetative propagation",
+                "Fragmentation",
+                "Regeneration"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, vegetative propagation is a method of asexual reproduction where new plants grow from the vegetative parts of the parent plant such as roots, stems, and leaves[cite: 1]."
+        },
+        {
+            "id": 19,
+            "question": "The process in which new plants are grown by removing cells or tissue from the growing tip of a plant and placing them in an artificial nutrient medium to develop into plantlets is called:",
+            "options": [
+                "Vegetative propagation",
+                "Spore formation",
+                "Tissue culture",
+                "Fragmentation"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, in tissue culture, new plants are grown by removing tissue or separating cells from the growing tip of a plant and placing them in an artificial nutrient medium where they divide to form a callus. This callus is then transferred to a medium containing hormones for growth and differentiation before being planted in soil[cite: 1]."
+        },
+        {
+            "id": 20,
+            "question": "What is the correct definition of spore formation?",
+            "options": [
+                "The splitting of a parent organism into two or more equal-sized daughter cells",
+                "The growth of a new plant exclusively from underground roots and stems",
+                "The production of microscopic reproductive structures called spores inside sporangia that germinate into new individuals under favorable conditions",
+                "The detachment of a bud from the parent organism's body"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, spore formation is a mode of asexual reproduction where microscopic reproductive structures called spores are produced (often inside blob-like structures called sporangia). When released and exposed to suitable conditions like moisture and warmth, these spores germinate to form new individuals[cite: 1]."
+        },
+        {
+            "id": 21,
+            "question": "Which of the following organisms uses spore formation as a mode of reproduction?",
+            "options": [
+                "Hydra and Planaria",
+                "Rhizopus (Bread mold)",
+                "Spirogyra",
+                "Amoeba and Leishmania"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, organisms such as Rhizopus (bread mold) use spore formation, where thread-like structures develop blob-like sporangia containing spores that eventually germinate into new individuals under favorable conditions[cite: 1]."
+        },
+        {
+            "id": 22,
+            "question": "What is the mode of reproduction in which only a single parent is involved without the formation and fusion of gametes?",
+            "options": [
+                "Asexual reproduction",
+                "Sexual reproduction",
+                "Cross-fertilization",
+                "Syngamy"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, asexual reproduction is the mode of reproduction where new individuals are created from a single parent without the involvement of gametes or fertilization[cite: 1]."
+        },
+        {
+            "id": 23,
+            "question": "What is the specialized cell division process in sexually reproducing organisms that reduces the amount of DNA or chromosome number to half in germ cells?",
+            "options": [
+                "Mitosis",
+                "Binary fission",
+                "Budding",
+                "Meiosis (Reduction division)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, sexually reproducing organisms involve specialized cells (germ cells) where the amount of DNA is reduced to half through meiosis. When two such germ cells fuse during fertilization, the original amount of DNA and chromosome number is restored in the new generation[cite: 1]."
+        },
+        {
+            "id": 24,
+            "question": "In sexually reproducing organisms, what is the active and motile germ-cell called?",
+            "options": [
+                "Male gamete",
+                "Female gamete",
+                "Zygote",
+                "Spore"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, in sexually reproducing organisms where the two germ-cells are differentiated, one germ-cell is typically smaller and actively motile and is called the male gamete, while the other contains stored food and is larger, called the female gamete[cite: 1]."
+        },
+        {
+            "id": 25,
+            "question": "In sexually reproducing organisms, what is the larger germ cell that stores food called?",
+            "options": [
+                "Male gamete",
+                "Zygote",
+                "Female gamete",
+                "Spore"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, in sexually reproducing organisms where the two germ cells are of different types, the germ cell that is larger and stores food is called the female gamete (or egg), whereas the smaller, motile germ cell is the male gamete[cite: 1]."
+        },
+        {
+            "id": 26,
+            "question": "What is the correct definition of a zygote?",
+            "options": [
+                "The cell formed by the fusion of male and female gametes during fertilization",
+                "The smaller, motile germ cell that stores no food",
+                "The specialized germ cell formed by meiosis in reproductive organs",
+                "The vegetative part of a plant used for tissue culture"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, a zygote is the single cell formed by the fusion of male and female gametes (fertilization) during sexual reproduction, which subsequently develops into a new organism[cite: 1]."
+        },
+        {
+            "id": 27,
+            "question": "What are the four main parts (whorls) of a typical flower?",
+            "options": [
+                "Root, stem, leaves, and branches",
+                "Anther, filament, style, and ovary",
+                "Sepals, petals, stamens, and carpels (pistil)",
+                "Zygote, embryo, seed, and fruit"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, a typical flower consists of four main parts or whorls: sepals, petals, stamens (the male reproductive organ), and carpels or pistil (the female reproductive organ)[cite: 1]."
+        },
+        {
+            "id": 28,
+            "question": "Which of the following correctly defines sepals in a flower?",
+            "options": [
+                "The innermost whorl containing the ovary, style, and stigma",
+                "The brightly colored part that attracts insects for pollination",
+                "The green, leaf-like outermost part that protects the flower in the bud stage",
+                "The male reproductive organ consisting of anther and filament"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, sepals form the outermost green, leaf-like whorl of a flower, whose primary function is to protect the inner delicate floral parts when the flower is in the bud stage[cite: 1]."
+        },
+        {
+            "id": 29,
+            "question": "Which of the following correctly defines the petals in a flower?",
+            "options": [
+                "The brightly colored part of a flower that attracts insects and animals for pollination",
+                "The green, leaf-like outermost part that protects the flower in the bud stage",
+                "The male reproductive organ consisting of anther and filament",
+                "The female part consisting of stigma, style, and ovary"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, petals are usually brightly colored and sometimes scented to attract insects and other animals, which plays a crucial role in pollination[cite: 1]."
+        },
+        {
+            "id": 30,
+            "question": "Which of the following correctly defines the pistil (or carpel) in a flower?",
+            "options": [
+                "The outermost green, leaf-like whorl that protects the flower in the bud stage",
+                "The female reproductive organ located in the center of the flower, consisting of the ovary, style, and stigma",
+                "The brightly colored part that attracts insects for pollination",
+                "The male reproductive organ consisting of an anther and a filament"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, the pistil (or carpel) is the female reproductive organ situated in the center of a flower, made up of three parts: the basal ovary, the middle elongated style, and the terminal stigma which receives pollen[cite: 1]."
+        },
+        {
+            "id": 31,
+            "question": "Which of the following correctly describes a stamen in a flower?",
+            "options": [
+                "The female reproductive organ consisting of stigma, style, and ovary",
+                "The green, leaf-like outermost part that protects the flower in the bud stage",
+                "The male reproductive organ consisting of an anther and a filament",
+                "The brightly colored part that attracts insects for pollination"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, the stamen is the male reproductive organ of a flower, consisting of two main parts: an anther (which contains pollen grains that produce male germ-cells) and a filament[cite: 1]."
+        },
+        {
+            "id": 32,
+            "question": "Which of the following two are the parts of a stamen?",
+            "options": [
+                "Anther and filament",
+                "Ovary and style",
+                "Stigma and anther",
+                "Sepal and petal"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the stamen is the male reproductive organ of a flower and consists of two parts: the anther (which produces pollen grains containing male germ-cells) and the filament (the supporting stalk)[cite: 1]."
+        },
+        {
+            "id": 33,
+            "question": "Which of the following are the parts of a pistil (carpel)?",
+            "options": [
+                "Anther and filament",
+                "Ovary, style, and stigma",
+                "Sepal and petal",
+                "Filament and style"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, the pistil (or carpel) is the female reproductive part of a flower and consists of three parts: the basal swollen ovary, the elongated middle style, and the terminal stigma[cite: 1]."
+        },
+        {
+            "id": 34,
+            "question": "What is the female reproductive organ of a flower called?",
+            "options": [
+                "Stamen",
+                "Anther",
+                "Pistil (or carpel)",
+                "Filament"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, the pistil (or carpel) is the female reproductive part of a flower, located in the center, and consists of three parts: the ovary, style, and stigma[cite: 1]."
+        },
+        {
+            "id": 35,
+            "question": "What is the male reproductive organ of a flower called?",
+            "options": [
+                "Stamen",
+                "Pistil (or carpel)",
+                "Ovary",
+                "Sepal"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the stamen is the male reproductive organ of a flower, consisting of an anther and a filament, which produces pollen grains containing the male germ-cells[cite: 1]."
+        },
+        {
+            "id": 36,
+            "question": "Which of the following plants bear unisexual flowers (flowers containing either stamens or pistils, but not both)?",
+            "options": [
+                "Hibiscus and mustard",
+                "Rose and petunia",
+                "Papaya and watermelon",
+                "Hibiscus and rose"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, flowers that contain either stamen or pistil are called unisexual flowers, with examples including papaya and watermelon. In contrast, flowers like hibiscus and mustard are bisexual because they contain both stamen and pistil[cite: 1]."
+        },
+        {
+            "id": 37,
+            "question": "Which of the following are examples of bisexual flowers (flowers that contain both stamens and pistils)?",
+            "options": [
+                "Papaya and watermelon",
+                "Watermelon and cucumber",
+                "Papaya and cucumber",
+                "Hibiscus and mustard"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, flowers that contain both stamen and pistil are called bisexual flowers, with common examples including hibiscus and mustard. In contrast, papaya and watermelon bear unisexual flowers[cite: 1]."
+        },
+        {
+            "id": 38,
+            "question": "Which part of the stamen produces pollen grains in a flower?",
+            "options": [
+                "Anther",
+                "Filament",
+                "Stigma",
+                "Ovary"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the stamen is the male reproductive organ made up of a filament and an anther, and it is the anther that produces pollen grains containing the male germ-cells[cite: 1]."
+        },
+        {
+            "id": 39,
+            "question": "What is the natural color of pollen grains in flowers?",
+            "options": [
+                "Always pure white in every plant",
+                "They vary in color (commonly yellow, but can be white, orange, red, green, or brown depending on the plant species)",
+                "Always bright red",
+                "Completely transparent and colorless"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to botanical science, while yellow is the most common and recognizable color for pollen grains due to pigments like carotenoids, pollen actually exhibits a wide variety of colors—including white, orange, red, green, purple, and brown—depending entirely on the specific plant species[cite: 1]."
+        },
+        {
+            "id": 40,
+            "question": "What is the basal, swollen, or round-shaped bottom part of a flower's pistil called?",
+            "options": [
+                "Stigma",
+                "Style",
+                "Anther",
+                "Ovary"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, the pistil is made up of three parts: the basal swollen ovary, the middle elongated style, and the terminal stigma. The round bottom part is the ovary, which contains the ovules[cite: 1]."
+        },
+        {
+            "id": 41,
+            "question": "What is the long, elongated middle part of the pistil in a flower called?",
+            "options": [
+                "Style",
+                "Stigma",
+                "Ovary",
+                "Filament"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the pistil consists of three parts: the basal swollen ovary, the elongated middle style, and the terminal stigma[cite: 1]."
+        },
+        {
+            "id": 42,
+            "question": "What is the terminal top part of the pistil in a flower that receives pollen grains?",
+            "options": [
+                "Ovary",
+                "Stigma",
+                "Style",
+                "Filament"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, the pistil consists of three parts: the basal ovary, the middle style, and the terminal stigma at the top, which is sticky and serves as the landing platform for pollen grains[cite: 1]."
+        },
+        {
+            "id": 43,
+            "question": "What is the topmost, often knob-like or rounded terminal receptive surface of the pistil known as?",
+            "options": [
+                "Style",
+                "Anther",
+                "Ovary",
+                "Stigma"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT and plant anatomy, the stigma is the terminal top part of the pistil (carpel) that receives pollen grains. It is often swollen, capitate (head-like or round), or feathery to efficiently trap pollen[cite: 1]."
+        },
+        {
+            "id": 44,
+            "question": "What is the structure contained within the ovary that bears the female germ-cells (eggs)?",
+            "options": [
+                "Ovule",
+                "Pollen grain",
+                "Style",
+                "Anther"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the ovary is the basal swollen part of the pistil that contains ovules. Each ovule contains an egg cell, which is the female gamete[cite: 1]."
+        },
+        {
+            "id": 45,
+            "question": "What is formed when the male germ cell from a pollen grain fuses with the female gamete inside the ovule during fertilization?",
+            "options": [
+                "Fruit",
+                "Spore",
+                "Anther",
+                "Zygote"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, the fusion of the male germ-cell (from the pollen grain) with the female gamete (egg in the ovule) during fertilization results in the formation of a zygote[cite: 1]."
+        },
+        {
+            "id": 46,
+            "question": "What is the transfer of pollen grains from the anther to the stigma of the same flower (or another flower of the same plant) called?",
+            "options": [
+                "Self-pollination",
+                "Cross-pollination",
+                "Fertilization",
+                "Germination"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the transfer of pollen grains from the anther to the stigma of a flower is called pollination. When this transfer occurs within the same flower or another flower of the same plant, it is known as self-pollination, whereas transfer to a different plant of the same species is called cross-pollination[cite: 1]."
+        },
+        {
+            "id": 47,
+            "question": "What is the transfer of pollen grains from the anther to the stigma of another plant of the same species called?",
+            "options": [
+                "Self-pollination",
+                "Fertilization",
+                "Cross-pollination",
+                "Germination"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, when pollen grains are transferred from the anther of a flower to the stigma of another flower on a different plant of the same species, it is called cross-pollination[cite: 1]."
+        },
+        {
+            "id": 48,
+            "question": "Through which part of the pistil does the pollen tube grow and pass to reach the ovary after landing on the stigma?",
+            "options": [
+                "Anther",
+                "Style",
+                "Filament",
+                "Sepal"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, after pollen grains land on the sticky stigma, they germinate and form a pollen tube that grows down through the elongated **style** to reach the ovary and deliver the male germ-cells to the ovule[cite: 1]."
+        },
+        {
+            "id": 49,
+            "question": "After fertilization, the zygote divides several times to form what inside the ovule?",
+            "options": [
+                "Seed",
+                "Embryo",
+                "Fruit",
+                "Pollen tube"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, after fertilization, the zygote divides several times to form an embryo within the ovule. The ovule subsequently develops a tough coat and turns into a seed, while the ovary ripens into a fruit[cite: 1]."
+        },
+        {
+            "id": 50,
+            "question": "After fertilization, the ovule develops a tough coat and is converted into which of the following?",
+            "options": [
+                "Seed",
+                "Fruit",
+                "Zygote",
+                "Flower"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, after fertilization, the zygote divides several times to form an embryo within the ovule. The ovule develops a tough protective coat and is converted into a seed, while the ovary ripens into a fruit[cite: 1]."
+        },
+        {
+            "id": 51,
+            "question": "What is the process by which the embryo inside a seed develops into a seedling under appropriate conditions?",
+            "options": [
+                "Pollination",
+                "Fertilization",
+                "Dispersal",
+                "Germination"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, the seed contains the future plant or embryo which develops into a seedling under appropriate conditions (like adequate water, oxygen, and temperature). This process is known as germination[cite: 1]."
+        },
+        {
+            "id": 52,
+            "question": "What is the period during adolescence when the rate of general body growth begins to slow down and reproductive tissues begin to mature called?",
+            "options": [
+                "Puberty",
+                "Metamorphosis",
+                "Germination",
+                "Pollination"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT science content, adolescence is marked by several changes in the body, and the period during adolescence when the rate of general body growth begins to slow down and reproductive tissues begin to mature is called puberty[cite: 1]."
+        },
+        {
+            "id": 53,
+            "question": "Where are the male germ-cells or sperms produced in the human male reproductive system?",
+            "options": [
+                "Vas deferens",
+                "Prostate gland",
+                "Testes",
+                "Seminal vesicle"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, the male reproductive system includes the testes which are located outside the abdominal cavity in the scrotum. The formation of germ-cells or sperms takes place in the testes[cite: 1]."
+        },
+        {
+            "id": 54,
+            "question": "Where are the testes located in the human male reproductive system, which helps maintain a lower temperature required for sperm production?",
+            "options": [
+                "Inside the urinary bladder",
+                "In the scrotum outside the abdominal cavity",
+                "Inside the abdominal cavity",
+                "Inside the prostate gland"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, the testes are located outside the abdominal cavity in a pouch-like sac called the scrotum because the sperm formation requires a lower temperature than the normal body temperature[cite: 1]."
+        },
+        {
+            "id": 55,
+            "question": "Why are the testes located in the scrotum outside the abdominal cavity?",
+            "options": [
+                "To provide a lower temperature (than normal body temperature) required for sperm production",
+                "To provide a higher temperature for sperm production",
+                "To store urine before excretion",
+                "To secrete testosterone directly into the bloodstream"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the testes are located in the scrotum outside the abdominal cavity because sperm formation requires a temperature lower than the normal body temperature[cite: 1]."
+        },
+        {
+            "id": 56,
+            "question": "Which hormone is produced by the testes in human males?",
+            "options": [
+                "Estrogen",
+                "Progesterone",
+                "Testosterone",
+                "Insulin"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, the testes perform two main functions: they produce the male germ-cells (sperms) and they secrete the hormone testosterone, which brings about changes in appearance seen in boys at the time of puberty[cite: 1]."
+        },
+        {
+            "id": 57,
+            "question": "What is the tube through which sperms are delivered from the testes to the urethra in the human male reproductive system?",
+            "options": [
+                "Vas deferens",
+                "Ureter",
+                "Fallopian tube",
+                "Urethra"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the sperms formed in the testes are delivered through a fine tube called the vas deferens, which unites with a tube coming from the urinary bladder to form a common passage called the urethra[cite: 1]."
+        },
+        {
+            "id": 58,
+            "question": "The vas deferens unites with a tube coming from the urinary bladder to form a common passage for both sperms and urine called:",
+            "options": [
+                "Ureter",
+                "Fallopian tube",
+                "Vas deferens",
+                "Urethra"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, the vas deferens unites with a tube coming from the urinary bladder to form a common passage called the urethra, which carries both sperms and urine out of the body through the penis[cite: 1]."
+        },
+        {
+            "id": 59,
+            "question": "Which glands add their secretions along the path of the vas deferens before the sperms enter the urethra?",
+            "options": [
+                "Adrenal and Pituitary glands",
+                "Thyroid and parathyroid glands",
+                "Prostate gland and seminal vesicles",
+                "Sweat and sebaceous glands"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, along the path of the vas deferens, glands like the prostate gland and seminal vesicles add their secretions so that the sperms are carried in a fluid which makes their transport easier and also provides nutrition[cite: 1]."
+        },
+        {
+            "id": 60,
+            "question": "According to NCERT, sperms are tiny bodies that mainly consist of which two primary components?",
+            "options": [
+                "Genetic material and a long tail",
+                "Testes and scrotum",
+                "Prostate gland and seminal vesicle",
+                "Urethra and vas deferens"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT Class 10 Science, sperms are tiny bodies that consist of mainly genetic material (located in the head region) and a long tail, which helps them move towards the female germ-cell[cite: 1]."
+        },
+        {
+            "id": 61,
+            "question": "Where are the female germ-cells or eggs produced in the human female reproductive system?",
+            "options": [
+                "Ovaries",
+                "Fallopian tube",
+                "Uterus",
+                "Vagina"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, female germ-cells or eggs are produced in the ovaries. The ovaries are also responsible for producing female hormones[cite: 1]."
+        },
+        {
+            "id": 62,
+            "question": "Which organ in the human female reproductive system is responsible for producing the female hormone estrogen?",
+            "options": [
+                "Uterus",
+                "Fallopian tube",
+                "Cervix",
+                "Ovary"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, the ovaries produce female germ-cells (eggs) and also secrete female hormones such as estrogen and progesterone[cite: 1]."
+        },
+        {
+            "id": 63,
+            "question": "Through which tube are the eggs carried from the ovary to the uterus (womb) in the human female reproductive system?",
+            "options": [
+                "Fallopian tube (Oviduct)",
+                "Urethra",
+                "Vas deferens",
+                "Cervix"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the eggs produced by the ovaries are carried from the ovaries to the uterus (womb) through a thin, tube-like structure called the oviduct or fallopian tube[cite: 1]."
+        },
+        {
+            "id": 64,
+            "question": "What is the elastic bag-like structure into which the oviducts unite, where the growth and development of the fetus takes place?",
+            "options": [
+                "Uterus",
+                "Ovary",
+                "Vagina",
+                "Cervix"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the two oviducts unite into an elastic bag-like structure known as the uterus (or womb), where the development of the fertilized egg into a fetus takes place[cite: 1]."
+        },
+        {
+            "id": 65,
+            "question": "Through which structure does the uterus open into the vagina in the human female reproductive system?",
+            "options": [
+                "Cervix",
+                "Fallopian tube",
+                "Ovary",
+                "Urethra"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, the uterus opens into the vagina through a narrow structure called the cervix[cite: 1]."
+        },
+        {
+            "id": 66,
+            "question": "What is the fertilized egg formed by the fusion of a sperm and an egg in the human female reproductive system called?",
+            "options": [
+                "Zygote",
+                "Embryo",
+                "Fetus",
+                "Placenta"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, fertilization typically takes place in the fallopian tube (oviduct) where the sperm fuses with the egg, and the resulting fertilized egg is called a zygote[cite: 1]."
+        },
+        {
+            "id": 67,
+            "question": "Where does the zygote divide and get implanted for further development in the human female reproductive system?",
+            "options": [
+                "In the ovary",
+                "In the fallopian tube",
+                "In the lining of the uterus",
+                "In the cervix"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT Class 10 Science, the zygote gets implanted in the lining of the uterus, where it divides and develops into an embryo, getting nourishment from the mother's blood through a special tissue called the placenta[cite: 1]."
+        },
+        {
+            "id": 68,
+            "question": "What is the special disk-shaped tissue embedded in the uterine wall that provides nutrition and oxygen from the mother's blood to the embryo?",
+            "options": [
+                "Placenta",
+                "Fallopian tube",
+                "Cervix",
+                "Amniotic sac"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT Class 10 Science, the embryo gets nutrition from the mother's blood with the help of a special disc-shaped tissue called the placenta. It provides a large surface area for oxygen and glucose to pass from the mother to the developing embryo, and for waste products to be removed[cite: 1]."
+        },
+        {
+            "id": 69,
+            "question": "What is the average duration of the development of the embryo inside the mother's womb (gestation period) in humans?",
+            "options": [
+                "6 months",
+                "12 months",
+                "9 months",
+                "3 months"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, the development of the child inside the mother's womb takes approximately 9 months, a period known as gestation, after which the child is born as a result of rhythmic contractions of the muscles in the uterus[cite: 1]."
+        },
+        {
+            "id": 70,
+            "question": "What is the process called when the thick, spongy lining of the uterus breaks down and comes out through the vagina along with blood and mucus if the egg is not fertilized?",
+            "options": [
+                "Menstruation",
+                "Ovulation",
+                "Implantation",
+                "Gestations"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, if the egg is not fertilized, the lining of the uterus is not needed and slowly breaks, coming out through the vagina as blood and mucus. This cycle lasts for about two to eight days and is known as menstruation[cite: 1]."
+        },
+        {
+            "id": 71,
+            "question": "Which of the following barrier methods used on the penis can help prevent the transmission of sexually transmitted diseases like HIV-AIDS while also acting as a contraceptive?",
+            "options": [
+                "Condom",
+                "IUD (Intrauterine Device)",
+                "Oral contraceptive pills",
+                "Tubectomy"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT Class 10 Science, the use of barrier methods such as condoms on the penis helps prevent the transmission of sexually transmitted infections (STIs) such as bacterial infections (gonorrhoea, syphilis) and viral infections (HIV-AIDS) alongside preventing pregnancy[cite: 1]."
+        },
+        {
+            "id": 72,
+            "question": "What is the function of the seminal vesicles in the human male reproductive system?",
+            "options": [
+                "To produce male germ-cells or sperms",
+                "To store urine temporarily before excretion",
+                "To add secretions that make the transport of sperms easier and provide nutrition",
+                "To secrete the male hormone testosterone"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to NCERT, along the path of the vas deferens, glands like the prostate gland and seminal vesicles add their secretions to the sperms, providing a fluid medium that makes their transport easier and also supplies nutrition[cite: 1]."
+        },
+        {
+            "id": 73,
+            "question": "What is the function of the prostate gland in the human male reproductive system?",
+            "options": [
+                "To produce male germ-cells or sperms",
+                "To produce the male hormone testosterone",
+                "To filter waste products from the blood",
+                "To add secretions along the path of the vas deferens that make sperm transport easier and provide nutrition"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, along the path of the vas deferens, the prostate gland and seminal vesicles add their secretions to the sperms, which carries them in a fluid medium that makes their transport easier and also provides nutrition[cite: 1]."
+        },
+        {
+            "id": 74,
+            "question": "What is the primary purpose of a Copper-T in the human reproductive system?",
+            "options": [
+                "To prevent pregnancy by acting as an intrauterine contraceptive device",
+                "To produce female hormones like estrogen and progesterone",
+                "To prevent the transmission of sexually transmitted diseases like HIV-AIDS",
+                "To help in the implantation of the zygote in the uterus"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to NCERT, a Copper-T is placed in the uterus as an intrauterine contraceptive device (IUD) to prevent pregnancy. However, unlike barrier methods such as condoms, IUDs like Copper-T do not protect against sexually transmitted infections (STIs)[cite: 1]."
+        }
     ]
 }
