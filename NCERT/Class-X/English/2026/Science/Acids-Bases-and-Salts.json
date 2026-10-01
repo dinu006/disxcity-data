@@ -9,62 +9,1201 @@
             "id": 1,
             "question": "What is the characteristic taste of acidic substances?",
             "options": [
+                "Sour",
                 "Bitter and soapy to touch",
                 "Sweet and sugary",
-                "Sour",
                 "Salty and odorless"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "Acids are generally characterized by their sour taste. However, laboratory acids should never be tasted due to their corrosive nature."
         },
         {
             "id": 2,
-            "question": "What are the characteristic taste and physical feel of basic substances?",
+            "question": "The sour taste of a food is due to its",
             "options": [
-                "Sweet and sticky to touch",
-                "Sour and dry to touch",
-                "Salty and smooth",
-                "Bitter and soapy to touch"
+                "Basic nature",
+                "Neutral nature",
+                "Alkaline nature",
+                "Acidic nature"
             ],
             "correctAnswer": 3,
-            "explanation": "Bases are known for their bitter taste and a slippery, soapy feel to the touch. Strong bases are also corrosive."
+            "explanation": "The sour taste of food is due to the presence of acids (acidic nature). For example, lemon juice and vinegar taste sour because they contain citric acid and acetic acid, respectively."
         },
         {
             "id": 3,
-            "question": "If a person is suffering from indigestion due to excess stomach acid, which of the following household substances can be given as an antacid to neutralize it?",
+            "question": "The bitter taste of a food is due to its",
             "options": [
-                "Lemon juice containing citric acid",
-                "Vinegar containing acetic acid",
-                "Dilute hydrochloric acid solution",
-                "Baking soda solution acting as a mild base"
-            ],
-            "correctAnswer": 3,
-            "explanation": "Stomach acidity is caused by excess hydrochloric acid. Baking soda is a basic substance (an antacid) that chemically neutralizes the excess acid, whereas lemon juice and vinegar are acidic and would increase discomfort."
-        },
-        {
-            "id": 4,
-            "question": "What color change is observed when a drop of a dilute acid is placed on blue litmus paper?",
-            "options": [
-                "It turns green",
-                "It turns red",
-                "It turns yellow",
-                "It remains completely blue without any change"
+                "Acidic nature",
+                "Basic nature",
+                "Neutral nature",
+                "Saline nature"
             ],
             "correctAnswer": 1,
-            "explanation": "Acids are characterized by their ability to turn blue litmus paper red, while bases turn red litmus paper blue."
+            "explanation": "Bases are generally bitter in taste and feel soapy to the touch. Therefore, the bitter taste of food is due to its basic nature."
         },
         {
             "id": 4,
-            "question": "What color change is observed when a drop of a basic solution is placed on red litmus paper?",
+            "question": "The acid turns blue litmus to",
             "options": [
-                "It turns blue",
-                "It turns bright yellow",
-                "It turns pinkish-orange",
-                "It remains completely red with no change"
+                "Blue",
+                "Red",
+                "Green",
+                "Yellow"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Acids are substances that turn blue litmus paper red. Conversely, bases turn red litmus blue."
+        },
+        {
+            "id": 5,
+            "question": "The basic nature of a substance turns red litmus paper to",
+            "options": [
+                "Red",
+                "Green",
+                "Yellow",
+                "Blue"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Bases are substances that turn red litmus paper blue. Conversely, acids turn blue litmus paper red."
+        },
+        {
+            "id": 6,
+            "question": "Which of the following are examples of natural indicators other than litmus?",
+            "options": [
+                "Turmeric and red cabbage leaves",
+                "Phenolphthalein and methyl orange",
+                "Hydrochloric acid and sodium hydroxide",
+                "Sodium chloride and water"
             ],
             "correctAnswer": 0,
-            "explanation": "Bases are characterized by their ability to turn red litmus paper blue, whereas acids turn blue litmus paper red."
+            "explanation": "Turmeric and red cabbage leaves are natural indicators found in nature, just like litmus (which is extracted from lichens). Phenolphthalein and methyl orange are synthetic (man-made) indicators."
+        },
+        {
+            "id": 7,
+            "question": "Two of them are synthetic indicators. These are",
+            "options": [
+                "Turmeric and litmus",
+                "Red cabbage and China rose",
+                "Phenolphthalein and methyl orange",
+                "Litmus and red cabbage"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Phenolphthalein and methyl orange are synthetic (man-made) indicators used to test for acids and bases, whereas litmus, turmeric, and red cabbage are natural indicators."
+        },
+        {
+            "id": 8,
+            "question": "Litmus solution is a purple dye which is extracted from",
+            "options": [
+                "Algae",
+                "Lichens",
+                "Fungi",
+                "Mosses"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Litmus is a natural indicator extracted from lichens, a plant belonging to the division Thallophyta. It has a purple color in distilled water and is widely used to distinguish between acids and bases."
+        },
+        {
+            "id": 9,
+            "question": "The natural color of litmus when it's not acidic nor basic",
+            "options": [
+                "Purple",
+                "Red",
+                "Blue",
+                "Colorless"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Litmus is a purple dye extracted from lichens. In a neutral solution (when it is neither acidic nor basic), its color remains purple."
+        },
+        {
+            "id": 10,
+            "question": "Which of the following flower petals is not used as an indicator for acid-base?",
+            "options": [
+                "Hydrangea",
+                "Petunia",
+                "Geranium",
+                "Marigold"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to NCERT, the colored petals of specific flowers like Hydrangea, Petunia, and Geranium (along with China rose) act as natural acid-base indicators. Marigold petals are not used or listed as a standard acid-base indicator."
+        },
+        {
+            "id": 11,
+            "question": "What is the correct definition of olfactory indicator?",
+            "options": [
+                "Substances that change color in acidic or basic media",
+                "Substances whose odor changes in acidic or basic media",
+                "Substances that taste sour in acids and bitter in bases",
+                "Substances that neutralize acids and bases"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Olfactory indicators are substances whose smell (odor) changes in acidic or basic environments (such as onion, vanilla, and clove oil), allowing us to detect acids and bases by sense of smell rather than color change."
+        },
+        {
+            "id": 12,
+            "question": "What is the correct formula for hydrochloric acid?",
+            "options": [
+                "H2SO4",
+                "HNO3",
+                "HCl",
+                "CH3COOH"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The chemical formula for hydrochloric acid is HCl. It is a strong mineral acid commonly used in laboratories and is also found in gastric juice in the human stomach."
+        },
+        {
+            "id": 13,
+            "question": "What is the correct formula of sulfuric acid?",
+            "options": [
+                "H2SO4",
+                "HCl",
+                "HNO3",
+                "CH3COOH"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The chemical formula for sulfuric acid is H2SO4. It is a strong mineral acid widely used in industries, laboratories, and car batteries, often referred to as the 'king of chemicals'."
+        },
+        {
+            "id": 14,
+            "question": "What is the correct formula of nitric acid?",
+            "options": [
+                "HCl",
+                "H2SO4",
+                "HNO3",
+                "CH3COOH"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The chemical formula for nitric acid is HNO3. It is a strong oxidizing agent and a mineral acid commonly used in laboratories and for manufacturing fertilizers and explosives."
+        },
+        {
+            "id": 15,
+            "question": "What is the correct formula of acetic acid?",
+            "options": [
+                "HCl",
+                "H2SO4",
+                "HNO3",
+                "CH3COOH"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The chemical formula for acetic acid (also known as ethanoic acid) is CH3COOH. It is a weak organic acid and the primary component of vinegar, giving it its characteristic sour taste and pungent smell."
+        },
+        {
+            "id": 16,
+            "question": "What is the correct formula of sodium hydroxide?",
+            "options": [
+                "NaOH",
+                "Na2CO3",
+                "NaHCO3",
+                "NaCl"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The chemical formula for sodium hydroxide is NaOH. It is a strong base (alkali) commonly known as caustic soda."
+        },
+        {
+            "id": 17,
+            "question": "What is the correct formula of nitric acid?",
+            "options": [
+                "H2SO4",
+                "HNO3",
+                "HCl",
+                "CH3COOH"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The chemical formula for nitric acid is HNO3. It is a strong mineral acid and a powerful oxidizing agent widely used in laboratories and industries."
+        },
+        {
+            "id": 18,
+            "question": "What is the correct formula of calcium hydroxide?",
+            "options": [
+                "NaOH",
+                "CaCO3",
+                "Ca(OH)2",
+                "CaO"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The chemical formula for calcium hydroxide is Ca(OH)2. It is commonly known as slaked lime and is formed when quicklime (calcium oxide) reacts with water."
+        },
+        {
+            "id": 19,
+            "question": "What is the correct formula of potassium hydroxide?",
+            "options": [
+                "KOH",
+                "NaOH",
+                "Ca(OH)2",
+                "NH4OH"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The chemical formula for potassium hydroxide is KOH. It is a strong base (alkali) commonly known as caustic potash."
+        },
+        {
+            "id": 20,
+            "question": "What is the correct formula of magnesium hydroxide?",
+            "options": [
+                "MgO",
+                "Mg(OH)2",
+                "MgSO4",
+                "MgCO3"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The chemical formula for magnesium hydroxide is Mg(OH)2. It is a weak base commonly known as milk of magnesia and is widely used as an antacid to neutralize excess stomach acid."
+        },
+        {
+            "id": 21,
+            "question": "What is the correct formula of ammonium hydroxide?",
+            "options": [
+                "NaOH",
+                "NH4OH",
+                "KOH",
+                "Ca(OH)2"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The chemical formula for ammonium hydroxide is NH4OH. It is a weak base formed by dissolving ammonia in water, commonly used in laboratory reagents and household cleaning products."
+        },
+        {
+            "id": 22,
+            "question": "Which of the following can be used as olfactory indicators?",
+            "options": [
+                "Vanilla only",
+                "Onion only",
+                "Clove only",
+                "All of them"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Vanilla, onion, and clove all possess distinct characteristics and odors that change or disappear when exposed to basic media, making all of them effective olfactory indicators."
+        },
+        {
+            "id": 23,
+            "question": "What happens when an acid reacts with a metal?",
+            "options": [
+                "It produces salt and hydrogen gas",
+                "It produces salt and water",
+                "It produces a base and hydrogen gas",
+                "It releases carbon dioxide gas"
+            ],
+            "correctAnswer": 0,
+            "explanation": "When an acid reacts with a metal, it forms a corresponding metal salt and evolves hydrogen gas (H2). This can be tested by bringing a burning candle near the gas, which produces a characteristic 'pop' sound."
+        },
+        {
+            "id": 24,
+            "question": "What happens when sodium hydroxide reacts with zinc metal?",
+            "options": [
+                "It produces sodium zincate and water",
+                "It produces sodium zincate and hydrogen gas",
+                "It produces zinc hydroxide and sodium",
+                "No reaction takes place"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When a strong base like sodium hydroxide reacts with an active metal like zinc, it forms sodium zincate (Na2ZnO2) along with the evolution of hydrogen gas (H2)."
+        },
+        {
+            "id": 25,
+            "question": "What happens when a metal carbonate reacts with an acid?",
+            "options": [
+                "It produces salt and hydrogen gas only",
+                "It produces a base and hydrogen gas",
+                "It produces salt, carbon dioxide gas, and water",
+                "It produces metal oxide and hydrogen"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When a metal carbonate reacts with an acid, it forms the corresponding metal salt, carbon dioxide gas, and water. For example, sodium carbonate reacting with hydrochloric acid yields sodium chloride, carbon dioxide, and water."
+        },
+        {
+            "id": 26,
+            "question": "What happens when a metal hydrogen carbonate reacts with an acid?",
+            "options": [
+                "It produces salt and hydrogen gas only",
+                "It produces salt, carbon dioxide gas, and water",
+                "It produces a base and hydrogen gas",
+                "It produces metal oxide and water"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When a metal hydrogen carbonate (bicarbonate) reacts with an acid, it forms the corresponding metal salt, carbon dioxide gas, and water, just like metal carbonates."
+        },
+        {
+            "id": 27,
+            "question": "What happens when sodium carbonate reacts with HCl?",
+            "options": [
+                "It produces sodium chloride, water, and carbon dioxide gas",
+                "It produces sodium chloride and hydrogen gas only",
+                "It produces sodium hydroxide and carbon dioxide gas",
+                "No reaction takes place"
+            ],
+            "correctAnswer": 0,
+            "explanation": "When sodium carbonate reacts with hydrochloric acid (HCl), it forms sodium chloride, water, and evolves carbon dioxide gas with brisk effervescence according to the reaction: Na2CO3 + 2HCl -> 2NaCl + H2O + CO2."
+        },
+        {
+            "id": 28,
+            "question": "What happens when sodium hydrogen carbonate reacts with sodium chloride?",
+            "options": [
+                "It produces sodium carbonate and hydrogen gas",
+                "It produces sodium hydroxide and chlorine gas",
+                "No reaction takes place",
+                "It produces carbon dioxide and water"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Sodium hydrogen carbonate and sodium chloride do not chemically react with each other because both are stable ionic compounds sharing a common sodium ion, and there is no driving force (like the formation of a precipitate, gas, or weak electrolyte) for a reaction to occur."
+        },
+        {
+            "id": 29,
+            "question": "What happens when an acid is added to a base?",
+            "options": [
+                "It produces hydrogen gas only",
+                "It produces salt and water",
+                "It produces carbon dioxide gas",
+                "No reaction takes place"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When an acid reacts with a base, a neutralization reaction takes place, resulting in the formation of salt and water along with the release of heat."
+        },
+        {
+            "id": 30,
+            "question": "What is the color of the solution when NaOH is added to phenolphthalein and then added with HCl?",
+            "options": [
+                "Turns colorless",
+                "Remains pink",
+                "Turns blue",
+                "Turns yellow"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Phenolphthalein turns pink in a basic medium (when NaOH is added). When an acid (HCl) is subsequently added, a neutralization reaction occurs, and the solution becomes acidic or neutral, causing the pink color to disappear and turn colorless."
+        },
+        {
+            "id": 31,
+            "question": "The reaction between acid and base gives salt and water. This reaction is called",
+            "options": [
+                "Oxidation reaction",
+                "Neutralization reaction",
+                "Reduction reaction",
+                "Displacement reaction"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The reaction between an acid and a base to yield salt and water is known as a neutralization reaction. In this reaction, the acidic and basic properties neutralize each other."
+        },
+        {
+            "id": 32,
+            "question": "What happens when a metal oxide reacts with an acid?",
+            "options": [
+                "It produces hydrogen gas only",
+                "It produces carbon dioxide gas",
+                "It produces salt and water",
+                "No reaction takes place"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Metal oxides are basic in nature. When they react with an acid, a neutralization reaction takes place, resulting in the formation of salt and water, just like the reaction between a base and an acid."
+        },
+        {
+            "id": 33,
+            "question": "What is the color of the solution when copper oxide is reacted with hydrochloric acid?",
+            "options": [
+                "Reddish brown",
+                "Blue-green",
+                "Yellow",
+                "Colorless"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When black copper(II) oxide reacts with dilute hydrochloric acid, it forms copper(II) chloride and water. The resulting solution turns blue-green due to the formation of copper(II) chloride."
+        },
+        {
+            "id": 34,
+            "question": "Metal oxides are said to be:",
+            "options": [
+                "Acidic in nature",
+                "Basic in nature",
+                "Neutral in nature",
+                "Amphoteric in nature"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Metal oxides are generally basic in nature because they react with acids to form salt and water. In contrast, non-metal oxides are typically acidic in nature."
+        },
+        {
+            "id": 35,
+            "question": "How does hydrogen gas burn?",
+            "options": [
+                "With a golden yellow flame and a soot",
+                "With a pop sound and a pale blue flame",
+                "With a green flame and a strong smell",
+                "It does not burn"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hydrogen gas burns with a characteristic 'pop' sound when brought near a burning candle or flame, accompanied by a pale blue flame as it reacts with oxygen to form water."
+        },
+        {
+            "id": 36,
+            "question": "Which ion is responsible for the acidic properties of acidic substances in water?",
+            "options": [
+                "Hydroxide ion (OH-)",
+                "Hydrogen ion (H+) / Hydronium ion (H3O+)",
+                "Sodium ion (Na+)",
+                "Chloride ion (Cl-)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Acids generate hydrogen ions (H+) in the presence of water, which combine with water molecules to form hydronium ions (H3O+). These ions are responsible for their acidic behavior."
+        },
+        {
+            "id": 37,
+            "question": "What ions are formed when hydrogen chloride (HCl) is dissolved in water?",
+            "options": [
+                "Hydroxide ions (OH-) and hydrogen gas",
+                "Chlorine gas and hydrogen gas",
+                "Hydronium ions (H3O+) and chloride ions (Cl-)",
+                "Hydrogen ions only without water interaction"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When HCl dissolves in water, it ionizes to release hydrogen ions (H+). Because free H+ ions cannot exist alone, they immediately combine with water molecules to form hydronium ions (H3O+), along with chloride ions (Cl-)."
+        },
+        {
+            "id": 38,
+            "question": "What ions are formed when sodium hydroxide (NaOH) is dissolved in water?",
+            "options": [
+                "Hydronium ions (H3O+) and sodium ions (Na+)",
+                "Sodium ions (Na+) and hydroxide ions (OH-)",
+                "Sodium ions and hydrogen gas",
+                "Hydroxide ions and hydrogen ions"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When sodium hydroxide (NaOH) is dissolved in water, it dissociates completely to yield sodium ions (Na+) and hydroxide ions (OH-). Bases generate hydroxide ions in water, which are responsible for their basic properties."
+        },
+        {
+            "id": 39,
+            "question": "What ions are formed when potassium hydroxide (KOH) is dissolved in water?",
+            "options": [
+                "Potassium ions (K+) and hydroxide ions (OH-)",
+                "Hydronium ions (H3O+) and potassium ions (K+)",
+                "Potassium ions and hydrogen gas",
+                "Hydroxide ions and hydrogen ions"
+            ],
+            "correctAnswer": 0,
+            "explanation": "When potassium hydroxide (KOH) is dissolved in water, it dissociates completely to yield potassium ions (K+) and hydroxide ions (OH-). Like other water-soluble bases (alkalis), it produces hydroxide ions in aqueous solution."
+        },
+        {
+            "id": 40,
+            "question": "What ions are formed when magnesium hydroxide is dissolved in water?",
+            "options": [
+                "Hydronium ions (H3O+) and magnesium ions (Mg2+)",
+                "Magnesium ions (Mg2+) and hydroxide ions (OH-)",
+                "Magnesium ions and hydrogen gas",
+                "Hydroxide ions and hydrogen ions"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When magnesium hydroxide (Mg(OH)2) dissociates in water, it yields magnesium ions (Mg2+) and hydroxide ions (OH-). Although it is only sparingly soluble in water, the portion that dissolves releases hydroxide ions into the solution."
+        },
+        {
+            "id": 41,
+            "question": "Bases generate hydroxide ions in water. Bases which are soluble in water are called:",
+            "options": [
+                "Salts",
+                "Acids",
+                "Alkalis",
+                "Indicators"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Bases that are soluble in water are called alkalis. All alkalis are bases, but not all bases are alkalis because some bases are insoluble in water."
+        },
+        {
+            "id": 42,
+            "question": "While many bases are insoluble in water, what are the bases that are soluble in water called?",
+            "options": [
+                "Neutral oxides",
+                "Alkalis",
+                "Strong acids",
+                "Precipitates"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Not all bases dissolve in water. Those bases that are soluble in water are specifically known as alkalis, which generate hydroxide ions (OH-) in aqueous solution."
+        },
+        {
+            "id": 43,
+            "question": "Which of the following physical and chemical characteristics are typically associated with bases?",
+            "options": [
+                "They are rough to touch, sour in taste, and turn blue litmus red",
+                "They are smooth to touch, sweet in taste, and have no effect on indicators",
+                "They are soapy to touch, bitter in taste, and turn red litmus blue",
+                "They are corrosive, sour in taste, and turn red litmus blue"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Bases generally have a bitter taste, feel soapy or slippery to the touch, and turn red litmus paper blue, unlike acids which are sour and turn blue litmus red."
+        },
+        {
+            "id": 44,
+            "question": "Consider the statement: 'All bases generate free radicals.' Is this statement correct, and what do bases actually produce in water?",
+            "options": [
+                "Correct; bases always produce free radicals during neutralization.",
+                "Incorrect; bases generate hydroxide ions (OH-) in water.",
+                "Incorrect; bases generate hydronium ions (H3O+) in water.",
+                "Correct; bases dissociate into metal ions and free electrons."
+            ],
+            "correctAnswer": 1,
+            "explanation": "The statement is incorrect. Bases do not generate free radicals (which are atoms or molecules with unpaired electrons). Instead, water-soluble bases (alkalis) generate hydroxide ions (OH-) in aqueous solution."
+        },
+        {
+            "id": 45,
+            "question": "The process of dissolving an acid or a base in water is a highly:",
+            "options": [
+                "Endothermic reaction",
+                "Exothermic reaction",
+                "Photochemical reaction",
+                "Neutralization reaction"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The process of dissolving a concentrated acid or base in water is a highly exothermic process, meaning it releases a large amount of heat. This is why water should always be added slowly to acid with constant stirring, rather than adding acid to water, to prevent splashing or boiling over due to localized overheating."
+        },
+        {
+            "id": 46,
+            "question": "Mixing an acid or base with water results in a decrease in the concentration of ions per unit volume. Such a process is called:",
+            "options": [
+                "Neutralization",
+                "Dilution",
+                "Concentration",
+                "Ionization"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The process of mixing an acid or a base with water results in a decrease in the concentration of ions (hydronium ions or hydroxide ions) per unit volume. This process is known as dilution."
+        },
+        {
+            "id": 47,
+            "question": "The mixing of an acid or base with water results in a decrease in the concentration of ions per unit volume. Such a process is called dilution, and the acid or base is said to be:",
+            "options": [
+                "Concentrated",
+                "Diluted",
+                "Neutralized",
+                "Saturated"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When water is added to an acid or base, the number of ions per unit volume decreases. This process is called dilution, and the resulting solution or substance is said to be diluted."
+        },
+        {
+            "id": 48,
+            "question": "Which of the following is a scale used to measure the strength of acids and bases?",
+            "options": [
+                "Richter scale",
+                "pH scale",
+                "Kelvin scale",
+                "Mohs scale"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The pH scale is a scale used for measuring hydrogen ion concentration in a solution. The 'p' stands for 'potenz' in German, meaning power. A pH value below 7 represents an acidic solution, 7 is neutral, and values above 7 represent a basic solution."
+        },
+        {
+            "id": 49,
+            "question": "The higher the value of pH, the solution is more:",
+            "options": [
+                "Acidic",
+                "Neutral",
+                "Basic",
+                "Saturated"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The pH scale ranges from 0 to 14. A higher pH value (above 7) indicates a lower concentration of hydronium ions and a higher concentration of hydroxide ions, meaning the solution is more basic (or alkaline). Conversely, a lower pH value indicates a more acidic solution."
+        },
+        {
+            "id": 50,
+            "question": "Lower the value of pH, the solution is more:",
+            "options": [
+                "Basic",
+                "Neutral",
+                "Acidic",
+                "Saturated"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A lower pH value (ranging from below 7 down to 0) indicates a higher concentration of hydronium ions ($H_3O^+$) in the solution, meaning the solution is more acidic. As the pH value decreases, the strength of the acid increases."
+        },
+        {
+            "id": 51,
+            "question": "In the pH scale, what does the letter 'p' stand for?",
+            "options": [
+                "Pressure",
+                "Potenz (German for power)",
+                "Proton",
+                "Precipitate"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The 'p' in pH stands for 'potenz' in German, which means power. It represents the power or concentration of hydrogen ions in a solution."
+        },
+        {
+            "id": 52,
+            "question": "What is the pH value of a neutral substance, such as pure water?",
+            "options": [
+                "0",
+                "14",
+                "7",
+                "1"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A neutral substance, such as pure water at standard temperature, has a pH value of exactly 7. At this level, the concentration of hydronium ions is equal to the concentration of hydroxide ions."
+        },
+        {
+            "id": 53,
+            "question": "The pH value less than which amount is typically defined as acid rain?",
+            "options": [
+                "7.0",
+                "5.6",
+                "4.0",
+                "9.0"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Normal rainwater is slightly acidic with a pH of around 5.6 because carbon dioxide from the air dissolves in it to form weak carbonic acid. When the pH of rainwater drops below 5.6 due to industrial pollutants like sulfur dioxide and nitrogen oxides, it is known as acid rain."
+        },
+        {
+            "id": 54,
+            "question": "The atmosphere of Venus is shrouded by thick clouds composed of sulfuric acid. What are their characteristic colors?",
+            "options": [
+                "Deep blue and violet",
+                "White and yellowish",
+                "Dark red and brown",
+                "Emerald green and teal"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Venus is completely covered by a dense, unbroken layer of clouds composed mainly of droplets of sulfuric acid mixed with water, which appear white and yellowish when observed from space."
+        },
+        {
+            "id": 55,
+            "question": "Milk of magnesia is the common name for which chemical substance?",
+            "options": [
+                "Magnesium oxide (MgO)",
+                "Calcium hydroxide (Ca(OH)2)",
+                "Magnesium hydroxide (Mg(OH)2)",
+                "Sodium carbonate (Na2CO3)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Milk of magnesia is the common name for magnesium hydroxide (Mg(OH)2). It is a mild, water-insoluble base frequently used as an antacid to neutralize stomach acidity and as a laxative."
+        },
+        {
+            "id": 56,
+            "question": "Milk of magnesia is used to neutralize excess _____ in the stomach.",
+            "options": [
+                "Base",
+                "Acid",
+                "Salt",
+                "Water"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Milk of magnesia (magnesium hydroxide) is a mild base used as an antacid to neutralize excess hydrochloric acid in the stomach, providing relief from indigestion and acid reflux."
+        },
+        {
+            "id": 57,
+            "question": "Tooth decay starts when the pH in the mouth falls below which value?",
+            "options": [
+                "7.0",
+                "5.5",
+                "8.5",
+                "4.0"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tooth decay starts when the pH in the mouth falls below 5.5. Bacteria present in the mouth degrade leftover food particles and sugar to produce acids, lowering the pH and causing the corrosion of calcium hydroxyapatite (tooth enamel), which is the hardest substance in the body."
+        },
+        {
+            "id": 58,
+            "question": "What is the chemical formula for baking soda?",
+            "options": [
+                "Na2CO3",
+                "NaHCO3",
+                "NaOH",
+                "NaCl"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The chemical formula for baking soda is sodium hydrogen carbonate or sodium bicarbonate (NaHCO3). It is a mild, non-corrosive basic salt commonly used in cooking, baking powders, and as an antacid."
+        },
+        {
+            "id": 59,
+            "question": "Why is baking soda applied to the skin when a honeybee stings?",
+            "options": [
+                "To neutralize the basic liquid injected by the bee",
+                "To cool down the skin via an endothermic reaction",
+                "To neutralize the acidic liquid injected by the bee",
+                "To kill bacteria on the skin surface"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Honeybee stings inject an acidic liquid (such as methanoic or formic acid) into the skin, causing pain and irritation. Baking soda is a mild base, so applying it helps neutralize the acid and provides relief."
+        },
+        {
+            "id": 60,
+            "question": "The stinging hairs of the nettle herb plant inject an acidic fluid that causes a painful burning sensation. This is due to the presence of:",
+            "options": [
+                "Acetic acid",
+                "Citric acid",
+                "Methanoic acid (formic acid)",
+                "Oxalic acid"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Nettle leaves possess stinging hairs that inject methanoic acid (formic acid) into the skin upon contact, causing a burning pain. Traditional remedies include rubbing the area with leaves of the dock plant, which naturally grow nearby and are basic in nature."
+        },
+        {
+            "id": 61,
+            "question": "Which plant typically grows beside stinging nettles and is traditionally used to provide relief from their stings due to its basic nature?",
+            "options": [
+                "Aloe vera",
+                "Dock plant",
+                "Neem plant",
+                "Mint plant"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The dock plant (Rumex) frequently grows alongside stinging nettles in nature. Its leaves contain basic (alkaline) properties that can neutralize the painful methanoic acid injected by nettle stings when rubbed onto the affected skin."
+        },
+        {
+            "id": 62,
+            "question": "Which acid is present in vinegar?",
+            "options": [
+                "Citric acid",
+                "Acetic acid",
+                "Tartaric acid",
+                "Lactic acid"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Vinegar contains acetic acid (ethanoic acid), which gives it its characteristic sour taste and pungent smell. It is a weak organic acid widely used in cooking and food preservation."
+        },
+        {
+            "id": 63,
+            "question": "Which acid is present in oranges?",
+            "options": [
+                "Oxalic acid",
+                "Citric acid",
+                "Lactic acid",
+                "Tartaric acid"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Oranges, along with other citrus fruits like lemons, limes, and grapefruits, are rich in citric acid, which is an organic acid responsible for their characteristic sour flavor."
+        },
+        {
+            "id": 64,
+            "question": "Which acid is present in tamarind?",
+            "options": [
+                "Citric acid",
+                "Oxalic acid",
+                "Tartaric acid",
+                "Lactic acid"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Tamarind contains tartaric acid, which is an organic acid responsible for its distinct sour taste. Tartaric acid is also commonly found in grapes, unripe mangoes, and bananas."
+        },
+        {
+            "id": 65,
+            "question": "Which acid is present in tomatoes?",
+            "options": [
+                "Citric acid",
+                "Oxalic acid",
+                "Tartaric acid",
+                "Acetic acid"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tomatoes contain organic acids, with oxalic acid being a prominent one featured in standard lists of naturally occurring acids in food. They also contain smaller amounts of citric and malic acids."
+        },
+        {
+            "id": 66,
+            "question": "Which acid is present in curd (sour milk)?",
+            "options": [
+                "Acetic acid",
+                "Citric acid",
+                "Lactic acid",
+                "Formic acid"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Curd and sour milk contain lactic acid, which is produced when lactose (milk sugar) is fermented by lactic acid bacteria (such as Lactobacillus) during the curdling process."
+        },
+        {
+            "id": 67,
+            "question": "Which acid is present in lemons?",
+            "options": [
+                "Acetic acid",
+                "Citric acid",
+                "Tartaric acid",
+                "Oxalic acid"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lemons, along with other citrus fruits like limes and oranges, are rich in citric acid, which is an organic acid responsible for their characteristic sour flavor."
+        },
+        {
+            "id": 68,
+            "question": "Which acid is present in an ant sting?",
+            "options": [
+                "Acetic acid",
+                "Methanoic acid (Formic acid)",
+                "Citric acid",
+                "Oxalic acid"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Ant stings contain methanoic acid (also known as formic acid). When an ant bites or stings, it injects this acidic fluid into the skin, causing a sharp, burning pain and irritation."
+        },
+        {
+            "id": 69,
+            "question": "Which acid is present in a nettle sting?",
+            "options": [
+                "Acetic acid",
+                "Citric acid",
+                "Methanoic acid (Formic acid)",
+                "Oxalic acid"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The stinging hairs of the nettle plant inject methanoic acid (also known as formic acid) into the skin upon contact, which causes a sharp burning sensation and irritation."
+        },
+        {
+            "id": 70,
+            "question": "Between an acidic solution with a pH of 6 and a basic solution with a pH of 8, which one has a higher hydrogen ion concentration?",
+            "options": [
+                "The solution with pH 8",
+                "Both have equal hydrogen ion concentration",
+                "The solution with pH 6",
+                "Neither contains hydrogen ions"
+            ],
+            "correctAnswer": 2,
+            "explanation": "pH is inversely related to hydrogen ion concentration. A lower pH value indicates a higher concentration of hydrogen ions (H+). Therefore, an acidic solution with a pH of 6 has a higher hydrogen ion concentration (10^-6 mol/L) than a basic solution with a pH of 8 (10^-8 mol/L)."
+        },
+        {
+            "id": 71,
+            "question": "What is the chemical name of chalk?",
+            "options": [
+                "Calcium hydroxide",
+                "Calcium carbonate",
+                "Calcium oxide",
+                "Calcium sulfate"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The chemical name of chalk is calcium carbonate ($CaCO_3$). It is a soft, white, porous sedimentary rock that is a form of limestone composed of the mineral calcite."
+        },
+        {
+            "id": 72,
+            "question": "What is the chemical name of quick lime?",
+            "options": [
+                "Calcium hydroxide",
+                "Calcium carbonate",
+                "Calcium oxide",
+                "Calcium sulfate"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The chemical name of quick lime is calcium oxide ($CaO$). It is produced by the thermal decomposition of limestone and is widely used in various industrial applications such as steelmaking, paper production, and water treatment."
+        },
+        {
+            "id": 73,
+            "question": "What is the chemical name of slaked lime?",
+            "options": [
+                "Calcium hydroxide",
+                "Calcium oxide",
+                "Calcium carbonate",
+                "Calcium sulfate"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The chemical name of slaked lime is calcium hydroxide (Ca(OH)2). It is formed when water is added to quicklime (calcium oxide) in a vigorous, exothermic slaking reaction."
+        },
+        {
+            "id": 74,
+            "question": "What is the chemical formula of potassium sulfate?",
+            "options": [
+                "KHSO4",
+                "K2SO4",
+                "KSO4",
+                "K2SO3"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The chemical formula of potassium sulfate is K2SO4. It is an ionic compound composed of two potassium ions (K+) for every one sulfate ion (SO4^2-), and it is widely used as a fertilizer for crops."
+        },
+        {
+            "id": 75,
+            "question": "What is the common name of calcium sulfate dihydrate ($CaSO_4 \\cdot 2H_2O$)?",
+            "options": [
+                "Plaster of Paris",
+                "Bleaching powder",
+                "Gypsum",
+                "Washing soda"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Calcium sulfate dihydrate ($CaSO_4 \\cdot 2H_2O$) is commonly known as gypsum. When gypsum is heated at 373 K, it loses water molecules and becomes calcium sulfate hemihydrate ($CaSO_4 \\cdot \\frac{1}{2}H_2O$), which is known as plaster of Paris."
+        },
+        {
+            "id": 76,
+            "question": "What is the chemical formula for calcium sulfate?",
+            "options": [
+                "CaCO3",
+                "CaO",
+                "CaSO4",
+                "Ca(OH)2"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The chemical formula for calcium sulfate is CaSO4. It commonly occurs in hydrated forms such as gypsum (calcium sulfate dihydrate, CaSO4·2H2O) and plaster of Paris (calcium sulfate hemihydrate)."
+        },
+        {
+            "id": 77,
+            "question": "When a magnesium ribbon is burned in air, the resulting white powder (magnesium oxide) is dissolved in water. What is the nature of this aqueous solution?",
+            "options": [
+                "Acidic",
+                "Neutral",
+                "Basic",
+                "Amphoteric"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Magnesium oxide is a basic oxide. When it dissolves in water, it forms magnesium hydroxide, which turns red litmus paper blue, demonstrating its basic (alkaline) nature."
+        },
+        {
+            "id": 78,
+            "question": "What is the chemical formula for magnesium sulfate?",
+            "options": [
+                "MgCO3",
+                "MgSO4",
+                "MgO",
+                "Mg(OH)2"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The chemical formula for magnesium sulfate is MgSO4. Its hydrated form containing seven water molecules (MgSO4 · 7H2O) is commonly known as Epsom salt, which is widely used for medicinal and agricultural purposes."
+        },
+        {
+            "id": 79,
+            "question": "What is the chemical formula for copper sulfate?",
+            "options": [
+                "CuSO3",
+                "CuSO4",
+                "Cu2SO4",
+                "CuO"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The chemical formula for copper sulfate is CuSO4. Its pentahydrate form (CuSO4 · 5H2O) consists of bright blue crystals commonly known as blue vitriol, which turns white upon heating as it loses its water of crystallization."
+        },
+        {
+            "id": 80,
+            "question": "What is the chemical name of washing soda?",
+            "options": [
+                "Sodium bicarbonate",
+                "Sodium chloride",
+                "Sodium hydroxide",
+                "Sodium carbonate"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The chemical name of washing soda is sodium carbonate decahydrate (Na2CO3 · 10H2O). It is a basic salt widely used in glass manufacturing, soap production, paper industries, and for softening hard water."
+        },
+        {
+            "id": 81,
+            "question": "What is the chemical formula for sodium nitrate?",
+            "options": [
+                "NaNO2",
+                "NaNO3",
+                "Na2NO3",
+                "NaNO4"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The chemical formula for sodium nitrate is NaNO3. Also known historically as Chile saltpeter, it is a white, crystalline ionic compound widely used in agricultural fertilizers, fireworks, and the manufacture of glass and pottery enamels."
+        },
+        {
+            "id": 82,
+            "question": "What is the common name of sodium carbonate decahydrate ?",
+            "options": [
+                "Baking soda",
+                "Bleaching powder",
+                "Plaster of Paris",
+                "Washing soda"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Sodium carbonate decahydrate is commonly known as washing soda. It is a basic salt widely used in glass manufacturing, soap production, and for softening hard water."
+        },
+        {
+            "id": 83,
+            "question": "What is the chemical formula for ammonium chloride?",
+            "options": [
+                "NH3",
+                "NH4Cl",
+                "NH4OH",
+                "(NH4)2SO4"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The chemical formula for ammonium chloride is NH4Cl. It is a white crystalline salt formed by the reaction of hydrochloric acid and ammonia, and its aqueous solution is slightly acidic in nature."
+        },
+        {
+            "id": 84,
+            "question": "Salts having the same positive or negative ions are said to belong to the same:",
+            "options": [
+                "Homologous series",
+                "Family of salts",
+                "Group of isotopes",
+                "Isomer series"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Salts having the same positive or negative ions are said to belong to a family of salts. For example, sodium chloride ($NaCl$) and sodium sulfate ($Na_2SO_4$) belong to the family of sodium salts because they share the same positive sodium ion ($Na^+$)."
+        },
+        {
+            "id": 85,
+            "question": "What is the typical color of large rock salt crystals (mined from underground deposits formed when ancient seas dried up) due to impurities?",
+            "options": [
+                "Pure white",
+                "Bright blue",
+                "Brown",
+                "Yellow"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Beds of rock salt were formed when ancient seas dried up over millions of years. These large crystal deposits are often brown in color due to the presence of various mineral impurities."
+        },
+        {
+            "id": 86,
+            "question": "When electricity is passed through an aqueous solution of sodium chloride (brine), the process is called:",
+            "options": [
+                "Neutralization process",
+                "Chlor-alkali process",
+                "Electrolytic refining",
+                "Galvanization"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When electricity is passed through an aqueous solution of sodium chloride (brine), it decomposes to form sodium hydroxide, chlorine gas, and hydrogen gas. This is called the chlor-alkali process because of the products formed: 'chlor' for chlorine and 'alkali' for sodium hydroxide."
+        },
+        {
+            "id": 87,
+            "question": "Which of the following are the primary uses of bleaching powder ($CaOCl_2$)?",
+            "options": [
+                "Manufacture of glass and softening hard water",
+                "Bleaching cotton/linen, acting as an oxidizing agent, and disinfecting drinking water",
+                "Making plaster casts and surgical supports",
+                "Serving as a mild non-corrosive basic antacid"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bleaching powder has multiple industrial and public health applications: it is used for bleaching cotton and linen in textiles (and wood pulp in paper factories), serving as a strong oxidizing agent in chemical industries, and disinfecting drinking water to make it free of disease-causing germs."
+        },
+        {
+            "id": 88,
+            "question": "What is the chemical equation for the preparation of bleaching powder using dry slaked lime and chlorine gas?",
+            "options": [
+                "CaO + H2O -> Ca(OH)2",
+                "Ca(OH)2 + Cl2 -> CaOCl2 + H2O",
+                "CaCO3 -> CaO + CO2",
+                "NaCl + H2O -> NaOH + Cl2 + H2"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bleaching powder is produced by the action of chlorine gas (obtained from the chlor-alkali process) on dry slaked lime [Ca(OH)2]. The reaction is represented by the equation: Ca(OH)2 + Cl2 -> CaOCl2 + H2O."
+        },
+        {
+            "id": 89,
+            "question": "Which chemical equation represents the production of baking soda (sodium hydrogen carbonate) using sodium chloride, water, carbon dioxide, and ammonia?",
+            "options": [
+                "2NaCl + 2H2O -> 2NaOH + Cl2 + H2",
+                "NaCl + H2O + CO2 + NH3 -> NH4Cl + NaHCO3",
+                "Ca(OH)2 + Cl2 -> CaOCl2 + H2O",
+                "Na2CO3 + 10H2O -> Na2CO3 · 10H2O"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Baking soda (sodium hydrogen carbonate, NaHCO3) is produced on a large scale by reacting a cold and concentrated solution of sodium chloride (brine) with ammonia and carbon dioxide. The chemical equation for this reaction is: NaCl + H2O + CO2 + NH3 -> NH4Cl + NaHCO3."
+        },
+        {
+            "id": 90,
+            "question": "What are the primary uses of baking soda (sodium hydrogen carbonate, $NaHCO_3$) according to NCERT?",
+            "options": [
+                "1. Bleaching cotton, 2. Softening hard water, 3. Disinfecting drinking water",
+                "1. Making baking powder, 2. Ingredient in antacids, 3. Used in soda-acid fire extinguishers",
+                "1. Making plaster of Paris, 2. Manufacturing glass, 3. Water purification",
+                "1. Manufacturing bleaching powder, 2. Making washing soda, 3. Electrolytic refining"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to NCERT, baking soda has three main uses: \n1. **Making Baking Powder:** It is mixed with a mild edible acid (like tartaric acid). When heated or mixed in water, it releases carbon dioxide gas, which makes bread and cakes rise and become soft and spongy.\n2. **Antacid:** Being alkaline in nature, it neutralizes excess acid in the stomach and provides relief from indigestion.\n3. **Fire Extinguishers:** It is used in soda-acid fire extinguishers where it reacts with an acid to release carbon dioxide gas, which cuts off the supply of oxygen to extinguish fire."
+        },
+        {
+            "id": 91,
+            "question": "What is the chemical formula of washing soda?",
+            "options": [
+                "NaHCO3",
+                "Na2CO3 · 10H2O",
+                "Na2CO3",
+                "NaCl"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The chemical formula of washing soda is sodium carbonate decahydrate (Na2CO3 · 10H2O). The '10H2O' represents ten water molecules of crystallization, which give the salt its crystalline form and properties."
+        },
+        {
+            "id": 92,
+            "question": "Which chemical equation represents the preparation of washing soda by the recrystallization of sodium carbonate?",
+            "options": [
+                "NaCl + H2O + CO2 + NH3 -> NH4Cl + NaHCO3",
+                "Na2CO3 + 10H2O -> Na2CO3 · 10H2O",
+                "2NaHCO3 -> Na2CO3 + H2O + CO2",
+                "Ca(OH)2 + Cl2 -> CaOCl2 + H2O"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Washing soda (sodium carbonate decahydrate) is produced by the recrystallization of sodium carbonate. When anhydrous sodium carbonate is dissolved in water and allowed to crystallize, it combines with ten water molecules of crystallization to form washing soda: Na2CO3 + 10H2O -> Na2CO3 · 10H2O."
+        },
+        {
+            "id": 93,
+            "question": "According to NCERT, sodium carbonate (washing soda) is used in the manufacture of which of the following products?",
+            "options": [
+                "Cotton, linen, and drinking water",
+                "Baking powder and fire extinguishers",
+                "Glass, soap, and paper",
+                "Plaster of Paris and gypsum"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Sodium carbonate (washing soda) is a versatile chemical compound. According to NCERT, it is used in the manufacture of glass, soap, and paper, and is also utilized for softening hard water."
+        },
+        {
+            "id": 94,
+            "question": "Which sodium compound is used as a cleaning agent for domestic purposes?",
+            "options": [
+                "Sodium hydrogen carbonate (Baking soda)",
+                "Sodium carbonate (Washing soda)",
+                "Sodium chloride",
+                "Sodium hydroxide"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sodium carbonate (washing soda) is used as a cleaning agent for domestic purposes, especially in laundering clothes and removing the permanent hardness of water."
+        },
+        {
+            "id": 95,
+            "question": "Which chemical compound is used for removing the permanent hardness of water?",
+            "options": [
+                "Sodium hydrogen carbonate (Baking soda)",
+                "Sodium chloride",
+                "Sodium carbonate (Washing soda)",
+                "Calcium hydroxide"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Sodium carbonate (washing soda, Na2CO3 · 10H2O) is used to remove the permanent hardness of water by reacting with dissolved calcium and magnesium salts to form insoluble precipitates, thereby softening the water."
+        },
+        {
+            "id": 96,
+            "question": "What is the color of copper sulfate crystals (copper sulfate pentahydrate, CuSO4 · 5H2O) at room temperature?",
+            "options": [
+                "White",
+                "Blue",
+                "Green",
+                "Yellow"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Copper sulfate pentahydrate crystals are blue in color due to the presence of five water molecules of crystallization. When heated, they lose these water molecules and turn white as they become anhydrous copper sulfate."
+        },
+        {
+            "id": 97,
+            "question": "What is the chemical formula of gypsum?",
+            "options": [
+                "CaSO4 · 1/2H2O",
+                "CaOCl2",
+                "CaSO4 · 2H2O",
+                "CaCO3"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The chemical formula of gypsum is calcium sulfate dihydrate (CaSO4 · 2H2O). When gypsum is heated at 373 K, it loses water molecules and becomes plaster of Paris (calcium sulfate hemihydrate, CaSO4 · 1/2H2O), which is widely used for setting fractured bones and making decorative items."
+        },
+        {
+            "id": 98,
+            "question": "What does gypsum become when it is heated at 373 K and loses water molecules?",
+            "options": [
+                "Anhydrous copper sulfate",
+                "Plaster of Paris (Calcium sulfate hemihydrate)",
+                "Washing soda",
+                "Quicklime"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When gypsum (calcium sulfate dihydrate, CaSO4 · 2H2O) is heated at 373 K, it loses water molecules and becomes plaster of Paris (calcium sulfate hemihydrate, CaSO4 · 1/2H2O). The reaction is represented as: CaSO4 · 2H2O -> CaSO4 · 1/2H2O + 1.5H2O."
+        },
+        {
+            "id": 99,
+            "question": "What is the common name for calcium sulfate hemihydrate?",
+            "options": [
+                "Gypsum",
+                "Plaster of Paris",
+                "Epsom salt",
+                "Blue vitriol"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Calcium sulfate hemihydrate is commonly known as Plaster of Paris. When mixed with water, it sets into a hard solid mass (gypsum) within a short time, making it useful for setting fractured bones, making toys, and decorative materials."
+        },
+        {
+            "id": 100,
+            "question": "What is formed when Plaster of Paris reacts with water?",
+            "options": [
+                "Anhydrous calcium sulfate",
+                "Calcium carbonate",
+                "Gypsum",
+                "Quicklime"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When Plaster of Paris (calcium sulfate hemihydrate, CaSO4 · 1/2H2O) reacts with water, it rehydrates and sets into a hard solid mass known as gypsum (calcium sulfate dihydrate, CaSO4 · 2H2O). The chemical equation for this setting process is: CaSO4 · 1/2H2O + 1.5H2O -> CaSO4 · 2H2O."
         }
-        
     ]
 }
