@@ -109,6 +109,10 @@
         {
           "name": "Sound",
           "file": "NCERT/Class-IX/English/2026/Science/Sound.json"
+        },
+        {
+          "name": "Is matter Around Us Pure?",
+          "file": "NCERT/Class-IX/English/2026/Science/Is-Matter-Around-Us-Pure.json"
         }
       ]
     },
@@ -145,6 +149,22 @@
         {
           "name": "How Do Organisms Reproduce",
           "file": "NCERT/Class-X/English/2026/Science/How-Do-Organisms-Reproduce.json"
+        },
+        {
+          "name": "Our Environment",
+          "file": "NCERT/Class-X/English/2026/Science/Our-Environment.json"
+        },
+        {
+          "name": "Heredity",
+          "file": "NCERT/Class-X/English/2026/Science/Heredity.json"
+        },
+        {
+          "name": "Metals And Non-Metals",
+          "file": "NCERT/Class-X/English/2026/Science/Metals-And-Non-Metals.json"
+        },
+        {
+          "name":"Magnetic Effects of Electric Current",
+          "file": "NCERT/Class-X/English/2026/Science/Magnetic-Effects-Of-Electric-Current.json"
         }
       ]
     }
