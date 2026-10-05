@@ -165,6 +165,10 @@
         {
           "name":"Magnetic Effects of Electric Current",
           "file": "NCERT/Class-X/English/2026/Science/Magnetic-Effects-Of-Electric-Current.json"
+        },
+        {
+          "name":"Atoms and Molecules",
+          "file": "NCERT/Class-X/English/2026/Science/Atoms-And-Molecules.json"
         }
       ]
     }
