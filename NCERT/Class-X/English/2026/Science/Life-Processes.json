@@ -10,11 +10,11 @@
             "question": "Which of the following best defines life processes?",
             "options": [
                 "The processes that only occur during active movement or physical exercise",
-                "The basic maintenance functions of living organisms essential to prevent damage and breakdown",
                 "The chemical reactions that occur only in plants during photosynthesis",
-                "The mechanical breakdown of food in the stomach"
+                "The mechanical breakdown of food in the stomach",
+                "The basic maintenance functions of living organisms essential to prevent damage and breakdown"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "The basic maintenance functions of living organisms that are essential to prevent damage and breakdown, and keep them alive, are called life processes. These must occur continuously even when the organism is resting."
         },
         {
@@ -23,10 +23,10 @@
             "options": [
                 "Photosynthesis",
                 "Transpiration",
-                "Excretion",
-                "Respiration"
+                "Respiration",
+                "Excretion"
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 2,
             "explanation": "Respiration involves the breakdown of food sources like glucose inside the cells to release energy for various life processes."
         },
         {
@@ -47,10 +47,10 @@
             "options": [
                 "The removal of toxic metabolic wastes from body tissues",
                 "The process of transferring oxygen from lungs to the body cells",
-                "The process of intake of nutrients and utilizing them to obtain energy, build new tissues, and repair worn-out parts",
-                "The transport of water and minerals from roots to leaves"
+                "The transport of water and minerals from roots to leaves",
+                "The process of intake of nutrients and utilizing them to obtain energy, build new tissues, and repair worn-out parts"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "Nutrition is the process of acquiring and utilizing food/nutrients by an organism to derive energy, support growth, and repair damaged body tissues."
         },
         {
@@ -58,11 +58,11 @@
             "question": "Which of the following statements correctly defines autotrophs?",
             "options": [
                 "Organisms that depend entirely on other organisms for their readymade food requirements",
-                "Organisms that break down complex organic matter into simpler substances outside their body",
                 "Organisms that synthesize their own organic food from simple inorganic substances using an external energy source like sunlight",
+                "Organisms that break down complex organic matter into simpler substances outside their body",
                 "Organisms that derive nutrition exclusively from parasitic relationships"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "Autotrophs are organisms, such as green plants and certain bacteria, that prepare their own food from simple inorganic materials (like carbon dioxide and water) using light or chemical energy."
         },
         {
@@ -71,22 +71,22 @@
             "options": [
                 "Organisms that synthesize their own food using sunlight and inorganic substances",
                 "Organisms that produce organic compounds entirely through chemosynthesis",
-                "Organisms that depend on other organisms for food because they cannot manufacture their own organic molecules",
-                "Organisms that do not require any external source of energy or food"
+                "Organisms that do not require any external source of energy or food",
+                "Organisms that depend on other organisms for food because they cannot manufacture their own organic molecules"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "Heterotrophs are organisms that cannot synthesize their own food from simple inorganic materials like carbon dioxide and water, and thus depend directly or indirectly on other organisms for their nutrition."
         },
         {
             "id": 7,
             "question": "What are enzymes in the context of biological systems and life processes?",
             "options": [
+                "Biological catalysts (usually proteins) that speed up biochemical reactions in living organisms",
                 "Inorganic molecules that store genetic information in the nucleus",
                 "Waste substances produced by cells during protein catabolism",
-                "Biological catalysts (usually proteins) that speed up biochemical reactions in living organisms",
                 "Structural lipids that form the core of the cell membrane"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "Enzymes are biological catalysts—mostly proteins—that accelerate the rate of biochemical reactions in living organisms without being used up or permanently changed in the process."
         },
         {
@@ -94,11 +94,11 @@
             "question": "Which of the following best defines photosynthesis in green plants?",
             "options": [
                 "The breakdown of complex organic molecules to release metabolic energy",
-                "The process by which autotrophs convert inorganic substances like carbon dioxide and water into carbohydrates using sunlight and chlorophyll",
                 "The absorption of water and minerals directly from the soil through root hairs",
+                "The process by which autotrophs convert inorganic substances like carbon dioxide and water into carbohydrates using sunlight and chlorophyll",
                 "The release of carbon dioxide and water vapor through the stomatal pores"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Photosynthesis is the process used by autotrophs to intake external substances (carbon dioxide and water) and convert them into stored energy in the form of carbohydrates, utilizing sunlight and chlorophyll."
         },
         {
@@ -118,11 +118,11 @@
             "question": "What is glycogen in the context of animal nutrition and energy storage?",
             "options": [
                 "The structural lipid found in animal cell membranes",
-                "The complex carbohydrate used by animals and humans to store extra energy",
                 "An inorganic waste product excreted through sweat",
+                "The complex carbohydrate used by animals and humans to store extra energy",
                 "A digestive enzyme secreted by the small intestine"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Glycogen is a complex carbohydrate (polysaccharide) that serves as an energy reserve in animals, functioning similarly to how starch acts as an energy store in plants."
         },
         {
@@ -131,10 +131,10 @@
             "options": [
                 "C6H12O6 + 6O2 -> 6CO2 + 6H2O + Energy",
                 "6O2 + 6H2O -> C6H12O6 + 6CO2",
-                "6CO2 + 6H2O -> (Sunlight and Chlorophyll) -> C6H12O6 + 6O2 + H2O",
-                "C6H12O6 -> 2C2H5OH + 2CO2 + Energy"
+                "C6H12O6 -> 2C2H5OH + 2CO2 + Energy",
+                "6CO2 + 6H2O -> (Sunlight and Chlorophyll) -> C6H12O6 + 6O2 + H2O"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "The overall balanced equation for photosynthesis is 6CO2 + 6H2O in the presence of sunlight and chlorophyll yielding C6H12O6 (glucose) and 6O2 (oxygen)."
         },
         {
@@ -153,12 +153,12 @@
             "id": 13,
             "question": "If we observe a cross-section of a leaf under a microscope, we notice green cell organelles called chloroplasts which contain the green pigment chlorophyll. What is the primary role of this chlorophyll?",
             "options": [
-                "To absorb light energy required for photosynthesis",
                 "To transport water and minerals from the roots to the leaves",
+                "To absorb light energy required for photosynthesis",
                 "To break down stored starch into glucose during respiration",
                 "To act as a waste product during cellular excretion"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "Chlorophyll is the green pigment present in chloroplasts that is essential for absorbing light energy from the sun, which drives the process of photosynthesis."
         },
         {
@@ -166,23 +166,23 @@
             "question": "How does the iodine test confirm the presence of starch in a leaf?",
             "options": [
                 "Iodine reacts with starch to turn the solution a bright red or pink color.",
-                "Iodine reacts with starch to give a blue-black color, indicating photosynthesis has occurred.",
                 "Iodine dissolves the chlorophyll, turning the leaf completely transparent.",
-                "Iodine breaks down glucose into carbon dioxide and water molecules."
+                "Iodine breaks down glucose into carbon dioxide and water molecules.",
+                "Iodine reacts with starch to give a blue-black color, indicating photosynthesis has occurred."
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "In the starch test, a leaf is first decolorized in boiling alcohol to remove chlorophyll, and then a few drops of iodine solution are added. Iodine reacts with starch to form a blue-black complex, confirming the presence of stored food produced by photosynthesis."
         },
         {
             "id": 15,
             "question": "In the iodine test, what does the appearance of a blue-black color specifically indicate?",
             "options": [
+                "It indicates the presence of starch, which reacts chemically with iodine to produce a blue-black complex.",
                 "It shows that oxygen gas is trapped inside the intercellular spaces of the leaf.",
                 "It proves that chlorophyll has been completely removed from the plant tissue.",
-                "It indicates the presence of proteins synthesized during cellular growth.",
-                "It indicates the presence of starch, which reacts chemically with iodine to produce a blue-black complex."
+                "It indicates the presence of proteins synthesized during cellular growth."
             ],
-            "correctAnswer": 3,
+            "correctAnswer": 0,
             "explanation": "The chemical reaction between iodine and starch forms a characteristic blue-black complex, which serves as a positive test confirming the presence of starch in the tested plant part."
         },
         {
@@ -191,22 +191,22 @@
             "options": [
                 "Vascular tissues responsible for transporting water from roots to leaves",
                 "Hard protective covering layers on the outer epidermis of seeds",
-                "Tiny pores present on the surface of leaves through which exchange of gases and transpiration take place",
-                "Specialized organelles inside plant cells that store chlorophyll pigments"
+                "Specialized organelles inside plant cells that store chlorophyll pigments",
+                "Tiny pores present on the surface of leaves through which exchange of gases and transpiration take place"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "Stomata are tiny pores present on the epidermis of leaves. They play a vital role in the exchange of gases (like taking in carbon dioxide and releasing oxygen) and in the loss of water vapor via transpiration."
         },
         {
             "id": 17,
             "question": "In the experiment to show that carbon dioxide is necessary for photosynthesis, two potted plants are used—one with potassium hydroxide (KOH) inside the bell jar and one without. What do we observe when an iodine test is performed on leaves from both plants?",
             "options": [
-                "Both leaves turn blue-black, proving carbon dioxide is not required for photosynthesis.",
                 "The leaf from the plant without KOH turns blue-black (showing starch is present), whereas the leaf from the plant with KOH (which absorbed carbon dioxide) does not turn blue-black.",
+                "Both leaves turn blue-black, proving carbon dioxide is not required for photosynthesis.",
                 "Neither leaf turns blue-black because the bell-jars block all necessary sunlight.",
                 "The leaf from the plant with KOH turns bright red, while the other turns green."
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "Potassium hydroxide (KOH) absorbs carbon dioxide from the surrounding air inside the bell jar. The leaf from the plant kept with KOH cannot perform photosynthesis due to the lack of carbon dioxide and thus forms no starch (giving a negative iodine test). The other leaf, which has access to carbon dioxide, performs photosynthesis and turns blue-black with iodine."
         },
         {
@@ -214,23 +214,23 @@
             "question": "What is a parasitic mode of nutrition?",
             "options": [
                 "A mode of nutrition where organisms synthesize their own food using sunlight",
-                "A mode of nutrition where an organism derives food from another living organism (host) without killing it",
                 "A mode of nutrition involving the ingestion of solid organic food particles",
-                "A mode of nutrition where dead and decaying organic matter is broken down externally"
+                "A mode of nutrition where dead and decaying organic matter is broken down externally",
+                "A mode of nutrition where an organism derives food from another living organism (host) without killing it"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "In parasitic nutrition, an organism (the parasite) lives on or inside another living organism (the host) and derives its nutrition directly from the host's body without immediately killing it (e.g., Cuscuta, ticks, lice)."
         },
         {
             "id": 19,
             "question": "How does Amoeba obtain its food?",
             "options": [
+                "By using temporary finger-like extensions of the cell surface (pseudopodia) to engulf food particles into a food vacuole",
                 "By absorbing dissolved nutrients directly across its cell membrane through osmosis",
                 "By using cilia to sweep food particles into a specialized oral groove",
-                "By using temporary finger-like extensions of the cell surface (pseudopodia) to engulf food particles into a food vacuole",
                 "By carrying out photosynthesis inside specialized chloroplasts"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "Amoeba ingests food by forming temporary finger-like projections of its cell surface called pseudopodia around the food particle, forming a food vacuole where complex substances are broken down into simpler ones."
         },
         {
@@ -238,11 +238,11 @@
             "question": "How does Paramoecium, a unicellular organism, obtain its food?",
             "options": [
                 "By engulfing food particles from anywhere on its body using random pseudopodia",
-                "By moving food to a specific spot using cilia that cover the entire surface of the cell",
                 "By absorbing nutrients purely through osmosis across the cell wall",
+                "By moving food to a specific spot using cilia that cover the entire surface of the cell",
                 "By synthesizing food internally using sunlight and chlorophyll"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Paramoecium has a definite shape and obtains food through a specific spot. Food is moved to this spot by the movement of cilia, which cover the entire surface of the cell."
         },
         {
@@ -250,11 +250,11 @@
             "question": "What is another common scientific name for the food pipe in humans?",
             "options": [
                 "Trachea",
-                "Oesophagus",
                 "Pharynx",
+                "Oesophagus",
                 "Duodenum"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "The food pipe is scientifically known as the oesophagus, which connects the mouth to the stomach using peristaltic movements to push food downward."
         },
         {
@@ -262,11 +262,11 @@
             "question": "Which of the following best describes the human alimentary canal?",
             "options": [
                 "A gland responsible for producing digestive enzymes in the mouth",
-                "The blood vessel system that transports digested food to cells",
                 "A long, muscular tube extending from the mouth to the anus, specialized for ingestion, digestion, absorption, and egestion",
+                "The blood vessel system that transports digested food to cells",
                 "A specialized respiratory organ that exchanges oxygen and carbon dioxide"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "The alimentary canal is a long, muscular tube extending from the mouth to the anus, through which food is processed, digested, and absorbed across the body."
         },
         {
@@ -274,11 +274,11 @@
             "question": "The oesophagus is a muscular tube that forms an essential part of which of the following systems in humans?",
             "options": [
                 "The respiratory system",
-                "The human alimentary canal (digestive system)",
                 "The excretory system",
+                "The human alimentary canal (digestive system)",
                 "The nervous system"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "The oesophagus, commonly known as the food pipe, is a muscular tube that acts as a major part of the alimentary canal, transporting swallowed food from the mouth down to the stomach."
         },
         {
@@ -286,11 +286,11 @@
             "question": "What is saliva and what is its role in human digestion?",
             "options": [
                 "A digestive fluid secreted by the liver that helps emulsify dietary fats",
-                "A watery fluid secreted by the salivary glands in the mouth that contains the enzyme salivary amylase to break down starch into sugar",
                 "An acidic juice produced in the stomach to kill bacteria present in food",
-                "A protective mucus lining that prevents the stomach wall from digesting itself"
+                "A protective mucus lining that prevents the stomach wall from digesting itself",
+                "A watery fluid secreted by the salivary glands in the mouth that contains the enzyme salivary amylase to break down starch into sugar"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "Saliva is secreted by the salivary glands in the mouth. It moistens food and contains an enzyme called salivary amylase (or ptyalin) that breaks down complex starch into simple sugars."
         },
         {
@@ -298,11 +298,11 @@
             "question": "Where are the salivary glands located in the human digestive system?",
             "options": [
                 "Inside the walls of the small intestine",
-                "Attached directly to the lower surface of the liver",
                 "In the oral cavity (mouth)",
+                "Attached directly to the lower surface of the liver",
                 "Lining the inner walls of the stomach"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "Salivary glands are located in the oral cavity (mouth) where they secrete saliva containing salivary amylase to initiate the breakdown of starch into simpler sugars."
         },
         {
@@ -346,11 +346,11 @@
             "question": "What is the primary function of the mucus secreted by the gastric glands in the stomach wall?",
             "options": [
                 "To convert complex proteins into simpler amino acids",
-                "To provide an alkaline environment that neutralizes all digestive juices",
                 "To protect the inner lining of the stomach from the corrosive action of hydrochloric acid",
+                "To provide an alkaline environment that neutralizes all digestive juices",
                 "To digest dietary fats into fatty acids and glycerol"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "Mucus plays a crucial protective role by lining the inner walls of the stomach, shielding the delicate tissue from being damaged or eroded by the strong hydrochloric acid present in gastric juice."
         },
         {
@@ -359,22 +359,22 @@
             "options": [
                 "Oesophagus",
                 "Stomach",
-                "Small intestine",
-                "Large intestine"
+                "Large intestine",
+                "Small intestine"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "The small intestine is the longest part of the human alimentary canal, designed with extensive coiling to fit into the abdominal cavity and provide a large surface area for the complete digestion and absorption of food."
         },
         {
             "id": 31,
             "question": "What are animals that eat other animals (meat) primarily called?",
             "options": [
-                "Herbivores",
                 "Carnivores",
+                "Herbivores",
                 "Omnivores",
                 "Parasites"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "Carnivores are animals that feed primarily or exclusively on the flesh of other animals (meat), possessing specialized digestive systems adapted to process protein-rich diets."
         },
         {
@@ -395,10 +395,10 @@
             "options": [
                 "Herbivores",
                 "Carnivores",
-                "Omnivores",
-                "Parasites"
+                "Parasites",
+                "Omnivores"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "Omnivores are animals whose dietary intake includes both plant material (like grass or fruits) and animal matter (meat). Examples include humans, bears, and crows."
         },
         {
@@ -406,11 +406,11 @@
             "question": "Between carnivores and herbivores, which type of animal generally has a longer small intestine?",
             "options": [
                 "Carnivores, because meat is harder to catch and hunt",
-                "Herbivores, because grass and plant matter contain cellulose which takes longer to digest",
                 "Both have identical small intestine lengths regardless of diet",
+                "Herbivores, because grass and plant matter contain cellulose which takes longer to digest",
                 "Carnivores, because meat requires extensive fermentation chambers"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Herbivores have a longer small intestine compared to carnivores because plant matter contains cellulose, which is difficult to digest and requires more time for complete breakdown and nutrient absorption. Meat, being easier to digest, allows carnivores to have a shorter small intestine."
         },
         {
@@ -418,11 +418,11 @@
             "question": "Which part of the human alimentary canal receives the secretions from the liver and the pancreas?",
             "options": [
                 "Stomach",
+                "Oesophagus",
                 "Small intestine",
-                "Large intestine",
-                "Oesophagus"
+                "Large intestine"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "The small intestine (specifically the upper part called the duodenum) receives secretions from the liver (bile juice) and the pancreas (pancreatic juice) to facilitate the digestion of fats, proteins, and carbohydrates."
         },
         {
@@ -431,10 +431,10 @@
             "options": [
                 "Mucus secreted by the stomach lining",
                 "Salivary amylase released in the oral cavity",
-                "Bile juice secreted by the liver",
-                "Pepsin enzyme produced by gastric glands"
+                "Pepsin enzyme produced by gastric glands",
+                "Bile juice secreted by the liver"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "The food coming from the stomach is acidic due to hydrochloric acid and must be made alkaline for the pancreatic enzymes to function properly. Bile juice from the liver accomplishes this, while also breaking down large fat globules into smaller ones (emulsification)."
         },
         {
@@ -442,11 +442,11 @@
             "question": "Large fat globules entering the small intestine are broken down into smaller globules to increase enzyme action. What substance is primarily responsible for this process called emulsification?",
             "options": [
                 "Salivary amylase",
-                "Hydrochloric acid",
                 "Bile salts from the bile juice",
+                "Hydrochloric acid",
                 "Trypsin enzyme"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "Bile salts present in the bile juice secreted by the liver break down large fat globules into smaller globules (emulsification), which drastically increases the surface area for lipase enzyme action."
         },
         {
@@ -454,11 +454,11 @@
             "question": "What is the primary function of the enzyme trypsin, which is secreted by the pancreas into the small intestine?",
             "options": [
                 "To break down complex starch into simpler sugars",
-                "To digest proteins into amino acids",
                 "To emulsify large fat globules into smaller ones",
+                "To digest proteins into amino acids",
                 "To provide an acidic medium for chemical digestion"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Trypsin is a pancreatic enzyme that aids in the digestion of proteins, breaking them down into simpler units, while lipase digests emulsified fats and pancreatic amylase breaks down carbohydrates."
         },
         {
@@ -466,44 +466,44 @@
             "question": "What is the final action of the enzymes present in the intestinal juice secreted by the walls of the small intestine?",
             "options": [
                 "To convert simple sugars back into complex starch for storage",
-                "To break down proteins directly into hydrochloric acid",
                 "To finally convert proteins into amino acids, complex carbohydrates into glucose, and fats into fatty acids and glycerol",
+                "To break down proteins directly into hydrochloric acid",
                 "To emulsify large fat droplets into smaller globules"
             ],
-            "correctAnswer": 2,
-            "explanation": "The walls of आंब- (the small intestine) contain glands that secrete intestinal juice. The enzymes in this juice perform the final steps of digestion, converting proteins into amino acids, complex carbohydrates into glucose, and fats into fatty acids and glycerol."
+            "correctAnswer": 1,
+            "explanation": "The walls of the small intestine contain glands that secrete intestinal juice. The enzymes in this juice perform the final steps of digestion, converting proteins into amino acids, complex carbohydrates into glucose, and fats into fatty acids and glycerol."
         },
         {
             "id": 40,
             "question": "What are the finger-like projections present in the inner lining of the small intestine, and what is their primary function?",
             "options": [
-                "Gastric pits, which secrete digestive acids into the lumen",
-                "Villi, which greatly increase the surface area for the absorption of digested food",
                 "Cilia, which push undigested waste into the large intestine",
-                "Alveoli, which facilitate the exchange of respiratory gases"
+                "Gastric pits, which secrete digestive acids into the lumen",
+                "Alveoli, which facilitate the exchange of respiratory gases",
+                "Villi, which greatly increase the surface area for the absorption of digested food"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "The inner walls of the small intestine contain numerous finger-like projections called villi. These villi significantly increase the surface area available for the efficient absorption of digested food into the blood vessels."
         },
         {
             "id": 41,
             "question": "What is the primary function of the large intestine in the human digestive system?",
             "options": [
-                "To secrete digestive enzymes that break down complex proteins and fats",
                 "To absorb the majority of water and essential minerals from the unabsorbed food material",
+                "To secrete digestive enzymes that break down complex proteins and fats",
                 "To produce bile juice for the emulsification of dietary fats",
                 "To store food temporarily before it undergoes chemical breakdown in the stomach"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "The unabsorbed food material is sent to the large intestine, where its wall absorbs most of the water and necessary minerals from the material, leaving the remaining waste to be expelled from the body."
         },
         {
             "id": 42,
             "question": "Where does the large intestine send the remaining unabsorbed waste material for temporary storage before it is eliminated from the body?",
             "options": [
-                "Back to the small intestine",
-                "To the rectum and Anus",
                 "To the liver",
+                "To the rectum and Anus",
+                "Back to the small intestine",
                 "To the gallbladder"
             ],
             "correctAnswer": 1,
@@ -513,21 +513,21 @@
             "id": 43,
             "question": "What muscular structure regulates the exit of waste material from the body through the anus?",
             "options": [
-                "Pyloric sphincter",
                 "Anal sphincter",
+                "Pyloric sphincter",
                 "Cardiac sphincter",
                 "Oesophageal sphincter"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "The exit of waste material (faeces) from the body is regulated by the anal sphincter, which controls the release of faecal matter through the anus during the process of egestion."
         },
         {
             "id": 44,
             "question": "What is the primary cause of tooth decay (dental caries) when sugary food particles are left on the teeth?",
             "options": [
-                "Direct chemical corrosion of enamel by sugar molecules alone",
-                "The action of bacteria on leftover sugar and food particles, which produces acids that gradually soften and damage the tooth enamel",
                 "Excessive production of saliva by the salivary glands",
+                "The action of bacteria on leftover sugar and food particles, which produces acids that gradually soften and damage the tooth enamel",
+                "Direct chemical corrosion of enamel by sugar molecules alone",
                 "Friction caused by the movement of the tongue"
             ],
             "correctAnswer": 1,
@@ -537,12 +537,12 @@
             "id": 45,
             "question": "What is observed when carbon dioxide gas is passed through lime water (calcium hydroxide solution), and what causes this observation?",
             "options": [
-                "The solution turns deep blue due to the formation of complex copper salts.",
                 "The solution turns milky due to the formation of insoluble calcium carbonate precipitate.",
+                "The solution turns deep blue due to the formation of complex copper salts.",
                 "The solution bubbles vigorously, releasing hydrogen gas.",
                 "The solution becomes completely acidic and neutralizes instantly."
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "When carbon dioxide is passed through lime water (calcium hydroxide), it reacts to form a white precipitate of insoluble calcium carbonate, which turns the clear solution milky."
         },
         {
@@ -550,11 +550,11 @@
             "question": "What is pyruvate and how is it produced during cellular respiration?",
             "options": [
                 "A 6-carbon molecule formed directly from fats in the small intestine",
-                "A 3-carbon molecule produced in the cytoplasm by the breakdown of a 6-carbon glucose molecule during the first step of cellular respiration",
                 "An enzyme secreted by the pancreas to digest carbohydrates",
-                "A waste gas eliminated through the lungs during exhalation"
+                "A waste gas eliminated through the lungs during exhalation",
+                "A 3-carbon molecule produced in the cytoplasm by the breakdown of a 6-carbon glucose molecule during the first step of cellular respiration"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "Pyruvate is a 3-carbon molecule formed in the cytoplasm when glucose (a 6-carbon molecule) is broken down during the first step of cellular respiration (glycolysis)."
         },
         {
@@ -562,11 +562,11 @@
             "question": "What are the typical products formed when pyruvate undergoes fermentation (anaerobic respiration) in yeast?",
             "options": [
                 "Lactic acid and energy",
-                "Carbon dioxide, water, and a large amount of energy",
                 "Ethanol, carbon dioxide, and energy",
+                "Carbon dioxide, water, and a large amount of energy",
                 "Glucose and oxygen"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 1,
             "explanation": "During fermentation in yeast (which takes place in the absence of oxygen), the 3-carbon pyruvate molecule is broken down into ethanol, carbon dioxide, and energy."
         },
         {
@@ -574,11 +574,11 @@
             "question": "In cellular respiration, where does the complete breakdown of pyruvate using oxygen (aerobic respiration) take place within the cell?",
             "options": [
                 "Cytoplasm",
-                "Mitochondria",
                 "Ribosome",
+                "Mitochondria",
                 "Nucleus"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "The breakdown of pyruvate using oxygen (aerobic respiration) takes place inside the mitochondria. This process releases carbon dioxide, water, and a large amount of energy in the form of ATP."
         },
         {
@@ -586,11 +586,11 @@
             "question": "What is anaerobic respiration, and where or how does it typically occur?",
             "options": [
                 "Respiration that requires a continuous supply of oxygen inside the mitochondria to generate large amounts of energy.",
-                "Respiration that takes place in the absence of oxygen, where pyruvate is converted into products like ethanol or lactic acid, releasing less energy.",
                 "The process of absorbing carbon dioxide from the atmosphere to synthesize glucose in plant leaves.",
+                "Respiration that takes place in the absence of oxygen, where pyruvate is converted into products like ethanol or lactic acid, releasing less energy.",
                 "The breakdown of complex proteins into amino acids within the digestive tract."
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Anaerobic respiration is cellular respiration that occurs without oxygen. Because oxygen is absent, pyruvate is not fully broken down in the mitochondria; instead, it forms ethanol and carbon dioxide (in yeast) or lactic acid (in animal muscles during sudden strenuous activity), producing a smaller amount of energy than aerobic respiration."
         },
         {
@@ -598,23 +598,23 @@
             "question": "What is aerobic respiration, and what are its key characteristics?",
             "options": [
                 "Respiration occurring in the absence of oxygen, producing ethanol and carbon dioxide.",
-                "Respiration occurring in the presence of oxygen, resulting in the complete breakdown of pyruvate into carbon dioxide and water inside the mitochondria with a high yield of energy.",
                 "The initial breakdown of glucose into a 3-carbon pyruvate molecule within the cytoplasm.",
+                "Respiration occurring in the presence of oxygen, resulting in the complete breakdown of pyruvate into carbon dioxide and water inside the mitochondria with a high yield of energy.",
                 "The absorption of oxygen from the lungs into the blood vessels."
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Aerobic respiration takes place in the presence of oxygen. During this process, pyruvate is completely broken down into carbon dioxide and water inside the mitochondria, releasing a large amount of energy."
         },
         {
             "id": 51,
             "question": "Where does the formation of pyruvate from glucose take place within the cell during cellular respiration?",
             "options": [
-                "Mitochondria",
                 "Cytoplasm",
+                "Mitochondria",
                 "Nucleus",
                 "Endoplasmic reticulum"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "The formation of pyruvate occurs during the first step of cellular respiration (glycolysis), which takes place in the cytoplasm of the cell where a 6-carbon glucose molecule is broken down into 3-carbon pyruvate molecules."
         },
         {
@@ -622,11 +622,11 @@
             "question": "How does the amount of energy released during aerobic respiration (in the presence of oxygen) compare to the amount released during anaerobic respiration?",
             "options": [
                 "It is lower than anaerobic respiration",
-                "It is much higher than anaerobic respiration",
                 "It is exactly equal to anaerobic respiration",
-                "No energy is released in either process"
+                "No energy is released in either process",
+                "It is much higher than anaerobic respiration"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "Aerobic respiration releases a much higher amount of energy compared to anaerobic respiration because the food is completely broken down into carbon dioxide and water in the presence of oxygen."
         },
         {
@@ -635,10 +635,10 @@
             "options": [
                 "Lactic acid and energy",
                 "Carbon dioxide, water, and a large amount of energy",
-                "Ethanol, carbon dioxide, and energy",
-                "Glucose and oxygen"
+                "Glucose and oxygen",
+                "Ethanol, carbon dioxide, and energy"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "In the cytoplasm, glucose is broken down into a 3-carbon molecule called pyruvate. In the absence of oxygen (anaerobic respiration) in yeast, pyruvate is further converted into ethanol and carbon dioxide, releasing a smaller amount of energy."
         },
         {
@@ -646,23 +646,23 @@
             "question": "When there is a lack of oxygen in our muscle cells during sudden strenuous activity, what is pyruvate converted into?",
             "options": [
                 "Ethanol and carbon dioxide",
-                "Lactic acid and energy",
                 "Carbon dioxide and water",
+                "Lactic acid and energy",
                 "Glucose and oxygen"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "When there is a lack of oxygen in human muscle cells (such as during heavy exercise), pyruvate is converted into lactic acid. The build-up of this 3-carbon molecule is what often causes painful muscle cramps."
         },
         {
             "id": 55,
             "question": "When pyruvate is broken down in the presence of oxygen inside the mitochondria during aerobic respiration, what are the resulting end products?",
             "options": [
+                "Carbon dioxide, water, and energy",
                 "Ethanol and carbon dioxide",
                 "Lactic acid and energy",
-                "Carbon dioxide, water, and energy",
                 "Glucose and oxygen"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 0,
             "explanation": "In the presence of oxygen, pyruvate is completely broken down inside the mitochondria. This aerobic process yields carbon dioxide, water, and a large amount of energy."
         },
         {
@@ -670,11 +670,11 @@
             "question": "What is ATP (Adenosine Triphosphate) and what is its role in the cell?",
             "options": [
                 "A waste product eliminated during anaerobic respiration in muscle cells",
-                "The primary energy currency of the cell, used to fuel various cellular processes by storing and releasing energy",
                 "An enzyme that breaks down complex starch molecules in the small intestine",
+                "The primary energy currency of the cell, used to fuel various cellular processes by storing and releasing energy",
                 "A 3-carbon molecule formed directly from the digestion of dietary fats"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "ATP (Adenosine Triphosphate) is known as the energy currency of the cell. The energy released during both aerobic and anaerobic cellular respiration is used to synthesize ATP from ADP and inorganic phosphate, which the cell then utilizes to drive its various life processes."
         },
         {
@@ -682,11 +682,11 @@
             "question": "What is the full form of ATP, the energy currency of the cell?",
             "options": [
                 "Adenosine Diphosphate",
-                "Adenosine Triphosphate",
                 "Amino Triphosphate",
-                "Adenine Tetraphosphate"
+                "Adenine Tetraphosphate",
+                "Adenosine Triphosphate"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "ATP stands for Adenosine Triphosphate. It serves as the primary energy currency of the cell, providing energy for various cellular activities."
         },
         {
@@ -694,11 +694,11 @@
             "question": "When the terminal phosphate linkage in ATP is broken using water, how much energy is typically released?",
             "options": [
                 "15.2 kJ/mol",
-                "30.5 kJ/mol",
                 "61.0 kJ/mol",
+                "30.5 kJ/mol",
                 "91.5 kJ/mol"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "When the terminal phosphate linkage in ATP is broken down using water (hydrolysis), an energy equivalent to 30.5 kJ/mol is released, which cells use to drive various endothermic reactions."
         },
         {
@@ -706,11 +706,11 @@
             "question": "Why is the rate of breathing in aquatic organisms much faster than that seen in terrestrial organisms?",
             "options": [
                 "Water contains a much higher concentration of dissolved oxygen than air.",
-                "The amount of dissolved oxygen in water is relatively low compared to the amount of oxygen in air, requiring a faster breathing rate to obtain enough oxygen.",
                 "Aquatic organisms have complex lungs that process oxygen at a much slower rate.",
+                "The amount of dissolved oxygen in water is relatively low compared to the amount of oxygen in air, requiring a faster breathing rate to obtain enough oxygen.",
                 "Water moves slower across gills than air moves across lungs."
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Because aquatic organisms obtain oxygen dissolved in water, and the amount of dissolved oxygen is fairly low compared to the amount of oxygen available in the atmosphere, they must breathe much faster to take in sufficient oxygen for their metabolic needs."
         },
         {
@@ -718,23 +718,23 @@
             "question": "What are the bronchi in the human respiratory system, and what is their primary function?",
             "options": [
                 "Tiny air sacs where gas exchange directly takes place with the blood",
-                "The main air passages that branch off from the trachea and direct air into the left and right lungs",
                 "Muscular flaps that prevent food from entering the windpipe during swallowing",
+                "The main air passages that branch off from the trachea and direct air into the left and right lungs",
                 "The dome-shaped muscle sheet that controls chest cavity expansion during breathing"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "The trachea (windpipe) divides into two main branches called bronchi (singular: bronchus). Each bronchus enters a lung, where it branches further into smaller tubes called bronchioles, ultimately delivering air to the alveoli for gas exchange."
         },
         {
             "id": 61,
             "question": "What are bronchioles in the human respiratory system?",
             "options": [
-                "The main windpipe that connects the throat to the chest cavity",
                 "Smaller tubes formed by the branching of bronchi inside the lungs that eventually terminate in alveoli",
+                "The main windpipe that connects the throat to the chest cavity",
                 "The muscular diaphragm responsible for controlling breathing movements",
                 "The primary blood vessels surrounding the heart"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "Bronchioles are smaller tubes that result from the further branching of the bronchi inside the lungs. They transport air deeper into the respiratory system, eventually terminating in tiny air sacs called alveoli where gas exchange occurs."
         },
         {
@@ -742,23 +742,23 @@
             "question": "What are alveoli, and what is their primary function in the human respiratory system?",
             "options": [
                 "The primary cartilage rings that keep the trachea open and prevent it from collapsing",
-                "Tiny, balloon-like air sacs at the terminal ends of bronchioles that provide a massive surface area for gas exchange between air and blood capillaries",
                 "The muscular sheet of tissue that controls the expansion and contraction of the chest cavity",
+                "Tiny, balloon-like air sacs at the terminal ends of bronchioles that provide a massive surface area for gas exchange between air and blood capillaries",
                 "The main tubes carrying air from the nasal cavity down into the throat"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Alveoli are tiny, thin-walled air sacs located at the end of bronchioles. They are surrounded by a dense network of blood capillaries and provide a large surface area where oxygen diffuses into the blood and carbon dioxide diffuses out into the lungs to be exhaled."
         },
         {
             "id": 63,
             "question": "What is the singular form of the word 'alveoli'?",
             "options": [
-                "Alveola",
                 "Alveolus",
+                "Alveola",
                 "Alvelum",
                 "Alveolite"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "'Alveolus' is the singular form referring to a single tiny air sac in the lungs, whereas 'alveoli' is the plural form."
         },
         {
@@ -766,11 +766,11 @@
             "question": "What is the main function of the alveoli in the human respiratory system?",
             "options": [
                 "To produce mucus and trap dust particles entering the nose and trachea",
-                "To provide a large surface area for the exchange of gases (oxygen and carbon dioxide) between the air and the blood",
                 "To act as a muscular pump that forces air in and out of the chest cavity",
-                "To warm, filter, and moisten incoming air before it reaches the bronchi"
+                "To warm, filter, and moisten incoming air before it reaches the bronchi",
+                "To provide a large surface area for the exchange of gases (oxygen and carbon dioxide) between the air and the blood"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "The main function of the alveoli is to provide a massive surface area with very thin walls, allowing oxygen from inhaled air to diffuse rapidly into the blood capillaries, and carbon dioxide from the blood to diffuse into the alveoli to be exhaled."
         },
         {
@@ -778,23 +778,23 @@
             "question": "What is the diaphragm, and what is its primary role in the human respiratory system?",
             "options": [
                 "A tiny air sac where direct gas exchange takes place with the blood capillaries.",
-                "A dome-shaped muscular sheet separating the chest and abdominal cavities that contracts and relaxes to drive breathing movements.",
                 "The main windpipe that connects the nasal cavity to the bronchial tubes.",
+                "A dome-shaped muscular sheet separating the chest and abdominal cavities that contracts and relaxes to drive breathing movements.",
                 "A muscular sphincter that regulates the passage of waste material out of the body."
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "The diaphragm is a dome-shaped muscular partition that separates the thoracic (chest) cavity from the abdominal cavity. During inhalation, it contracts and flattens to increase chest volume and draw air into the lungs, and during exhalation, it relaxes and curves upward to help force air out."
         },
         {
             "id": 66,
             "question": "What is the function of cilia in the human respiratory tract?",
             "options": [
-                "To absorb oxygen molecules directly from the inhaled air into the blood capillaries",
                 "To beat rhythmically and move mucus containing trapped dust, bacteria, and foreign particles upward out of the respiratory passages",
+                "To absorb oxygen molecules directly from the inhaled air into the blood capillaries",
                 "To expand and contract the chest cavity during inhalation and exhalation",
                 "To act as tiny air sacs where the actual exchange of gases occurs"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "Cilia are tiny, hair-like projections on the cells lining the respiratory tract (such as the trachea and bronchi). They beat in unison to push mucus—along with trapped dust, smoke, and germs—upward toward the throat, helping to keep the lungs clean and free of infection."
         },
         {
@@ -802,23 +802,23 @@
             "question": "What is the main function of hemoglobin in human respiration?",
             "options": [
                 "To produce mucus and trap foreign particles in the trachea",
-                "To bind with oxygen molecules in the lungs and transport them through the blood to body tissues",
                 "To act as a muscular pump that forces air in and out of the alveoli",
-                "To convert carbon dioxide directly into glucose within red blood cells"
+                "To convert carbon dioxide directly into glucose within red blood cells",
+                "To bind with oxygen molecules in the lungs and transport them through the blood to body tissues"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "Hemoglobin is a respiratory pigment contained in red blood cells with a high affinity for oxygen. It binds to oxygen in the lungs—where the oxygen concentration is high—and carries it through the circulatory system to body tissues that require it for aerobic respiration."
         },
         {
             "id": 68,
             "question": "If the alveolar surface within the human lungs were completely spread out, it would cover an area of approximately how much?",
             "options": [
-                "20 square meters",
                 "50 square meters",
-                "80 square meters",
-                "120 square meters"
+                "20 square meters",
+                "120 square meters",
+                "80 square meters"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "If the alveolar surface were spread out, it would cover about 80 $m^2$. This exceptionally large surface area ensures a highly efficient exchange of oxygen and carbon dioxide between the air and the blood capillaries in the lungs."
         },
         {
@@ -832,6 +832,618 @@
             ],
             "correctAnswer": 1,
             "explanation": "Diffusion is a very slow process over long distances. It is estimated that if oxygen relied solely on diffusion to travel from the lungs to the toes in humans, it would take about 3 years, which is why multicellular organisms require a specialized transport system (blood and hemoglobin)."
+        },
+        {
+            "id": 70,
+            "question": "What is the typical normal range of hemoglobin in adult human males and females?",
+            "options": [
+                "Male: 8.0–10.0 g/dL, Female: 6.0–8.0 g/dL",
+                "Male: 20.0–25.0 g/dL, Female: 18.0–22.0 g/dL",
+                "Male: 13.5–17.5 g/dL, Female: 12.0–15.5 g/dL",
+                "Male: 2.0–4.0 g/dL, Female: 1.0–3.0 g/dL"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The normal range of hemoglobin in adult males is typically about 13.5 to 17.5 g/dL, and for adult females, it is generally about 12.0 to 15.5 g/dL. Hemoglobin plays a vital role in binding and transporting oxygen from the lungs to the rest of the body."
+        },
+        {
+            "id": 71,
+            "question": "Blood consists of a fluid medium known as what, in which the cells are suspended?",
+            "options": [
+                "Plasma",
+                "Lymph",
+                "Serum",
+                "Platelets"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Blood consists of a fluid medium called plasma, in which red blood cells, white blood cells, and platelets are suspended. Plasma plays a crucial role in transporting dissolved food, carbon dioxide, and nitrogenous wastes throughout the body."
+        },
+        {
+            "id": 72,
+            "question": "What are the lower chambers of the human heart called?",
+            "options": [
+                "Atria",
+                "Vena Cava",
+                "Ventricles",
+                "Aorta"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The human heart is divided into four chambers: the two upper chambers are called atria, and the two lower chambers are called ventricles. Because ventricles pump blood out to the lungs and the rest of the body, they have thicker muscular walls compared to the upper chambers."
+        },
+        {
+            "id": 73,
+            "question": "What are the upper chambers of the human heart called?",
+            "options": [
+                "Atria",
+                "Ventricles",
+                "Vena Cava",
+                "Aorta"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The human heart has four chambers: the two upper chambers are called atria (singular: atrium), and the two lower chambers are called ventricles. The atria act as receiving chambers for blood coming into the heart from the body and lungs."
+        },
+        {
+            "id": 74,
+            "question": "What are the structures inside the heart that prevent the backward flow of blood, ensuring it moves in only one direction?",
+            "options": [
+                "Vena Cava",
+                "Septum",
+                "Valves",
+                "Aorta"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Valves (such as the tricuspid, bicuspid/mitral, and semilunar valves) act as one-way doors inside the heart. They open to let blood flow forward into the chambers or out into the vessels, and tightly close to restrict and prevent any backward flow."
+        },
+        {
+            "id": 75,
+            "question": "Oxygenated blood returning from the lungs enters which chamber of the heart?",
+            "options": [
+                "Right atrium",
+                "Left atrium",
+                "Right ventricle",
+                "Left ventricle"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Oxygenated blood from the lungs flows through the pulmonary veins and enters the left atrium. From there, it is pumped into the left ventricle and subsequently distributed to the rest of the body."
+        },
+        {
+            "id": 76,
+            "question": "Deoxygenated blood returning from all parts of the body enters which chamber of the heart?",
+            "options": [
+                "Left atrium",
+                "Right atrium",
+                "Left ventricle",
+                "Right ventricle"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Deoxygenated blood from the body tissues is collected by major veins (the vena cava) and enters the right atrium of the heart. From there, it passes into the right ventricle, which pumps it to the lungs for oxygenation."
+        },
+        {
+            "id": 77,
+            "question": "From the left ventricle, where does the oxygenated blood go next as it is pumped out of the heart?",
+            "options": [
+                "Back to the lungs through the pulmonary artery",
+                "Through the aorta to the rest of the body tissues",
+                "To the right atrium via the vena cava",
+                "Directly to the kidneys for filtration"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When the left ventricle contracts, it pumps oxygenated blood into the aorta—the largest artery in the body. From the aorta, the blood is distributed through a network of arteries to all the organs and tissues of the body to supply oxygen."
+        },
+        {
+            "id": 78,
+            "question": "From the right ventricle, where is the deoxygenated blood pumped next?",
+            "options": [
+                "To the left atrium through the pulmonary veins",
+                "To the aorta to be distributed throughout the body",
+                "To the lungs via the pulmonary artery for oxygenation",
+                "Back to the superior and inferior vena cava"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When the right ventricle contracts, it pumps deoxygenated blood into the pulmonary artery, which directs the blood to the lungs where it releases carbon dioxide and picks up fresh oxygen."
+        },
+        {
+            "id": 79,
+            "question": "From which major blood vessels does deoxygenated blood from all parts of the body enter the right atrium of the human heart?",
+            "options": [
+                "Pulmonary veins and aorta",
+                "Pulmonary artery",
+                "Superior and inferior vena cava",
+                "Coronary arteries"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Deoxygenated blood from the upper body is collected by the superior vena cava, and from the lower body by the inferior vena cava. Both large veins empty directly into the right atrium of the heart."
+        },
+        {
+            "id": 80,
+            "question": "The idea that deoxygenated blood goes to the lungs through 'veins' contains a common biological mix-up. Through which blood vessel does deoxygenated blood actually leave the heart to travel to the lungs?",
+            "options": [
+                "Superior vena cava",
+                "Pulmonary artery",
+                "Pulmonary veins",
+                "Aorta"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Deoxygenated blood travels from the right ventricle to the lungs through the pulmonary **artery**, not a vein. Blood vessels are named based on the direction they carry blood relative to the heart: arteries carry blood *away* from the heart, and veins carry blood *toward* the heart. Because this vessel carries blood away from the heart toward the lungs (even though it's deoxygenated), it is an artery. Pulmonary veins, conversely, carry oxygenated blood *back* from the lungs to the left atrium."
+        },
+        {
+            "id": 81,
+            "question": "Oxygenated blood returning from the lungs enters the heart through which blood vessels?",
+            "options": [
+                "Superior and inferior vena cava",
+                "Pulmonary veins",
+                "Pulmonary artery",
+                "Aorta"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Oxygenated blood travels from the lungs back to the left atrium of the heart through the pulmonary veins. Like all veins, they carry blood toward the heart, but they are unique because they carry oxygen-rich blood rather than deoxygenated blood."
+        },
+        {
+            "id": 82,
+            "question": "The idea that oxygenated blood goes to all parts of the body from the heart through a 'vein' contains a common biological mix-up. Through which major blood vessel does oxygenated blood actually leave the heart to supply the body?",
+            "options": [
+                "Superior and inferior vena cava",
+                "Aorta",
+                "Pulmonary veins",
+                "Pulmonary artery"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Oxygenated blood leaves the left ventricle of the heart through the **aorta**, which is the largest **artery** in the body—not a vein. Blood vessels are classified by the direction they carry blood relative to the heart: arteries carry blood away from the heart, while veins carry blood toward it."
+        },
+        {
+            "id": 83,
+            "question": "What is the muscular wall that separates the left and right sides of the heart, preventing the mixing of oxygenated and deoxygenated blood?",
+            "options": [
+                "Valve",
+                "Septum",
+                "Atrium",
+                "Vena Cava"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The septum is the dividing muscular wall between the left and right sides of the heart. It plays a vital role by ensuring that oxygen-rich blood on the left side does not mix with oxygen-poor blood on the right side."
+        },
+        {
+            "id": 84,
+            "question": "From which region of the human body does the superior vena cava collect deoxygenated blood?",
+            "options": [
+                "The lower part of the body, including the legs and abdomen",
+                "The lungs and pulmonary tissues",
+                "The heart muscle itself",
+                "The upper body regions, including the head, neck, arms, and chest"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The superior vena cava is a large vein that collects deoxygenated blood from the upper body—specifically the head, neck, upper limbs, and thorax—and delivers it into the right atrium of the heart. Conversely, the inferior vena cava collects blood from the lower body."
+        },
+        {
+            "id": 85,
+            "question": "From which region of the human body does the inferior vena cava collect deoxygenated blood?",
+            "options": [
+                "The upper body regions, including the head, neck, arms, and chest",
+                "The lower part of the body, including the legs, abdomen, and pelvic region",
+                "The lungs and pulmonary tissues",
+                "The heart muscle itself"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The inferior vena cava is a large vein that collects deoxygenated blood from the lower half of the body—including the abdomen, pelvis, and lower limbs—and returns it to the right atrium of the heart."
+        },
+        {
+            "id": 86,
+            "question": "Generally, what kind of blood do most veins in the human body carry?",
+            "options": [
+                "Oxygenated blood exclusively",
+                "Deoxygenated blood (with the major exception of pulmonary veins)",
+                "Nutrient-free blood destined for the kidneys",
+                "Lymph fluid mixed with red blood cells"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Generally, veins are blood vessels that carry deoxygenated blood from the body tissues back toward the heart. The primary exception to this rule is the pulmonary veins, which carry oxygenated blood from the lungs to the left atrium of the heart."
+        },
+        {
+            "id": 87,
+            "question": "Considering both chambers of the atria in the human heart, what kind of blood do they carry?",
+            "options": [
+                "Only oxygenated blood",
+                "Only deoxygenated blood",
+                "Lymph fluid exclusively",
+                "Both oxygenated (left atrium) and deoxygenated (right atrium) blood"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The human heart contains two atria: the right atrium receives and carries deoxygenated blood from the body via the vena cava, while the left atrium receives and carries oxygenated blood from the lungs via the pulmonary veins. Together, the atria handle both types of blood."
+        },
+        {
+            "id": 88,
+            "question": "Why is the human circulatory system referred to as a 'double circulation' system?",
+            "options": [
+                "Blood flows through the heart twice during each complete circuit of the body.",
+                "The heart contains two separate septa.",
+                "Blood is pumped simultaneously by two completely independent hearts.",
+                "Oxygenated and deoxygenated blood flow in opposite directions through the same vessels."
+            ],
+            "correctAnswer": 0,
+            "explanation": "In double circulation, blood passes through the heart twice for every complete circuit of the body: once through the pulmonary circuit (from the heart to the lungs and back) and once through the systemic circuit (from the heart to the rest of the body and back). This arrangement prevents the mixing of oxygen-rich and oxygen-poor blood, ensuring high efficiency in supplying oxygen to body tissues."
+        },
+        {
+            "id": 89,
+            "question": "What is the term for the force that blood exerts against the walls of a blood vessel?",
+            "options": [
+                "Blood pressure",
+                "Osmotic pressure",
+                "Capillary resistance",
+                "Hydrostatic suction"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Blood pressure is the force that blood exerts against the inner walls of a blood vessel. It is much greater in arteries than in veins due to the powerful pumping action of the heart."
+        },
+        {
+            "id": 90,
+            "question": "Why is the blood pressure significantly greater in arteries compared to veins?",
+            "options": [
+                "Arteries contain one-way valves that trap and build up high pressure.",
+                "Arteries receive blood directly pumped from the powerful ventricles of the heart, whereas pressure drops as blood travels through resistance vessels and capillaries.",
+                "Veins are closer to the heart than arteries, allowing pressure to dissipate.",
+                "Arteries have much thinner walls that easily stretch and compress blood."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Arteries receive blood directly from the powerful contractions of the heart's ventricles (such as the left ventricle pumping into the aorta) under high pressure. As blood travels through arterioles and extensive capillary beds, friction and resistance cause a sharp drop in pressure, so blood returning through the veins is at a much lower pressure."
+        },
+        {
+            "id": 91,
+            "question": "What is the term for the peak pressure inside the arteries during ventricular systole, when the heart's ventricles contract to push blood out?",
+            "options": [
+                "Diastolic pressure",
+                "Capillary pressure",
+                "Systolic pressure",
+                "Pulse pressure"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Systolic pressure is the maximum pressure exerted in the arteries during ventricular systole, when the ventricles contract and eject blood into the circulatory system. In a standard healthy adult reading of 120/80 mmHg, the systolic pressure is the top number (120)."
+        },
+        {
+            "id": 92,
+            "question": "What is the term for the pressure inside the arteries during ventricular diastole, when the heart's ventricles relax between heartbeats?",
+            "options": [
+                "Systolic pressure",
+                "Capillary pressure",
+                "Diastolic pressure",
+                "Pulse pressure"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Diastolic pressure is the minimum pressure in the arteries during ventricular diastole, when the heart muscle relaxes and fills with blood. In a standard blood pressure reading of 120/80 mmHg, the diastolic pressure is the bottom number (80)."
+        },
+        {
+            "id": 93,
+            "question": "What is the typical normal value for a healthy adult's systolic blood pressure?",
+            "options": [
+                "120 mmHg",
+                "80 mmHg",
+                "140 mmHg",
+                "60 mmHg"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In a standard healthy adult blood pressure reading of 120/80 mmHg, the systolic pressure (the top number representing the peak pressure in the arteries during ventricular contraction) is about 120 mmHg."
+        },
+        {
+            "id": 94,
+            "question": "What is the typical normal value for a healthy adult's diastolic blood pressure?",
+            "options": [
+                "120 mmHg",
+                "80 mmHg",
+                "60 mmHg",
+                "140 mmHg"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In a standard healthy adult blood pressure reading of 120/80 mmHg, the diastolic pressure (the bottom number representing the minimum pressure in the arteries during ventricular relaxation/diastole) is about 80 mmHg."
+        },
+        {
+            "id": 95,
+            "question": "What is the name of the medical instrument used to measure blood pressure?",
+            "options": [
+                "Stethoscope",
+                "Sphygmomanometer",
+                "Electrocardiograph",
+                "Spirometer"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A sphygmomanometer is the instrument used to measure blood pressure. It typically consists of an inflatable cuff (wrapped around the arm to temporarily restrict blood flow), a measuring unit (manometer), and a mechanism for inflation, often used alongside a stethoscope to listen to arterial blood flow sounds."
+        },
+        {
+            "id": 96,
+            "question": "What is the medical term for chronically high blood pressure?",
+            "options": [
+                "Hypotension",
+                "Hypertension",
+                "Atherosclerosis",
+                "Tachycardia"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hypertension is the medical term for high blood pressure, where the force of blood against your artery walls is consistently too high (typically readings of 130/80 mmHg or higher). Prolonged hypertension places extra strain on the heart and arteries, increasing the risk of heart disease and stroke."
+        },
+        {
+            "id": 97,
+            "question": "What is the medical term for abnormally low blood pressure?",
+            "options": [
+                "Hypertension",
+                "Atherosclerosis",
+                "Hypotension",
+                "Tachycardia"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Hypotension is the medical term for abnormally low blood pressure. While often less discussed than high blood pressure, significantly low blood pressure can reduce blood flow to vital organs like the brain and heart, potentially causing dizziness, fainting, or fatigue."
+        },
+        {
+            "id": 98,
+            "question": "What is the phase of the cardiac cycle called when all four chambers of the heart are simultaneously relaxed, allowing blood to flow into them?",
+            "options": [
+                "Joint diastole (complete cardiac relaxation)",
+                "Ventricular systole",
+                "Atrial systole",
+                "Vascular collapse"
+            ],
+            "correctAnswer": 0,
+            "explanation": "During joint diastole, all four chambers of the heart (both atria and both ventricles) are in a relaxed state together. This relaxation allows deoxygenated blood to drain from the vena cava into the right atrium and oxygenated blood from the pulmonary veins into the left atrium, with blood passively flowing down into the relaxed ventricles."
+        },
+        {
+            "id": 99,
+            "question": "What is the technical term for the contraction phase of the heart chambers (such as the ventricles) when they pump blood out of the heart?",
+            "options": [
+                "Diastole",
+                "Joint diastole",
+                "Vasoconstriction",
+                "Systole"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Systole is the phase of the cardiac cycle when the heart muscle contracts. During ventricular systole, the ventricles contract strongly to eject blood into the aorta and pulmonary artery, while atrial systole pushes the remaining blood from the atria into the ventricles."
+        },
+        {
+            "id": 100,
+            "question": "Systolic pressure corresponds to which condition or phase of the cardiac cycle in the heart?",
+            "options": [
+                "Ventricular relaxation (diastole)",
+                "Complete resting phase (joint diastole)",
+                "Ventricular contraction (systole)",
+                "Atrial filling"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Systolic pressure occurs during ventricular systole—the condition where the ventricles contract strongly to push blood out into the arteries, creating the peak pressure measurement in the cardiovascular system."
+        },
+        {
+            "id": 101,
+            "question": "Diastolic pressure corresponds to which condition or phase of the cardiac cycle in the heart?",
+            "options": [
+                "Ventricular contraction (systole)",
+                "Atrial systole",
+                "Ventricular relaxation (diastole)",
+                "Aortic valve closure"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Diastolic pressure corresponds to ventricular diastole—the condition where the heart's ventricles relax and fill with blood between beats, creating the lower baseline (minimum) pressure measured in the arteries."
+        },
+        {
+            "id": 102,
+            "question": "Why do arteries have thick, muscular, and elastic walls?",
+            "options": [
+                "To store excess blood for the digestive system",
+                "To allow the direct exchange of nutrients and gases with body tissues",
+                "To function as one-way valves preventing blood backflow",
+                "To withstand and handle the high pressure of blood pumped directly from the heart"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Arteries feature thick, muscular, and elastic walls because they receive blood directly from the powerful contractions of the heart under high pressure. The elasticity allows them to expand during systole and recoil during diastole, helping to maintain a continuous, smooth flow of blood."
+        },
+        {
+            "id": 103,
+            "question": "Why do veins have much thinner walls compared to arteries?",
+            "options": [
+                "Because veins carry blood under very high pressure directly from the heart chambers.",
+                "To allow for the active transport of nutrients directly into the bloodstream.",
+                "Because the blood flowing through veins is under much lower pressure as it returns to the heart.",
+                "To enable veins to stretch and generate their own pumping rhythm."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Veins feature thinner, less muscular walls because the blood returning to the heart is under significantly lower pressure after having traveled through the capillary beds. Unlike arteries, they do not need to withstand high-pressure surges from ventricular contractions."
+        },
+        {
+            "id": 104,
+            "question": "Why do veins contain one-way valves?",
+            "options": [
+                "To force blood to flow backward toward the organs.",
+                "To prevent blood from flowing backward and ensure it moves in one direction toward the heart, especially against gravity.",
+                "To maintain high systolic blood pressure generated by the heart contractions.",
+                "To filter out metabolic waste and foreign particles from the blood."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Because blood in veins travels under very low pressure and often has to move upward against the pull of gravity (such as from the legs back to the heart), one-way valves are essential. They open to allow blood to flow upward toward the heart and snap shut to prevent any backward pooling or leakage."
+        },
+        {
+            "id": 105,
+            "question": "What are the extremely thin blood vessels, only one cell thick, that connect arterioles to venules and facilitate the exchange of materials between blood and tissues called?",
+            "options": [
+                "Arteries",
+                "Capillaries",
+                "Aorta",
+                "Veins"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Capillaries are the microscopic blood vessels whose walls are just a single cell thick. This ultra-thin structure is a crucial functional adaptation, allowing oxygen, carbon dioxide, nutrients, and waste products to easily diffuse between the bloodstream and individual tissue cells."
+        },
+        {
+            "id": 106,
+            "question": "Where does the exchange of materials (such as oxygen, nutrients, and waste products) between the blood and surrounding tissue cells primarily take place?",
+            "options": [
+                "Aorta",
+                "Vena cava",
+                "Capillaries",
+                "Pulmonary artery"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The exchange of materials between the blood and surrounding tissue cells occurs at the capillaries. Their ultra-thin walls, being only one cell thick, facilitate the easy diffusion of oxygen, nutrients, carbon dioxide, and metabolic wastes between the blood and individual cells."
+        },
+        {
+            "id": 107,
+            "question": "What components of the blood are primarily responsible for blood clotting (coagulation) to prevent excessive loss of blood from an injury?",
+            "options": [
+                "Red blood cells and hemoglobin",
+                "White blood cells and antibodies",
+                "Platelets and fibrinogen proteins",
+                "Plasma water and electrolytes"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Blood clotting, or coagulation, is a protective mechanism managed by cell fragments called platelets (thrombocytes) along with soluble plasma proteins like fibrinogen. When a blood vessel is injured, platelets aggregate at the site and trigger a biochemical cascade that converts fibrinogen into a solid, insoluble fibrin mesh, which traps blood cells and seals the wound."
+        },
+        {
+            "id": 108,
+            "question": "What is the fluid formed when some amount of plasma, proteins, and cells escape through the pores in capillary walls into the intercellular spaces of tissues?",
+            "options": [
+                "Bile juice",
+                "Cerebrospinal fluid",
+                "Gastric juice",
+                "Lymph (tissue fluid)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "As blood passes through the capillaries, some amount of plasma, dissolved proteins, and blood cells filter out through the microscopic pores in the capillary walls into the intercellular spaces of the tissues. This fluid is called tissue fluid or lymph, which eventually drains into the lymphatic system."
+        },
+        {
+            "id": 109,
+            "question": "What is the color of lymph (tissue fluid) in the human body?",
+            "options": [
+                "Colourless or pale yellow because it lacks red blood cells",
+                "Bright red due to high hemoglobin content",
+                "Dark blue due to low oxygen levels",
+                "Greenish-blue due to plasma proteins"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Lymph is a colourless or pale yellow fluid because it lacks red blood cells and hemoglobin, which are responsible for giving blood its characteristic red color. It primarily contains blood plasma, white blood cells (especially lymphocytes), and proteins."
+        },
+        {
+            "id": 110,
+            "question": "Which plant tissue is primarily responsible for transporting water and dissolved minerals upward from the roots to all parts of the plant?",
+            "options": [
+                "Xylem",
+                "Phloem",
+                "Cortex",
+                "Cambium"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Xylem is the specialized vascular tissue in plants that transports water and dissolved minerals from the roots up to the stems, leaves, and other parts of the plant. Conversely, phloem is responsible for transporting food and organic nutrients."
+        },
+        {
+            "id": 111,
+            "question": "Which specialized plant vascular tissue is responsible for transporting food and organic nutrients made in the leaves during photosynthesis to all other parts of the plant?",
+            "options": [
+                "Xylem",
+                "Cortex",
+                "Phloem",
+                "Pith"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Phloem is the vascular tissue in plants responsible for translocation—the transport of food (organic nutrients and sugars manufactured in the leaves via photosynthesis) to the roots, stems, and growing regions. Conversely, xylem is responsible for transporting water and minerals."
+        },
+        {
+            "id": 112,
+            "question": "What is the term for the suction pull created by the evaporation of water from the leaves, which helps draw water upward from the roots through the xylem?",
+            "options": [
+                "Translocation",
+                "Transpiration",
+                "Respiration",
+                "Photosynthesis"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Transpiration is the evaporation of water from plant leaves (mainly through stomata). This creates a continuous negative pressure or 'transpiration pull' that draws water and minerals up from the roots through the xylem."
+        },
+        {
+            "id": 113,
+            "question": "Through which plant tissue and in what direction does the translocation of soluble photosynthetic products occur?",
+            "options": [
+                "Xylem, strictly in an upward direction from roots to leaves",
+                "Cortex, only in a lateral direction",
+                "Phloem, in multiple directions (both upward and downward depending on the plant's needs)",
+                "Pith, exclusively downward toward the roots"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Translocation is the movement of soluble organic products of photosynthesis through the phloem. Unlike water transport in the xylem (which is strictly upward), phloem transport is bidirectional, moving nutrients wherever they are needed—from storage organs or leaves to growing tissues, roots, or developing fruits."
+        },
+        {
+            "id": 114,
+            "question": "Which of the following is a primary nitrogenous metabolic waste product excreted by human kidneys?",
+            "options": [
+                "Glucose",
+                "Oxygen",
+                "Glycogen",
+                "Urea"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Urea is a major nitrogenous waste product formed in the liver from the breakdown of excess amino acids. It is transported through the blood and filtered out by the kidneys to be excreted in urine."
+        },
+        {
+            "id": 115,
+            "question": "What is the primary biological process responsible for the removal of toxic nitrogenous metabolic wastes from the human body?",
+            "options": [
+                "Respiration",
+                "Digestion",
+                "Excretion",
+                "Circulation"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Excretion is the vital metabolic process through which nitrogenous wastes (like urea and uric acid) and other cellular byproducts are filtered and eliminated from the body, primarily via the urinary system."
+        },
+        {
+            "id": 116,
+            "question": "Which of the following structures form the main components of the human excretory system?",
+            "options": [
+                "Heart, blood vessels, capillaries, and blood",
+                "Lungs, trachea, bronchi, and alveoli",
+                "A pair of kidneys, a pair of ureters, a urinary bladder, and a urethra",
+                "Liver, stomach, small intestine, and large intestine"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The human excretory system is primarily composed of a pair of bean-shaped kidneys (which filter the blood and form urine), ureters (which transport urine from the kidneys to the bladder), a urinary bladder (which temporarily stores urine), and a urethra (which expels urine from the body)."
+        },
+        {
+            "id": 117,
+            "question": "What is the correct sequential pathway of urine from its production in the kidneys to its elimination from the body?",
+            "options": [
+                "Kidney -> Urinary bladder -> Ureter -> Urethra",
+                "Ureter -> Kidney -> Urethra -> Urinary bladder",
+                "Kidney -> Ureter -> Urinary bladder -> Urethra",
+                "Nephron -> Urethra -> Urinary bladder -> Ureter"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Urine is produced in the kidneys, travels down the ureters into the urinary bladder for temporary storage, and is eventually expelled from the body through the urethra."
+        },
+        {
+            "id": 118,
+            "question": "What is the name of the cup-shaped structure of the nephron that surrounds the glomerulus and initially collects the filtered fluid from the blood?",
+            "options": [
+                "Loop of Henle",
+                "Collecting duct",
+                "Bowman's capsule",
+                "Distal convoluted tubule"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Bowman's capsule is the cup-shaped beginning of the tubular component of a nephron in the mammalian kidney. It receives the glomerular filtrate, which contains water, ions, and nitrogenous wastes filtered from the blood capillaries."
+        },
+        {
+            "id": 119,
+            "question": "What is the name of the basic structural and functional filtration unit of the human kidney?",
+            "options": [
+                "Neuron",
+                "Alveolus",
+                "Nephron",
+                "Villus"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The nephron is the structural and functional unit of the kidney. Each human kidney has about one million nephrons responsible for filtering blood, removing metabolic wastes, and regulating water and electrolyte balance."
+        },
+        {
+            "id": 120,
+            "question": "What is the medical procedure called that uses an artificial kidney machine to filter out metabolic nitrogenous wastes when a patient's kidneys are failing?",
+            "options": [
+                "Angioplasty",
+                "Dialysis",
+                "Echocardiography",
+                "Endoscopy"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dialysis is the artificial process used to filter waste products, excess salts, and water from the blood when the natural kidneys are no longer able to function properly."
         }
     ]
 }

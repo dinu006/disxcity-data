@@ -1,0 +1,717 @@
+{
+    "chapter": "Is Matter Around Us Pure",
+    "class": "Class-IX",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which is the correct definition of a homogeneous mixture?",
+            "options": [
+                "A mixture that has a non-uniform composition throughout",
+                "A mixture that has a uniform composition throughout",
+                "A pure substance containing only one kind of atom",
+                "A substance formed by the chemical combination of elements"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A homogeneous mixture is a mixture in which the components completely mix with each other and its composition is uniform throughout, such as salt or sugar dissolved in water[cite: 1]."
+        },
+        {
+            "id": 2,
+            "question": "Which one of the following is the correct definition of a heterogeneous mixture?",
+            "options": [
+                "A pure substance consisting of a single type of particles",
+                "A mixture that has a uniform composition throughout",
+                "A mixture that has a non-uniform composition throughout",
+                "A substance formed by chemical combination of two or more components in a fixed ratio"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A heterogeneous mixture is a mixture that has a non-uniform composition throughout, meaning its different components can be visibly distinguished and separated easily (such as a mixture of sand and water or oil and water)[cite: 1]."
+        },
+        {
+            "id": 3,
+            "question": "What is meant by a suspension?",
+            "options": [
+                "A homogeneous mixture in which the solute particles are completely dissolved",
+                "A pure substance containing particles of uniform size and composition",
+                "A stable mixture that does not scatter light or separate upon standing",
+                "A heterogeneous mixture in which the solute particles do not dissolve but remain suspended throughout the bulk of the medium"
+            ],
+            "correctAnswer": 3,
+            "explanation": "A suspension is a heterogeneous mixture in which solute-like particles do not dissolve, but remain suspended throughout the bulk of the medium. The particles are visible to the naked eye, can scatter a beam of light, and settle down when left undisturbed[cite: 1]."
+        },
+        {
+            "id": 4,
+            "question": "What is meant by a colloidal solution?",
+            "options": [
+                "A heterogeneous mixture in which the particle size is intermediate between a true solution and a suspension, appearing homogeneous",
+                "A homogeneous mixture in which solute particles are completely dissolved at the molecular level",
+                "A coarse mixture where particles settle down immediately under gravity when left undisturbed",
+                "A pure substance composed of identical molecules combined in a fixed ratio"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A colloidal solution (or colloid) is a heterogeneous mixture in which the particle size is too small to be seen with the naked eye, making it appear homogeneous. Colloids are stable, do not settle down when left undisturbed, and can scatter a beam of light passing through them (known as the Tyndall effect)[cite: 1]."
+        },
+        {
+            "id": 5,
+            "question": "What are mixtures of two or more metals or a metal and a non-metal called?",
+            "options": [
+                "Compound",
+                "Emulsion",
+                "Alloy",
+                "Metalloid"
+            ],
+            "correctAnswer": 2,
+            "explanation": "An alloy is a homogeneous mixture of two or more metals or a metal and a non-metal that cannot be separated into their components by physical methods. For example, brass is an alloy of copper and zinc[cite: 1]."
+        },
+        {
+            "id": 6,
+            "question": "The mixture of approximately thirty percent zinc and seventy percent copper is called:",
+            "options": [
+                "Brass",
+                "Bronze",
+                "Amalgam",
+                "Solder"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A mixture of approximately 30% zinc and 70% copper is known as brass, which is a classic example of a solid solution (alloy) showing a homogeneous composition[cite: 1]."
+        },
+        {
+            "id": 7,
+            "question": "What is a homogeneous mixture of two or more substances called?",
+            "options": [
+                "Suspension",
+                "Solution",
+                "Colloid",
+                "Emulsion"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A solution is a homogeneous mixture of two or more substances. The particles of a solution are evenly distributed throughout the mixture, meaning you cannot distinguish the solute from the solvent by the naked eye (e.g., salt dissolved in water)[cite: 1]."
+        },
+        {
+            "id": 8,
+            "question": "The component of a solution that dissolves the other component in it is called:",
+            "options": [
+                "Solute",
+                "Colloid",
+                "Suspension",
+                "Solvent"
+            ],
+            "correctAnswer": 3,
+            "explanation": "In a solution, the component that dissolves the other component in it (typically present in larger quantity) is called the solvent, whereas the component being dissolved is called the solute[cite: 1]."
+        },
+        {
+            "id": 9,
+            "question": "The component of a solution that is dissolved in the solvent is called:",
+            "options": [
+                "Solute",
+                "Solvent",
+                "Colloid",
+                "Suspension"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In a solution, the component that is dissolved in the solvent (typically present in a smaller quantity) is called the solute[cite: 1]."
+        },
+        {
+            "id": 10,
+            "question": "The solution of iodine in alcohol is known as:",
+            "options": [
+                "Lugol's solution",
+                "Iodine spirit",
+                "Tincture of iodine",
+                "Alcoholic iodine"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A solution of iodine in alcohol is known as tincture of iodine. In this solution, iodine is the solute and alcohol (such as ethanol or isopropanol) is the solvent[cite: 1]."
+        },
+        {
+            "id": 11,
+            "question": "What percentage of air is composed of nitrogen by volume?",
+            "options": [
+                "21%",
+                "0.03%",
+                "0.9%",
+                "78%"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Air is a homogeneous mixture of various gases. By volume, nitrogen makes up approximately 78%, oxygen constitutes about 21%, argon around 0.9%, and carbon dioxide about 0.03%[cite: 1]."
+        },
+        {
+            "id": 12,
+            "question": "What percentage of air is composed of oxygen by volume?",
+            "options": [
+                "78%",
+                "21%",
+                "0.03%",
+                "0.9%"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Air is a homogeneous mixture of various gases, with nitrogen making up about 78% and oxygen constituting approximately 21% by volume[cite: 1]."
+        },
+        {
+            "id": 13,
+            "question": "What is meant by a dilute solution?",
+            "options": [
+                "A solution that has a high amount of solute dissolved in a given amount of solvent",
+                "A pure liquid containing no dissolved particles",
+                "A solution that has a relatively low amount of solute dissolved in a given amount of solvent",
+                "A heterogeneous mixture that separates on standing"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A dilute solution is one that contains a relatively small amount of solute dissolved in a given quantity of solvent, in contrast to a concentrated solution which holds a large amount of solute[cite: 1]."
+        },
+        {
+            "id": 14,
+            "question": "What is meant by a saturated solution?",
+            "options": [
+                "A solution that contains a very small amount of solute",
+                "A solution in which no more solute can be dissolved at a given temperature",
+                "A heterogeneous mixture that separates on standing",
+                "A solution that can dissolve an infinite amount of solute"
+            ],
+            "correctAnswer": 1,
+            "explanation": "At any particular temperature, a solution that has dissolved as much solute as it is capable of dissolving is said to be a saturated solution. No more solute can be dissolved in it at that temperature[cite: 1]."
+        },
+        {
+            "id": 15,
+            "question": "When no more solute can be dissolved in a solution at a given temperature, it is called:",
+            "options": [
+                "A saturated solution",
+                "An unsaturated solution",
+                "A colloidal solution",
+                "A suspension"
+            ],
+            "correctAnswer": 0,
+            "explanation": "When no more solute can be dissolved in a given amount of solvent at a particular temperature, the solution is known as a saturated solution. Any additional solute added will remain undissolved[cite: 1]."
+        },
+        {
+            "id": 16,
+            "question": "The amount of solute present in a saturated solution at that temperature is called its:",
+            "options": [
+                "Concentration",
+                "Density",
+                "Viscosity",
+                "Solubility"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The amount of solute present in a saturated solution at a given temperature is known as its solubility. It represents the maximum amount of solute that can dissolve in a specific amount of solvent at that temperature[cite: 1]."
+        },
+        {
+            "id": 17,
+            "question": "If the amount of solute contained in a solution is less than the saturation level, it is called:",
+            "options": [
+                "A saturated solution",
+                "An unsaturated solution",
+                "A supersaturated solution",
+                "A colloidal solution"
+            ],
+            "correctAnswer": 1,
+            "explanation": "An unsaturated solution is a solution that contains less amount of solute than its saturation capacity at a given temperature, meaning more solute can still be dissolved in it[cite: 1]."
+        },
+        {
+            "id": 18,
+            "question": "The amount of solute present in a given amount of solution is called its:",
+            "options": [
+                "Solubility",
+                "Saturation point",
+                "Concentration of a solution",
+                "Density"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The concentration of a solution is the amount of solute present in a given amount (mass or volume) of solution, or the amount of solute dissolved in a given amount of mass or volume of solvent[cite: 1]."
+        },
+        {
+            "id": 19,
+            "question": "The mass by mass percentage of a solution is expressed by which of the following formulas?",
+            "options": [
+                "(Mass of solute / Mass of solution) × 100",
+                "(Mass of solvent / Mass of solution) × 100",
+                "(Mass of solution / Mass of solute) × 100",
+                "(Mass of solute / Mass of solvent) × 100"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The mass by mass percentage of a solution is calculated by dividing the mass of the solute by the total mass of the solution, then multiplying by 100[cite: 1]."
+        },
+        {
+            "id": 20,
+            "question": "The mass by volume percentage of a solution is expressed by which of the following formulas?",
+            "options": [
+                "(Mass of solvent / Volume of solution) × 100",
+                "(Volume of solute / Mass of solution) × 100",
+                "(Mass of solute / Mass of solution) × 100",
+                "(Mass of solute / Volume of solution) × 100"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The mass by volume percentage of a solution is defined as the mass of the solute in grams dissolved in 100 mL of the solution, calculated as (Mass of solute / Volume of solution) × 100[cite: 1]."
+        },
+        {
+            "id": 21,
+            "question": "The volume by volume percentage of a solution is expressed by which of the following formulas?",
+            "options": [
+                "(Volume of solvent / Volume of solution) × 100",
+                "(Volume of solution / Volume of solute) × 100",
+                "(Volume of solute / Volume of solution) × 100",
+                "(Volume of solute / Volume of solvent) × 100"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The volume by volume percentage of a solution is calculated by dividing the volume of the solute by the total volume of the solution, then multiplying by 100[cite: 1]."
+        },
+        {
+            "id": 22,
+            "question": "A heterogeneous mixture in which the solute particles do not dissolve but remain suspended throughout the bulk of the medium is called:",
+            "options": [
+                "Solution",
+                "Colloid",
+                "Suspension",
+                "Emulsion"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A suspension is a heterogeneous mixture in which solute particles do not dissolve, but remain suspended throughout the bulk of the medium. The particles of a suspension are visible to the naked eye[cite: 1]."
+        },
+        {
+            "id": 23,
+            "question": "The particles of which type of mixture can be seen with the naked eyes?",
+            "options": [
+                "True solution",
+                "Colloidal solution",
+                "Alloy",
+                "Suspension"
+            ],
+            "correctAnswer": 3,
+            "explanation": "In a suspension, the solute-like particles are large enough to be seen with the naked eye because it is a heterogeneous mixture where particles do not dissolve and remain suspended throughout the bulk of the medium[cite: 1]."
+        },
+        {
+            "id": 24,
+            "question": "Particles of which type of mixture scatter a beam of light passing through it?",
+            "options": [
+                "True solution",
+                "Colloidal solution",
+                "Alloy",
+                "Homogeneous mixture"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The particles of a colloidal solution are large enough to scatter a beam of light passing through it, making the path of light visible (known as the Tyndall effect). In contrast, the particles of a true solution are too small to scatter light[cite: 1]."
+        },
+        {
+            "id": 25,
+            "question": "In which type of mixture do the solute particles settle down when left undisturbed?",
+            "options": [
+                "True solution",
+                "Suspension",
+                "Colloidal solution",
+                "Alloy"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In a suspension, the solute particles are large enough and do not dissolve, causing them to settle down when left undisturbed because it is an unstable heterogeneous mixture[cite: 1]."
+        },
+        {
+            "id": 26,
+            "question": "A mixture that appears to be homogeneous because its particles are uniformly spread and relatively smaller than those of a suspension, but is actually a heterogeneous mixture, is called:",
+            "options": [
+                "Colloidal solution",
+                "True solution",
+                "Suspension",
+                "Alloy"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A colloidal solution (colloid) appears homogeneous because its particles are uniformly distributed and too small to be seen individually with the naked eye. However, it is actually a heterogeneous mixture because the particle size is intermediate, allowing it to scatter light (Tyndall effect)[cite: 1]."
+        },
+        {
+            "id": 27,
+            "question": "The phenomenon in which colloidal particles scatter a beam of light passing through them, making the path of light visible, is called:",
+            "options": [
+                "Brownian motion",
+                "Raman effect",
+                "Photoelectric effect",
+                "Tyndall effect"
+            ],
+            "correctAnswer": 3,
+            "explanation": "When a beam of light is passed through a colloidal solution, the colloidal particles scatter the light because of their size, making the path of the beam visible. This phenomenon is known as the Tyndall effect[cite: 1]."
+        },
+        {
+            "id": 28,
+            "question": "The type of solution in which the particles are large enough to scatter a beam of light passing through it and are not visible through the naked eye is called:",
+            "options": [
+                "Suspension",
+                "Colloidal solution",
+                "True solution",
+                "Alloy"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A colloidal solution is a heterogeneous mixture in which the particle size is intermediate (between that of a true solution and a suspension). The particles are too small to be seen with the naked eye, but they are large enough to scatter a beam of light passing through them (Tyndall effect)[cite: 1]."
+        },
+        {
+            "id": 29,
+            "question": "The solute particles of a colloidal solution cannot be separated by the simple process of filtration, but they can be separated by a specialized technique known as:",
+            "options": [
+                "Evaporation",
+                "Sublimation",
+                "Centrifugation",
+                "Simple distillation"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Because colloidal particles are extremely small, they easily pass through ordinary filter paper, meaning filtration cannot separate them. Instead, a technique called centrifugation is used, where the mixture is spun rapidly so that the suspended colloidal particles settle down[cite: 1]."
+        },
+        {
+            "id": 30,
+            "question": "The phenomenon when a fine beam of sunlight enters a dense forest and gets scattered by mist and dust particles in the air, making the path of light visible, is an example of:",
+            "options": [
+                "Tyndall effect",
+                "Brownian motion",
+                "Total internal reflection",
+                "Scattering of light by true solutions"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Sunlight passing through the canopy of a dense forest is a classic example of the Tyndall effect. The tiny droplets of mist and dust particles suspended in the air act as a colloidal dispersion, scattering the light and making the beam visible[cite: 1]."
+        },
+        {
+            "id": 31,
+            "question": "In a colloidal solution, the component or solute-like particles that are dispersed throughout the medium and scatter light are called the:",
+            "options": [
+                "Dispersion medium",
+                "Solvent",
+                "Filtrate",
+                "Dispersed phase"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The component of a colloid that acts like the solute and consists of particles scattered through the medium is known as the dispersed phase. These colloidal particles are responsible for scattering the beam of light (Tyndall effect)[cite: 1]."
+        },
+        {
+            "id": 32,
+            "question": "The medium in which the particles of a colloidal solution are suspended is called:",
+            "options": [
+                "Dispersed phase",
+                "Dispersion medium",
+                "Solvent",
+                "True solution"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In a colloidal solution, the component in which the solute-like particles (dispersed phase) are suspended is known as the dispersion medium, which is comparable to the solvent in a true solution[cite: 1]."
+        },
+        {
+            "id": 33,
+            "question": "A colloidal system in which a liquid is the dispersed phase and a gas is the dispersion medium is called:",
+            "options": [
+                "Foam",
+                "Emulsion",
+                "Aerosol",
+                "Sol"
+            ],
+            "correctAnswer": 2,
+            "explanation": "An aerosol is a type of colloid in which a liquid (or solid) is dispersed in a gas. Examples include fog, clouds, and mist, where liquid droplets are suspended in air[cite: 1]."
+        },
+        {
+            "id": 34,
+            "question": "A colloidal system in which a solid is the dispersed phase and a gas is the dispersion medium is called:",
+            "options": [
+                "Aerosol",
+                "Foam",
+                "Emulsion",
+                "Sol"
+            ],
+            "correctAnswer": 0,
+            "explanation": "An aerosol is a colloidal system in which either a solid or a liquid is dispersed in a gas. When a solid is dispersed in a gas (such as smoke or automobile exhaust), it is still classified as an aerosol[cite: 1]."
+        },
+        {
+            "id": 35,
+            "question": "A colloidal system in which gas is the dispersed phase and liquid is the dispersion medium is called:",
+            "options": [
+                "Aerosol",
+                "Foam",
+                "Emulsion",
+                "Sol"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A colloidal system in which a gas is the dispersed phase and a liquid is the dispersion medium is called foam. Common examples include whipped cream, soap lather, and the froth on soda water[cite: 1]."
+        },
+        {
+            "id": 36,
+            "question": "A colloidal system in which both the dispersed phase and the dispersion medium are liquids is called:",
+            "options": [
+                "Aerosol",
+                "Foam",
+                "Sol",
+                "Emulsion"
+            ],
+            "correctAnswer": 3,
+            "explanation": "An emulsion is a type of colloidal solution in which both the dispersed phase and the dispersion medium are liquids. Common examples include milk, face cream, and mayonnaise[cite: 1]."
+        },
+        {
+            "id": 37,
+            "question": "A colloidal system in which a solid is the dispersed phase and a liquid is the dispersion medium is called:",
+            "options": [
+                "Emulsion",
+                "Aerosol",
+                "Sol",
+                "Foam"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A colloidal system in which a solid is the dispersed phase and a liquid is the dispersion medium is called a sol. Common examples include paints, ink, muddy water, and milk of magnesia[cite: 1]."
+        },
+        {
+            "id": 38,
+            "question": "A colloidal system in which gas is the dispersed phase and a solid is the dispersion medium is called:",
+            "options": [
+                "Solid foam",
+                "Aerosol",
+                "Gel",
+                "Solid sol"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A colloidal system in which gas is the dispersed phase and a solid is the dispersion medium is called solid foam. Common examples include pumice stone, foam rubber, and sponges[cite: 1]."
+        },
+        {
+            "id": 39,
+            "question": "A colloidal system in which a liquid is the dispersed phase and a solid is the dispersion medium is called:",
+            "options": [
+                "Sol",
+                "Emulsion",
+                "Solid sol",
+                "Gel"
+            ],
+            "correctAnswer": 3,
+            "explanation": "A colloidal system in which a liquid is the dispersed phase and a solid is the dispersion medium is called a gel. Common examples include jelly, cheese, and butter[cite: 1]."
+        },
+        {
+            "id": 40,
+            "question": "A colloidal system in which both the dispersed phase and the dispersion medium are solids is called:",
+            "options": [
+                "Gel",
+                "Solid sol",
+                "Solid foam",
+                "Sol"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A colloidal system in which both the dispersed phase and the dispersion medium are solids is called a solid sol. Common examples include colored gemstone and milky glass[cite: 1]."
+        },
+        {
+            "id": 41,
+            "question": "Which of the following best defines a physical change?",
+            "options": [
+                "A change in which a completely new substance with different chemical properties is formed",
+                "A permanent change that alters the internal chemical structure of the substance",
+                "A change in which no new substance is formed and the chemical composition remains the same",
+                "A change that always involves a chemical reaction and evolution of gas"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A physical change is a change in which no new substance is formed. The chemical composition of the substance remains unchanged, and the change is usually temporary and easily reversible (such as changes in state, color, or shape)[cite: 1]."
+        },
+        {
+            "id": 42,
+            "question": "Which of the following best defines a chemical change?",
+            "options": [
+                "A change in which one or more new substances with different chemical properties and composition are formed",
+                "A temporary change that only alters the physical state or appearance of a substance",
+                "A change in which no new substance is formed and the chemical composition remains unchanged",
+                "A change that is easily reversible by simple physical processes like filtration or evaporation"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A chemical change (or chemical reaction) is a permanent change in which one or more new substances are formed, possessing entirely different chemical properties and composition from the original substances[cite: 1]."
+        },
+        {
+            "id": 43,
+            "question": "Who was the first scientist to use the term 'element' in 1661?",
+            "options": [
+                "Antoine Lavoisier",
+                "Robert Boyle",
+                "John Dalton",
+                "J.J. Thomson"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In 1661, Irish natural philosopher and chemist Robert Boyle, in his famous book The Sceptical Chymist, became the first scientist to use the term 'element' in a modern scientific context, defining it as a substance that cannot be broken down into simpler substances by any chemical reaction[cite: 1]."
+        },
+        {
+            "id": 44,
+            "question": "Who was the first chemist to establish an experimentally useful definition of a chemical element?",
+            "options": [
+                "Robert Boyle",
+                "John Dalton",
+                "J.J. Thomson",
+                "Antoine Lavoisier"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Antoine Lavoisier was the first chemist to establish an experimentally useful definition of an element as a basic form of matter that cannot be broken down into simpler substances by chemical reactions[cite: 1]."
+        },
+        {
+            "id": 45,
+            "question": "Which of the following best defines a chemical element?",
+            "options": [
+                "A basic form of matter that cannot be broken down into simpler substances by chemical reactions",
+                "A substance composed of two or more different types of atoms chemically combined in a fixed ratio",
+                "A heterogeneous mixture of different pure substances that can be separated physically",
+                "A solution in which solute particles are uniformly distributed throughout a liquid medium"
+            ],
+            "correctAnswer": 0,
+            "explanation": "An element is defined as a basic form of matter that cannot be broken down into simpler substances by ordinary chemical reactions. This fundamental definition was first established by Antoine Lavoisier[cite: 1]."
+        },
+        {
+            "id": 46,
+            "question": "What is the correct definition of the property of being 'ductile'?",
+            "options": [
+                "The ability of a material to be beaten into thin sheets",
+                "The ability of a material to conduct heat and electricity",
+                "The ability of a material to be drawn into thin wires",
+                "The ability of a material to break easily under tensile stress"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Ductility is the physical property of a material—characteristic of many metals—that allows it to be stretched, pulled, or drawn into thin wires (such as copper or gold wires) without breaking. In contrast, the ability of a material to be beaten into thin sheets is called malleability[cite: 1]."
+        },
+        {
+            "id": 47,
+            "question": "What is the correct definition of the property of being 'malleable'?",
+            "options": [
+                "The ability of a material to be drawn into thin wires",
+                "The ability of a material to be beaten or rolled into thin sheets",
+                "The ability of a material to conduct heat and electricity",
+                "The ability of a material to break easily under tensile stress"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Malleability is a physical property characteristic of metals that allows them to be hammered, beaten, or rolled into thin sheets (such as aluminum foil or gold leaf) without breaking. In contrast, the ability to be drawn into thin wires is known as ductility[cite: 1]."
+        },
+        {
+            "id": 48,
+            "question": "What is the correct definition of the property of being 'sonorous'?",
+            "options": [
+                "The ability of a material to produce a ringing sound when struck",
+                "The ability of a material to be drawn into thin wires",
+                "The ability of a material to be beaten into thin sheets",
+                "The ability of a material to conduct heat and electricity"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Sonorous refers to the property of materials (especially metals) that allows them to produce a deep, ringing sound when struck. This characteristic property of metals is why objects like bells are made from them[cite: 1]."
+        },
+        {
+            "id": 49,
+            "question": "Which of the following metals is liquid at room temperature?",
+            "options": [
+                "Bromine",
+                "Sodium",
+                "Gallium",
+                "Mercury"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Mercury is the only metallic element that is liquid at standard room temperature and pressure. (Note: While bromine is also liquid at room temperature, it is a non-metal, making mercury the correct answer for a liquid metal)[cite: 1]."
+        },
+        {
+            "id": 50,
+            "question": "What are elements that exhibit intermediate properties between those of metals and non-metals called?",
+            "options": [
+                "Noble gases",
+                "Metalloids",
+                "Halogens",
+                "Transition metals"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Elements that show properties intermediate between those of metals and non-metals are called metalloids (or semi-metals). Common examples include boron, silicon, and germanium[cite: 1]."
+        },
+        {
+            "id": 51,
+            "question": "Which of the following elements are classified as metalloids (semi-metals)?",
+            "options": [
+                "Sodium, potassium, and calcium",
+                "Carbon, nitrogen, and oxygen",
+                "Boron, silicon, and germanium",
+                "Gold, silver, and copper"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Metalloids are elements that exhibit properties intermediate between those of metals and non-metals. Common examples include boron, silicon, germanium, arsenic, antimony, and tellurium[cite: 1]."
+        },
+        {
+            "id": 52,
+            "question": "Which of the following two elements are liquid at room temperature?",
+            "options": [
+                "Mercury and Bromine",
+                "Mercury and Gallium",
+                "Sodium and Mercury",
+                "Bromine and Iodine"
+            ],
+            "correctAnswer": 0,
+            "explanation": "At standard room temperature (approx. 25°C), only two elements are liquid: mercury (a metal) and bromine (a non-metal). (Note: Elements like gallium and cesium melt at temperatures only slightly above room temperature, around 29°C to 30°C)[cite: 1]."
+        },
+        {
+            "id": 53,
+            "question": "How many elements exist in a gaseous state at standard room temperature?",
+            "options": [
+                "9",
+                "7",
+                "13",
+                "11"
+            ],
+            "correctAnswer": 3,
+            "explanation": "There are 11 elements that exist in a gaseous state at standard room temperature and pressure: 5 reactive non-metals (Hydrogen, Nitrogen, Oxygen, Fluorine, and Chlorine) and 6 noble gases (Helium, Neon, Argon, Krypton, Xenon, and Radon)[cite: 1]."
+        },
+        {
+            "id": 54,
+            "question": "Out of the total known elements in the periodic table, how many are naturally occurring?",
+            "options": [
+                "92",
+                "94",
+                "98",
+                "100"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Out of the 118 known elements in the periodic table, 94 are naturally occurring on Earth (elements with atomic numbers 1 through 94, including primordial elements and trace radioactive elements like technetium, neptunium, and plutonium). The remaining elements from atomic number 95 onwards are synthetic and produced artificially in laboratories[cite: 1]."
+        },
+        {
+            "id": 55,
+            "question": "A substance composed of two or more elements chemically combined with one another in a fixed ratio is called:",
+            "options": [
+                "Mixture",
+                "Element",
+                "Compound",
+                "Solution"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A compound is a pure substance composed of two or more elements that are chemically combined in a fixed proportion by mass. The properties of a compound are entirely different from those of its constituent elements[cite: 1]."
+        },
+        {
+            "id": 56,
+            "question": "When a mixture of iron powder and sulfur powder is heated strongly, what type of change takes place?",
+            "options": [
+                "A chemical change forming iron sulfide, a new substance with different properties",
+                "A physical change where iron and sulfur retain their individual magnetic and chemical properties",
+                "A phase change from solid to liquid solution without any new substance",
+                "A photochemical reaction driven entirely by heat and light"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Simply mixing iron filings and sulfur powder at room temperature is a physical change (and a heterogeneous mixture) where both components retain their properties and can be separated using a magnet. However, when the mixture is heated strongly, they react chemically to form a new compound, iron(II) sulfide (FeS), which has completely different properties from the original elements[cite: 1]."
+        },
+        {
+            "id": 57,
+            "question": "What happens when a mixture of iron filings and sulfur powder is strongly heated until it glows red, removed from the flame, and allowed to cool?",
+            "options": [
+                "A physical change occurs where iron and sulfur melt together to form a homogeneous liquid solution without forming any new bonds",
+                "A photochemical reaction occurs where the mixture evaporates completely leaving behind a gaseous residue",
+                "No reaction takes place and the iron and sulfur remain completely unchanged as a physical mixture",
+                "An exothermic chemical reaction takes place, forming iron(II) sulfide (FeS), a new compound with properties entirely different from iron and sulfur"
+            ],
+            "correctAnswer": 3,
+            "explanation": "When iron filings and sulfur powder are heated strongly, an exothermic chemical reaction takes place. The reaction continues to glow red even after removing it from the flame because it releases heat, resulting in the formation of iron(II) sulfide (FeS)—a new compound that is non-magnetic and possesses entirely different properties from the original elements[cite: 1]."
+        },
+        {
+            "id": 58,
+            "question": "Which of the following best defines a mixture?",
+            "options": [
+                "A pure substance composed of two or more elements chemically combined in a fixed ratio",
+                "A material containing two or more substances that are not chemically combined and retain their individual properties",
+                "A basic form of matter that cannot be broken down into simpler substances by chemical reactions",
+                "A single substance with a fixed melting and boiling point throughout"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A mixture is a physical combination of two or more substances (elements, compounds, or both) in which the components retain their individual chemical properties and are not chemically bonded together[cite: 1]."
+        },
+        {
+            "id": 59,
+            "question": "The constituents of which type of substance can only be separated into their constituent elements by chemical or electrochemical reactions?",
+            "options": [
+                "Mixture",
+                "Solution",
+                "Compound",
+                "Colloid"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Unlike mixtures, whose components can be separated by simple physical methods, the constituents of a chemical compound are bound by chemical bonds and can only be separated into their constituent elements by chemical or electrochemical reactions[cite: 1]."
+        }
+    ]
+}

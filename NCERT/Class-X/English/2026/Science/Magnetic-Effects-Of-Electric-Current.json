@@ -1,0 +1,393 @@
+{
+    "chapter": "Magnetic Effects of Electric Current",
+    "class": "Class-X",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "The scientist who discovered the phenomena that electricity and magnetism is correlated is",
+            "options": [
+                "Michael Faraday",
+                "André-Marie Ampère",
+                "James Clerk Maxwell",
+                "Hans Christian Oersted"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Hans Christian Oersted first observed that electric current produces a magnetic field in 1820 when he noticed a compass needle deflected near a current-carrying wire[cite: 2]."
+        },
+        {
+            "id": 2,
+            "question": "After the name of which scientist the unit of magnetic strength is named?",
+            "options": [
+                "Michael Faraday",
+                "Nikola Tesla",
+                "James Clerk Maxwell",
+                "Andre-Marie Ampere"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The SI unit of magnetic field (magnetic induction or strength) is the tesla (T), named in honor of the pioneering electrical engineer and physicist Nikola Tesla[cite: 2]."
+        },
+        {
+            "id": 3,
+            "question": "In a bar magnet, the magnet which points towards north is called",
+            "options": [
+                "South pole",
+                "North pole",
+                "West pole",
+                "East pole"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When a bar magnet is freely suspended, the end or pole that points towards the geographic north direction is called the north-seeking pole, or simply the north pole[cite: 2]."
+        },
+        {
+            "id": 4,
+            "question": "In a bar magnet, the point which points towards south pole is called",
+            "options": [
+                "East pole",
+                "West pole",
+                "South pole",
+                "North pole"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When a bar magnet is freely suspended, the end or pole that points towards the geographic south direction is called the south-seeking pole, or simply the south pole[cite: 2]."
+        },
+        {
+            "id": 5,
+            "question": "the like pole in a bar magnet",
+            "options": [
+                "Attract each other",
+                "Have no effect on each other",
+                "Neutralize each other",
+                "Repel each other"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Like poles of magnets (such as a north pole facing another north pole, or a south pole facing another south pole) repel each other due to the interaction of their magnetic field lines[cite: 2]."
+        },
+        {
+            "id": 6,
+            "question": "Now, bar magnet when iron filling is put in a white paper, it forms a pattern. The line which is formed is called",
+            "options": [
+                "Electric field lines",
+                "Magnetic field lines",
+                "Conduction paths",
+                "Equipotential lines"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When iron filings are sprinkled around a bar magnet on white paper, they align themselves along curved paths representing the magnetic field lines of the bar magnet[cite: 2]."
+        },
+        {
+            "id": 7,
+            "question": "The direction of field line in a magnetic field is",
+            "options": [
+                "From south pole to north pole",
+                "From north pole to south pole",
+                "Along the center of the magnet",
+                "From east pole to west pole"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Outside a magnet, magnetic field lines emerge from the North pole and enter the South pole, forming continuous closed loops by running from the South pole to the North pole inside the magnet[cite: 2]."
+        },
+        {
+            "id": 8,
+            "question": "Magnetic field is a vector quantity or a scalar quantity",
+            "options": [
+                "Scalar quantity",
+                "Dimensionless quantity",
+                "Vector quantity",
+                "Tensor quantity of zero rank"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A magnetic field has both magnitude and a specific direction (from the north pole to the south pole outside a magnet), making it a vector quantity[cite: 2]."
+        },
+        {
+            "id": 9,
+            "question": "Inside of a magnet, the magnetic field line is formed.",
+            "options": [
+                "From north pole to south pole",
+                "From south pole to north pole",
+                "There are no magnetic field lines inside a magnet",
+                "From east pole to west pole"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Magnetic field lines form continuous closed loops. While they travel from the north pole to the south pole outside the magnet, they move from the south pole to the north pole inside the magnet[cite: 2]."
+        },
+        {
+            "id": 10,
+            "question": "What is the shape of magnetic field lines around a bar magnet, and do they intersect each other?",
+            "options": [
+                "Open straight lines; Yes, they intersect near the poles",
+                "Parallel lines; No, but they intersect when magnets are close",
+                "Closed continuous curves; No, two field lines never intersect each other",
+                "Concentric circles; Yes, they intersect at neutral points"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Magnetic field lines form closed continuous curves (running from the North pole to the South pole outside and South to North inside). They never intersect because if they did, a compass needle placed at the point of intersection would point in two different directions simultaneously, which is physically impossible[cite: 2]."
+        },
+        {
+            "id": 11,
+            "question": "Which of the following methods can be used to visualize or trace the magnetic field lines of a bar magnet?",
+            "options": [
+                "Using iron filings sprinkled around the magnet or tracing with a plotting compass",
+                "Using a thermometer to measure heat distribution around the poles",
+                "Using a voltmeter to measure the voltage induced across the magnet",
+                "Using litmus paper to test the magnetic field's acidity"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Magnetic field lines can be experimentally visualized by sprinkling iron filings on a sheet of paper placed over a magnet (as they align themselves along the field lines) or by moving a small plotting compass step-by-step around the magnet to trace its continuous path[cite: 2]."
+        },
+        {
+            "id": 12,
+            "question": "If the direction of current is from south to north and a compass is kept above the wire, the compass will deflect towards which direction?",
+            "options": [
+                "West",
+                "South",
+                "North",
+                "East"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to the right-hand thumb rule, if current flows from south to north, the magnetic field circles counterclockwise around the wire. Below the wire, the field points west (as per the SNOW rule), but since the compass is kept *above* the wire, the magnetic field points in the opposite direction, causing the compass needle to deflect towards the east[cite: 2]."
+        },
+        {
+            "id": 13,
+            "question": "In the experiment of a current carrying wire with a sheet having needles placed, if the current in is increased, the magnetic field",
+            "options": [
+                "Decreases",
+                "Remains unchanged",
+                "Reverses its direction",
+                "Increases"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The strength of the magnetic field produced by a current-carrying straight wire is directly proportional to the magnitude of the current flowing through it. Therefore, increasing the electric current increases the magnetic field strength, causing a greater deflection in the compass needles[cite: 2]."
+        },
+        {
+            "id": 14,
+            "question": "The direction of the magnetic field produced around a current-carrying straight conductor can be found using the",
+            "options": [
+                "Right-hand thumb rule",
+                "Left-hand thumb rule",
+                "Fleming's left-hand rule",
+                "Fleming's right-hand rule"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to the Right-Hand Thumb Rule, if you imagine holding a current-carrying straight wire in your right hand such that your thumb points in the direction of the current, then your fingers wrap around the wire in the direction of the magnetic field lines[cite: 2]."
+        },
+        {
+            "id": 15,
+            "question": "In right hand thumb rule, when we hold a wire, the direction of our four fingers shows the direction of and the thumb shows the direction of",
+            "options": [
+                "Current; Magnetic field",
+                "Voltage; Magnetic field",
+                "Magnetic field; Current",
+                "Magnetic field; Voltage"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to the Right-Hand Thumb Rule, when you imagine holding a current-carrying wire in your right hand, your thumb points in the direction of the electric current, and your curled fingers indicate the direction of the magnetic field lines[cite: 2]."
+        },
+        {
+            "id": 16,
+            "question": "The right hand thumb rule is also called",
+            "options": [
+                "Right-hand palm rule",
+                "Ampere's swimming rule",
+                "Fleming's right-hand rule",
+                "Maxwell's corkscrew rule"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The Right-Hand Thumb Rule is also commonly known as Maxwell's corkscrew rule. If you imagine driving a corkscrew in the direction of the electric current, the direction in which you rotate the handle gives the direction of the magnetic field lines[cite: 2]."
+        },
+        {
+            "id": 17,
+            "question": "A coil of many circular turns of insulated copper wire wrapped closely in a shape of cylinder is called",
+            "options": [
+                "Electromagnet",
+                "Solenoid",
+                "Toroid",
+                "Rheostat"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder is called a solenoid. When an electric current flows through it, it produces a magnetic field similar to that of a bar magnet[cite: 2]."
+        },
+        {
+            "id": 18,
+            "question": "The magnet formed when an iron core is placed inside a current-carrying coil of copper wire is called",
+            "options": [
+                "Bar magnet",
+                "Natural magnet",
+                "Permanent magnet",
+                "Electromagnet"
+            ],
+            "correctAnswer": 3,
+            "explanation": "When a soft iron core is placed inside a current-carrying solenoid (a coil of insulated copper wire), the strong magnetic field magnetizes the iron piece, forming a powerful temporary magnet known as an electromagnet[cite: 2]."
+        },
+        {
+            "id": 19,
+            "question": "The magnetic field inside a long straight solenoid carrying current is ?",
+            "options": [
+                "Zero",
+                "Non-uniform",
+                "Uniform",
+                "Dependent only on the radius of the solenoid"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The magnetic field lines inside a long straight current-carrying solenoid are parallel straight lines, which indicates that the magnetic field is the same at all points inside the solenoid. Therefore, the magnetic field inside a long straight solenoid is uniform[cite: 2]."
+        },
+        {
+            "id": 20,
+            "question": "Force on current carrying conductor in a magnetic field is observed using which hand rule?",
+            "options": [
+                "Right-hand thumb rule",
+                "Fleming's right-hand rule",
+                "Fleming's left-hand rule",
+                "Right-hand palm rule"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to Fleming's Left-Hand Rule, stretch the thumb, forefinger, and middle finger of your left hand such that they are mutually perpendicular. If the forefinger points in the direction of the magnetic field and the middle finger points in the direction of current, then the thumb will point in the direction of the force acting on the conductor[cite: 2]."
+        },
+        {
+            "id": 21,
+            "question": "In Fleming's left-hand rule, the thumb represents",
+            "options": [
+                "Direction of induced voltage",
+                "Direction of force acting on the conductor",
+                "Direction of magnetic field",
+                "Direction of electric current"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to Fleming's Left-Hand Rule, if you stretch the thumb, forefinger, and middle finger of your left hand mutually perpendicular to each other, with the forefinger pointing in the direction of the magnetic field and the middle finger pointing in the direction of the current, the thumb points in the direction of the force (or motion) acting on the conductor[cite: 2]."
+        },
+        {
+            "id": 22,
+            "question": "In Fleming's left-hand rule, the index finger represents",
+            "options": [
+                "Direction of electric current",
+                "Direction of force acting on the conductor",
+                "Direction of magnetic field",
+                "Direction of induced current"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to Fleming's Left-Hand Rule, when the thumb, forefinger (index finger), and middle finger of the left hand are stretched mutually perpendicular to each other, the forefinger points in the direction of the magnetic field[cite: 2]."
+        },
+        {
+            "id": 23,
+            "question": "In Fleming's left-hand rule, the middle finger represents",
+            "options": [
+                "Direction of force acting on the conductor",
+                "Direction of magnetic field",
+                "Direction of induced voltage",
+                "Direction of electric current"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to Fleming's Left-Hand Rule, when you stretch the thumb, forefinger, and middle finger of your left hand mutually perpendicular to each other, the middle finger points in the direction of the electric current[cite: 2]."
+        },
+        {
+            "id": 24,
+            "question": "The magnetic field inside the body form the basic of obtaining the image of different body parts. This is done using a technique called",
+            "options": [
+                "Ultrasonography",
+                "Electrocardiography (ECG)",
+                "X-ray radiography",
+                "Magnetic Resonance Imaging (MRI)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Magnetic Resonance Imaging (MRI) is a diagnostic technique that uses strong magnetic fields and radio waves to create detailed images of internal body organs and tissues[cite: 2]."
+        },
+        {
+            "id": 25,
+            "question": "The live wire or positive wire is colored as",
+            "options": [
+                "Blue",
+                "Black",
+                "Red",
+                "Green"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to the international color-coding standards for electrical wiring, the live (or positive) wire is conventionally colored red (or brown in newer wiring schemes), while the neutral wire is black (or light blue), and the earth/ground wire is green or yellow-green[cite: 2]."
+        },
+        {
+            "id": 26,
+            "question": "Neutral wire or negative wire is colored as",
+            "options": [
+                "Green",
+                "Black",
+                "Blue",
+                "Red"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to the traditional color-coding standards for electrical wiring, the neutral wire is conventionally colored black (or light blue under newer international standards), while the live wire is red and the earth wire is green[cite: 2]."
+        },
+        {
+            "id": 27,
+            "question": "In India, the potential difference between two wires that are live and neutral is",
+            "options": [
+                "440 V",
+                "110 V",
+                "200 V",
+                "220 V"
+            ],
+            "correctAnswer": 3,
+            "explanation": "In India, the domestic electric power supplied to households has a potential difference of 220 V between the live wire and the neutral wire (with a frequency of 50 Hz)[cite: 2]."
+        },
+        {
+            "id": 28,
+            "question": "The earth wire in domestic electrical circuits in India is colored as",
+            "options": [
+                "Red",
+                "Blue",
+                "Green",
+                "Black"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to the traditional color-coding standards used in India, the earth wire is conventionally colored green (or yellow-green), which is connected to a metal plate deep in the earth to protect users from severe electrical shocks by providing a low-resistance path for leakage current[cite: 2]."
+        },
+        {
+            "id": 29,
+            "question": "The main fuse in household is connected in which wire?",
+            "options": [
+                "Neutral wire",
+                "Earth wire",
+                "Live wire",
+                "Both live and neutral wire"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The main fuse in a household electrical circuit is always connected to the live wire. This ensures that when an excessive current flows due to overloading or a short circuit, the fuse melts and breaks the circuit, cutting off the high-potential live supply to protect household appliances and prevent electrical fires[cite: 2]."
+        },
+        {
+            "id": 30,
+            "question": "In a household electrical circuit, all electrical appliances are connected in:",
+            "options": [
+                "Series connection",
+                "Random connection",
+                "Series-parallel mixed connection",
+                "Parallel connection"
+            ],
+            "correctAnswer": 3,
+            "explanation": "In domestic electrical circuits, all appliances are connected in parallel. This ensures that every appliance receives the same potential difference (220 V in India), can be turned on or off independently using its own switch, and if one appliance fails or is switched off, it does not disrupt the working of other appliances[cite: 2]."
+        },
+        {
+            "id": 31,
+            "question": "The process of sudden heavy current flow and overheating of a wire due to the direct contact or interaction of the live wire and the neutral wire is called",
+            "options": [
+                "Overloading",
+                "Earthing",
+                "Short circuit",
+                "Power surge"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A short circuit occurs when the live wire and the neutral wire come into direct contact with each other (due to damaged insulation or a fault). This drastically reduces the resistance of the circuit to a near-zero value, causing an enormous surge of electric current that rapidly heats the wires and can lead to sparking or a fire[cite: 2]."
+        },
+        {
+            "id": 32,
+            "question": "The frequency of alternating current (AC) supplied in domestic electrical circuits in India is",
+            "options": [
+                "60 Hz",
+                "25 Hz",
+                "50 Hz",
+                "100 Hz"
+            ],
+            "correctAnswer": 2,
+            "explanation": "In India, the standard frequency of alternating current (AC) supplied to households is 50 Hz. This means the current completes 50 full cycles every second, reversing its direction 100 times per second[cite: 2]."
+        }
+    ]
+}

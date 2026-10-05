@@ -1,0 +1,321 @@
+{
+    "chapter": "Our Environment",
+    "class": "Class-X",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which term describes a system consisting of biotic components (living organisms) and abiotic components (physical factors like temperature, rainfall, wind, soil, and minerals)?",
+            "options": [
+                "An ecosystem",
+                "A food chain",
+                "The ozone layer",
+                "A trophic level"
+            ],
+            "correctAnswer": 0,
+            "explanation": "An ecosystem consists of biotic components comprising living organisms and abiotic components comprising physical factors like temperature, rainfall, wind, soil, and minerals interacting together in an area[cite: 1]."
+        },
+        {
+            "id": 2,
+            "question": "Which of the following best describes the abiotic components of an ecosystem?",
+            "options": [
+                "Producers, consumers, and decomposers",
+                "Green plants, fungi, and bacteria",
+                "Temperature, rainfall, wind, and soil",
+                "Herbivores, carnivores, and omnivores"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Abiotic components comprise the non-living physical and chemical factors of the environment, such as temperature, rainfall, wind, soil, and minerals, whereas the others represent biotic (living) components[cite: 1]."
+        },
+        {
+            "id": 3,
+            "question": "Which of the following groups represents the biotic components of an ecosystem?",
+            "options": [
+                "Minerals, wind, and humidity",
+                "Water, sunlight, and air",
+                "Producers, consumers, and decomposers",
+                "Temperature, rainfall, and soil"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Biotic components comprise all the living organisms in an ecosystem, which are categorized into producers, consumers, and decomposers[cite: 1]."
+        },
+        {
+            "id": 4,
+            "question": "What does the term 'carnivorous' refer to in an ecosystem?",
+            "options": [
+                "Organisms that feed on other animals for energy",
+                "Organisms that manufacture their own food using sunlight",
+                "Organisms that feed exclusively on plants and plant products",
+                "Microorganisms that break down dead organic matter"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Carnivores are flesh-eating organisms (heterotrophs) that obtain their food by preying upon or consuming other animals[cite: 1]."
+        },
+        {
+            "id": 5,
+            "question": "What does the term 'omnivorous' mean in the context of an ecosystem's food habits?",
+            "options": [
+                "Organisms that feed only on plants",
+                "Organisms that eat both plants and animals",
+                "Organisms that feed only on other animals",
+                "Organisms that feed exclusively on dead and decaying matter"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Omnivores are organisms, such as humans and bears, that consume both plant and animal matter to obtain their nutrition[cite: 1]."
+        },
+        {
+            "id": 6,
+            "question": "What does the term 'herbivores' refer to in an ecosystem?",
+            "options": [
+                "Organisms that manufacture their own food",
+                "Organisms that feed exclusively on plants",
+                "Organisms that feed on other animals",
+                "Organisms that eat both plants and animals"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Herbivores are plant-eating animals (primary consumers) that obtain their energy and nutrients directly by consuming plants and plant products[cite: 1]."
+        },
+        {
+            "id": 7,
+            "question": "Why is a pump used in an aquarium to bubble air, and what does it help create?",
+            "options": [
+                "It adds an artificial abiotic component to support the living organisms inside.",
+                "It creates a self-sustaining artificial ecosystem with natural producers.",
+                "It removes all biotic components to keep the water sterile.",
+                "It converts consumers directly into producers."
+            ],
+            "correctAnswer": 0,
+            "explanation": "An aquarium is an artificial, incomplete ecosystem. Using an air pump helps supply dissolved oxygen, adding a crucial physical (abiotic) factor required for the survival of the fish and other aquatic biotic components[cite: 1]."
+        },
+        {
+            "id": 8,
+            "question": "What are all green plants and certain bacteria that can produce food by photosynthesis called?",
+            "options": [
+                "Producers",
+                "Consumers",
+                "Decomposers",
+                "Carnivores"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Green plants and certain blue-green bacteria synthesize their own food using sunlight, carbon dioxide, and water through photosynthesis, which places them in the category of producers (or autotrophs)[cite: 1]."
+        },
+        {
+            "id": 9,
+            "question": "What are the organisms called which depend on producers either directly or indirectly for their sustenance?",
+            "options": [
+                "Decomposers",
+                "Producers",
+                "Consumers",
+                "Autotrophs"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Consumers (or heterotrophs) are organisms that get their energy by eating producers directly (like herbivores) or indirectly (like carnivores that eat herbivores)[cite: 1]."
+        },
+        {
+            "id": 10,
+            "question": "What are the organisms called which break down complex organic substances into simple substances?",
+            "options": [
+                "Consumers",
+                "Decomposers",
+                "Producers",
+                "Herbivores"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Decomposers (such as specific bacteria and fungi) break down complex organic compounds from dead remains and waste into simpler substances, thereby recycling nutrients in the ecosystem[cite: 1]."
+        },
+        {
+            "id": 11,
+            "question": "What percentage of sunlight falling on the leaves of green plants is typically converted into food energy?",
+            "options": [
+                "10%",
+                "1%",
+                "0.1%",
+                "50%"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Green plants in a terrestrial ecosystem capture only about 1% of the energy of sunlight that falls on their leaves and convert it into food energy through photosynthesis[cite: 1]."
+        },
+        {
+            "id": 12,
+            "question": "According to the 10% law, what percentage of energy is available for transfer to the next trophic level from the food consumed?",
+            "options": [
+                "50%",
+                "90%",
+                "1%",
+                "10%"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to the 10% law, only 10% of the energy entering a trophic level is available for the next trophic level, while the remaining 90% is used for life processes and lost as heat[cite: 1]."
+        },
+        {
+            "id": 13,
+            "question": "Why do food chains typically consist of only three or four steps?",
+            "options": [
+                "Due to the rapid loss of energy at each trophic level, leaving insufficient energy for higher levels.",
+                "Because top carnivores prefer to eat only producers.",
+                "Because decomposers destroy all the energy before it reaches the fourth step.",
+                "Because producers only capture 50% of solar energy."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Because of the 10% law, 90% of energy is lost at each trophic level. After 3 or 4 transfers, the remaining energy is too scarce to sustain an organism at the next level[cite: 1]."
+        },
+        {
+            "id": 14,
+            "question": "Instead of a straight food chain, the relationship of feeding interactions in an ecosystem can be shown as a series of branching lines called a:",
+            "options": [
+                "Ecological pyramid",
+                "Trophic level",
+                "Energy flow",
+                "Food web"
+            ],
+            "correctAnswer": 3,
+            "explanation": "A food web is a complex network of interconnected food chains that consists of a series of branching lines, representing the various alternative pathways of energy flow through an ecosystem[cite: 1]."
+        },
+        {
+            "id": 15,
+            "question": "What is the phenomenon called in which harmful chemicals like pesticides enter a food chain and accumulate progressively at higher trophic levels?",
+            "options": [
+                "Biomagnification",
+                "Eutrophication",
+                "Biodegradation",
+                "Ozone depletion"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The phenomenon in which harmful chemical substances like pesticides (e.g., DDT) enter the food chain and get concentrated at each successive trophic level is known as biological magnification or biomagnification[cite: 1]."
+        },
+        {
+            "id": 16,
+            "question": "What is the primary role of decomposers in an ecosystem?",
+            "options": [
+                "To break down complex organic substances into simpler inorganic substances and recycle nutrients",
+                "To manufacture food using solar energy and photosynthesis",
+                "To consume herbivores and control their population directly",
+                "To regulate physical abiotic factors like temperature and rainfall"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Decomposers such as bacteria and fungi break down dead plants and animals, converting complex organic matter into simple substances that enrich the soil and are reused by producers[cite: 1]."
+        },
+        {
+            "id": 17,
+            "question": "How is ozone formed in the upper atmosphere (stratosphere)?",
+            "options": [
+                "By the breakdown of chlorofluorocarbons (CFCs)",
+                "By the action of UV rays on molecular oxygen, splitting it into free oxygen atoms which then combine with oxygen molecules",
+                "By the combination of carbon dioxide and water vapor under sunlight",
+                "By the respiration of green plants during photosynthesis"
+            ],
+            "correctAnswer": 1,
+            "explanation": "High-energy UV radiation splits molecular oxygen (O2) into free oxygen (O) atoms. These free atoms then combine with molecular oxygen to form ozone (O3)[cite: 1]."
+        },
+        {
+            "id": 18,
+            "question": "Which of the following statements is true regarding ozone?",
+            "options": [
+                "Ozone is harmless to humans at any atmospheric layer.",
+                "Ozone destroys the Earth's protective UV shield in the stratosphere.",
+                "Ozone is a deadly poison at ground level, but plays a protective role in the upper atmosphere.",
+                "Ozone is a beneficial gas everywhere, including ground level and the stratosphere."
+            ],
+            "correctAnswer": 2,
+            "explanation": "At lower levels of the atmosphere (troposphere), ozone is a harmful pollutant and a deadly poison to breathe. In the stratosphere, however, it forms a protective shield against harmful UV radiation[cite: 1]."
+        },
+        {
+            "id": 19,
+            "question": "What is the primary role of the ozone layer in the Earth's atmosphere?",
+            "options": [
+                "To absorb harmful ultraviolet (UV) radiation from the Sun and protect life on Earth",
+                "To trap heat and keep the Earth's surface warm like a greenhouse gas",
+                "To provide oxygen for the respiration of animals and humans",
+                "To filter out carbon dioxide and clean up industrial pollutants"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The ozone layer located in the stratosphere absorbs harmful ultraviolet (UV) radiation from the Sun, preventing dangerous amounts of UV rays from reaching the Earth's surface[cite: 1]."
+        },
+        {
+            "id": 20,
+            "question": "Which of the following chemicals is the main cause for ozone depletion?",
+            "options": [
+                "Carbon dioxide",
+                "Methane",
+                "Chlorofluorocarbons (CFCs)",
+                "Sulphur dioxide"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Chlorofluorocarbons (CFCs) are synthetic chemicals used in refrigerators and fire extinguishers that release chlorine atoms in the upper atmosphere, leading to the breakdown of the ozone layer[cite: 1]."
+        },
+        {
+            "id": 21,
+            "question": "What is the full form of CFC, the chemical compound responsible for ozone layer depletion?",
+            "options": [
+                "Chlorofluorocarbon",
+                "Carbon Fluoride Chloride",
+                "Chlorinated Fluorine Compound",
+                "Carbon Fluoro Chlorine"
+            ],
+            "correctAnswer": 0,
+            "explanation": "CFC stands for Chlorofluorocarbon. When these compounds reach the upper atmosphere, they release chlorine atoms that break down ozone molecules[cite: 1]."
+        },
+        {
+            "id": 22,
+            "question": "What primary properties made Chlorofluorocarbons (CFCs) popular for industrial and domestic use before their harmful effects were discovered?",
+            "options": [
+                "They naturally absorb ultraviolet radiation at ground level.",
+                "They are non-toxic, non-flammable, and chemically stable.",
+                "They are highly explosive and acidic.",
+                "They are biodegradable and dissolve quickly in water."
+            ],
+            "correctAnswer": 1,
+            "explanation": "CFCs were widely used in refrigerators and aerosols because they are non-toxic, non-flammable, and stable under normal conditions[cite: 1]."
+        },
+        {
+            "id": 23,
+            "question": "What is the full form of UNEP, the international agency that played a key role in forging the agreement to freeze CFC production?",
+            "options": [
+                "Universal Natural Energy Protocol",
+                "United Nations Economic Protection",
+                "United Nations Environment Programme",
+                "United Nations Energy and Pollution policy"
+            ],
+            "correctAnswer": 2,
+            "explanation": "UNEP stands for United Nations Environment Programme. It successfully forged an agreement among member countries to freeze CFC production at 1986 levels[cite: 1]."
+        },
+        {
+            "id": 24,
+            "question": "Which international agency played a crucial role in forging the agreement to restrict and freeze the production of CFCs used in refrigerators?",
+            "options": [
+                "World Health Organization (WHO)",
+                "Food and Agriculture Organization (FAO)",
+                "International Monetary Fund (IMF)",
+                "United Nations Environment Programme (UNEP)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The United Nations Environment Programme (UNEP) successfully forged an agreement among member countries to freeze CFC production and phase out ozone-depleting substances[cite: 1]."
+        },
+        {
+            "id": 25,
+            "question": "Substances which are broken down by biological processes are said to be:",
+            "options": [
+                "Biodegradable",
+                "Non-biodegradable",
+                "Biomagnified",
+                "Synthetic"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Substances that can be broken down by biological processes (by the action of living organisms like bacteria and fungi) are called biodegradable substances[cite: 1]."
+        },
+        {
+            "id": 26,
+            "question": "Substances that are not broken down by biological processes are said to be:",
+            "options": [
+                "Biomagnified",
+                "Autotrophic",
+                "Biodegradable",
+                "Non-biodegradable"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Substances that cannot be broken down or decomposed by biological processes (the action of microorganisms like bacteria and fungi) are called non-biodegradable substances, such as plastics, glass, and synthetic polymers[cite: 1]."
+        }
+    ]
+}

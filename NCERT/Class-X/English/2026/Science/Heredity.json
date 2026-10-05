@@ -1,0 +1,153 @@
+{
+    "chapter": "Heredity",
+    "class": "Class-X",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the correct definition of heredity?",
+            "options": [
+                "The study of how organisms adapt to their environment",
+                "The process of cell division in somatic cells",
+                "The transmission of traits or characteristics from parents to offspring",
+                "The sudden change in DNA sequence"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Heredity refers to the transmission of characters and traits from parents to their offspring, which is responsible for the similarities and variations seen between parents and children[cite: 5]."
+        },
+        {
+            "id": 2,
+            "question": "In which university did Gregor Mendel study mathematics and science?",
+            "options": [
+                "University of Oxford",
+                "Charles University in Prague",
+                "University of Berlin",
+                "University of Vienna"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Gregor Mendel studied physics, mathematics, and chemistry at the University of Vienna from 1851 to 1853 under the guidance of Christian Doppler and Franz Unger, which later heavily influenced his statistical approach to inheritance in pea plants[cite: 5]."
+        },
+        {
+            "id": 3,
+            "question": "In the first (F1) generation, if a homozygous tall plant (TT) and a homozygous dwarf plant (tt) are cross-bred, all the offspring are:",
+            "options": [
+                "Hybrid tall (Tt)",
+                "Pure tall (TT)",
+                "Medium height",
+                "Pure dwarf (tt)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "When a pure tall plant (TT) is crossed with a pure dwarf plant (tt), the F1 generation receives one allele from each parent, resulting in the heterozygous genotype (Tt). Since the allele for tallness (T) is dominant over dwarfness (t), all the offspring in the first generation appear tall (hybrid tall)[cite: 5]."
+        },
+        {
+            "id": 4,
+            "question": "When two hybrid tall pea plants (Tt) are cross-bred, what is the phenotypic ratio of the offspring in the second (F2) generation?",
+            "options": [
+                "1 : 2 : 1",
+                "9 : 3 : 3 : 1",
+                "3 : 1",
+                "1 : 1"
+            ],
+            "correctAnswer": 2,
+            "explanation": "When two heterozygous tall plants (Tt) are crossed, the resulting F2 generation shows a phenotypic ratio of 3 tall plants to 1 dwarf plant (3:1), alongside a genotypic ratio of 1 TT : 2 Tt : 1 tt (1:2:1)[cite: 5]."
+        },
+        {
+            "id": 5,
+            "question": "In a heterozygous (Tt) offspring, which allele is dominant?",
+            "options": [
+                "The allele for dwarfness (t)",
+                "Neither is dominant",
+                "Both T and t are codominant",
+                "The allele for tallness (T)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "In the heterozygous condition (Tt), the allele for tallness (T) is the dominant allele because it expresses its trait and masks the effect of the recessive allele for dwarfness (t)[cite: 5]."
+        },
+        {
+            "id": 6,
+            "question": "What is the correct definition of a dominant trait?",
+            "options": [
+                "A trait that expresses itself and masks the presence of a recessive trait in a heterozygous condition",
+                "A trait that is only expressed when both recessive alleles are absent",
+                "A trait that appears exclusively in the first generation and never reappears",
+                "A trait that blends equally with the recessive trait to form an intermediate phenotype"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A dominant trait is an inherited characteristic that expresses itself in the offspring even when only a single copy of the dominant allele is present (heterozygous condition), effectively masking the expression of the recessive trait[cite: 5]."
+        },
+        {
+            "id": 7,
+            "question": "What is the correct definition of a recessive trait?",
+            "options": [
+                "A trait that always masks the dominant trait",
+                "A trait that appears exclusively in the first (F1) generation",
+                "A trait that is expressed only when two copies of the recessive allele are present",
+                "A trait that is determined entirely by environmental factors"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A recessive trait is an inherited characteristic whose expression is masked by a dominant allele in a heterozygous condition, and can only be expressed when both inherited alleles are recessive (homozygous recessive)[cite: 5]."
+        },
+        {
+            "id": 8,
+            "question": "A section of DNA that provides the information for one protein is called:",
+            "options": [
+                "Chromosome",
+                "Nucleotide",
+                "Trait",
+                "Gene"
+            ],
+            "correctAnswer": 3,
+            "explanation": "A gene is a functional unit of heredity made up of a specific section of DNA that contains the instructions for synthesizing a particular protein, which ultimately dictates a specific trait or characteristic[cite: 5]."
+        },
+        {
+            "id": 9,
+            "question": "In a dihybrid cross study, when a pure-breeding round green pea plant is crossed with a pure-breeding wrinkled yellow pea plant, what are the parental genotypes?",
+            "options": [
+                "RRYY and rryy",
+                "RRyy and rrYY",
+                "rrYY and rryy",
+                "RrYy and RrYy"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In Mendel's genetics, the allele for round seed shape (R) is dominant over wrinkled (r), and the allele for yellow seed color (Y) is dominant over green (y). A pure-breeding round green plant has the genotype RRyy, while a pure-breeding wrinkled yellow plant has the genotype rrYY[cite: 5]."
+        },
+        {
+            "id": 10,
+            "question": "The gender of a human being is determined by the genes of:",
+            "options": [
+                "The mother only",
+                "Both mother and father equally",
+                "The father only",
+                "Neither mother nor father"
+            ],
+            "correctAnswer": 2,
+            "explanation": "In humans, females have two X chromosomes (XX) and males have an X and a Y chromosome (XY). Since all eggs produced by the mother carry an X chromosome, the sex of the offspring is determined by the type of sex chromosome (X or Y) contributed by the father's sperm during fertilization[cite: 5]."
+        },
+        {
+            "id": 11,
+            "question": "Which of the following statements correctly describes the sex chromosomes in human males and females?",
+            "options": [
+                "Females have two similar sex chromosomes (XX) and males have two different sex chromosomes (XY)",
+                "Females have two different sex chromosomes (XY) and males have two similar sex chromosomes (XX)",
+                "Both males and females have identical sex chromosomes (XX)",
+                "Both males and females have different sex chromosomes (XY)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In human beings, females possess two similar sex chromosomes (XX), whereas males possess two different sex chromosomes (one X and one Y, written as XY)[cite: 5]."
+        },
+        {
+            "id": 12,
+            "question": "In a dihybrid cross between a pure-breeding round green pea and a pure-breeding wrinkled yellow pea, what is the phenotypic ratio of the offspring in the second (F2) generation?",
+            "options": [
+                "3 : 1",
+                "1 : 2 : 1",
+                "1 : 1 : 1 : 1",
+                "9 : 3 : 3 : 1 (Round yellow : Round green : Wrinkled yellow : Wrinkled green)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Due to the independent assortment of two pairs of contrasting characters (seed shape: round/wrinkled and seed color: yellow/green), the F2 generation of a dihybrid cross yields four distinct phenotypes in a classic 9 : 3 : 3 : 1 ratio[cite: 5]."
+        }
+    ]
+}

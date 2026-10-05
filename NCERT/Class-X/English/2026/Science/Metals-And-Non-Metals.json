@@ -1,0 +1,897 @@
+{
+    "chapter": "Metals and Non-Metals",
+    "class": "Class-X",
+    "language": "English",
+    "year": "2026",
+    "subject": "Science",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Metals in their pure state have a shining surface. This property is called",
+            "options": [
+                "Malleability",
+                "Metallic lustre",
+                "Sonority",
+                "Ductility"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Metals in their pure state have a shining surface. This property is called metallic lustre[cite: 3]."
+        },
+        {
+            "id": 2,
+            "question": "The property through which a metal can be beaten into thin sheet is called",
+            "options": [
+                "Malleability",
+                "Ductility",
+                "Sonority",
+                "Conductivity"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The property of metals by which they can be beaten into thin sheets is called malleability. Gold and silver are notable examples of highly malleable metals[cite: 3]."
+        },
+        {
+            "id": 3,
+            "question": "The ability of metal to be drawn into thin wire is called",
+            "options": [
+                "Lustre",
+                "Ductility",
+                "Malleability",
+                "Conductivity"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The ability of metals to be drawn into thin wires is called ductility. A wire of gold can be drawn from a very small amount of metal[cite: 3]."
+        },
+        {
+            "id": 4,
+            "question": "One gram of gold can be wired into how much length of wire?",
+            "options": [
+                "About 1 km length",
+                "About 2 km length",
+                "About 5 km length",
+                "About 10 km length"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Gold is the most ductile metal. You will be amazed to know that a wire of about 2 km length can be drawn from just one gram of gold[cite: 3]."
+        },
+        {
+            "id": 5,
+            "question": "The electric wires used in homes have a coating of an insulating material. This coating is typically made of",
+            "options": [
+                "Polyvinyl chloride (PVC) or rubber",
+                "Copper or aluminium",
+                "Iron or steel",
+                "Graphite or carbon"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Wires for electrical transmission in homes are made of metals like copper or aluminium, but they are covered with an insulating coating such as PVC (Polyvinyl chloride) or rubber to prevent direct contact and electric shocks[cite: 3]."
+        },
+        {
+            "id": 6,
+            "question": "Metal on striking a hard surface produces a sound. This property is called",
+            "options": [
+                "Sonority",
+                "Malleability",
+                "Ductility",
+                "Lustre"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Metals that produce a sound on striking a hard surface are said to be sonorous. This property is why school bells are made of metals[cite: 3]."
+        },
+        {
+            "id": 7,
+            "question": "The only nonmetal which is liquid in state is",
+            "options": [
+                "Mercury",
+                "Bromine",
+                "Carbon",
+                "Sulphur"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bromine is the only non-metal that exists as a liquid at room temperature. (Mercury is also liquid, but it is a metal)[cite: 3]."
+        },
+        {
+            "id": 8,
+            "question": "Carbon is a non-metal that can exist in different forms. Each form is called",
+            "options": [
+                "Allotrope",
+                "Isotope",
+                "Isobar",
+                "Homologue"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Carbon exists in different forms in nature, such as diamond and graphite. These different forms of an element are called allotropes[cite: 3]."
+        },
+        {
+            "id": 9,
+            "question": "Most metals are ____ in nature?",
+            "options": [
+                "Acidic",
+                "Basic",
+                "Neutral",
+                "Amphoteric"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Most metal oxides are basic in nature because they react with water to form bases (alkalis) or react with acids to form salt and water[cite: 3]."
+        },
+        {
+            "id": 10,
+            "question": "Most non-metals are _____ in nature?",
+            "options": [
+                "Basic",
+                "Neutral",
+                "Acidic",
+                "Amphoteric"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Most non-metal oxides are acidic in nature because they dissolve in water to form acids[cite: 3]."
+        },
+        {
+            "id": 11,
+            "question": "Which metal is the poor conductor of electricity?",
+            "options": [
+                "Silver",
+                "Lead",
+                "Copper",
+                "Aluminium"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Generally, metals are good conductors of heat and electricity. However, lead and mercury are comparatively poor conductors of electricity[cite: 3]."
+        },
+        {
+            "id": 12,
+            "question": "What is formed when metal is reacted with oxygen?",
+            "options": [
+                "Metal oxide",
+                "Metal hydroxide",
+                "Non-metal oxide",
+                "Metal carbonate"
+            ],
+            "correctAnswer": 0,
+            "explanation": "All metals combine with oxygen to form metal oxides. Metal oxides are generally basic in nature[cite: 3]."
+        },
+        {
+            "id": 13,
+            "question": "Metal oxides which react with both acids as well as bases to produce salt and water are known as",
+            "options": [
+                "Basic oxide",
+                "Acidic oxide",
+                "Amphoteric oxide",
+                "Neutral oxide"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Those metal oxides that show both acidic as well as basic behaviour are known as amphoteric oxides. They react with both acids and bases to produce salt and water. Examples include aluminium oxide and zinc oxide[cite: 3]."
+        },
+        {
+            "id": 14,
+            "question": "What is the correct balanced equation for the reaction of aluminium oxide with hydrochloric acid?",
+            "options": [
+                "Al2O3 + 2HCl -> 2AlCl3 + H2O",
+                "Al2O3 + 6HCl -> 2AlCl3 + 3H2O",
+                "AlO + 2HCl -> AlCl2 + H2O",
+                "Al2O3 + 3HCl -> AlCl3 + 3H2O"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Aluminium oxide is an amphoteric oxide. When it reacts with hydrochloric acid, it forms aluminium chloride (salt) and water. The balanced chemical equation is Al2O3 + 6HCl -> 2AlCl3 + 3H2O[cite: 3]."
+        },
+        {
+            "id": 15,
+            "question": "Which of the following is the correct balanced equation for the reaction of aluminium oxide with sodium hydroxide?",
+            "options": [
+                "Al2O3 + 2NaOH -> 2NaAlO2 + H2O",
+                "Al2O3 + NaOH -> NaAlO2 + H2O",
+                "Al2O3 + 3NaOH -> Na3AlO3 + 1.5H2O",
+                "Al2O3 + 6NaOH -> 2Na3AlO3 + 3H2O"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Aluminium oxide is an amphoteric oxide that reacts with bases like sodium hydroxide to form sodium aluminate and water. The correct balanced chemical equation is Al2O3 + 2NaOH -> 2NaAlO2 + H2O[cite: 3]."
+        },
+        {
+            "id": 16,
+            "question": "Which of the following is the balanced chemical equation for the reaction of sodium oxide with water?",
+            "options": [
+                "Na2O + 2H2O -> 2NaOH + H2",
+                "2Na2O + H2O -> 2NaOH + O2",
+                "Na2O + H2O -> 2NaOH",
+                "Na2O + H2O -> NaOH"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Basic oxides like sodium oxide dissolve in water to form alkalis (bases). When sodium oxide reacts with water, it forms sodium hydroxide. The balanced chemical equation is Na2O + H2O -> 2NaOH[cite: 3]."
+        },
+        {
+            "id": 17,
+            "question": "Which of the following is the correct balanced equation for the reaction of potassium oxide with water?",
+            "options": [
+                "K2O + H2O -> 2KOH",
+                "K2O + H2O -> KOH",
+                "K2O + 2H2O -> 2KOH + H2",
+                "2K2O + H2O -> 2KOH + O2"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Potassium oxide is a basic oxide that dissolves in water to form an alkali, potassium hydroxide. The balanced chemical equation for this reaction is K2O + H2O -> 2KOH[cite: 3]."
+        },
+        {
+            "id": 18,
+            "question": "Which metals are kept in kerosene to prevent vigorous reaction?",
+            "options": [
+                "Copper and silver",
+                "Sodium and potassium",
+                "Gold and platinum",
+                "Iron and zinc"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Metals such as potassium and sodium react so vigorously with oxygen and moisture present in the air that they catch fire if kept in the open. Hence, they are immersed in kerosene oil to protect them and prevent accidental reactions[cite: 3]."
+        },
+        {
+            "id": 19,
+            "question": "Which metal develops a thin oxide layer when exposed to air to prevent further corrosion and reaction?",
+            "options": [
+                "Sodium",
+                "Potassium",
+                "Aluminium",
+                "Copper"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Aluminium develops a thin oxide layer when exposed to air. This aluminium oxide coat makes it resistant to further corrosion, and this process can be further improved by anodising[cite: 3]."
+        },
+        {
+            "id": 20,
+            "question": "The process of forming a thick oxide layer of aluminium is called",
+            "options": [
+                "Galvanisation",
+                "Anodising",
+                "Tinning",
+                "Alloying"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Anodising is a process of forming a thick oxide layer of aluminium. When aluminium is exposed to air, it naturally develops a thin oxide layer, but anodising makes this layer much thicker to make it more resistant to corrosion[cite: 3]."
+        },
+        {
+            "id": 21,
+            "question": "What happens when a metal reacts with water?",
+            "options": [
+                "They form non-metal oxide and oxygen gas",
+                "They form metal oxide/hydroxide and hydrogen gas",
+                "They form salts and chlorine gas",
+                "They do not react under any condition"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Metals react with water to form metal oxides or metal hydroxides along with the release of hydrogen gas. Metals that are more reactive (like sodium and potassium) react violently with cold water, whereas less reactive metals (like iron and aluminium) react only with steam, and copper, silver, or gold do not react with water at all[cite: 3]."
+        },
+        {
+            "id": 22,
+            "question": "What happens when a metal oxide reacts with water?",
+            "options": [
+                "They form acidic solutions and release hydrogen gas",
+                "They form metal hydroxides (alkalis) which are basic in nature",
+                "They form salts and release chlorine gas",
+                "They do not react under any circumstances"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Metal oxides are generally basic in nature. Some metal oxides dissolve in water to form alkalis (metal hydroxides), which turn red litmus blue[cite: 3]."
+        },
+        {
+            "id": 23,
+            "question": "Which of the following is the correct balanced chemical equation for the reaction of potassium with water?",
+            "options": [
+                "K + H2O -> KOH + H2",
+                "K2O + H2O -> 2KOH",
+                "2K + H2O -> K2O + H2",
+                "2K + 2H2O -> 2KOH + H2"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Potassium reacts violently with cold water to form potassium hydroxide (an alkali) and hydrogen gas, along with the evolution of a large amount of heat. The correct balanced chemical equation is 2K + 2H2O -> 2KOH + H2[cite: 3]."
+        },
+        {
+            "id": 24,
+            "question": "Which of the following is the correct balanced chemical equation for the reaction of sodium with water?",
+            "options": [
+                "2Na + 2H2O -> 2NaOH + H2",
+                "Na + H2O -> NaOH + H2",
+                "Na2O + H2O -> 2NaOH",
+                "2Na + H2O -> Na2O + H2"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Sodium reacts vigorously with cold water to form sodium hydroxide (an alkali) and hydrogen gas, releasing a large amount of heat that can cause the hydrogen to catch fire. The correct balanced chemical equation is 2Na + 2H2O -> 2NaOH + H2[cite: 3]."
+        },
+        {
+            "id": 25,
+            "question": "Which of the following is the correct balanced chemical equation for the reaction of calcium with water?",
+            "options": [
+                "Ca + H2O -> CaO + H2",
+                "Ca + 2H2O -> CaO + 2H2",
+                "Ca + 2H2O -> Ca(OH)2 + H2",
+                "Ca2+ + 2H2O -> Ca(OH)2 + H2"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The reaction of calcium with water is less violent compared to sodium and potassium, and the heat evolved is not sufficient for the hydrogen to catch fire. Calcium starts floating because the bubbles of hydrogen gas formed stick to the surface of the metal. The correct balanced chemical equation is Ca + 2H2O -> Ca(OH)2 + H2[cite: 3]."
+        },
+        {
+            "id": 26,
+            "question": "Which of the following metals react with cold water?",
+            "options": [
+                "Aluminium, iron and zinc",
+                "Magnesium and aluminium",
+                "Copper, silver and gold",
+                "Potassium, sodium and calcium"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Metals such as potassium and sodium react violently with cold water. Calcium also reacts with cold water, though less violently. Magnesium reacts with hot water, while metals like aluminium, iron, and zinc react only with steam[cite: 3]."
+        },
+        {
+            "id": 27,
+            "question": "Which of the following metals react with hot water?",
+            "options": [
+                "Magnesium",
+                "Sodium and potassium",
+                "Iron and zinc",
+                "Copper and silver"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Magnesium reacts with hot water to form magnesium hydroxide and hydrogen gas. It also starts floating due to the bubbles of hydrogen gas sticking to its surface[cite: 3]."
+        },
+        {
+            "id": 28,
+            "question": "Which of the following metals in the activity series do not react with water at all?",
+            "options": [
+                "Sodium, potassium and calcium",
+                "Lead, copper, silver and gold",
+                "Magnesium, aluminium and zinc",
+                "Iron and zinc"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Metals that are low in the reactivity series (such as lead, copper, silver, and gold) do not react with water or even steam under any normal conditions[cite: 3]."
+        },
+        {
+            "id": 29,
+            "question": "What is generally produced when a metal reacts with a dilute acid?",
+            "options": [
+                "Metal oxide and water",
+                "Metal hydroxide and chlorine gas",
+                "Salt and water only",
+                "Salt and hydrogen gas"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Metals react with dilute acids to give salt and hydrogen gas. For instance, when magnesium reacts with dilute hydrochloric acid, it forms magnesium chloride and hydrogen gas. (Note: Nitric acid is an exception as it does not usually give hydrogen gas)[cite: 3]."
+        },
+        {
+            "id": 30,
+            "question": "What is the name of the liquid formed when concentrated hydrochloric acid and concentrated nitric acid are mixed in a 3:1 ratio?",
+            "options": [
+                "Oleum",
+                "Brine",
+                "Aqua regia",
+                "Tollen's reagent"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Aqua regia (Latin for 'royal water') is a freshly prepared mixture of concentrated hydrochloric acid and concentrated nitric acid in the ratio of 3:1. It is a highly corrosive, fuming liquid capable of dissolving noble metals like gold and platinum, even though neither acid can dissolve them individually[cite: 3]."
+        },
+        {
+            "id": 31,
+            "question": "The liquid which can dissolve even gold and platinum is",
+            "options": [
+                "Concentrated sulphuric acid",
+                "Aqua regia",
+                "Dilute hydrochloric acid",
+                "Liquid nitrogen"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Aqua regia is a freshly prepared mixture of concentrated hydrochloric acid and concentrated nitric acid in the ratio of 3:1. It is a highly corrosive, fuming liquid that is capable of dissolving noble metals like gold and platinum, even though neither acid can dissolve them individually[cite: 3]."
+        },
+        {
+            "id": 32,
+            "question": "Which of the following represents the correct decreasing order of reactivity for metals along with hydrogen as per the reactivity series?",
+            "options": [
+                "Au > Ag > Hg > Cu > H > Pb > Fe > Zn > Al > Mg > Ca > Na > K",
+                "K > Na > Ca > Mg > Al > Zn > Fe > Pb > Cu > Hg > Ag > Au > H",
+                "K > Na > Mg > Ca > Al > Zn > Fe > H > Pb > Cu > Hg > Ag > Au",
+                "K > Na > Ca > Mg > Al > Zn > Fe > Pb > H > Cu > Hg > Ag > Au"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The reactivity series is a list of metals arranged in order of their decreasing activities. Potassium (K) is the most reactive metal at the top, while Gold (Au) is the least reactive at the bottom. Hydrogen (H) is included in the series as a reference element, positioned right between lead (Pb) and copper (Cu)[cite: 3]."
+        },
+        {
+            "id": 33,
+            "question": "The compound formed by the transfer of electrons from a metal to a non-metal is known as",
+            "options": [
+                "Ionic compound",
+                "Covalent compound",
+                "Coordinate compound",
+                "Metallic compound"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Compounds formed by the transfer of electrons from a metal to a non-metal are known as ionic compounds (or electrovalent compounds). The metal atoms lose valence electrons to form positively charged ions (cations), and the non-metal atoms gain those electrons to form negatively charged ions (anions)[cite: 3]."
+        },
+        {
+            "id": 34,
+            "question": "An ionic bond is also known as which of the following?",
+            "options": [
+                "Covalent bond",
+                "Coordinate bond",
+                "Electrovalent bond",
+                "Hydrogen bond"
+            ],
+            "correctAnswer": 2,
+            "explanation": "An ionic bond is formed by the complete transfer of electrons from a metal to a non-metal, leading to the formation of electrostatic attraction between oppositely charged ions. Because of this, an ionic bond is also commonly referred to as an electrovalent bond[cite: 3]."
+        },
+        {
+            "id": 35,
+            "question": "How many electrons are shared in a fluorine molecule?",
+            "options": [
+                "1 electron",
+                "4 electrons",
+                "6 electrons",
+                "2 electrons"
+            ],
+            "correctAnswer": 3,
+            "explanation": "A fluorine atom has 7 valence electrons and needs 1 more electron to achieve a stable octet configuration. Two fluorine atoms mutually share one electron pair between them, resulting in a total of 2 shared electrons that form a single covalent bond[cite: 3]."
+        },
+        {
+            "id": 36,
+            "question": "How many electrons are shared in a magnesium chloride molecule?",
+            "options": [
+                "1 electron",
+                "0 electrons",
+                "2 electrons",
+                "4 electrons"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Magnesium chloride (MgCl2) is an ionic (electrovalent) compound formed by the complete transfer of electrons from a magnesium atom to two chlorine atoms, rather than by the sharing of electrons. Therefore, zero electrons are shared in its formation[cite: 3]."
+        },
+        {
+            "id": 37,
+            "question": "Some minerals contain a very high percentage of a particular metal and the metal can be profitably extracted from it. These minerals are called",
+            "options": [
+                "Gangue",
+                "Flux",
+                "Ores",
+                "Slag"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Ores are minerals that contain a very high percentage of a particular metal and from which the metal can be extracted conveniently and profitably[cite: 3]."
+        },
+        {
+            "id": 38,
+            "question": "The elements or compounds which occur naturally in the earth's crust are known as",
+            "options": [
+                "Ore",
+                "Gangue",
+                "Flux",
+                "Mineral"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The elements or compounds which occur naturally in the earth's crust are known as minerals[cite: 3]."
+        },
+        {
+            "id": 39,
+            "question": "The impurities like soil, sand, etc., present in an ore are called",
+            "options": [
+                "Flux",
+                "Gangue",
+                "Slag",
+                "Mineral"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Ores mined from the earth are usually contaminated with large amounts of impurities such as soil, sand, and rocky materials. These unwanted earthy impurities are known as gangue[cite: 3]."
+        },
+        {
+            "id": 40,
+            "question": "When a metal ore is present in the form of a carbonate, the process used to convert it into metal oxide is called",
+            "options": [
+                "Roasting",
+                "Smelting",
+                "Calcination",
+                "Refining"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Calcination is the process of heating a carbonate ore strongly in a limited supply of air to convert it into metal oxide. In contrast, roasting is used for sulphide ores, where the ore is heated in the presence of excess air[cite: 3]."
+        },
+        {
+            "id": 41,
+            "question": "When a metal ore is present in the form of a sulfide, the process used to convert it into a metal oxide by heating strongly in the presence of excess air is called",
+            "options": [
+                "Calcination",
+                "Smelting",
+                "Refining",
+                "Roasting"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Roasting is the process in which a sulfide ore is strongly heated in the presence of excess air to convert it into its metal oxide. In contrast, calcination is used for carbonate ores in a limited supply of air[cite: 3]."
+        },
+        {
+            "id": 42,
+            "question": "How are metals low in the reactivity series (such as mercury and copper) typically extracted from their ores?",
+            "options": [
+                "By simply heating their sulfide or oxide ores without any reducing agent",
+                "By electrolysis of their molten salts",
+                "By reduction using carbon or coke",
+                "By using high-pressure steam and acids"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Metals that are low in the activity series are very unreactive. Their oxides can be reduced to metals by heating alone. For example, cinnabar (mercury(II) sulfide) is first heated in air to convert it into mercurial oxide, which upon further heating is reduced to mercury metal[cite: 3]."
+        },
+        {
+            "id": 43,
+            "question": "The process in which a metal ore is heated strongly in the presence of excess oxygen (air) to convert it into a metal oxide is called",
+            "options": [
+                "Calcination",
+                "Roasting",
+                "Smelting",
+                "Refining"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Roasting is the process of heating a sulfide ore strongly in the presence of excess air (oxygen) to convert it into a metal oxide, whereas calcination is used for carbonate ores in a limited supply of air[cite: 3]."
+        },
+        {
+            "id": 44,
+            "question": "The process in which a metal ore is heated strongly in the absence or limited supply of air to convert it into a metal oxide is called",
+            "options": [
+                "Roasting",
+                "Smelting",
+                "Calcination",
+                "Refining"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Calcination is the process of heating a carbonate ore strongly in a limited supply or absence of air to convert it into its metal oxide. In contrast, roasting involves heating a sulfide ore in the presence of excess air[cite: 3]."
+        },
+        {
+            "id": 45,
+            "question": "The process in which a metal oxide is reduced to the corresponding metal by using a suitable reducing agent such as carbon is called",
+            "options": [
+                "Calcination",
+                "Roasting",
+                "Refining",
+                "Reduction"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Metals that are in the middle of the reactivity series (such as iron, zinc, lead, and copper) are moderately reactive. Their oxides are reduced to the corresponding metals by using reducing agents like carbon (coke). For example, heating zinc oxide with carbon gives zinc metal and carbon monoxide[cite: 3]."
+        },
+        {
+            "id": 46,
+            "question": "The reaction of which two compounds is used to weld broken railway tracks or cracked machine parts?",
+            "options": [
+                "Zinc powder and copper sulfate solution",
+                "Aluminium powder and iron(III) oxide",
+                "Magnesium ribbon and water",
+                "Sodium metal and cold water"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The reaction of iron(III) oxide with aluminium powder is known as the thermite reaction. This highly exothermic displacement reaction produces molten iron, which is poured between the broken railway tracks or machine parts to weld them back together[cite: 3]."
+        },
+        {
+            "id": 47,
+            "question": "The reaction of iron(III) oxide with aluminium, used to join railway tracks or cracked machine parts, is known as",
+            "options": [
+                "Calcination",
+                "Roasting",
+                "Thermite reaction",
+                "Neutralisation reaction"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The reaction of iron(III) oxide with aluminium powder is a highly exothermic displacement reaction known as a thermite reaction. The heat released during this reaction is so immense that the iron is produced in a molten state, which is then used to weld broken railway tracks or cracked machine parts[cite: 3]."
+        },
+        {
+            "id": 48,
+            "question": "The process by which highly reactive metals (such as sodium, magnesium, and calcium) at the top of the reactivity series are extracted from their molten ores or chlorides is called",
+            "options": [
+                "Reduction using carbon (smelting)",
+                "Roasting in the presence of excess air",
+                "Calcination in a limited supply of air",
+                "Electrolytic reduction (electrolysis)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Highly reactive metals have a higher affinity for oxygen than carbon does, so their oxides cannot be reduced using carbon. Instead, they are extracted by electrolytic reduction (electrolysis) of their molten chlorides or oxides, where metal ions gain electrons at the cathode and are deposited as pure metals[cite: 3]."
+        },
+        {
+            "id": 49,
+            "question": "In the process of electrolysis, the deposition of metal takes place at",
+            "options": [
+                "Cathode",
+                "Anode",
+                "Electrolyte solution",
+                "Salt bridge"
+            ],
+            "correctAnswer": 0,
+            "explanation": "During electrolysis, positively charged metal ions (cations) migrate toward the cathode (the negative electrode). At the cathode, they gain electrons (undergo reduction) and are deposited as neutral metal atoms[cite: 3]."
+        },
+        {
+            "id": 50,
+            "question": "In the process of electrolysis (such as electro-refining), which electrode gets smaller and smaller as the reaction proceeds?",
+            "options": [
+                "Cathode",
+                "Anode",
+                "Salt bridge",
+                "Electrolyte solution"
+            ],
+            "correctAnswer": 1,
+            "explanation": "During electrolysis involving active metal electrodes (such as the electro-refining of copper), oxidation occurs at the positive electrode (anode), causing the metal atoms of the anode to lose electrons and dissolve into the electrolyte solution as ions. As a result, the anode gradually gets smaller and smaller, while pure metal is deposited at the cathode, making it grow larger[cite: 3]."
+        },
+        {
+            "id": 51,
+            "question": "In an electrolytic cell, the cathode is connected to which terminal of the power supply (battery)?",
+            "options": [
+                "Positive terminal",
+                "Neutral terminal",
+                "Negative terminal",
+                "Ground connection"
+            ],
+            "correctAnswer": 2,
+            "explanation": "In an electrolytic cell, the cathode is the negative electrode and is connected to the negative terminal of the DC power source. During electrolysis, positively charged ions (cations) move toward the cathode, where they gain electrons and get reduced[cite: 3]."
+        },
+        {
+            "id": 52,
+            "question": "In an electrolytic cell, the anode is connected to which terminal of the power supply (battery)?",
+            "options": [
+                "Negative terminal",
+                "Neutral terminal",
+                "Ground connection",
+                "Positive terminal"
+            ],
+            "correctAnswer": 3,
+            "explanation": "In an electrolytic cell, the anode is the positive electrode and is connected to the positive terminal of the DC power source. During electrolysis, negatively charged ions (anions) migrate toward the anode, where they lose electrons and undergo oxidation[cite: 3]."
+        },
+        {
+            "id": 53,
+            "question": "The positive electrode in an electrolytic cell is known as",
+            "options": [
+                "Anode",
+                "Cathode",
+                "Salt bridge",
+                "Electrolyte"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The positive electrode connected to the positive terminal of the power supply is called the anode. During electrolysis, negatively charged ions migrate toward the anode, where they lose electrons and undergo oxidation[cite: 3]."
+        },
+        {
+            "id": 54,
+            "question": "The negative terminal of a battery or power supply is called",
+            "options": [
+                "Anode",
+                "Cathode",
+                "Salt bridge",
+                "Electrolyte"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The negative terminal of a battery or DC power source is connected to the cathode, which acts as the negative electrode in an electrolytic cell where reduction takes place[cite: 3]."
+        },
+        {
+            "id": 55,
+            "question": "Ions moving towards the cathode during electrolysis are called",
+            "options": [
+                "Anions",
+                "Positrons",
+                "Cations",
+                "Electrolytes"
+            ],
+            "correctAnswer": 2,
+            "explanation": "During electrolysis, positively charged ions migrate toward the negatively charged cathode to gain electrons and undergo reduction. Because they move toward the cathode, these ions are called cations[cite: 3]."
+        },
+        {
+            "id": 56,
+            "question": "Negatively charged ions that migrate toward the anode during electrolysis are called",
+            "options": [
+                "Cations",
+                "Positrons",
+                "Electrolytes",
+                "Anions"
+            ],
+            "correctAnswer": 3,
+            "explanation": "During electrolysis, negatively charged ions migrate toward the positively charged anode to lose electrons and undergo oxidation. Because they move toward the anode, these ions are called anions[cite: 3]."
+        },
+        {
+            "id": 57,
+            "question": "During the electrolytic refining of metals (like copper), the impurities that settle down at the bottom of the anode are known as",
+            "options": [
+                "Gangue",
+                "Anode mud",
+                "Slag",
+                "Flux"
+            ],
+            "correctAnswer": 1,
+            "explanation": "During the electro-refining of metals, impurities present in the impure anode that are less reactive than the metal being refined do not dissolve in the electrolyte solution. Instead, they settle down at the bottom of the anode as sludge or mud, which is referred to as anode mud[cite: 3]."
+        },
+        {
+            "id": 58,
+            "question": "Silver articles become black after some time when exposed to air. This happens because silver reacts with",
+            "options": [
+                "Oxygen in the air to form a coating of silver oxide",
+                "Carbon dioxide in the air to form silver carbonate",
+                "Sulfur compounds in the air to form a coating of silver sulfide",
+                "Moisture in the air to form silver hydroxide"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Silver articles become black when exposed to air because silver reacts with sulfur compounds present in the atmosphere (such as hydrogen sulfide) to form a thin black layer of silver sulfide ($Ag_2S$)[cite: 3]."
+        },
+        {
+            "id": 59,
+            "question": "Copper turns green after some time when kept outside in moist air. This happens because copper reacts with oxygen, moisture, and carbon dioxide to form a green coating of",
+            "options": [
+                "Copper oxide",
+                "Copper sulfate",
+                "Copper sulfide",
+                "Basic copper carbonate"
+            ],
+            "correctAnswer": 3,
+            "explanation": "When copper is exposed to damp air for a long time, it acquires a green coating. This is due to the slow reaction of copper with moisture, carbon dioxide, and oxygen in the air, forming a mixture of copper carbonate and copper hydroxide, commonly known as basic copper carbonate ."
+        },
+        {
+            "id": 60,
+            "question": "Iron when exposed to moist air becomes reddish brown. This happens because iron reacts with",
+            "options": [
+                "Oxygen and moisture to form hydrated iron(III) oxide (rust)",
+                "Carbon dioxide to form basic iron carbonate",
+                "Sulfur compounds to form iron sulfide",
+                "Nitrogen to form iron nitride"
+            ],
+            "correctAnswer": 0,
+            "explanation": "When iron is exposed to moist air for a long time, it undergoes corrosion and reacts with oxygen and water (moisture) present in the atmosphere to form a reddish-brown flaky layer known as rust, which is chemically hydrated iron(III) oxide (Fe2O3 · xH2O)[cite: 3]."
+        },
+        {
+            "id": 61,
+            "question": "The process of coating iron or steel with a thin protective layer of zinc to prevent rusting is called",
+            "options": [
+                "Electroplating",
+                "Galvanization",
+                "Anodizing",
+                "Smelting"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Galvanization is a method of protecting iron and steel from corrosion and rusting by coating them with a thin layer of zinc. The zinc serves as a protective physical barrier and also offers sacrificial protection since it is more reactive than iron[cite: 3]."
+        },
+        {
+            "id": 62,
+            "question": "Stainless steel is an alloy (mixture) primarily composed of which of the following elements?",
+            "options": [
+                "Copper and zinc",
+                "Copper and tin",
+                "Iron, chromium, nickel, and carbon",
+                "Lead and tin"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Stainless steel is an alloy of iron mixed with chromium, nickel, and carbon. The addition of chromium and nickel gives it high corrosion resistance and strength, preventing it from rusting like pure iron[cite: 3]."
+        },
+        {
+            "id": 63,
+            "question": "Twenty-two carat (22k) gold means it is pure gold, right? Which of the following statements is correct regarding 22-carat gold?",
+            "options": [
+                "It is 100% pure gold, exactly the same as 24-carat gold",
+                "It contains 22% gold and 78% other base metals",
+                "It is pure gold coated with a protective layer of zinc",
+                "It is an alloy containing 22 parts pure gold and 2 parts of other metals like copper or silver"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Twenty-two carat gold is not 100% pure gold. Pure gold is 24-carat. 22-carat gold means it contains 22 parts of pure gold alloyed with 2 parts of other metals (such as copper, silver, or zinc). Pure 24-carat gold is very soft and unsuited for making regular jewelry, so alloying it with other metals increases its hardness and durability[cite: 3]."
+        },
+        {
+            "id": 64,
+            "question": "Twenty-four carat (24k) gold refers to",
+            "options": [
+                "An alloy containing 24 parts gold and 2 parts other metals like copper",
+                "100% pure gold, which is very soft and generally unsuitable for making regular jewelry",
+                "Gold mixed with 24% other metals to increase its hardness",
+                "Gold that has been electroplated with a protective layer of zinc"
+            ],
+            "correctAnswer": 1,
+            "explanation": "24-carat gold is pure gold without any other metals mixed into it. Because pure gold is extremely soft and ductile, it is not durable enough to be used directly for everyday jewelry making. It is therefore usually alloyed with small amounts of silver, copper, or other metals to increase its strength and hardness[cite: 3]."
+        },
+        {
+            "id": 65,
+            "question": "An alloy in which one of the metals is mercury is known as",
+            "options": [
+                "Solder",
+                "Brass",
+                "Amalgam",
+                "Bronze"
+            ],
+            "correctAnswer": 2,
+            "explanation": "An amalgam is a specific type of alloy formed by the combination of mercury with another metal. Most metals—such as silver, gold, copper, zinc, and sodium—readily form amalgams, while certain metals like iron, platinum, tungsten, and tantalum do not[cite: 3]."
+        },
+        {
+            "id": 66,
+            "question": "Compared to pure metals, the electrical conductivity and melting point of an alloy are generally",
+            "options": [
+                "Higher than those of pure metals",
+                "Higher electrical conductivity and lower melting point",
+                "Lower electrical conductivity and higher melting point",
+                "Lower than those of pure metals"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Alloys are formed by mixing a metal with other metals or non-metals. The irregular arrangement of atoms in an alloy disrupts the regular crystal lattice, which impedes the free flow of electrons and thus decreases electrical conductivity. Additionally, this atomic disruption weakens the interatomic forces, resulting in a lower melting point compared to the pure base metals (for instance, brass and bronze have lower electrical conductivity than pure copper)[cite: 3]."
+        },
+        {
+            "id": 67,
+            "question": "Brass is an alloy primarily composed of which of the following elements?",
+            "options": [
+                "Copper and zinc",
+                "Copper and tin",
+                "Lead and tin",
+                "Iron and carbon"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Brass is a metal alloy made of copper and zinc. The proportions of copper and zinc can be adjusted to create brass with varying mechanical and electrical properties, whereas an alloy of copper and tin is known as bronze[cite: 3]."
+        },
+        {
+            "id": 68,
+            "question": "Bronze is an alloy primarily composed of which of the following elements?",
+            "options": [
+                "Copper and zinc",
+                "Copper and tin",
+                "Lead and tin",
+                "Iron and carbon"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bronze is a traditional metal alloy consisting primarily of copper, typically combined with about 12% tin. Other metals such as aluminium, manganese, nickel, or zinc, as well as non-metals like phosphorus, are sometimes added to impart specific properties[cite: 3]."
+        },
+        {
+            "id": 69,
+            "question": "Solder is an alloy primarily composed of which of the following elements?",
+            "options": [
+                "Copper and zinc",
+                "Copper and tin",
+                "Lead and tin",
+                "Iron and carbon"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Solder is a fusible metal alloy used to join electrical wires, pipes, or electronic components together. Traditional solder is an alloy of lead and tin, characterized by a relatively low melting point compared to the metals being joined[cite: 3]."
+        },
+        {
+            "id": 70,
+            "question": "A homogeneous mixture of two or more metals, or a metal and a non-metal, is called",
+            "options": [
+                "Amalgam",
+                "Gangue",
+                "Slag",
+                "Alloy"
+            ],
+            "correctAnswer": 3,
+            "explanation": "An alloy is a homogeneous mixture of two or more elements, where at least one of them is a metal. Alloys are prepared by melting the primary metal and then dissolving the other elements in definite proportions. This process is typically used to modify the properties of the base metal, such as increasing hardness, tensile strength, or resistance to corrosion[cite: 3]."
+        },
+        {
+            "id": 71,
+            "question": "What is the correct definition of amphoteric oxides?",
+            "options": [
+                "Oxides that react only with strong acids to form salt and water",
+                "Oxides that react with both acids and bases to form salt and water",
+                "Oxides that react only with strong bases to form salt and water",
+                "Oxides that do not react with either acids or bases under any conditions"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Amphoteric oxides are metal oxides that exhibit both acidic and basic properties. They react with acids to form salts and water (acting as bases) and also react with bases to form salts and water (acting as acids). Common examples include aluminium oxide ($Al_2O_3$) and zinc oxide ($ZnO$)[cite: 3]."
+        },
+        {
+            "id": 72,
+            "question": "The extraction of metals from their ores and then refining them for practical use is known as",
+            "options": [
+                "Smelting",
+                "Calcination",
+                "Metallurgy",
+                "Roasting"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Metallurgy is the overarching process and branch of science concerned with the extraction of metals from their naturally occurring ores, purifying them, and preparing them for use, often by mixing them into alloys[cite: 3]."
+        },
+        {
+            "id": 73,
+            "question": "The process of heating a sulfide ore strongly in the presence of excess air to convert it into a metal oxide is known as",
+            "options": [
+                "Calcination",
+                "Smelting",
+                "Reduction",
+                "Roasting"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Roasting is a metallurgical process in which a concentrated sulfide ore is heated strongly below its melting point in the presence of excess air. This process converts the sulfide ore into its corresponding metal oxide and releases sulfur dioxide gas. In contrast, calcination involves heating carbonate ores in a limited supply or absence of air[cite: 3]."
+        },
+        {
+            "id": 74,
+            "question": "The surface of some metals such as iron is corroded when they are exposed to moist air for a long period of time. This phenomenon is called",
+            "options": [
+                "Rusting",
+                "Galvanization",
+                "Calcination",
+                "Smelting"
+            ],
+            "correctAnswer": 0,
+            "explanation": "When iron is exposed to moist air for a long period of time, it reacts with oxygen and moisture to form a reddish-brown flaky layer. This specific form of metal corrosion is known as rusting[cite: 3]."
+        }
+    ]
+}
