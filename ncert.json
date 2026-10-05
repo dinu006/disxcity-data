@@ -113,6 +113,10 @@
         {
           "name": "Is matter Around Us Pure?",
           "file": "NCERT/Class-IX/English/2026/Science/Is-Matter-Around-Us-Pure.json"
+        },
+        {
+          "name":"Atoms and Molecules",
+          "file": "NCERT/Class-IX/English/2026/Science/Atoms-and-Molecules.json"
         }
       ]
     },
@@ -165,10 +169,6 @@
         {
           "name":"Magnetic Effects of Electric Current",
           "file": "NCERT/Class-X/English/2026/Science/Magnetic-Effects-Of-Electric-Current.json"
-        },
-        {
-          "name":"Atoms and Molecules",
-          "file": "NCERT/Class-X/English/2026/Science/Atoms-and-Molecules.json"
         }
       ]
     }
