@@ -25,6 +25,27 @@
           ]
         }
       ]
+    },
+    {
+      "exam": "RRB NTPC undergraduate",
+      "duration": 90,
+      "marksPerQuestion": 1,
+      "negativeMarking": true,
+      "negativeMarks": 0.3333333333,
+      "languages": [
+        {
+          "language": "English",
+          "papers": [
+            {
+              "name": "07 May 2026 - Shift 1",
+              "date": "07 May 2026",
+              "shift": "Shift 1",
+              "file": "PYQ/RRB-NTPC-Undergraduate/English/07-May-2026-Shift-1.json"
+            }
+            
+          ]
+        }
+      ]
     }
   ]
 }
