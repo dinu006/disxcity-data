@@ -81,7 +81,7 @@
             "27.5 seconds"
         ],
         "correctAnswer": 0,
-        "explanation": "Total distance to cover = Length of train + Length of bridge = 180 m + 350 m = 530 meters[cite: 2]. Speed of the train = 72 km/h = 72 * (5 / 18) = 20 m/s[cite: 2]. Time taken = Total distance / Speed = 530 / 20 = 26.5 seconds[cite: 2]."
+        "explanation": "Total distance to cover = Length of train + Length of bridge = 180 m + 350 m = 530 meters. Speed of the train = 72 km/h = 72 * (5 / 18) = 20 m/s. Time taken = Total distance / Speed = 530 / 20 = 26.5 seconds."
     },
     {
         "id": 8,
@@ -93,7 +93,7 @@
             "2"
         ],
         "correctAnswer": 0,
-        "explanation": "Let the two numbers be x and y. We are given that x + y = 27 and xy = 170[cite: 3]. Using the algebraic identity (x - y)² = (x + y)² - 4xy[cite: 3]: (x - y)² = (27)² - 4(170) = 729 - 680 = 49[cite: 3]. Taking the square root gives x - y = √49 = 7[cite: 3]. Therefore, the positive difference between them is 7[cite: 3]."
+        "explanation": "Let the two numbers be x and y. We are given that x + y = 27 and xy = 170. Using the algebraic identity (x - y)² = (x + y)² - 4xy: (x - y)² = (27)² - 4(170) = 729 - 680 = 49. Taking the square root gives x - y = √49 = 7. Therefore, the positive difference between them is 7."
     },
     {
         "id": 9,
@@ -105,7 +105,7 @@
             "270"
         ],
         "correctAnswer": 3,
-        "explanation": "Cost of paying monthly for 12 months = ₹150 * 12 = ₹1800[cite: 4]. Since the annual plan offers a 15% discount on the total yearly cost, the savings amount to 15% of ₹1800[cite: 4]. Savings = (15 / 100) * 1800 = ₹270[cite: 4]."
+        "explanation": "Cost of paying monthly for 12 months = ₹150 * 12 = ₹1800. Since the annual plan offers a 15% discount on the total yearly cost, the savings amount to 15% of ₹1800. Savings = (15 / 100) * 1800 = ₹270."
     },
     {
         "id": 10,
@@ -117,7 +117,7 @@
             "₹2,862"
         ],
         "correctAnswer": 2,
-        "explanation": "The formula for compound interest is CI = y * ((1 + r / 100)^t - 1). Given CI = ₹462, r = 10%, and t = 2 years[cite: 5]: 462 = y * ((1 + 10 / 100)^2 - 1) => 462 = y * ((1.1)^2 - 1) => 462 = y * (1.21 - 1) => 462 = 0.21y => y = 462 / 0.21 = ₹2,200[cite: 5]. The total amount payable at the end of 2 years is Principal + Compound Interest = ₹2,200 + ₹462 = ₹2,662[cite: 5]."
+        "explanation": "The formula for compound interest is CI = y * ((1 + r / 100)^t - 1). Given CI = ₹462, r = 10%, and t = 2 years: 462 = y * ((1 + 10 / 100)² - 1) => 462 = y * ((1.1)² - 1) => 462 = y * (1.21 - 1) => 462 = 0.21y => y = 462 / 0.21 = ₹2,200. The total amount payable at the end of 2 years is Principal + Compound Interest = ₹2,200 + ₹462 = ₹2,662."
     },
     {
         "id": 11,
@@ -129,6 +129,6 @@
             "96 cm"
         ],
         "correctAnswer": 3,
-        "explanation": "The surface area of a sphere is given by the formula $4 \\pi r^2$[cite: 6]. Given Surface Area = $28962 \\text{ cm}^2$ and $\\pi = 22/7$[cite: 6]: $4 * (22/7) * r^2 = 28962$ => $(88/7) * r^2 = 28962$ => $r^2 = (28962 * 7) / 88 = 202734 / 88 \\approx 2303.795$[cite: 6]. Taking the square root gives $r \\approx 47.998 \\text{ cm}$[cite: 6]. The diameter is $2 * r = 2 * 47.998 \\approx 95.996 \\text{ cm}$, which rounds off to the closest integer as $96 \\text{ cm}$[cite: 6]."
+        "explanation": "The surface area of a sphere is given by the formula 4πr². Given Surface Area = 28962 cm² and π = 22/7: 4 * (22/7) * r² = 28962 => (88/7) * r² = 28962 => r² = (28962 * 7) / 88 = 202734 / 88 ≈ 2303.795. Taking the square root gives r ≈ 47.998 cm. The diameter is 2 * r = 2 * 47.998 ≈ 95.996 cm, which rounds off to the closest integer as 96 cm."
     }
 ]
