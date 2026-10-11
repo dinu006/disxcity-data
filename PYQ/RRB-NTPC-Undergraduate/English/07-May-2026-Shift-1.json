@@ -135,6 +135,211 @@
       ],
       "correctAnswer": 3,
       "explanation": "The surface area of a sphere is given by the formula 4πr². Given Surface Area = 28962 cm² and π = 22/7: 4 * (22/7) * r² = 28962 => (88/7) * r² = 28962 => r² = (28962 * 7) / 88 = 202734 / 88 ≈ 2303.795. Taking the square root gives r ≈ 47.998 cm. The diameter is 2 * r = 2 * 47.998 ≈ 95.996 cm, which rounds off to the closest integer as 96 cm."
-    }
+    },
+    {
+    "id": 12,
+    "question": "The value of a machine depreciates by 10% every year. What is the total percentage depreciation after 2 years?",
+    "options": [
+        "21%",
+        "20%",
+        "19%",
+        "22%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Using the successive percentage change formula (or net change formula $a + b - \\frac{a \\times b}{100}$ for depreciation where values are negative): $-10 - 10 - \\frac{(-10) \\times (-10)}{100} = -20 - (-1) = -19\\%$, meaning a total depreciation of 19%[cite: 22]. Alternatively, if the initial value is 100, after the first year it becomes $100 \\times 0.9 = 90$, and after the second year $90 \\times 0.9 = 81[cite: 22]$. The total depreciation is $100 - 81 = 19\\%[cite: 22]."
+},
+    {
+    "id": 13,
+    "question": "A shopkeeper offers the following schemes on toys of the same marked price. (A) Successive discounts of 16% and 29% on any number of toys bought. (B) Successive discounts of 4%, 34% and 37% on any number of toys bought. (C) 12% discount on the first 4 toys and 27% discount on each toy thereon. (D) 4 toys free of cost on buying 10 toys. A customer wants to buy 10 toys. Which of the above schemes is the least beneficial to her?",
+    "options": [
+        "B",
+        "C",
+        "A",
+        "D"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Let the marked price (MP) of each toy be ₹100, so the total marked price for 10 toys is ₹1000[cite: 7]. \n- Scheme A: Effective discount = $16 + 29 - (16 * 29) / 100 = 40.36\\%[cite: 7], total discount = ₹403.60.\n- Scheme B: Effective discount for 4%, 34%, and 37% is approximately $60.08\\%[cite: 7], total discount = ₹600.83.\n- Scheme C: Discount on first 4 toys = $4 \\times 100 \\times 12\\% = \\text{₹}48$; discount on remaining 6 toys = $6 \\times 100 \\times 27\\% = \\text{₹}162$. Total discount = $48 + 162 = \\text{₹}210$ (or an effective discount of 21%)[cite: 7].\n- Scheme D: Getting 4 toys free on buying 10 toys gives a discount of $4 / 14 \\approx 28.57\\%[cite: 7].\nComparing the total discount percentages, Scheme C offers the lowest discount (21%), making it the least beneficial to the customer[cite: 7]."
+},
+{
+    "id": 14,
+    "question": "Pipes X, Y, and Z together can fill a tank in 8 hours. If all three work together for 3 hours, and then pipe Z is closed, the remaining tank is filled by X and Y in 10 hours. In how many hours can pipe Z alone fill the empty tank?",
+    "options": [
+        "18",
+        "16",
+        "32",
+        "24"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Let the 1-hour work of pipes X, Y, and Z be represented as X, Y, and Z. Together, they can fill the tank in 8 hours, so (X + Y + Z) = 1/8[cite: 8]. In 3 hours, the work done by all three is 3 * (1/8) = 3/8[cite: 8]. The remaining work = 1 - 3/8 = 5/8[cite: 8]. This remaining work is filled by X and Y in 10 hours, meaning (X + Y) * 10 = 5/8 => (X + Y) = 5/80 = 1/16[cite: 8]. Since (X + Y + Z) = 1/8 and (X + Y) = 1/16, the 1-hour work of pipe Z is Z = (1/8) - (1/16) = 1/16[cite: 8]. Therefore, pipe Z alone can fill the empty tank in 16 hours[cite: 8]."
+},
+{
+    "id": 15,
+    "question": "Two bells are rung at intervals of 1,764 seconds and 2,268 seconds, respectively. They are rung together at the start. After how much time will the two bells ring together again for the first time?",
+    "options": [
+        "4 hours 24 minutes 36 seconds",
+        "4 hours 36 minutes 24 seconds",
+        "4 hours 18 minutes 12 seconds",
+        "4 hours 12 minutes 18 seconds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "To find the time when both bells ring together again, we need to calculate the Least Common Multiple (LCM) of their intervals: LCM(1764, 2268) = 15,876 seconds[cite: 9]. Converting this into hours, minutes, and seconds: 15,876 / 3600 = 4 hours with a remainder of 1,476 seconds[cite: 9]. Converting 1,476 seconds into minutes: 1476 / 60 = 24 minutes with a remainder of 36 seconds[cite: 9]. Thus, the two bells will ring together again after 4 hours 24 minutes 36 seconds[cite: 9]."
+},
+{
+    "id": 16,
+    "question": "Two taps can fill a cistern in 2 hours and 37 hours, respectively. A third tap can empty it in 37 hours. How long (in hours) will it take to fill half of the empty cistern if all the taps are opened together?",
+    "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The work rates of the three taps per hour are 1/2, 1/37, and -1/37 (since the third tap empties the cistern)[cite: 10]. When all three taps are opened together, the net rate of filling is (1/2) + (1/37) - (1/37) = 1/2 of the cistern per hour[cite: 10]. Therefore, the time required to fill the entire cistern is 2 hours[cite: 10]. To fill half of the cistern, it will take half of that time, which is 2 * (1/2) = 1 hour[cite: 10]."
+},
+
+{
+    "id": 17,
+    "question": "The ratio of two numbers is 3 : 5. If 6 is subtracted from each, the resulting numbers are in the ratio 1 : 2. Find the difference between the two original numbers.",
+    "options": [
+        "14",
+        "16",
+        "10",
+        "12"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Let the two original numbers be 3x and 5x[cite: 11]. When 6 is subtracted from each, the numbers become (3x - 6) and (5x - 6)[cite: 11]. According to the question, their new ratio is 1 : 2[cite: 11]: (3x - 6) / (5x - 6) = 1 / 2 => 2(3x - 6) = 1(5x - 6) => 6x - 12 = 5x - 6 => x = 6[cite: 11]. The original numbers are 3(6) = 18 and 5(6) = 30[cite: 11]. The difference between the two original numbers is 30 - 18 = 12[cite: 11]."
+},
+
+{
+    "id": 18,
+    "question": "If a two-digit number has a digit sum of 9 and adding 27 reverses its digits, determine the unit digit of the number.",
+    "options": [
+        "3",
+        "5",
+        "4",
+        "6"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Let the tens digit be $x$ and the unit digit be $y$, so the number can be written as $10x + y$[cite: 12]. \n1. The sum of the digits is 9: $x + y = 9$[cite: 12]. \n2. Adding 27 reverses its digits: $(10x + y) + 27 = 10y + x$[cite: 12]. \nRearranging the second equation gives: $9x - 9y = -27 \\Rightarrow x - y = -3$[cite: 12]. \nAdding the two equations ($x + y = 9$ and $x - y = -3$): $2x = 6 \\Rightarrow x = 3$[cite: 12]. \nSubstitute $x = 3$ into the first equation: $3 + y = 9 \\Rightarrow y = 6$[cite: 12]. \nTherefore, the number is 36, and its unit digit is 6[cite: 12]."
+},
+
+{
+    "id": 19,
+    "question": "Simplify the following expression using the BODMAS rule: 3/4 + (5/6 * 9/10) - 2/3",
+    "options": [
+        "3/5",
+        "6/5",
+        "13/5",
+        "5/6"
+    ],
+    "correctAnswer": 3,
+    "explanation": "According to the BODMAS rule, first solve the expression inside the parentheses: (5/6) * (9/10) = (5 * 9) / (6 * 10) = 45 / 60 = 3/4[cite: 13]. Now substitute this back into the expression: 3/4 + 3/4 - 2/3[cite: 13]. Next, perform addition and subtraction from left to right: 3/4 + 3/4 = 6/4 = 3/2[cite: 13]. Finally, subtract 2/3: (3/2) - (2/3) = (9 - 4) / 6 = 5/6[cite: 13]."
+},
+
+{
+    "id": 20,
+    "question": "The arithmetic mean of the first 15 numbers is 82. The mean is reduced by 6 when one of the numbers is removed. Find the number that is excluded?",
+    "options": [
+        "142",
+        "100",
+        "166",
+        "164"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Total sum of the 15 numbers = $15 \\times 82 = 1230$[cite: 14]. When one number is removed, 14 numbers remain, and the new mean becomes $82 - 6 = 76$[cite: 14]. Total sum of the remaining 14 numbers = $14 \\times 76 = 1064$[cite: 14]. Therefore, the excluded number is the difference between the total sum and the remaining sum: $1230 - 1064 = 166$[cite: 14]."
+},
+
+{
+    "id": 21,
+    "question": "The perimeter of a rhombus is 100 meters and one of its diagonals is 14 meters long. What is the length of the other diagonal?",
+    "options": [
+        "48 meters",
+        "40 meters",
+        "42 meters",
+        "50 meters"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The perimeter of the rhombus is 100 meters, so the length of each side is $100 / 4 = 25$ meters[cite: 15]. The diagonals of a rhombus bisect each other at right angles ($90^\\circ$)[cite: 15]. Given one diagonal is 14 meters, half of this diagonal is $14 / 2 = 7$ meters[cite: 15]. Using the right-angled triangle formed by the side ($s$) and half-diagonals ($d_1/2$ and $d_2/2$): $(d_2/2)^2 + (d_1/2)^2 = s^2$ => $(d_2/2)^2 + 7^2 = 25^2$ => $(d_2/2)^2 + 49 = 625$ => $(d_2/2)^2 = 625 - 49 = 576$[cite: 15]. Taking the square root gives $d_2/2 = \\sqrt{576} = 24$ meters[cite: 15]. Therefore, the length of the other diagonal is $d_2 = 24 \\times 2 = 48$ meters[cite: 15]."
+},
+
+{
+    "id": 22,
+    "question": "Which of the ratios given below is the greatest among them?",
+    "options": [
+        "5 : 8",
+        "3 : 5",
+        "7 : 11",
+        "4 : 7"
+    ],
+    "correctAnswer": 2,
+    "explanation": "To find the greatest ratio, convert each ratio to its decimal value: 5 : 8 = 0.625, 3 : 5 = 0.6, 7 : 11 $\\approx$ 0.636, and 4 : 7 $\\approx$ 0.571[cite: 16]. Comparing the decimal values, 7 : 11 has the highest value (0.636), making it the greatest ratio among the given options[cite: 16]."
+},
+
+{
+    "id": 23,
+    "question": "If 4sinθ + cosecθ = 4, 0° < θ < 90°, then the value of sin3θ + cos3θ is",
+    "options": [
+        "-1",
+        "0",
+        "1",
+        "2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Given the equation $4\\sin\\theta + \\csc\\theta = 4$, which can be rewritten as $4\\sin\\theta + \\frac{1}{\\sin\\theta} = 4$[cite: 17]. Let $\\sin\\theta = x$, so $4x + \\frac{1}{x} = 4 \\Rightarrow 4x^2 - 4x + 1 = 0 \\Rightarrow (2x - 1)^2 = 0 \\Rightarrow x = \\frac{1}{2}$[cite: 17]. Since $\\sin\\theta = \\frac{1}{2}$ and $0^\\circ < \\theta < 90^\\circ$, we have $\\theta = 30^\\circ$[cite: 17]. Substituting $\\theta = 30^\\circ$ into the expression: $\\sin(3\\theta) + \\cos(3\\theta) = \\sin(3 \\times 30^\\circ) + \\cos(3 \\times 30^\\circ) = \\sin(90^\\circ) + \\cos(90^\\circ) = 1 + 0 = 1$[cite: 17]."
+},
+
+{
+    "id": 24,
+    "question": "In a class, the average score of 8 boys is 56 and the average score of 4 girls is 80. What is the average score of all 12 students?",
+    "options": [
+        "62",
+        "66",
+        "68",
+        "64"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Total score of the 8 boys = $8 \\times 56 = 448$[cite: 18]. Total score of the 4 girls = $4 \\times 80 = 320$[cite: 18]. Total score of all 12 students = $448 + 320 = 768$[cite: 18]. Average score of all 12 students = $\\frac{768}{12} = 64$[cite: 18]."
+},
+
+{
+    "id": 25,
+    "question": "The 7-digit number 46A484B is divisible by 24. What is the minimum value of (A + B)?",
+    "options": [
+        "6",
+        "3",
+        "1",
+        "4"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A number is divisible by 24 if it is divisible by both 3 and 8 (since 24 = 3 * 8 and gcd(3, 8) = 1)[cite: 19]. \n1. **Divisibility by 8**: The last three digits of the number (48B) must form a number divisible by 8[cite: 19]. Testing single digits for B: 480 is divisible by 8, so B can be 0 or 8[cite: 19]. \n2. **Divisibility by 3**: The sum of all digits must be divisible by 3[cite: 19]. Sum = 4 + 6 + A + 4 + 8 + 4 + B = 26 + A + B[cite: 19]. \n- If B = 0: Sum = 26 + A. For this to be divisible by 3, the minimum value for A is 1 (since 26 + 1 = 27, which is divisible by 3)[cite: 19]. Here, A + B = 1 + 0 = 1[cite: 19]. \n- If B = 8: Sum = 34 + A. The minimum value for A would be 2 (34 + 2 = 36), giving A + B = 10[cite: 19]. \nThus, the minimum possible value of (A + B) is 1[cite: 19]."
+},
+
+{
+    "id": 26,
+    "question": "Simplify: { (12 / 33) ÷ (12 / 2) } ÷ (3 / 7 × 14 / 9 + 3 / 11) + 2 / 8 ÷ 31 / 25 of 25 / 8",
+    "options": [
+        "4 / 31",
+        "5 / 36",
+        "7 / 38",
+        "5 / 24"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let's break down the expression step by step using the BODMAS rule[cite: 20]:\n1. **First part**: $\\left\\{ \\frac{12}{33} \\div \\frac{12}{2} \\right\\} = \\frac{12}{33} \\times \\frac{2}{12} = \\frac{2}{33}$[cite: 20].\n2. **Second part**: Inside the parentheses $\\left( \\frac{3}{7} \\times \\frac{14}{9} + \\frac{3}{11} \\right)$[cite: 20], first multiply: $\\frac{3}{7} \\times \\frac{14}{9} = \\frac{2}{3}$[cite: 20]. Then add $\\frac{2}{3} + \\frac{3}{11} = \\frac{22 + 9}{33} = \\frac{31}{33}$[cite: 20].\n3. **Division of the first and second parts**: $\\frac{2}{33} \\div \\frac{31}{33} = \\frac{2}{33} \\times \\frac{33}{31} = \\frac{2}{31}$[cite: 20].\n4. **Third part**: $\\frac{2}{8} \\div \\frac{31}{25} \\text{ of } \\frac{25}{8}$[cite: 20]. Since 'of' takes precedence over division, calculate $\\frac{31}{25} \\times \\frac{25}{8} = \\frac{31}{8}$[cite: 20]. Then $\\frac{2}{8} \\div \\frac{31}{8} = \\frac{2}{8} \\times \\frac{8}{31} = \\frac{2}{31}$[cite: 20].\n5. **Summing both parts**: $\\frac{2}{31} + \\frac{2}{31} = \\frac{4}{31}$[cite: 20]."
+},
+
+{
+    "id": 27,
+    "question": "Sunil purchased a microwave oven for ₹7,000. He spent ₹400 on its transportation and ₹600 on repairs. He sold the oven for ₹9,800. What is his percentage profit on total investment?",
+    "options": [
+        "22.5%",
+        "23.5%",
+        "20.5%",
+        "21.5%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Total cost price (investment) = Purchase price + Transportation + Repairs = ₹7,000 + ₹400 + ₹600 = ₹8,000[cite: 21]. Selling price = ₹9,800[cite: 21]. Profit = Selling Price - Total Cost Price = ₹9,800 - ₹8,000 = ₹1,800[cite: 21]. Percentage profit = (Profit / Total Cost Price) * 100 = (1800 / 8000) * 100 = 22.5%[cite: 21]."
+}
+
+
   ]
 }
