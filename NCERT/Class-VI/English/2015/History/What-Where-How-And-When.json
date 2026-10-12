@@ -1,0 +1,333 @@
+{
+    "chapter": "What, Where, How and When",
+    "class": "Class-VI",
+    "language": "English",
+    "year": "2025",
+    "subject": "History",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which nutrient is mainly responsible for providing energy to our body?",
+            "options": [
+                "Vitamins",
+                "Minerals",
+                "Carbohydrates",
+                "Proteins"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Carbohydrates are an important source of energy for the body[cite: 1]."
+        },
+        {
+            "id": 2,
+            "question": "Which nutrient is needed for growth and repair of body tissues?",
+            "options": [
+                "Fats",
+                "Proteins",
+                "Water",
+                "Carbohydrates"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Proteins help in growth and repair of body tissues[cite: 1]."
+        },
+        {
+            "id": 3,
+            "question": "Hills in which the rice was first grown are",
+            "options": [
+                "Vindhyas",
+                "Sulaiman hills",
+                "Kirthar hills",
+                "Garo hills"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to historical evidence, the earliest places where rice was grown are located to the north of the Vindhyas in central India."
+        },
+        {
+            "id": 4,
+            "question": "The small rivers that flow into a large river are called",
+            "options": [
+                "Deltas",
+                "Estuaries",
+                "Tributaries",
+                "Distributaries"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A tributary is a small stream or river that flows into a larger river or main water body rather than flowing directly into the sea."
+        },
+        {
+            "id": 5,
+            "question": "The tributary of the Ganga mentioned in ancient history alongside Magadha is",
+            "options": [
+                "Kosi",
+                "Gandak",
+                "Yamuna",
+                "Son"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The Son is a major right-bank tributary of the Ganga, and in ancient times, the area along the Ganga and the Son to its south was known as Magadha."
+        },
+        {
+            "id": 6,
+            "question": "In ancient times, the area along the rivers to the south of the Ganga was known as",
+            "options": [
+                "Magadha",
+                "Indus",
+                "Kuru",
+                "Panchala"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In ancient times, the territory situated along the Ganga and its southern tributaries in present-day Bihar was known as Magadha."
+        },
+        {
+            "id": 7,
+            "question": "The word 'India' came from the Indus, which is called what in Sanskrit?",
+            "options": [
+                "Ganga",
+                "Sindhu",
+                "Yamuna",
+                "Brahmaputra"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The word India comes from the Indus, called Sindhu in Sanskrit."
+        },
+        {
+            "id": 8,
+            "question": "The Iranians and Greeks who came through the northwest about 2500 years ago were familiar with the Indus, and they called it the ______ or the ____.",
+            "options": [
+                "Ganga, Yamuna",
+                "Sindhu, Brahmaputra",
+                "Hindos, Indos",
+                "Aryavarta, Bharat"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The Iranians and Greeks who came through the northwest about 2500 years ago were familiar with the Indus and called it the Hindos or the Indos, and the land to the east of the river was called India."
+        },
+        {
+            "id": 9,
+            "question": "Bharat is first mentioned in _______ dated about 3500 years ago",
+            "options": [
+                "Upanishads",
+                "Rigveda",
+                "Samaveda",
+                "Ramayana"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The name Bharat is mentioned in the Rigveda, which is the oldest Veda and dates back to about 3500 years ago, used to refer to a group of people living in the northwest."
+        },
+        {
+            "id": 10,
+            "question": "The books or scripts written long ago are called",
+            "options": [
+                "Inscriptions",
+                "Chronicles",
+                "Epigraphs",
+                "Manuscripts"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Manuscripts are handwritten books or documents from long ago, usually written on palm leaf or the specially prepared bark of the birch tree."
+        },
+        {
+            "id": 11,
+            "question": "The word 'manuscript' comes from the Latin word ____ which means hand.",
+            "options": [
+                "script",
+                "manu",
+                "liber",
+                "codex"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The word 'manuscript' comes from the Latin 'manu', which means hand."
+        },
+        {
+            "id": 12,
+            "question": "Manuscripts were mainly written on which leaves?",
+            "options": [
+                "Palm leaves",
+                "Banana leaves",
+                "Mango leaves",
+                "Neem leaves"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Manuscripts were usually written on palm leaves, or on the specially prepared bark of a tree known as the birch, which grows in the Himalayas."
+        },
+        {
+            "id": 13,
+            "question": "Manuscripts were mainly prepared on the specially prepared bark of which tree, which grows in the Himalayas?",
+            "options": [
+                "Neem tree",
+                "Banyan tree",
+                "Birch tree",
+                "Peepal tree"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Manuscripts were often written on palm leaves or on the specially prepared bark of the birch tree, which grows in the Himalayas."
+        },
+        {
+            "id": 14,
+            "question": "The birch tree mainly grows in",
+            "options": [
+                "The Western Ghats",
+                "The Himalayas",
+                "The Nilgiri Hills",
+                "The Vindhyas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The birch tree grows in the Himalayan region, and its specially prepared bark was historically used to write ancient manuscripts."
+        },
+        {
+            "id": 15,
+            "question": "What was the common language used by ordinary people in ancient times?",
+            "options": [
+                "Sanskrit",
+                "Latin",
+                "Prakrit",
+                "Greek"
+            ],
+            "correctAnswer": 2,
+            "explanation": "While kings and religious scholars often used Sanskrit for inscriptions and literature, ordinary people used Prakrit, which was a spoken language understood by the general public."
+        },
+        {
+            "id": 16,
+            "question": "The scripts written on hard surfaces such as stones or metals are called",
+            "options": [
+                "Inscriptions",
+                "Manuscripts",
+                "Chronicles",
+                "Epigraphs"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Inscriptions are writings engraved on hard surfaces such as stone or metal, often used by kings to record their victories, commands, or achievements."
+        },
+        {
+            "id": 17,
+            "question": "Those who study the old objects, things made and used in the past, and inscriptions are called",
+            "options": [
+                "Historians",
+                "Geologists",
+                "Archaeologists",
+                "Anthropologists"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Archaeologists are people who study the objects of the past, including remains of buildings, paintings, sculptures, tools, weapons, pots, and coins to learn about ancient history."
+        },
+        {
+            "id": 18,
+            "question": "Digging under the surface of the earth to find old objects, tools, and remains of the past is called",
+            "options": [
+                "Exploration",
+                "Mining",
+                "Excavation",
+                "Drilling"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Excavation is the process of digging under the earth's surface to uncover artifacts like tools, weapons, pots, and building remains left behind by people in the past."
+        },
+        {
+            "id": 19,
+            "question": "In which place was an inscription of about 2250 years ago found, and who was the ruler who ordered it to be written?",
+            "options": [
+                "Delhi - Samudragupta",
+                "Kandahar - Ashoka",
+                "Pataliputra - Chandragupta Maurya",
+                "Taxila - Kanishka"
+            ],
+            "correctAnswer": 1,
+            "explanation": "An inscription dating to about 2250 years ago was found in Kandahar (present-day Afghanistan). It was inscribed on the orders of the Mauryan ruler Ashoka and was written in two different scripts, Greek and Aramaic."
+        },
+        {
+            "id": 20,
+            "question": "In which languages was the inscription in Kandahar, Afghanistan, written by order of Emperor Ashoka?",
+            "options": [
+                "Greek and Aramaic",
+                "Sanskrit and Prakrit",
+                "Persian and Arabic",
+                "Tamil and Brahmi"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The inscription found in Kandahar, dated to about 2250 years ago, was written in two different scripts and languages: Greek and Aramaic, which were used in that area."
+        },
+        {
+            "id": 21,
+            "question": "Scholars who study the past are called",
+            "options": [
+                "Geologists",
+                "Biologists",
+                "Historians",
+                "Astronomers"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Historians are scholars who study and write about the past, often using information found in manuscripts, inscriptions, and archaeology to piece together how people lived."
+        },
+        {
+            "id": 22,
+            "question": "The years before the birth of Jesus Christ are referred to by the letters BC, which mean",
+            "options": [
+                "Before Century",
+                "Before Chronology",
+                "Before Christ",
+                "Birth of Christ"
+            ],
+            "correctAnswer": 2,
+            "explanation": "BC stands for 'Before Christ', used to count the years backward before the estimated birth of Jesus Christ."
+        },
+        {
+            "id": 23,
+            "question": "The time which is after the birth of Jesus Christ is referred to as",
+            "options": [
+                "Before Christ (BC)",
+                "Anno Domini (AD)",
+                "Before Common Era (BCE)",
+                "Before Present (BP)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dates after the birth of Jesus Christ are counted forward and referred to as AD, which stands for 'Anno Domini' (meaning 'in the year of the Lord')."
+        },
+        {
+            "id": 24,
+            "question": "The abbreviation AD can also be written as",
+            "options": [
+                "Common Era (CE)",
+                "Before Common Era (BCE)",
+                "Anno Domini (AD)",
+                "After Creation (AC)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "AD (Anno Domini) is frequently written as CE, which stands for 'Common Era', while BC is often written as BCE ('Before Common Era')."
+        },
+        {
+            "id": 25,
+            "question": "The abbreviation BC can also be written as",
+            "options": [
+                "Common Era (CE)",
+                "Anno Domini (AD)",
+                "Before Common Era (BCE)",
+                "Before Present (BP)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "BC (Before Christ) is frequently written as BCE, which stands for 'Before Common Era'."
+        },
+        {
+            "id": 26,
+            "question": "The process by which scholars study and figure out the meaning of old scripts and inscriptions is called",
+            "options": [
+                "Decipherment",
+                "Excavation",
+                "Translation",
+                "Transcription"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Decipherment is the process by which scholars study and figure out the meaning of ancient scripts and languages that are no longer commonly used or understood."
+        },
+        {
+            "id": 27,
+            "question": "The names of the kings and queens in the Rosetta town of Egypt, where the inscribed stone was found, were enclosed in a little frame called",
+            "options": [
+                "Hieroglyph",
+                "Cartouche",
+                "Stela",
+                "Papyrus"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A cartouche is an oval or oblong frame enclosing a group of Egyptian hieroglyphs, usually representing the names and titles of royal persons."
+        }
+    ]
+}
