@@ -1,0 +1,21 @@
+{
+    "chapter": "What, Where, How and When",
+    "class": "Class-VI",
+    "language": "English",
+    "year": "2025",
+    "subject": "History",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Hills in which the rice was first grown is",
+            "options": [
+                "Garo hills",
+                "Vindhyas",
+                "Sulaiman hills",
+                "Kirthar hills"
+            ],
+            "correctAnswer": 1,
+            "explanation": "According to historical evidence, the earliest places where rice was grown are located to the north of the Vindhyas in central India."
+        }
+    ]
+}

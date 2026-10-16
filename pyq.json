@@ -41,6 +41,12 @@
               "date": "07 May 2026",
               "shift": "Shift 1",
               "file": "PYQ/RRB-NTPC-Undergraduate/English/07-May-2026-Shift-1.json"
+            },
+            {
+              "name": "07 May 2026 - Shift 2",
+              "date": "07 May 2026",
+              "shift": "Shift 2",
+              "file": "PYQ/RRB-NTPC-Undergraduate/English/07-May-2026-Shift-2.json"
             }
             
           ]

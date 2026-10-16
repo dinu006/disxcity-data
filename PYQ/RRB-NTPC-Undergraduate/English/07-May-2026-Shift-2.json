@@ -1,0 +1,1208 @@
+{
+    "exam": "RRB NTPC undergraduate",
+    "language": "English",
+    "date": "07 July 2026",
+    "shift": "Shift 2",
+    "questions": [
+        {
+            "id": 1,
+            "question": "A student scores 75, 80 and 90 in three tests with weights 2, 3 and 5 respectively. What is the weighted average score?",
+            "options": [
+                "82",
+                "83",
+                "85",
+                "84"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The weighted average is calculated by multiplying each score by its weight, summing them up, and dividing by the sum of the weights: (75×2 + 80×3 + 90×5) / (2+3+5) = 840 / 10 = 84."
+        },
+        {
+            "id": 2,
+            "question": "The largest four-digit number which when divided by 7, 6 and 10 leaves the remainder 5 in each case, is:",
+            "options": [
+                "9909",
+                "9875",
+                "9964",
+                "9793"
+            ],
+            "correctAnswer": 1,
+            "explanation": "First find the LCM of 7, 6, and 10, which is 210. The largest four-digit number is 9999. Dividing 9999 by 210 gives 47, so the largest multiple is 47 × 210 = 9870. Adding the remainder 5 gives 9875."
+        },
+        {
+            "id": 3,
+            "question": "Calculate the total amount when ₹4000 is invested at 10% compound interest per annum, compounded annually for 2 years.",
+            "options": [
+                "₹4400",
+                "₹4800",
+                "₹4080",
+                "₹4840"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Using the compound interest formula A = P(1 + R/100)^t, A = 4000 × (1 + 10/100)^2 = 4000 × (11/10)^2 = ₹4840."
+        },
+        {
+            "id": 4,
+            "question": "Two taps can fill a cistern in 4 hours and 11 hours, respectively. A third tap can empty it in 11 hours. How long (in hours) will it take to fill one-fourth of the empty cistern if all the taps are opened together?",
+            "options": [
+                "4",
+                "3",
+                "1",
+                "2"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Taking total capacity as 44 units, the rates are +11, +4, and -4 units/hour, giving a net rate of 11 units/hour. To fill 1/4th of the cistern (11 units), it takes 11 / 11 = 1 hour."
+        },
+        {
+            "id": 5,
+            "question": "Find the single discount equivalent to three successive discounts of 10% on a commodity.",
+            "options": [
+                "28.2%",
+                "26.9%",
+                "27.1%",
+                "25.8%"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Two successive discounts of 10% give 19%. Combining 19% with the third 10% discount gives 19 + 10 - (19×10)/100 = 27.1%."
+        },
+        {
+            "id": 6,
+            "question": "If 9 raised to the power x minus 9 raised to the power (x-1) equals 72, then the value of (2x - 1) / (2x + 3) is:",
+            "options": [
+                "3/7",
+                "3/4",
+                "3/5",
+                "3/8"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Given 9 raised to the power x minus 9 raised to the power (x-1) = 72 implies 9 raised to the power (x-1) multiplied by (9 - 1) = 72, which gives 9 raised to the power (x-1) = 9 raised to the power 1, so x - 1 = 1 meaning x = 2. Substituting x = 2 into (2x - 1) / (2x + 3) yields (4 - 1) / (4 + 3) = 3/7."
+        },
+        {
+            "id": 7,
+            "question": "Two trains, X and Y, are running on parallel tracks. Train X is 200 m long and travels at 72 km/hr. Train Y is 300 m long. If the trains are traveling in opposite directions, they pass each other completely in 15 seconds. If the trains were traveling in the same direction, how long would it take for the faster train to overtake the slower one?",
+            "options": [
+                "78 seconds",
+                "75 seconds",
+                "67.5 seconds",
+                "72 seconds"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Total length = 200 + 300 = 500 m. Relative speed in opposite direction = 500 / 15 = 100/3 m/s = 120 km/hr. Since Train X speed is 72 km/hr, Train Y speed = 120 - 72 = 48 km/hr. Relative speed in same direction = 72 - 48 = 24 km/hr = 20/3 m/s. Time to overtake = 500 / (20/3) = 75 seconds."
+        },
+        {
+            "id": 8,
+            "question": "The ages of two siblings add up to 44 years. If one sibling is 4 years younger than twice the other's age, what is the difference between their ages?",
+            "options": [
+                "10 years",
+                "14 years",
+                "12 years",
+                "8 years"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Let ages be x and y. x + y = 44 and x = 2y - 4. Substituting gives 3y = 48, so y = 16 and x = 28. The difference between their ages is 28 - 16 = 12 years."
+        },
+        {
+            "id": 9,
+            "question": "A shopkeeper marks an item at ₹4,000. During a festival, he first offers a discount of 25% on the marked price. After a week, he increases the discounted price by 20% to earn more profit. What is the final selling price of the item after these successive changes?",
+            "options": [
+                "₹3,600",
+                "₹3,500",
+                "₹3,700",
+                "₹3,400"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Price after 25% discount = 4000 × 0.75 = ₹3000. After increasing this by 20%, final price = 3000 × 1.2 = ₹3,600."
+        },
+        {
+            "id": 10,
+            "question": "Simplify 10.5 - [6.5 - {3.3 - (3.2 - 2.2 - 1.8)}]",
+            "options": [
+                "1",
+                "0",
+                "10.5",
+                "4.5"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Evaluating innermost expression with bar (2.2 - 1.8 = 0.4): (3.2 - 0.4) = 2.8. Next, {3.3 - 2.8} = 0.5. Then, [6.5 - 0.5] = 6.0. Finally, 10.5 - 6.0 = 4.5."
+        },
+        {
+            "id": 11,
+            "question": "Four numbers a, b, c and d satisfy the relation (a + 2) : (b - 2) = (c + 4) : (d - 4). If a = 6, b = 8 and c = 12, find the value of d.",
+            "options": [
+                "14",
+                "20",
+                "18",
+                "16"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Substitute a = 6, b = 8, c = 12 into the relation: 8 : 6 = 16 : (d - 4) => 4 / 3 = 16 / (d - 4) => d - 4 = 12 => d = 16."
+        },
+        {
+            "id": 12,
+            "question": "If sin 6A = cos 12A, find the value of tan 9A + cot 9A.",
+            "options": [
+                "-2",
+                "2",
+                "0",
+                "1"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Given sin 6A = cos 12A. Since sin(theta) = cos(90 - theta), we have 6A = 90 - 12A => 18A = 90 => A = 5. Therefore, 9A = 45. Now, tan 45 + cot 45 = 1 + 1 = 2."
+        },
+        {
+            "id": 13,
+            "question": "A television is marked at ₹50,000. A retailer gives a 15% discount on the first 70% of the price and a 5% discount on the rest. What is the total percentage discount offered?",
+            "options": [
+                "11%",
+                "10%",
+                "13%",
+                "12%"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Total price = ₹50,000. First part = 70% of 50,000 = ₹35,000 with 15% discount (Discount = 0.15 × 35000 = ₹5,250). Remaining part = 30% of 50,000 = ₹15,000 with 5% discount (Discount = 0.05 × 15000 = ₹750). Total discount = 5250 + 750 = ₹6,000. Total percentage discount = (6000 / 50000) × 100 = 12%."
+        },
+        {
+            "id": 14,
+            "question": "The curved surface area of a solid cylinder is numerically equal to the total surface area of another cylinder whose radius is half of the first cylinder. If the height and radius of the first cylinder are 7 cm and 4 cm, respectively, find the curved surface area of the second cylinder.",
+            "options": [
+                "52 pi cm^2",
+                "48 pi cm^2",
+                "65 pi cm^2",
+                "42 pi cm^2"
+            ],
+            "correctAnswer": 1,
+            "explanation": "For the first cylinder: r1 = 4 cm, h1 = 7 cm. Curved surface area (CSA1) = 2 * pi * r1 * h1 = 2 * pi * 4 * 7 = 56 pi cm^2. For the second cylinder: radius r2 = r1 / 2 = 2 cm. Let its height be h2. Its total surface area (TSA2) = 2 * pi * r2 * (h2 + r2) = 2 * pi * 2 * (h2 + 2) = 4 pi (h2 + 2). Given CSA1 = TSA2 => 56 pi = 4 pi (h2 + 2) => 14 = h2 + 2 => h2 = 12 cm. Curved surface area of the second cylinder = 2 * pi * r2 * h2 = 2 * pi * 2 * 12 = 48 pi cm^2."
+        },
+        {
+            "id": 15,
+            "question": "Which of the following digits should replace X so that the three-digit number 2X2 is divisible by 4?",
+            "options": [
+                "1",
+                "4",
+                "0",
+                "2"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A number is divisible by 4 if the number formed by its last two digits is divisible by 4. Checking the options for the last two digits X2: if X = 1, 12 is divisible by 4. Thus, 1 is the correct digit."
+        },
+        {
+            "id": 16,
+            "question": "A retailer buys 60 pens and sells them at the purchase price of 72 pens. Determine his profit percentage.",
+            "options": [
+                "12%",
+                "15%",
+                "16%",
+                "20%"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Let the cost price of 1 pen be ₹1. Cost price of 60 pens = ₹60. Selling price of 60 pens = Cost price of 72 pens = ₹72. Profit = 72 - 60 = ₹12. Profit percentage = (12 / 60) × 100 = 20%."
+        },
+        {
+            "id": 17,
+            "question": "A transaction code 92419 is not divisible by 13. To make it divisible by 13, the least digit should be appended at the end of the number. What is that digit?",
+            "options": [
+                "6",
+                "2",
+                "5",
+                "4"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Let the appended digit be k, making the number 92419k. Dividing 924190 by 13 gives a quotient with a remainder. 924190 = 13 × 71091 + 7. To make it a multiple of 13, the remainder must be 0 when 924190 + k is divided by 13. Since 7 + k must be the next multiple of 13, 7 + k = 13 => k = 6."
+        },
+        {
+            "id": 18,
+            "question": "ABCD is a quadrilateral in which AB parallel to DC, and E and F are the mid points of the diagonals AC and BD, respectively. If AB = 74 cm, BC = 91 cm, DC = 26 cm, and AD = 39 cm, then what is the length (in cm) of EF?",
+            "options": [
+                "25",
+                "22",
+                "21",
+                "24"
+            ],
+            "correctAnswer": 3,
+            "explanation": "In a trapezium ABCD with AB parallel to DC, the length of the line segment joining the midpoints of the diagonals (EF) is given by half the difference of the parallel sides: EF = (AB - DC) / 2. Substituting the values: EF = (74 - 26) / 2 = 48 / 2 = 24 cm."
+        },
+        {
+            "id": 19,
+            "question": "A train runs at 72 km/h for 3 hours and then at 60 km/h for 1.5 hours. What is the average speed of the train?",
+            "options": [
+                "65 km/h",
+                "66 km/h",
+                "68 km/h",
+                "67 km/h"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Distance 1 = 72 * 3 = 216 km. Distance 2 = 60 * 1.5 = 90 km. Total distance = 216 + 90 = 306 km. Total time = 3 + 1.5 = 4.5 hours. Average speed = 306 / 4.5 = 68 km/h."
+        },
+        {
+            "id": 20,
+            "question": "If the principal is ₹1000, the rate is 5% per annum, and the time is 2 years, what is the simple interest?",
+            "options": [
+                "₹100",
+                "₹200",
+                "₹50",
+                "₹500"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Simple Interest = (P * R * T) / 100 = (1000 * 5 * 2) / 100 = ₹100."
+        },
+        {
+            "id": 21,
+            "question": "If 5 and 10 are given, what is the third proportional to these numbers?",
+            "options": [
+                "30",
+                "15",
+                "25",
+                "20"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Let the third proportional be x. Then 5 : 10 = 10 : x => 5x = 100 => x = 20."
+        },
+        {
+            "id": 22,
+            "question": "Evaluate 24 cubed + (-7) cubed + (-17) cubed",
+            "options": [
+                "8345",
+                "8396",
+                "8450",
+                "8568"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Using the algebraic identity if a + b + c = 0, then a cubed + b cubed + c cubed = 3abc. Here a = 24, b = -7, c = -17, and a + b + c = 24 - 7 - 17 = 0. Therefore, 24 cubed + (-7) cubed + (-17) cubed = 3 * 24 * (-7) * (-17) = 3 * 24 * 119 = 8568."
+        },
+        {
+            "id": 23,
+            "question": "Trains from Delhi, Lucknow, and Jaipur depart every 12 minutes, 18 minutes, and 27 minutes, respectively. If all depart together at 6:00 am, when will they depart together again?",
+            "options": [
+                "7:40 am",
+                "7:36 am",
+                "7:48 am",
+                "7:24 am"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Find the LCM of 12, 18, and 27. Prime factorizations: 12 = 2^2 * 3, 18 = 2 * 3^2, 27 = 3^3. LCM = 2^2 * 3^3 = 4 * 27 = 108 minutes = 1 hour and 48 minutes. Adding 1 hour 48 minutes to 6:00 am gives 7:48 am."
+        },
+        {
+            "id": 24,
+            "question": "The sum of two numbers is 72. If the larger number is increased by 8 and the smaller number is decreased by 6, then the resulting numbers are in the ratio 3 : 2, respectively. Find the smaller of the original two numbers.",
+            "options": [
+                "35.6",
+                "32.5",
+                "34.2",
+                "35"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Let the smaller number be x, so the larger number is 72 - x. After changes: (72 - x + 8) / (x - 6) = 3 / 2 => (80 - x) / (x - 6) = 3 / 2 => 2(80 - x) = 3(x - 6) => 160 - 2x = 3x - 18 => 5x = 178 => x = 35.6."
+        },
+        {
+            "id": 25,
+            "question": "If 40% of a number exceeds 25% of it by 36, then the number is:",
+            "options": [
+                "240",
+                "280",
+                "220",
+                "260"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Let the number be N. 40% of N - 25% of N = 36 => 15% of N = 36 => 0.15N = 36 => N = 36 / 0.15 = 240."
+        },
+        {
+            "id": 26,
+            "question": "A shopkeeper offers the following schemes on toys of the same marked price. (A) Successive discounts of 44% and 12% on any number of toys bought. (B) Successive discounts of 18%, 43% and 23% on any number of toys bought. (C) 8% discount on the first 4 toys and 38% discount on each toy thereon. (D) On buying ten items, the customer is billed for only seven items. A customer wants to buy 10 toys. Which of the above schemes is the least beneficial to her?",
+            "options": [
+                "B",
+                "A",
+                "C",
+                "D"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Let the marked price of each toy be ₹100, so for 10 toys total MP = ₹1000. (A) Net discount = 44 + 12 - (44 * 12)/100 = 50.72% -> SP = ₹492.80. (B) Successive discount of 18%, 43%, 23% gives a net discount around 64.9% -> SP ≈ ₹351. (C) For 10 toys, first 4 toys get 8% discount (cost = 4 * 92 = ₹368) and remaining 6 toys get 38% discount (cost = 6 * 62 = ₹372), total SP = 368 + 372 = ₹740 (effective discount = 26%). (D) Billed for only 7 items out of 10 means 3 toys free, which is a 30% discount -> SP = ₹700. Comparing the selling prices (higher SP means less discount and less benefit to the customer), Scheme C results in the highest payment (₹740), making it the least beneficial."
+        },
+        {
+            "id": 27,
+            "question": "The average of k numbers is x. If 48 is subtracted from each of any two of the numbers, then we get (x - 12) as the new average. Find the value of k.",
+            "options": [
+                "8",
+                "10",
+                "3",
+                "5"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Total sum of k numbers = kx. When 48 is subtracted from each of any two numbers, the total sum decreases by 48 * 2 = 96. The new sum is kx - 96. The new average is given as (kx - 96) / k = x - 12. Solving for k: kx - 96 = kx - 12k => 12k = 96 => k = 8."
+        },
+        {
+            "id": 28,
+            "question": "The speeds of two cars are in the ratio 5 : 7. The faster car covers 140 km in 2 hours. How much distance will the slower car cover in the same time?",
+            "options": [
+                "140 km",
+                "90 km",
+                "100 km",
+                "70 km"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Speed of the faster car = 140 / 2 = 70 km/h. Since the ratio of speeds is 5 : 7, let the speeds be 5v and 7v. Thus, 7v = 70 => v = 10. Speed of the slower car = 5v = 50 km/h. Distance covered by the slower car in 2 hours = 50 * 2 = 100 km."
+        },
+        {
+            "id": 29,
+            "question": "A tank is being filled by two taps, M and N. M fills the tank completely in 18 hours and N fills it in 9 hours. A leakage at the bottom of the tank can empty the completely filled tank in 27 hours. How long will it take to fill the empty tank completely if both taps are opened while the leakage continues?",
+            "options": [
+                "6 4/7 hours",
+                "7 5/7 hours",
+                "6 5/7 hours",
+                "7 3/7 hours"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Let the total capacity be the LCM of 18, 9, and 27, which is 54 units. Rate of M = 54 / 18 = +3 units/hour. Rate of N = 54 / 9 = +6 units/hour. Rate of leakage = 54 / 27 = -2 units/hour. Net filling rate = 3 + 6 - 2 = 7 units/hour. Time required to fill the tank = 54 / 7 = 7 5/7 hours."
+        },
+        {
+            "id": 30,
+            "question": "The diagonals of a rhombus-shaped field are 224 m and 420 m long. What is the perimeter (in m) of the field?",
+            "options": [
+                "952",
+                "922",
+                "904",
+                "944"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The diagonals of a rhombus bisect each other at right angles. Half of the diagonals are d1 / 2 = 224 / 2 = 112 m and d2 / 2 = 420 / 2 = 210 m. The side of the rhombus (s) is given by s = sqrt((d1/2)^2 + (d2/2)^2) = sqrt(112^2 + 210^2) = sqrt(12544 + 44100) = sqrt(56644) = 238 m. The perimeter of the rhombus = 4 * s = 4 * 238 = 952 m."
+        },
+        {
+            "id": 31,
+            "question": "Which extremist leader authored the famous work, Gita Rahasya?",
+            "options": [
+                "Bipin Chandra Pal",
+                "Aurobindo Ghose",
+                "Bal Gangadhar Tilak",
+                "Lala Lajpat Rai"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Gita Rahasya (Shrimad Bhagavadgita Rahasya) was written by Bal Gangadhar Tilak in 1915 while he was imprisoned in Mandalay, Burma."
+        },
+        {
+            "id": 32,
+            "question": "Which launch vehicle will be used for Chandrayaan-5?",
+            "options": [
+                "GSLV Mk III",
+                "H3-24L",
+                "PSLV-C45",
+                "GSLV Mk II"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chandrayaan-5 is planned to use the H3-24L launch vehicle[cite: 8]."
+        },
+        {
+            "id": 33,
+            "question": "What does CD stand for in computer terminology?",
+            "options": [
+                "Compact Disc",
+                "Current Directories",
+                "Control Datamine",
+                "Color Display"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In computer terminology, CD stands for Compact Disc[cite: 8]."
+        },
+        {
+            "id": 34,
+            "question": "In a cross between true-breeding red-flowered and true-breeding white-flowered plants, the Filial 1 (F1) progeny was pink. This is a case of which type of inheritance?",
+            "options": [
+                "Complete Dominance",
+                "Co-dominance",
+                "Sex-linkage",
+                "Incomplete Dominance"
+            ],
+            "correctAnswer": 3,
+            "explanation": "When the F1 generation shows an intermediate phenotype (such as pink from red and white), it is an example of incomplete dominance[cite: 8]."
+        },
+        {
+            "id": 35,
+            "question": "The members of the Railway Convention Committee are nominated by which of the following authorities of India?",
+            "options": [
+                "The Prime Minister of India",
+                "The Chairman of the Rajya Sabha",
+                "The President of India",
+                "The Speaker of the Lok Sabha"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The members of the Railway Convention Committee are nominated by the Speaker of the Lok Sabha[cite: 8]."
+        },
+        {
+            "id": 36,
+            "question": "Which soil type, known for retaining moisture, is ideal for cotton cultivation?",
+            "options": [
+                "Red soil",
+                "Sandy soil",
+                "Laterite soil",
+                "Black soil"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Black soil (also known as regur soil) is known for its high moisture-retaining capacity, making it ideal for cotton cultivation[cite: 8]."
+        },
+        {
+            "id": 37,
+            "question": "Which contribution is correctly associated with Lala Lajpat Rai during the freedom struggle?",
+            "options": [
+                "Drafting the Nehru Report outlining complete independence for India",
+                "Leading the anti-Simon Commission protests, where he suffered fatal injuries",
+                "Leading the Bardoli satyagraha against enhanced revenue-demand policies",
+                "Commanding the Congress Volunteers during the Salt March in Gujarat"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lala Lajpat Rai is famously associated with leading the protests against the Simon Commission, during which he sustained severe lathi-charge injuries that led to his death[cite: 8]."
+        },
+        {
+            "id": 38,
+            "question": "Who among the following was associated with the Farazi Movement in Bengal during the 19th century?",
+            "options": [
+                "U Kiang Nongbah",
+                "Birsa Munda",
+                "Maznoom Shah",
+                "Dadu Mian"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Dadu Mian was a prominent leader of the Farazi Movement in Bengal, succeeding his father Haji Shariatullah[cite: 8]."
+        },
+        {
+            "id": 39,
+            "question": "According to the Citizenship Amendment Act (CAA), 2019, persecuted minorities (Hindus, Sikhs, Buddhists, Jains, Parsis, and Christians) from which of the following countries who entered India on or before December 31, 2014 are eligible for Indian citizenship?",
+            "options": [
+                "Afghanistan, Sri Lanka and Bangladesh",
+                "Bhutan, Bangladesh and Maldives",
+                "Afghanistan, Bangladesh and Pakistan",
+                "Pakistan, Myanmar and Nepal"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to the Citizenship Amendment Act, 2019, persecuted minorities from Afghanistan, Bangladesh, and Pakistan who arrived in India by December 31, 2014, are eligible for citizenship[cite: 9]."
+        },
+        {
+            "id": 40,
+            "question": "The roads and streets of the Harappan Lower Town were laid out in which pattern?",
+            "options": [
+                "Radial pattern spreading from a centre",
+                "Grid pattern intersecting at right angles",
+                "Circular pattern with curved streets",
+                "Irregular pattern without fixed alignment"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The streets and roads of the Harappan Lower Town were laid out on a grid pattern, intersecting at right angles[cite: 9]."
+        },
+        {
+            "id": 41,
+            "question": "Which global event first initiated coordinated international action on environmental protection and development?",
+            "options": [
+                "Rio Conference, 1992",
+                "Johannesburg Summit, 2002",
+                "Doha Climate Meeting, 2012",
+                "Stockholm Conference, 1972"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The Stockholm Conference held in 1972 was the first global event to initiate coordinated international action on environmental protection and human development[cite: 9]."
+        },
+        {
+            "id": 42,
+            "question": "According to the Constitution of India, the Directive Principles of State Policy are _____________",
+            "options": [
+                "Entirely administrative rules",
+                "Justiciable only in times of emergency",
+                "Non-justiciable, but fundamental in the governance of the country",
+                "Justiciable and legally enforceable"
+            ],
+            "correctAnswer": 2,
+            "explanation": "As per the Indian Constitution, the Directive Principles of State Policy are non-justiciable in courts, but they are fundamental in the governance of the country[cite: 9]."
+        },
+        {
+            "id": 43,
+            "question": "Where was the 69th session of the United Nations Commission on the Status of Women held in March 2025?",
+            "options": [
+                "Oslo, Norway",
+                "New York, USA",
+                "Rio de Janeiro, Brazil",
+                "Berlin, Germany"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The 69th session of the United Nations Commission on the Status of Women in March 2025 was held in New York, USA[cite: 9]."
+        },
+        {
+            "id": 44,
+            "question": "Which of the following musical genres was considered formal and divine in ancient India?",
+            "options": [
+                "Dhrupad",
+                "Gana",
+                "Gandharva",
+                "Prabandh"
+            ],
+            "correctAnswer": 2,
+            "explanation": "In ancient India, the musical genre known as Gandharva was considered formal, classical, and divine in nature[cite: 9]."
+        },
+        {
+            "id": 45,
+            "question": "The Government of India set up the Price Stabilisation Fund (PSF) to regulate the prices of agri-horticultural commodities in which financial year?",
+            "options": [
+                "2019-20",
+                "2016-17",
+                "2014-15",
+                "2012-13"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The Price Stabilisation Fund (PSF) was established by the Government of India during the 2014-15 financial year to help regulate price volatility of agri-horticultural commodities[cite: 9]."
+        },
+        {
+            "id": 46,
+            "question": "In October 2025, India's Society of Association Executives (SAE) officially launched in which of the following cities?",
+            "options": [
+                "Ahmedabad",
+                "New Delhi",
+                "Patna",
+                "Bengaluru"
+            ],
+            "correctAnswer": 3,
+            "explanation": "India's Society of Association Executives (SAE) was officially launched in Bengaluru in October 2025[cite: 10]."
+        },
+        {
+            "id": 47,
+            "question": "Selected for the International Space Station mission in 2025, John McFall, the first disabled astronaut, is associated with which of the following countries?",
+            "options": [
+                "United States of America",
+                "United Kingdom",
+                "Australia",
+                "Canada"
+            ],
+            "correctAnswer": 1,
+            "explanation": "John McFall, recognized as the first disabled astronaut selected for an International Space Station mission, is associated with the United Kingdom[cite: 10]."
+        },
+        {
+            "id": 48,
+            "question": "Which of the following is a non-renewable resource?",
+            "options": [
+                "Petroleum",
+                "Wind energy",
+                "Biomass",
+                "Solar energy"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Petroleum is a fossil fuel and a non-renewable resource, whereas wind, biomass, and solar energy are renewable[cite: 10]."
+        },
+        {
+            "id": 49,
+            "question": "In humans, the complete digestion of proteins leads to the formation of which substance?",
+            "options": [
+                "Glycerol",
+                "Amino acids",
+                "Glucose",
+                "Fatty acids"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Proteins are broken down completely during digestion into their constituent monomers, which are amino acids[cite: 10]."
+        },
+        {
+            "id": 50,
+            "question": "Which of the following is an example of application software used for creating documents?",
+            "options": [
+                "MS Word",
+                "Windows",
+                "BIOS",
+                "Linux"
+            ],
+            "correctAnswer": 0,
+            "explanation": "MS Word is a widely used application software designed for creating, editing, and formatting text documents[cite: 10]."
+        },
+        {
+            "id": 51,
+            "question": "Which of the following states accounts for about three-fourths of India's total jute production?",
+            "options": [
+                "Assam",
+                "Bihar",
+                "West Bengal",
+                "Odisha"
+            ],
+            "correctAnswer": 2,
+            "explanation": "West Bengal accounts for approximately three-fourths of the total jute production in India due to favorable climatic and soil conditions[cite: 10]."
+        },
+        {
+            "id": 52,
+            "question": "Which approach is crucial for empowering rural women, leading to community development?",
+            "options": [
+                "Restricting women's roles to traditional household duties",
+                "Promoting gender-specific vocational training and education",
+                "Limiting educational opportunities to urban centres",
+                "Focussing solely on men's employment programmes"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Promoting gender-specific vocational training and education empowers rural women by enhancing their livelihood skills, which drives overall community development[cite: 10]."
+        },
+        {
+            "id": 53,
+            "question": "The presence of elaborate gopurams is a defining feature of which temple architectural style?",
+            "options": [
+                "Dravidian style",
+                "Nagara style",
+                "Vesara style",
+                "Pala style"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Elaborate gopurams (gateway towers) are a prominent characteristic of temple architecture[cite: 11]."
+        },
+        {
+            "id": 54,
+            "question": "Which of the following water bodies separates the Andaman Islands from the Nicobar Islands?",
+            "options": [
+                "Ten Degree Channel",
+                "Nine Degree Channel",
+                "Duncan Passage",
+                "Palk Strait"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Ten Degree Channel is a channel that separates the Andaman Islands from the Nicobar Islands in the Bay of Bengal[cite: 11]."
+        },
+        {
+            "id": 55,
+            "question": "According to Article 141 of the Constitution of India, the law declared by the Supreme Court shall be binding on:",
+            "options": [
+                "All courts within the territory of India",
+                "State governments",
+                "All tribunals except civil courts",
+                "Only High Courts"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Article 141 of the Indian Constitution states that the law declared by the Supreme Court shall be binding on all courts within the territory of India[cite: 11]."
+        },
+        {
+            "id": 56,
+            "question": "The CPU mainly performs which of the following functions?",
+            "options": [
+                "Input and calculation",
+                "Processing and control",
+                "Display and storage",
+                "Storage and output"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Central Processing Unit (CPU) is primarily responsible for executing instructions through processing and control operations[cite: 11]."
+        },
+        {
+            "id": 57,
+            "question": "In October 2025, the Ministry of Minority Affairs announced support to universities to set up Centres of Excellence to promote heritage and classical languages. This initiative was taken under which scheme?",
+            "options": [
+                "Maulana Azad National Fellowship (MANF)",
+                "Pradhan Mantri Jan Vikas Karyakram (PMJVK)",
+                "Pradhan Mantri Virasat Ka Samvardhan (PM VIKAS)",
+                "National Minorities Development Finance Corporation (NMDFC)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The initiative to support universities in setting up Centres of Excellence for heritage and classical languages was taken under the Pradhan Mantri Jan Vikas Karyakram (PMJVK)[cite: 11]."
+        },
+        {
+            "id": 58,
+            "question": "The S.I. derived unit for Force is the Newton (N). Which combination of S.I. base units is equivalent to the Newton?",
+            "options": [
+                "kg-m2/s2",
+                "kg-m-s",
+                "kg-m/s",
+                "kg-m/s2"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to Newton's second law, Force equals mass times acceleration (F = ma), making its base unit equivalent to kg-m/s2[cite: 11]."
+        },
+        {
+            "id": 59,
+            "question": "When a book is pushed on the surface of a table, which type of friction mainly opposes its motion?",
+            "options": [
+                "Rolling friction",
+                "Sliding friction",
+                "Fluid friction",
+                "Magnetic friction"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sliding friction opposes the relative motion between two surfaces in contact when one slides over the other, such as a book moving across a table surface[cite: 11]."
+        },
+        {
+            "id": 60,
+            "question": "Which of the following trees is characteristic of the tropical deciduous forests of India?",
+            "options": [
+                "Deodar",
+                "Teak",
+                "Mangrove",
+                "Fir"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Teak is one of the most prominent and characteristic tree species found in the tropical deciduous forests of India[cite: 12]."
+        },
+        {
+            "id": 61,
+            "question": "What is the full form of UNDP?",
+            "options": [
+                "United Nations Deployment Programme",
+                "United Nations Development Programme",
+                "Union of Nations Deployment Programme",
+                "Union of Nations Development Programme"
+            ],
+            "correctAnswer": 1,
+            "explanation": "UNDP stands for the United Nations Development Programme[cite: 12]."
+        },
+        {
+            "id": 62,
+            "question": "Which of the following temples is NOT a prime example of the Dravidian style of temple architecture?",
+            "options": [
+                "Shore Temple",
+                "Gangaikondacholapuram Temple",
+                "Brihadeeswara Temple",
+                "Siddhesvara Mahadeva Temple"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The Siddhesvara Mahadeva Temple is typically known for Nagara style architecture, whereas the Shore Temple, Gangaikondacholapuram Temple, and Brihadeeswara Temple are classic examples of the Dravidian style[cite: 12]."
+        },
+        {
+            "id": 63,
+            "question": "Who among the following was awarded the Abel Prize 2025?",
+            "options": [
+                "Masaki Kashiwara",
+                "Avi Wigderson",
+                "Luis Caffarelli",
+                "Karen Uhlenbeck"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Masaki Kashiwara was awarded the Abel Prize in 2025[cite: 12]."
+        },
+        {
+            "id": 64,
+            "question": "According to the Sustainable Development Goals National Indicator Framework (SDG NIF) Progress Report of 2025, social protection coverage rose from 22% in 2016 to what percentage in 2025?",
+            "options": [
+                "64.3%",
+                "55%",
+                "78%",
+                "40%"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to the SDG NIF Progress Report of 2025, social protection coverage increased to 64.3% in 2025 from 22% in 2016[cite: 12]."
+        },
+        {
+            "id": 65,
+            "question": "Which article implicitly prohibits 'dual citizenship' in India?",
+            "options": [
+                "Article 5",
+                "Article 9",
+                "Article 7",
+                "Article 3"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Article 9 of the Indian Constitution states that persons voluntarily acquiring citizenship of a foreign State will lose Indian citizenship, which implicitly prohibits dual citizenship[cite: 12]."
+        },
+        {
+            "id": 66,
+            "question": "The 2025 study to detect airborne microorganisms in the Sundarbans mangrove wetlands was conducted by scientists from which institution?",
+            "options": [
+                "WII Dehradun",
+                "IISER Kolkata",
+                "NIO Goa",
+                "IIT Kharagpur"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The 2025 research study involving airborne microorganisms in the Sundarbans was conducted by scientists from IISER Kolkata[cite: 12]."
+        },
+        {
+            "id": 67,
+            "question": "Which of the following is NOT a function of the President?",
+            "options": [
+                "Promulgating ordinances",
+                "Presiding over Rajya Sabha sessions",
+                "Granting pardons and remissions",
+                "Summoning and proroguing Parliament"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Presiding over Rajya Sabha sessions is the role of the Vice President of India, who acts as the ex-officio Chairman of the Rajya Sabha, not the President[cite: 13]."
+        },
+        {
+            "id": 68,
+            "question": "In modern Windows versions (Windows 10/11), which Task Manager tab allows users to monitor real-time graphics card utilization for individual applications?",
+            "options": [
+                "Processes",
+                "App History",
+                "Startup",
+                "Performance"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Processes tab in Task Manager lists running applications and details their real-time CPU, memory, disk, and GPU/graphics card utilization[cite: 13]."
+        },
+        {
+            "id": 69,
+            "question": "Which among the following kings from the early medieval period assumed the title 'Gangaikonda'?",
+            "options": [
+                "Vijayalaya",
+                "Rajendra I",
+                "Pulakesin II",
+                "Rajaraja I"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Rajendra I assumed the title 'Gangaikonda Chola' (the Chola who conquered the Ganga) after his successful expedition to the Gangetic valley[cite: 13]."
+        },
+        {
+            "id": 70,
+            "question": "During which period did Iltutmish's daughter, Razia, rule the Delhi Sultanate before being removed by Turkish nobles?",
+            "options": [
+                "1236-1240",
+                "1230-1236",
+                "1246-1250",
+                "1240-1246"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Razia Sultana ruled the Delhi Sultanate from 1236 to 1240 before being overthrown by a faction of Turkish nobles[cite: 13]."
+        },
+        {
+            "id": 71,
+            "question": "Study the given diagram carefully and answer the question. The numbers in different sections indicate the number of persons. How many such Teachers are there who are also Dentists but not Surgeons?",
+            "options": [
+                "14",
+                "5",
+                "29",
+                "16"
+            ],
+            "correctAnswer": 2,
+            "explanation": "To find the number of Teachers who are also Dentists but NOT Surgeons, look at the intersection of the 'Teachers' circle and the 'Dentists' circle, excluding the region that overlaps with 'Surgeons'. This region contains the number 29[cite: 13]."
+        },
+        {
+            "id": 72,
+            "question": "What should come in place of '?' in the given series based on the English alphabetical order? MFJ JCG GZD DWA ?",
+            "options": [
+                "AKR",
+                "ATZ",
+                "ATX",
+                "ASY"
+            ],
+            "correctAnswer": 2,
+            "explanation": "In each letter position, the letters decrease by 3 steps in the alphabetical order: First letters (M, J, G, D -> A), Second letters (F, C, Z, W -> T), Third letters (J, G, D, A -> X). Thus, the missing term is ATX[cite: 14]."
+        },
+        {
+            "id": 73,
+            "question": "Each of the digits in the number 52178436 is arranged in ascending order from left to right. What will be the sum of the digits that are third from the left and third from the right in the number thus formed?",
+            "options": [
+                "11",
+                "8",
+                "9",
+                "10"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Arranging the digits in ascending order gives 1, 2, 3, 4, 5, 6, 7, 8. The digit third from the left is 3, and the digit third from the right is 6. Their sum is 3 + 6 = 9[cite: 14]."
+        },
+        {
+            "id": 74,
+            "question": "Each of the digits in the number 36857219 is arranged in the ascending order from left to right. What will be the sum of the digits which are second from the left and third from the right in the new number thus formed?",
+            "options": [
+                "11",
+                "9",
+                "10",
+                "8"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Arranging the digits in ascending order yields 1, 2, 3, 5, 6, 7, 8, 9. The digit second from the left is 2, and the digit third from the right is 7. Their sum is 2 + 7 = 9[cite: 14]."
+        },
+        {
+            "id": 75,
+            "question": "Refer to the following letter series and answer the question that follows. Counting to be done from left to right only. (Left) K D D U R V U D E C Q D V A D R D G D E D Z D J (Right). How many such D's are there, each of which is immediately preceded by a vowel and also immediately followed by a consonant?",
+            "options": [
+                "Four",
+                "Two",
+                "Three",
+                "Five"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Looking for the pattern (Vowel -> D -> Consonant): 1) A D R (preceded by vowel A, followed by consonant R), 2) E D Z (preceded by vowel E, followed by consonant Z). There are 2 such D's[cite: 14]."
+        },
+        {
+            "id": 76,
+            "question": "Select the pair which follows the same pattern as that followed by the two sets of pairs given below. Both pairs follow the same pattern. DIP : GLS, BST : EVW",
+            "options": [
+                "TEL : VHP",
+                "HKD : KNG",
+                "CIG : FKJ",
+                "EHL : IFP"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In both given pairs, each letter is shifted forward by 3 positions in the alphabet (e.g., D+3=G, I+3=L, P+3=S). Among the options, HKD : KNG follows this exact +3 letter shift pattern (H+3=K, K+3=N, D+3=G)[cite: 14]."
+        },
+        {
+            "id": 77,
+            "question": "In a certain code language, based on the given relations, how is S related to K if 'S - D + F + H x K'?",
+            "options": [
+                "Brother",
+                "Wife's father",
+                "Wife's brother",
+                "Father"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Analyzing the expression according to the coded family tree relations establishes the correct familial connection as S being the wife's brother to K[cite: 14]."
+        },
+        {
+            "id": 78,
+            "question": "What should come in place of '?' in the given series? 67 70 ? 85 97 112",
+            "options": [
+                "82",
+                "78",
+                "76",
+                "80"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Looking at the differences between consecutive terms: 70 - 67 = 3. Next difference should follow a pattern, e.g., adding 6 gives 70 + 6 = 76. Then 76 + 9 = 85, 85 + 12 = 97, 97 + 15 = 112. The pattern of differences increases by 3 each time (+3, +6, +9, +12, +15). Thus, the missing number is 76[cite: 15]."
+        },
+        {
+            "id": 79,
+            "question": "Each vowel in the word CURRENT is changed to the letter immediately following it in the English alphabetical order and each consonant is changed to the letter immediately preceding it in the English alphabetical order. Which of the following letters will be third from the right in the new group of letters thus formed?",
+            "options": [
+                "G",
+                "E",
+                "F",
+                "H"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Let's modify each letter of CURRENT according to the rule (Vowels U, E change to next: V, F; Consonants C, R, R, N, T change to previous: B, Q, Q, M, S). The new word is BVQQFMS. Counting from the right, the letters are: 1st is S, 2nd is M, 3rd is F. Thus, the third letter from the right is F[cite: 15]."
+        },
+        {
+            "id": 80,
+            "question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets. (2, 7, 14), (3, 16, 48)",
+            "options": [
+                "(4, 6, 20)",
+                "(5, 3, 15)",
+                "(8, 6, 56)",
+                "(6, 7, 48)"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The relationship in the given sets (a, b, c) is that the product of the first and second numbers equals the third number, or specifically a * (b + something) or similar pattern. Let's check: for (2, 7, 14), 2 * 7 = 14. For (3, 16, 48), 3 * 16 = 48. Checking the options: (5, 3, 15) gives 5 * 3 = 15[cite: 15]."
+        },
+        {
+            "id": 81,
+            "question": "In a row of 22 students facing North, Sunil is 17th from the left end. If Deepak is 3rd to the right of Sunil, what is Deepak's position from the right end of the row?",
+            "options": [
+                "4th",
+                "1st",
+                "3rd",
+                "2nd"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Sunil's position from the left = 17th. Deepak is 3rd to the right of Sunil, so Deepak's position from the left = 17 + 3 = 20th. Deepak's position from the right end = Total students - Position from left + 1 = 22 - 20 + 1 = 3rd[cite: 15]."
+        },
+        {
+            "id": 82,
+            "question": "In a row of 54 students facing the north, Gagan is 13th from the right end. If Nitin is 17th to the left of Gagan, what is Nitin's position from the left end of the line?",
+            "options": [
+                "23rd",
+                "25th",
+                "27th",
+                "30th"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Gagan's position from the right = 13th. Gagan's position from the left = Total - (Right position - 1) = 54 - 13 + 1 = 42nd. Nitin is 17th to the left of Gagan, so Nitin's position from the left = 42 - 17 = 25th[cite: 15]."
+        },
+        {
+            "id": 83,
+            "question": "Refer to the following series and answer the question. (Counting to be done from left to right only.) (All numbers are single-digit numbers only.) (Left) 4 6 2 9 1 4 9 7 1 7 6 5 3 6 4 1 4 3 8 4 2 2 3 9 9 7 6 (Right). How many such even digits are there, each of which is immediately preceded by a perfect square and immediately followed by an odd digit? (NOTE: 1 is also a perfect square.)",
+            "options": [
+                "Three",
+                "Two",
+                "One",
+                "None"
+            ],
+            "correctAnswer": 1,
+            "explanation": "We need the pattern: [Perfect Square] -> [Even Digit] -> [Odd Digit]. Let's check the series: 4 6 2 9 1 4 9 7 1 7 6 5 3 6 4 1 4 3 8 4 2 2 3 9 9 7 6. 1) '1 4 9': 1 is a square, 4 is even, 9 is odd (Matches 1). 2) '1 4 3' (near the end): 1 is a square, 4 is even, 3 is odd (Matches 2). There are 2 such even digits[cite: 15]."
+        },
+        {
+            "id": 84,
+            "question": "JDHK is related to OIMP in a certain way based on the English alphabetical order. In the same way, MGKN is related to RLPS. To which of the following is PJNQ related, following the same logic?",
+            "options": [
+                "OUVS",
+                "OUSV",
+                "UOSV",
+                "UOVS"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Each letter in the cluster is shifted forward by 5 positions in the English alphabet (e.g., P+5=U, J+5=O, N+5=S, Q+5=V), resulting in UOSV[cite: 16]."
+        },
+        {
+            "id": 85,
+            "question": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which is the one that does not belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.)",
+            "options": [
+                "EH-JB",
+                "LO-QJ",
+                "OR-TM",
+                "HK-MF"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In pairs like LO-QJ, OR-TM, and HK-MF, the first letter increases by 5 and the second letter decreases by 5. In EH-JB, E(+5)=J but H(-6)=B, making it the odd one out[cite: 16]."
+        },
+        {
+            "id": 86,
+            "question": "In a certain code language, J + Q means 'J is the brother of Q', J x Q means 'J is the mother of Q', J - Q means 'J is the husband of Q' and J + Q means 'J is the father of Q'. Based on the above, how is A related to F if 'A + B + C - D x E + F'?",
+            "options": [
+                "Mother's father",
+                "Father's father",
+                "Mother's brother",
+                "Wife's father"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tracing the familial relationships step-by-step through the given coded expression reveals that A is the father's father of F[cite: 16]."
+        },
+        {
+            "id": 87,
+            "question": "What should come in place of '?' in the given series? 5 ? 10 19 35 60",
+            "options": [
+                "9",
+                "8",
+                "7",
+                "6"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The differences between consecutive terms follow the squares of natural numbers: 6 - 5 = 1 squared, 10 - 6 = 2 squared, 19 - 10 = 3 squared, 35 - 19 = 4 squared, 60 - 35 = 5 squared. Thus, the missing number is 6[cite: 16]."
+        },
+        {
+            "id": 88,
+            "question": "Which of the following options should come in place of the '?' in the given series based on the English alphabetical order? R 45, A 40, J 35, S 30, ?",
+            "options": [
+                "B 25",
+                "V 25",
+                "X 25",
+                "T 25"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The numerical part decreases by 5 each time (45, 40, 35, 30, 25). The alphabetical letters advance by +9 positions with wrapping around the alphabet (R -> A -> J -> S -> B). Thus, the next term is B 25[cite: 16]."
+        },
+        {
+            "id": 89,
+            "question": "Based on the English alphabetical order, three of the following four are alike in a certain way and thus form a group. Which is the one that does not belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.)",
+            "options": [
+                "TTP",
+                "QPM",
+                "BAX",
+                "SRO"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In QPM, BAX, and SRO, the letters decrease by 1 and then by 3 in alphabetical order. In TTP, the letters do not follow this decrement pattern (-0, -4), making TTP the odd one out[cite: 16]."
+        },
+        {
+            "id": 90,
+            "question": "QX 18 is related to SS 4 in a certain way. In the same way, EL 10 is related to GG -4. To which of the following is IJ 5 related, following the same logic?",
+            "options": [
+                "HF -8",
+                "TR -5",
+                "KE -9",
+                "KL -11"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Analyzing the letter and number shifts reveals the correct related term is KE -9[cite: 17]."
+        },
+        {
+            "id": 91,
+            "question": "Seven people, N, V, C, Y, E, F and G, are sitting in a row, facing north. Only two people sit to the left of V. F sits fourth from the right end. Only two people sit between N and V. E is the immediate neighbour of G and V. Y does not sit to the right of C. How many people sit between Y and E?",
+            "options": [
+                "Two",
+                "Four",
+                "Five",
+                "Three"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Arranging the seating positions according to the given conditions yields the order, and there are two people sitting between Y and E[cite: 17]."
+        },
+        {
+            "id": 92,
+            "question": "Seven boxes, M, N, O, P, Q, R and S, are kept one over the other, but not necessarily in the same order. No box is kept above O. Only three boxes are kept between O and S. Only one box is kept between Q and M. M is kept immediately above S. Only four boxes are kept between Q and P. R is kept at some place above N. Which box is kept second below R?",
+            "options": [
+                "S",
+                "N",
+                "O",
+                "Q"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Since no box is kept above O, O is at the top. Following the box arrangement rules, S is kept second below R[cite: 17]."
+        },
+        {
+            "id": 93,
+            "question": "In a certain code language, 'DONE' is coded as '5432' and 'CODE' is coded as '2835'. What is the code for 'C' in the given code language?",
+            "options": [
+                "5",
+                "3",
+                "2",
+                "8"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Comparing the codes for DONE (5432) and CODE (2835), the letter C corresponds to the code digit 8[cite: 17]."
+        },
+        {
+            "id": 94,
+            "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements. Statements: All vehicles are machines. Some machines are tools. Conclusions: (I) Some vehicles are tools. (II) All tools are machines.",
+            "options": [
+                "Only conclusion (I) follows",
+                "Only conclusion (II) follows",
+                "Both conclusions (I) and (II) follow",
+                "Neither conclusion (I) nor (II) follows"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Based on the standard Venn diagram rules, neither conclusion necessarily follows from the given statements[cite: 17]."
+        },
+        {
+            "id": 95,
+            "question": "Based on the alphabetical order, three of the following four are alike in a certain way and thus form a group. Which is the one that does not belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.)",
+            "options": [
+                "PRT",
+                "SUW",
+                "HJL",
+                "CEH"
+            ],
+            "correctAnswer": 3,
+            "explanation": "In PRT, SUW, and HJL, letters advance uniformly by +2. In CEH, the steps are +2 and +3, making CEH the odd one out[cite: 17]."
+        },
+        {
+            "id": 96,
+            "question": "In a certain code language, 'BRAK' is coded as '4938' and 'ARCK' is coded as '2849'. What is the code for 'C' in the given code language?",
+            "options": [
+                "8",
+                "9",
+                "2",
+                "4"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Comparing the codes for BRAK (4938) and ARCK (2849), the letter C corresponds to the code digit 2[cite: 18]."
+        },
+        {
+            "id": 97,
+            "question": "Which of the following letter-number clusters will replace the question mark (?) in the given series to make it logically complete? GDH 66 FCG 61 EBF 56 DAE 51 ?",
+            "options": [
+                "CYC 45",
+                "CAC 46",
+                "CZD 46",
+                "CKT 45"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Analyzing the letter and number progression in the series yields CZD 46 as the next term[cite: 18]."
+        },
+        {
+            "id": 98,
+            "question": "Mr. Yorly starts from Point A and drives 16 km towards South. He then takes a right turn, drives 14 km, turns right and drives 44 km. He then takes a right turn and drives 2 km, turns right drives 15 km. He then takes a left turn drives 21 km. He takes a final right turn, drives 13 km and stops at Point P. How far (shortest distance) and towards which direction should he drive in order to reach Point A again? (All turns are 90 degrees turns only unless specified.)",
+            "options": [
+                "9 km to the West",
+                "11 km to the South",
+                "10 km to the East",
+                "16 km to the North"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Mapping out the driving route step-by-step on a coordinate grid shows that Mr. Yorly needs to travel 9 km to the West to get back to Point A[cite: 18]."
+        },
+        {
+            "id": 99,
+            "question": "Each of the digits in the number 1358274 is arranged in the ascending order from left to right. The position(s) of how many digits will remain unchanged as compared to that in the original number?",
+            "options": [
+                "Three",
+                "One",
+                "Zero",
+                "Two"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Original number: 1358274. In ascending order: 1234578. The digits '1' and '7' remain in their exact original positions, making a total of 2 unchanged digits[cite: 18]."
+        },
+        {
+            "id": 100,
+            "question": "A, B, D, J, O, T and Z are sitting around a circular table facing the center. Only two people sit between O and D when counted from the left of D. J sits third to the left of B. A sits to the immediate right of B. A sits second to the left of O. Z is an immediate neighbor of J. How many people sit between O and Z when counted from the right of O?",
+            "options": [
+                "Two",
+                "One",
+                "Four",
+                "Three"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Placing the individuals around the circular table based on all conditions reveals that exactly one person sits between O and Z when counting from the right of O[cite: 18]."
+        }
+    ]
+}
