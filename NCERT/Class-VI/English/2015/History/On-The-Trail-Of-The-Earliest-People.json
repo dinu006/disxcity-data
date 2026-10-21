@@ -1,5 +1,5 @@
 {
-    "chapter": "What, Where, How and When",
+    "chapter": "On The Trail Of The Earliest People",
     "class": "Class-VI",
     "language": "English",
     "year": "2025",
@@ -7,15 +7,243 @@
     "questions": [
         {
             "id": 1,
-            "question": "Hills in which the rice was first grown is",
+            "question": "About two million years ago people hunted wild animals and survived, we call those people as",
             "options": [
-                "Garo hills",
-                "Vindhyas",
-                "Sulaiman hills",
-                "Kirthar hills"
+                "Farmers",
+                "Traders",
+                "Hunter-gatherers",
+                "Weavers"
+            ],
+            "correctAnswer": 2,
+            "explanation": "People who lived in the subcontinent two million years ago are described as hunter-gatherers because of the way in which they got their food by hunting wild animals, catching fish and birds, and gathering fruits, roots, nuts, seeds, leaves, stalks, and eggs."
+        },
+        {
+            "id": 2,
+            "question": "A river that has water throughout the year is called:",
+            "options": [
+                "Seasonal river",
+                "Perennial river",
+                "Intermittent river",
+                "Ephemeral river"
             ],
             "correctAnswer": 1,
-            "explanation": "According to historical evidence, the earliest places where rice was grown are located to the north of the Vindhyas in central India."
+            "explanation": "Perennial rivers have a continuous flow of water throughout the year because they are typically fed by melting snow from mountains, glaciers, or consistent groundwater sources."
+        },
+        {
+            "id": 3,
+            "question": "A river that has water only in a particular season is called:",
+            "options": [
+                "Tributary",
+                "Distributary",
+                "Perennial river",
+                "Seasonal river"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Rivers that have water only during a particular season (such as the rainy season or monsoon) are called seasonal rivers."
+        },
+        {
+            "id": 4,
+            "question": "In early times, the places where stone was found and where people made tools are known as:",
+            "options": [
+                "Habitation sites",
+                "Invention sites",
+                "Factory sites",
+                "Storage sites"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Places where stone was found and where people made tools are known as factory sites. Archaeologists know this because they often find blocks of stone, chipped pieces, and discarded tools at these locations."
+        },
+        {
+            "id": 5,
+            "question": "Places where people lived for a longer duration of time at ancient factory sites where stones were found to make tools are called:",
+            "options": [
+                "Habitation-cum-factory sites",
+                "Residential sites",
+                "Permanent settlements",
+                "Storage sites"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Places where people lived for a longer duration, which also served as locations where stones were found and tools were made, are known as habitation-cum-factory sites."
+        },
+        {
+            "id": 6,
+            "question": "Bhimbetka is present in which of the following states?",
+            "options": [
+                "Uttar Pradesh",
+                "Rajasthan",
+                "Maharashtra",
+                "Madhya Pradesh"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Bhimbetka is an ancient site with rock shelters and paintings located in the Raisen District of Madhya Pradesh, India."
+        },
+        {
+            "id": 7,
+            "question": "The places where remains of things like tools, pots, and buildings are found are called:",
+            "options": [
+                "Museums",
+                "Sites",
+                "Factories",
+                "Monuments"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sites are the places where the remains of things (tools, pots, buildings, etc.) were made, used, and left behind. These may be found on the surface of the earth, buried under the earth, or sometimes even under water."
+        },
+        {
+            "id": 8,
+            "question": "What are the two main techniques used to make stone tools in ancient times?",
+            "options": [
+                "Casting and Forging",
+                "Molding and Carving",
+                "Stone on stone and Pressure flaking",
+                "Polishing and Painting"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The two primary techniques used for making stone tools were stone on stone (where the pebble was struck against another stone to shape it) and pressure flaking (where the core was placed on a firm surface and a stone/bone on top was pressed to remove flakes)."
+        },
+        {
+            "id": 9,
+            "question": "How is the 'stone on stone' technique defined in the making of stone tools?",
+            "options": [
+                "The core was placed on a firm surface, and a bone or stone was pressed down on it to remove small flakes.",
+                "The pebble from which the tool was to be made was held in one hand, and another stone used as a hammer was struck in the other hand to knock off flakes.",
+                "Stones were melted down using fire and poured into molds to create sharp edges.",
+                "Two large boulders were rubbed together continuously until they created a spark and melted."
+            ],
+            "correctAnswer": 1,
+            "explanation": "In the stone on stone technique, the piece of stone to be shaped (the core) was held in one hand, while another stone was used as a hammer to strike off flakes from it until the desired shape was achieved."
+        },
+        {
+            "id": 10,
+            "question": "How is the pressure flaking technique defined in the making of stone tools?",
+            "options": [
+                "Stones were heated under high pressure until they cracked into sharp, usable blades.",
+                "Two stones were rubbed together under heavy pressure until friction created a smooth surface.",
+                "Molten metal was pressed between two heavy stones to forge a sharp edge.",
+                "The core was placed on a firm surface, and a bone or stone was pressed down on it to remove flakes and shape the tool."
+            ],
+            "correctAnswer": 3,
+            "explanation": "In pressure flaking, the core was placed on a firm surface. A piece of bone or stone was placed on top of the core, and pressure was applied to remove flakes carefully, resulting in finely shaped tools."
+        },
+        {
+            "id": 11,
+            "question": "In which of the following caves were traces of ash found?",
+            "options": [
+                "Kurnool Caves",
+                "Bhimbetka Caves",
+                "Ajanta Caves",
+                "Elephanta Caves"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Traces of ash have been found in the Kurnool caves, indicating that people were familiar with the use of fire for various purposes such as a source of light, to roast meat, and to scare away dangerous animals."
+        },
+        {
+            "id": 12,
+            "question": "The earliest period of time which we study is called:",
+            "options": [
+                "Neolithic",
+                "Chalcolithic",
+                "Paleolithic",
+                "Megalithic"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The earliest period of time is called the Paleolithic period, which extends from two million years ago up to about 12,000 years ago, and is divided into the Lower, Middle, and Upper Paleolithic."
+        },
+        {
+            "id": 13,
+            "question": "Paleolithic comes from two Greek words, 'palaios' and 'lithos', which mean:",
+            "options": [
+                "New and stone",
+                "Middle and rock",
+                "Early and metal",
+                "Old and stone"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The term 'Paleolithic' comes from two Greek words: 'palaios', meaning old, and 'lithos', meaning stone. The name points to the importance of finds of stone tools."
+        },
+        {
+            "id": 14,
+            "question": "The time duration between 12,000 years ago and 10,000 years ago is called:",
+            "options": [
+                "Paleolithic period",
+                "Mesolithic period",
+                "Neolithic period",
+                "Chalcolithic period"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The period beginning about 12,000 years ago till about 10,000 years ago is called the Mesolithic (middle stone) period. Stone tools found during this time are generally very small and are known as microliths."
+        },
+        {
+            "id": 15,
+            "question": "What does the word 'Mesolithic' mean?",
+            "options": [
+                "New Stone",
+                "Old Stone",
+                "Middle Stone",
+                "First Metal"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The word 'Mesolithic' comes from Greek roots where 'meso' means middle and 'lithos' means stone, together translating to the Middle Stone period."
+        },
+        {
+            "id": 16,
+            "question": "The stone tools found during the Mesolithic period are typically called:",
+            "options": [
+                "Microliths",
+                "Macroliths",
+                "Monoliths",
+                "Megaliths"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Stone tools found during the Mesolithic period are generally very small and are known as microliths. These were probably stuck on handles of bone or wood to make tools such as saws and sickles."
+        },
+        {
+            "id": 17,
+            "question": "The period starting from about 10,000 years ago is called:",
+            "options": [
+                "Paleolithic period",
+                "Mesolithic period",
+                "Chalcolithic period",
+                "Neolithic period"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The period starting from about 10,000 years ago is called the Neolithic period, which translates to the 'New Stone' age."
+        },
+        {
+            "id": 18,
+            "question": "Large quantities of ostrich eggshells were found at which Paleolithic site in India?",
+            "options": [
+                "Hunsgi in Karnataka",
+                "Patne in Maharashtra",
+                "Bhimbetka in Madhya Pradesh",
+                "Kurnool in Andhra Pradesh"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Large quantities of ostrich eggshells were found at Patne in Maharashtra during the Upper Paleolithic period. Designs were sometimes engraved on these eggshells, and beads were also made from them."
+        },
+        {
+            "id": 19,
+            "question": "Grasslands developed around how many years ago?",
+            "options": [
+                "About 2 million years ago",
+                "About 10,000 years ago",
+                "About 12,000 years ago",
+                "About 5,000 years ago"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Major changes in the world's climate around 12,000 years ago led to the development of grasslands in many areas, which in turn led to an increase in the number of animals that survived on grass, such as deer, antelope, goat, sheep, and cattle."
+        },
+        {
+            "id": 20,
+            "question": "At the Paleolithic site of Hunsgi, tools were primarily made up of what material?",
+            "options": [
+                "Granite",
+                "Sandstone",
+                "Basalt",
+                "Limestone"
+            ],
+            "correctAnswer": 3,
+            "explanation": "At Hunsgi, a large number of tools were made from limestone, which was locally available in the area."
         }
     ]
 }
