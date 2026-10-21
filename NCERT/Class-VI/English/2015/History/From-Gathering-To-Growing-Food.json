@@ -1,0 +1,213 @@
+{
+    "chapter": "From Gathering to Growing Food",
+    "class": "Class-VI",
+    "language": "English",
+    "year": "2025",
+    "subject": "History",
+    "questions": [
+        {
+            "id": 1,
+            "question": "The process in which people grow plants and look after animals is called",
+            "options": [
+                "Horticulture",
+                "Apiculture",
+                "Agriculture",
+                "Pisciculture"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Agriculture is the science and art of cultivating plants and raising livestock."
+        },
+        {
+            "id": 2,
+            "question": "The first animal to be tamed was",
+            "options": [
+                "Sheep",
+                "Horse",
+                "Dog",
+                "Goat"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The dog was the first animal to be domesticated by humans, having descended from an extinct species of wolf."
+        },
+        {
+            "id": 3,
+            "question": "The first two crops which was domesticated is",
+            "options": [
+                "Rice and Wheat",
+                "Maize and Rice",
+                "Barley and Millet",
+                "Wheat and Barley"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Wheat and barley were among the first crops to be domesticated in the Fertile Crescent region around 10,000 to 11,000 years ago."
+        },
+        {
+            "id": 4,
+            "question": "The first two animals which were domesticated was",
+            "options": [
+                "Dog and Sheep",
+                "Dog and Goat",
+                "Sheep and Goat",
+                "Cattle and Horse"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Dogs were the earliest animals to be domesticated, followed closely by sheep and goats during the early Neolithic period."
+        },
+        {
+            "id": 5,
+            "question": "About how many years ago did the domestication of animals and plants start?",
+            "options": [
+                "About 5,000 years ago",
+                "About 12,000 years ago",
+                "About 8,000 years ago",
+                "About 20,000 years ago"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The domestication of plants and animals began roughly 12,000 years ago (around 10,000 BCE) with the beginning of the Neolithic Revolution."
+        },
+        {
+            "id": 6,
+            "question": "Mehrgarh is present in day",
+            "options": [
+                "India",
+                "Bangladesh",
+                "Afghanistan",
+                "Pakistan"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Mehrgarh is a significant Neolithic site located in the Balochistan province of present-day Pakistan, lying on the Kacchi Plain near the Bolan Pass."
+        },
+        {
+            "id": 7,
+            "question": "Koldihwa is in present day",
+            "options": [
+                "Madhya Pradesh",
+                "Uttar Pradesh",
+                "Bihar",
+                "Rajasthan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Koldihwa is an important archaeological site belonging to the Neolithic and Chalcolithic periods, located in the present-day state of Uttar Pradesh, India."
+        },
+        {
+            "id": 8,
+            "question": "Mahagara is in present day",
+            "options": [
+                "Bihar",
+                "Rajasthan",
+                "Uttar Pradesh",
+                "Madhya Pradesh"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Mahagara is an important Neolithic archaeological site located in the Prayagraj district of Uttar Pradesh, India, near the Belan River valley."
+        },
+        {
+            "id": 9,
+            "question": "Gufkral is in present day",
+            "options": [
+                "Uttarakhand",
+                "Jammu and Kashmir",
+                "Himachal Pradesh",
+                "Punjab"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Gufkral is an important Neolithic archaeological site located in the Tral area of the Pulwama district in Jammu and Kashmir, India."
+        },
+        {
+            "id": 10,
+            "question": "Burzahom is in present day",
+            "options": [
+                "Uttarakhand",
+                "Himachal Pradesh",
+                "Ladakh",
+                "Jammu and Kashmir"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Burzahom is a prominent Neolithic archaeological site located in the Srinagar district of Jammu and Kashmir, India, known for its unique pit dwellings."
+        },
+        {
+            "id": 11,
+            "question": "Chirand is in present day",
+            "options": [
+                "Jharkhand",
+                "Bihar",
+                "West Bengal",
+                "Odisha"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chirand is an important Neolithic archaeological site located in the Saran district of Bihar, India, situated on the banks of the Ghaghra River."
+        },
+        {
+            "id": 12,
+            "question": "Hallur is in present day",
+            "options": [
+                "Andhra Pradesh",
+                "Tamil Nadu",
+                "Karnataka",
+                "Kerala"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Hallur is an important Neolithic and Iron Age archaeological site located in the Haveri district of Karnataka, India."
+        },
+        {
+            "id": 13,
+            "question": "Paiyampalli is in present day",
+            "options": [
+                "Karnataka",
+                "Kerala",
+                "Andhra Pradesh",
+                "Tamil Nadu"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Paiyampalli is an important Neolithic and Iron Age archaeological site located in the Tirupattur district (formerly part of Vellore district) of Tamil Nadu, India."
+        },
+        {
+            "id": 14,
+            "question": "In early times, groups of herders and farmers living together were called",
+            "options": [
+                "Guilds",
+                "Tribes",
+                "Kingdoms",
+                "Empires"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In early times, people lived in groups such as tribes, which typically consisted of families and communities sharing common customs, occupations like farming and herding, and living in villages."
+        },
+        {
+            "id": 15,
+            "question": "Daojali Hading is in present day",
+            "options": [
+                "Meghalaya",
+                "Arunachal Pradesh",
+                "Assam",
+                "Nagaland"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Daojali Hading is an important Neolithic site located in the Dima Hasao district (formerly North Cachar Hills) of Assam, India, known for its polished stone tools and jadeite."
+        },
+        {
+            "id": 16,
+            "question": "The place Çatalhöyük was found in which country?",
+            "options": [
+                "Iraq",
+                "Turkey",
+                "Iran",
+                "Greece"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Çatalhöyük is a very large Neolithic and Chalcolithic settlement located in southern Anatolia in present-day Turkey."
+        },
+        {
+            "id": 17,
+            "question": "What things were found in Çatalhöyük?",
+            "options": [
+                "Iron tools and gold coins",
+                "Silk garments and porcelain pottery",
+                "Flint from Syria, shells from the Red Sea, and cowries from the Mediterranean",
+                "Bronze statues and written clay tablets"
+            ],
+            "correctAnswer": 2,
+            "explanation": "At Çatalhöyük, archaeologists found many items that were brought from other places, such as flint from Syria, cowries from the Red Sea, and shells from the Mediterranean, showing early long-distance trade."
+        }
+    ]
+}
