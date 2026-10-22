@@ -1,0 +1,285 @@
+{
+    "chapter": "What Books and Burials Tell Us",
+    "class": "Class-VI",
+    "language": "English",
+    "year": "2025",
+    "subject": "History",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which is the oldest Veda?",
+            "options": [
+                "Samaveda",
+                "Rigveda",
+                "Yajurveda",
+                "Atharvaveda"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Rigveda is considered the oldest of the four Vedas and is one of the oldest extant texts in any Indo-Iranian language."
+        },
+        {
+            "id": 2,
+            "question": "What are the four Vedas?",
+            "options": [
+                "Rigveda, Upanishads, Aranyakas, Puranas",
+                "Itihasa, Purana, Tantra, Agama",
+                "Rigveda, Samaveda, Yajurveda, Atharvaveda",
+                "Vedanga, Upaveda, Smriti, Shruti"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The four primary sacred canonical texts of Hinduism are the Rigveda, Samaveda, Yajurveda, and Atharvaveda."
+        },
+        {
+            "id": 3,
+            "question": "Approximately how old are the Vedas?",
+            "options": [
+                "Around 1500 BCE to 500 BCE",
+                "Around 500 BCE to 100 BCE",
+                "Around 3000 BCE to 2000 BCE",
+                "Around 500 CE to 1000 CE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Vedic period is generally estimated to span from roughly 1500 BCE to 500 BCE, with the oldest texts like the Rigveda composed during the early part of this period."
+        },
+        {
+            "id": 4,
+            "question": "The Rigveda includes more than a thousand hymns called:",
+            "options": [
+                "Mantras",
+                "Slokas",
+                "Stotras",
+                "Suktas"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The Rigveda consists of collections of hymns known as Suktas, which translates to 'well-said' or hymn."
+        },
+        {
+            "id": 5,
+            "question": "The Vedas feature hymns dedicated to several principal deities. Which of the following was NOT among the three primary gods frequently invoked in early Vedic hymns?",
+            "options": [
+                "Ganesha",
+                "Agni",
+                "Indra",
+                "Soma"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Ganesha is a later Puranic deity and was not part of the primary triad of gods (Agni, Indra, and Surya/Soma) prominently featured in the early Vedic hymns."
+        },
+        {
+            "id": 6,
+            "question": "According to tradition, by whom were the Vedas composed?",
+            "options": [
+                "Sages and Rishis",
+                "Kings and Emperors",
+                "Ancient Merchants",
+                "Foreign Invaders"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Vedas were composed by ancient seers, known as Rishis (sages), who heard or perceived the hymns through divine revelation."
+        },
+        {
+            "id": 7,
+            "question": "Sanskrit is a language which is a part of which family of languages?",
+            "options": [
+                "Dravidian",
+                "Indo-European",
+                "Austroasiatic",
+                "Sino-Tibetan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sanskrit belongs to the Indo-European family of languages, sharing common historical roots with many European and Asian languages."
+        },
+        {
+            "id": 8,
+            "question": "The languages spoken in Northeast India mainly belong to which family of languages?",
+            "options": [
+                "Indo-Aryan",
+                "Dravidian",
+                "Austroasiatic",
+                "Tibeto-Burman"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Most languages spoken in Northeast India belong to the Tibeto-Burman branch of the Sino-Tibetan language family, alongside other families like Indo-Aryan (e.g., Assamese) and Austroasiatic (e.g., Khasi)."
+        },
+        {
+            "id": 9,
+            "question": "The languages spoken in the southern part of India belong to which family of languages?",
+            "options": [
+                "Dravidian",
+                "Indo-European",
+                "Austroasiatic",
+                "Sino-Tibetan"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The major languages spoken in Southern India (such as Tamil, Telugu, Kannada, and Malayalam) belong to the Dravidian family of languages."
+        },
+        {
+            "id": 10,
+            "question": "The languages spoken in Jharkhand and parts of central India belong to which family of languages?",
+            "options": [
+                "Austroasiatic",
+                "Dravidian",
+                "Tibeto-Burman",
+                "Sino-Tibetan"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Languages spoken by indigenous communities in Jharkhand and central India, such as Mundari and Santali, belong to the Austroasiatic (specifically Munda) family of languages."
+        },
+        {
+            "id": 11,
+            "question": "Which rivers are prominently mentioned and praised in the Rigveda?",
+            "options": [
+                "Indus and its tributaries, along with the Sarasvati",
+                "Ganga and Yamuna",
+                "Narmada and Tapti",
+                "Brahmaputra and Mekong"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Rigveda frequently mentions the Indus (Sindhu) and its five tributaries (Jhelum, Chenab, Ravi, Beas, and Sutlej), as well as the sacred Sarasvati River, particularly in the Nadistuti Sukta (Hymn of the Rivers)."
+        },
+        {
+            "id": 12,
+            "question": "In the Rigveda, there is a famous hymn that contains a dialogue between the sage Vishwamitra and which two rivers?",
+            "options": [
+                "Ganga and Yamuna",
+                "Indus and Sarasvati",
+                "Beas and Sutlej",
+                "Ravi and Chenab"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A famous hymn in the Rigveda features a dialogue between the sage Vishwamitra and two rivers, Beas (Vipasha) and Sutlej (Shutudri), who are worshipped as goddesses."
+        },
+        {
+            "id": 13,
+            "question": "What were the slaves or servants captured in battles during the Vedic period referred to as?",
+            "options": [
+                "Shudras",
+                "Aryas",
+                "Brahmins",
+                "Dasas (or Dasyus)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "In the Rigveda, people who did not perform sacrifices or speak the same language were often referred to as Dasas or Dasyus. Over time, many of them were captured and used as domestic or agricultural laborers, effectively serving as slaves."
+        },
+        {
+            "id": 14,
+            "question": "What were the people who performed religious rituals and sacrifices in the Vedic society called?",
+            "options": [
+                "Kshatriyas",
+                "Brahmins",
+                "Vaishyas",
+                "Shudras"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Brahmins were the priestly class in the Vedic varna system responsible for performing sacrifices, reciting hymns, and conducting religious rituals."
+        },
+        {
+            "id": 15,
+            "question": "What were the people or warrior class in the Vedic society who went to wars called?",
+            "options": [
+                "Brahmins",
+                "Vaishyas",
+                "Kshatriyas",
+                "Shudras"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Kshatriyas (also referred to as Rajanyas) were the warrior and ruling class in the Vedic social structure whose duty included protecting the community and fighting in wars."
+        },
+        {
+            "id": 16,
+            "question": "What were big stone structures known as megaliths primarily used for in ancient times?",
+            "options": [
+                "To build palaces for kings",
+                "To construct ancient irrigation dams",
+                "As boundary pillars for kingdoms",
+                "To mark burial sites"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Megaliths ('big stones') were carefully arranged by people in ancient times primarily to mark burial sites, serving as monuments or memorials for the dead."
+        },
+        {
+            "id": 17,
+            "question": "What is a megalithic burial structure that features stone slabs (cists) with a port-hole or opening used as an entrance called?",
+            "options": [
+                "Dolmen / Port-hole cist",
+                "Menhir",
+                "Tumulus",
+                "Alignment"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A port-hole cist is a type of megalithic burial chamber made with stone slabs where one of the slabs features a circular opening or port-hole, which may have served as an entrance or a symbolic passage for the spirit."
+        },
+        {
+            "id": 18,
+            "question": "In megalithic burials, the dead were often buried with distinctive types of pottery. What are these characteristic black and red pottery vessels commonly called?",
+            "options": [
+                "Painted Grey Ware (PGW)",
+                "Black and Red Ware (BRW)",
+                "Northern Black Polished Ware (NBPW)",
+                "Rouletted Ware"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Black and Red Ware (BRW) is a characteristic pottery type commonly found buried alongside the dead in megalithic sites across India."
+        },
+        {
+            "id": 19,
+            "question": "What does a grave found at Brahmagiri containing 33 gold beads, 2 stone beads, 4 copper bangles, and a conch shell indicate about the society?",
+            "options": [
+                "Complete social and economic equality among all people",
+                "A society where only women were buried with ornaments",
+                "Social differences or economic inequality among people",
+                "A culture that completely rejected metalworking"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The presence of rich burial goods like gold beads and copper bangles in some graves compared to others with very few items indicates social and economic differentiation, showing that some individuals were richer or more important than others."
+        },
+        {
+            "id": 20,
+            "question": "The archaeological site of Inamgaon is located on the banks of which river?",
+            "options": [
+                "Godavari",
+                "Narmada",
+                "Bhima",
+                "Krishna"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Inamgaon is a post-Harappan archaeological site located along the banks of the Ghod River, which is a tributary of the Bhima River in Maharashtra."
+        },
+        {
+            "id": 21,
+            "question": "The river on which Inamgaon is situated is a tributary of which major river?",
+            "options": [
+                "Krishna",
+                "Godavari",
+                "Tapti",
+                "Bhima"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Inamgaon is located on the banks of the Ghod River, which is a tributary of the Bhima River (itself a major tributary of the Krishna River)."
+        },
+        {
+            "id": 22,
+            "question": "Who was the ancient physician who wrote a medical text named after him and stated that there are 360 bones in the human body?",
+            "options": [
+                "Charaka",
+                "Sushruta",
+                "Dhanvantari",
+                "Jivaka"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sushruta, an ancient Indian physician who composed the Sushruta Samhita around 2500 years ago, counted around 360 bones in the human body (which included counting cartilage and smaller subdivisions)."
+        },
+        {
+            "id": 23,
+            "question": "What are the ancient inscriptions found on animal bones and tortoise shells in China from about 3500 years ago called?",
+            "options": [
+                "Mandarin tablets",
+                "Shang scrolls",
+                "Oracle bones",
+                "Dynasty steles"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Oracle bones were used in ancient China during the Shang dynasty for divination; questions about the future were carved into turtle shells or animal bones, which were then heated until they cracked, and the cracks were interpreted by priests."
+        }
+    ]
+}

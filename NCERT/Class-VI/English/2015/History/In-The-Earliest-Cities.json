@@ -9,12 +9,12 @@
             "id": 1,
             "question": "During the laying of railway lines in Punjab about 150 years ago, from which ancient site did people carry away thousands of bricks?",
             "options": [
-                "Lothal",
                 "Harappa",
+                "Lothal",
                 "Kalibangan",
                 "Dholavira"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "When railway lines were being laid down in Punjab about 150 years ago, railway engineers and locals stumbled upon Harappa and took away thousands of bricks from the ancient site's buildings to build railway tracks."
         },
         {
@@ -23,10 +23,10 @@
             "options": [
                 "About 1,500 years old",
                 "About 2,500 years old",
-                "About 4,700 years old",
-                "About 7,000 years old"
+                "About 7,000 years old",
+                "About 4,700 years old"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "Harappa is one of the oldest cities of the Indus Valley Civilization, which flourished approximately 4,700 years ago."
         },
         {
@@ -34,11 +34,11 @@
             "question": "What is the smaller, higher part located on the west side of Harappan cities typically described as?",
             "options": [
                 "Lower town",
-                "Citadel",
                 "Residential area",
+                "Citadel",
                 "Granary"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "In many Harappan cities, the part to the west was smaller but higher and is described by archaeologists as the citadel."
         },
         {
@@ -47,10 +47,10 @@
             "options": [
                 "Citadel",
                 "Upper town",
-                "Lower town",
-                "Acropolis"
+                "Acropolis",
+                "Lower town"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "The part to the east was larger but lower, and archaeologists describe this area as the lower town."
         },
         {
@@ -58,11 +58,11 @@
             "question": "In which ancient Harappan city was the famous structure known as the Great Bath found?",
             "options": [
                 "Harappa",
-                "Mohenjo-daro",
                 "Kalibangan",
+                "Mohenjo-daro",
                 "Lothal"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "The Great Bath was a special tank built in Mohenjo-daro, lined with bricks, coated with tar, and used for ritual bathing by important people on special occasions."
         },
         {
@@ -70,11 +70,11 @@
             "question": "Fire altars were found in which two ancient Harappan cities?",
             "options": [
                 "Harappa and Mohenjo-daro",
-                "Kalibangan and Lothal",
                 "Dholavira and Banawali",
+                "Kalibangan and Lothal",
                 "Chanhudaro and Ropar"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Fire altars have been discovered in cities such as Kalibangan and Lothal, where sacrifices may have been performed."
         },
         {
@@ -82,11 +82,11 @@
             "question": "In which ancient city was the famous stone statue of a man wearing an embroidered garment found?",
             "options": [
                 "Harappa",
-                "Mohenjo-daro",
                 "Lothal",
+                "Mohenjo-daro",
                 "Dholavira"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "The statue of a man wearing an embroidered cloak or cloth was discovered in Mohenjo-daro."
         },
         {
@@ -94,11 +94,11 @@
             "question": "Unlike gold, silver, copper, and bronze which occur naturally or are mined, which material was artificially produced in Harappan times to make beads, bangles, earrings, and tiny vessels?",
             "options": [
                 "Terracotta",
-                "Faience",
                 "Obsidian",
+                "Faience",
                 "Bakelite"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "While stone and shell occur naturally, faience was a material that was artificially produced. A gum was used to shape sand or powdered quartz, and the objects were then glazed to yield a shiny, glassy surface, usually in blue or sea green."
         },
         {
@@ -106,11 +106,11 @@
             "question": "What is the correct definition of terracotta?",
             "options": [
                 "A type of artificially glazed glass or stone bead used for making jewelry",
-                "A fired or baked clay material used to make pottery, figurines, and bricks",
                 "A natural metal alloy made by mixing copper and tin",
+                "A fired or baked clay material used to make pottery, figurines, and bricks",
                 "A precious stone imported from distant lands for ornamentation"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 2,
             "explanation": "Terracotta refers to baked or fired clay (meaning 'baked earth' in Italian). In archaeological contexts, it is commonly used to describe pottery, tiles, and figurines made from this hardened clay material."
         },
         {
@@ -119,10 +119,10 @@
             "options": [
                 "Bet Dwarka",
                 "Khetri",
-                "Khadir Beyt in the Rann of Kutch",
-                "Lothal Island"
+                "Lothal Island",
+                "Khadir Beyt in the Rann of Kutch"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "Dholavira was located on Khadir Beyt in the Rann of Kutch, where there was fresh water and fertile soil, unlike many other Harappan cities that were located near river valleys."
         },
         {
@@ -143,22 +143,22 @@
             "options": [
                 "Harappa",
                 "Mohenjo-daro",
-                "Lothal",
-                "Dholavira"
+                "Dholavira",
+                "Lothal"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "Lothal stood beside a tributary of the Sabarmati, in Gujarat, close to the Gulf of Khambhat. It had a massive dockyard where boats and ships came in from the sea and through river channels, serving as an important center for trading stones, shells, and metals."
         },
         {
             "id": 13,
             "question": "The ancient Harappan city of Lothal is located in which present-day Indian state?",
             "options": [
-                "Rajasthan",
                 "Gujarat",
+                "Rajasthan",
                 "Punjab",
                 "Haryana"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 0,
             "explanation": "Lothal is located in the western Indian state of Gujarat, close to the Gulf of Khambhat, where it served as a major coastal trading and manufacturing center."
         },
         {
@@ -166,11 +166,11 @@
             "question": "The city of Lothal stood beside a tributary of the Sabarmati in Gujarat, close to which body of water?",
             "options": [
                 "Gulf of Kutch",
-                "Gulf of Khambhat",
                 "Arabian Sea",
-                "Palk Strait"
+                "Palk Strait",
+                "Gulf of Khambhat"
             ],
-            "correctAnswer": 1,
+            "correctAnswer": 3,
             "explanation": "Lothal was situated close to the Gulf of Khambhat in Gujarat, along a tributary of the Sabarmati river, which made it an ideal location for a port and maritime trade."
         },
         {
@@ -179,34 +179,34 @@
             "options": [
                 "Amazon River",
                 "Tigris River",
-                "Nile River",
-                "Indus River"
+                "Indus River",
+                "Nile River"
             ],
-            "correctAnswer": 2,
+            "correctAnswer": 3,
             "explanation": "Most of Egypt is dry desert, except for the green, fertile strip of land that lies along the banks of the Nile River, which supported ancient Egyptian civilization."
         },
         {
             "id": 16,
             "question": "What are the huge tombs built by the kings of ancient Egypt known as?",
             "options": [
-                "Pyramids",
                 "Ziggurats",
+                "Pyramids",
                 "Citadels",
                 "Stupas"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 1,
             "explanation": "In Egypt, kings ruled and sent armies to distant lands to get gold, silver, ivory, precious stones, and timber. They built huge tombs known as pyramids, where they stored vast amounts of wealth, food, weapons, and clothes for use in the afterlife."
         },
         {
             "id": 17,
             "question": "What are the preserved dead bodies of royalty and other individuals found in the pyramids of ancient Egypt called?",
             "options": [
-                "Mummies",
                 "Fossils",
                 "Relics",
-                "Statues"
+                "Statues",
+                "Mummies"
             ],
-            "correctAnswer": 0,
+            "correctAnswer": 3,
             "explanation": "The kings of ancient Egypt were buried in huge tombs called pyramids, and their bodies were preserved through a special process. These preserved bodies are known as mummies."
         }
     ]
