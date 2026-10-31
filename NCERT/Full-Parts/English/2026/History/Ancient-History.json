@@ -205,7 +205,54 @@
     "correctAnswer": 0,
     "explanation": "Georg Wilhelm Friedrich Hegel was born on August 27, 1770, and died on November 14, 1831."
 },
-
+{
+    "id": 17,
+    "question": "Who famously said that history repeats itself, and who extended it by stating that it happens 'first as tragedy, second as farce'?",
+    "options": [
+        "Karl Marx said both parts",
+        "Georg Wilhelm Friedrich Hegel said history repeats itself, and Karl Marx extended it",
+        "Herodotus said history repeats itself, and Thucydides extended it",
+        "Leopold von Ranke said both parts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Georg Wilhelm Friedrich Hegel remarked that history repeats itself, and Karl Marx famously extended this in his 1852 work 'The Eighteenth Brumaire of Louis Napoleon', adding, '...the first time as tragedy, the second as farce'."
+},
+{
+    "id": 18,
+    "question": "What was the lifespan of Karl Marx?",
+    "options": [
+        "May 5, 1818 – March 14, 1883",
+        "April 10, 1820 – February 20, 1890",
+        "May 5, 1812 – March 14, 1875",
+        "June 15, 1825 – January 10, 1895"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Karl Marx was born on May 5, 1818, and died on March 14, 1883, living to the age of 64."
+},
+{
+    "id": 19,
+    "question": "Who defined history as 'a continuous process of interaction between the historian and his facts, an unending dialogue between the present and the past'?",
+    "options": [
+        "Arnold J. Toynbee",
+        "E. H. Carr",
+        "R. G. Collingwood",
+        "Marc Bloch"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Edward Hallett (E. H. Carr), a British historian and diplomat, famously defined history in his 1961 book 'What is History?' as an unending dialogue between the present and the past."
+},
+{
+    "id": 20,
+    "question": "What was the lifespan of the British historian E. H. Carr?",
+    "options": [
+        "1888 – 1976",
+        "1892 – 1982",
+        "1901 – 1990",
+        "1875 – 1965"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Edward Hallett Carr was born on June 28, 1892, and died on November 3, 1982."
+},
 {
     "id": 21,
     "question": "In history, what is the full form of BC and what does it mean?",
