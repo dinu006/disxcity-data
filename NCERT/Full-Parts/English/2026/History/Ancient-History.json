@@ -429,7 +429,18 @@
     "correctAnswer": 2,
     "explanation": "A period of one hundred years is called a century, which serves as a major building block for organizing historical eras and timelines."
 },
-
+{
+    "id": 36,
+    "question": "What is the historical term used to describe a period of one thousand years?",
+    "options": [
+        "Century",
+        "Decade",
+        "Millennium",
+        "Epoch"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A period of one thousand years is called a millennium, which is used in history and archaeology to categorize vast spans of human development, civilizations, and geological or historical eras."
+},
 {
     "id": 37,
     "question": "What term is used in history when the exact date of an event is not known or can only be approximated within a certain range?",
