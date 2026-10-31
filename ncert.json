@@ -169,19 +169,21 @@
         {
           "name":"Magnetic Effects of Electric Current",
           "file": "NCERT/Class-X/English/2026/Science/Magnetic-Effects-Of-Electric-Current.json"
-        },
-         {
-      "class": "Full Parts",
-      "language": "Hindi",
-      "year": "2025",
-      "subject": "Science",
-      "chapters": [
-        {
-          "name": "Full Ancient History",
-          "file": "NCERT/Full-Parts/English/2026/History/Ancient-History.json"
         }
       ]
-    }
+    },
+
+    
+    {
+      "class": "Full-Parts",
+      "language": "English",
+      "year": "2026",
+      "subject": "History",
+      "chapters": [
+        {
+          "name": "Chemical Reactions and Equation",
+          "file": "NCERT/Full-Parts/English/2026/History/Ancient-History.json"
+        }
       ]
     }
   ]
