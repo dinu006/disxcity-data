@@ -366,105 +366,268 @@
             "explanation": "A decade is a period of ten years, commonly used in history and chronology to group and analyze historical events, trends, and eras."
         },
         {
-    "id": 31,
-    "question": "What is the historical term used to describe a period of twenty-five years, which is one-fourth of a century?",
-    "options": [
-        "Century",
-        "Millennium",
-        "Decade",
-        "Quarter-century"
-    ],
-    "correctAnswer": 3,
-    "explanation": "A period of twenty-five years is referred to as a quarter-century, often used to mark significant milestones or intervals in history, such as silver jubilees."
-},
-
-{
-    "id": 32,
-    "question": "What is the historical term used to describe a period of fifty years, or half of a century?",
-    "options": [
-        "Century",
-        "Half-century",
-        "Decade",
-        "Millennium"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A period of fifty years is called a half-century (or semi-century), frequently celebrated or commemorated as a golden jubilee."
-},
-
-{
-    "id": 33,
-    "question": "What is the specific chronological term for the first fifty-year period of a century (from the 1st year to the 50th year)?",
-    "options": [
-        "The first half-century",
-        "The first decade",
-        "The early millennium",
-        "The foundational epoch"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The first fifty years of any century—spanning from year 1 through year 50—is referred to as the first half-century of that century."
-},
-
-{
-    "id": 34,
-    "question": "What is the specific chronological term for the second fifty-year period of a century (from the 51st year to the 100th year)?",
-    "options": [
-        "The second half-century",
-        "The final decade",
-        "The late millennium",
-        "The concluding epoch"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The second fifty years of any century—spanning from year 51 through year 100—is referred to as the second half-century of that century."
-},
-
-{
-    "id": 35,
-    "question": "What is the historical term used to describe a period of one hundred years?",
-    "options": [
-        "Millennium",
-        "Decade",
-        "Century",
-        "Epoch"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A period of one hundred years is called a century, which serves as a major building block for organizing historical eras and timelines."
-},
-{
-    "id": 36,
-    "question": "What is the historical term used to describe a period of one thousand years?",
-    "options": [
-        "Century",
-        "Decade",
-        "Millennium",
-        "Epoch"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A period of one thousand years is called a millennium, which is used in history and archaeology to categorize vast spans of human development, civilizations, and geological or historical eras."
-},
-{
-    "id": 37,
-    "question": "What term is used in history when the exact date of an event is not known or can only be approximated within a certain range?",
-    "options": [
-        "Circa (c. or ca.)",
-        "Anachronism",
-        "Post-dating",
-        "Epoch"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The Latin word 'circa' (meaning 'around' or 'about', often abbreviated as c. or ca.) is used in historical and archaeological dating when the exact year or date of an event is not precisely known."
-},
-
-{
-    "id": 38,
-    "question": "What time span does the fifth decade of the 21st century refer to?",
-    "options": [
-        "2040 to 2049",
-        "2050 to 2059",
-        "2041 to 2050",
-        "2000 to 2009"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The 21st century spans from January 1, 2001, to December 31, 2100. Its fifth decade covers the years from 2040 to 2049 (the first decade being 2001–2010, the second 2011–2020, the third 2021–2030, the fourth 2031–2040, and the fifth 2041–2050 by strict counting, or simply 2040 to 2049 when grouped by tens starting from 2000)."
-}
+            "id": 31,
+            "question": "What is the historical term used to describe a period of twenty-five years, which is one-fourth of a century?",
+            "options": [
+                "Century",
+                "Millennium",
+                "Decade",
+                "Quarter-century"
+            ],
+            "correctAnswer": 3,
+            "explanation": "A period of twenty-five years is referred to as a quarter-century, often used to mark significant milestones or intervals in history, such as silver jubilees."
+        },
+        {
+            "id": 32,
+            "question": "What is the historical term used to describe a period of fifty years, or half of a century?",
+            "options": [
+                "Century",
+                "Half-century",
+                "Decade",
+                "Millennium"
+            ],
+            "correctAnswer": 1,
+            "explanation": "A period of fifty years is called a half-century (or semi-century), frequently celebrated or commemorated as a golden jubilee."
+        },
+        {
+            "id": 33,
+            "question": "What is the specific chronological term for the first fifty-year period of a century (from the 1st year to the 50th year)?",
+            "options": [
+                "The first half-century",
+                "The first decade",
+                "The early millennium",
+                "The foundational epoch"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The first fifty years of any century—spanning from year 1 through year 50—is referred to as the first half-century of that century."
+        },
+        {
+            "id": 34,
+            "question": "What is the specific chronological term for the second fifty-year period of a century (from the 51st year to the 100th year)?",
+            "options": [
+                "The second half-century",
+                "The final decade",
+                "The late millennium",
+                "The concluding epoch"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The second fifty years of any century—spanning from year 51 through year 100—is referred to as the second half-century of that century."
+        },
+        {
+            "id": 35,
+            "question": "What is the historical term used to describe a period of one hundred years?",
+            "options": [
+                "Millennium",
+                "Decade",
+                "Century",
+                "Epoch"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A period of one hundred years is called a century, which serves as a major building block for organizing historical eras and timelines."
+        },
+        {
+            "id": 36,
+            "question": "What is the historical term used to describe a period of one thousand years?",
+            "options": [
+                "Century",
+                "Decade",
+                "Millennium",
+                "Epoch"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A period of one thousand years is called a millennium, which is used in history and archaeology to categorize vast spans of human development, civilizations, and geological or historical eras."
+        },
+        {
+            "id": 37,
+            "question": "What term is used in history when the exact date of an event is not known or can only be approximated within a certain range?",
+            "options": [
+                "Circa (c. or ca.)",
+                "Anachronism",
+                "Post-dating",
+                "Epoch"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Latin word 'circa' (meaning 'around' or 'about', often abbreviated as c. or ca.) is used in historical and archaeological dating when the exact year or date of an event is not precisely known."
+        },
+        {
+            "id": 38,
+            "question": "What time span does the fifth decade of the 21st century refer to?",
+            "options": [
+                "2040 to 2049",
+                "2050 to 2059",
+                "2041 to 2050",
+                "2000 to 2009"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The 21st century spans from January 1, 2001, to December 31, 2100. Its fifth decade covers the years from 2040 to 2049 (the first decade being 2001–2010, the second 2011–2020, the third 2021–2030, the fourth 2031–2040, and the fifth 2041–2050 by strict counting, or simply 2040 to 2049 when grouped by tens starting from 2000)."
+        },
+        {
+            "id": 39,
+            "question": "What is the name of the era that began 20 years after the end of the Mahabharata war, and from which year is it reckoned to have started?",
+            "options": [
+                "Kali Yuga, reckoned from 3101/3102 BCE",
+                "Saka Era, reckoned from 78 CE",
+                "Vikram Samvat, reckoned from 57 BCE",
+                "Gupta Era, reckoned from 320 CE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to ancient Indian astronomical traditions and texts like the Puranas, the Kali Yuga began 3102 BCE (specifically at midnight between February 17 and 18, 3102 BCE), which is traditionally calculated to be 36 years after the Mahabharata war or marking the start of the new age following the events of the epic."
+        },
+        {
+            "id": 40,
+            "question": "Which era started after the expiry of 25 Kali years, what is its name, and from which year is it reckoned?",
+            "options": [
+                "Saptarshi Era (or Laukika Era), reckoned from 3076/3077 BCE",
+                "Vikram Samvat, reckoned from 57 BCE",
+                "Saka Era, reckoned from 78 CE",
+                "Gupta Era, reckoned from 320 CE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Saptarshi (or Laukika) Era is an ancient chronological system used in parts of India, particularly Kashmir. Since the Kali Yuga epoch began in 3102 BCE, the expiry or completion of 25 Kali years brings us to 3076 BCE ($3102 - 25 = 3077$, with the era starting at the completion/expiry of the 25th year in 3076 BCE)."
+        },
+        {
+            "id": 41,
+            "question": "The era commemorated to mark the Parinirvana (death/salvation) of Gautama Buddha is known by which name and is reckoned from which year?",
+            "options": [
+                "Buddha Nirvana Era, reckoned from 543 BCE",
+                "Mahavira Nirvana Era, reckoned from 527 BCE",
+                "Saka Era, reckoned from 78 CE",
+                "Vikram Samvat, reckoned from 57 BCE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Buddha Nirvana Era (often used in traditional Buddhist calendars across Sri Lanka, Myanmar, Thailand, and Cambodia) commemorates the Parinirvana of Gautama Buddha, which is traditionally reckoned from 543 BCE."
+        },
+        {
+            "id": 42,
+            "question": "Which era commemorates the Parinirvana of Lord Mahavira, and from which year is it reckoned?",
+            "options": [
+                "Mahavira/Vira Nirvana Samvat (Jain), reckoned from 527 BCE",
+                "Buddha Nirvana Era, reckoned from 543 BCE",
+                "Vikram Samvat, reckoned from 57 BCE",
+                "Saka Era, reckoned from 78 CE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Vira Nirvana Samvat is a traditional calendar era used by Jains to commemorate the liberation (Parinirvana) of Lord Mahavira, which is traditionally reckoned from 527 BCE."
+        },
+        {
+            "id": 43,
+            "question": "Which era was commenced by King Vikramaditya of Ujjayini to commemorate his victory over the Sakas, and from which year is it reckoned?",
+            "options": [
+                "Vikram Samvat/Krita/Malawar, reckoned from 57 BCE",
+                "Saka Era, reckoned from 78 CE",
+                "Gupta Era, reckoned from 320 CE",
+                "Kushana Era, reckoned from 127 CE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Vikram Samvat is a prominent historical Hindu calendar era initiated by King Vikramaditya of Ujjain to celebrate his victory over the Sakas. It is reckoned from the year 57 BCE."
+        },
+        {
+            "id": 44,
+            "question": "Which era was commenced by the Kushan ruler Kanishka on the occasion of his accession to the throne, and from which year is it reckoned?",
+            "options": [
+                "Saka Era, reckoned from 78 CE",
+                "Vikram Samvat, reckoned from 57 BCE",
+                "Gupta Era, reckoned from 320 CE",
+                "Harsha Era, reckoned from 606 CE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Saka Era was commenced by the Kushan emperor Kanishka to mark his ascension to the throne, which is traditionally reckoned from 78 CE."
+        },
+        {
+            "id": 45,
+            "question": "By what regional name is the Saka Era commonly known in South India?",
+            "options": [
+                "Shalivahana Saka",
+                "Vikram Samvat",
+                "Kollam Era",
+                "Telugu Samvat"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In South India, the Saka Era is widely referred to as the Shalivahana Saka (or Shalivahana Shaka), associated with the legendary Satavahana king Shalivahana, who is traditionally believed to have defeated the Sakas."
+        },
+        {
+            "id": 46,
+            "question": "Which calendar was adopted by the Government of India as the national calendar on March 22, 1957?",
+            "options": [
+                "Saka Calendar",
+                "Vikram Samvat Calendar",
+                "Gregorian Calendar",
+                "Islamic Calendar"
+            ],
+            "correctAnswer": 0,
+            "explanation": "On March 22, 1957 (corresponding to Chaitra 1, 1879 Saka Era), the Government of India officially adopted the Saka Calendar (based on the Saka Era) as the national civil calendar, used alongside the Gregorian calendar for official purposes."
+        },
+        {
+            "id": 47,
+            "question": "By what other common name is the Gregorian calendar known?",
+            "options": [
+                "Christian calendar or Western calendar",
+                "Saka calendar",
+                "Hijri calendar",
+                "Lunisolar calendar"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Gregorian calendar—introduced by Pope Gregory XIII in October 1582—is also widely referred to as the Western calendar, the Christian calendar, or the civil calendar, and is currently the internationally accepted standard for civil use."
+        },
+        {
+            "id": 48,
+            "question": "Which ancient era was founded by the Abhira king Ishwarasena, and later utilized by the Traikutakas and the Kalachuris of Chedi?",
+            "options": [
+                "Kalachuri-Chedi Era (or Abhira-Traikutaka Era), reckoned from 248 CE",
+                "Gupta Era, reckoned from 320 CE",
+                "Valabhi Era, reckoned from 509 CE",
+                "Harsha Era, reckoned from 606 CE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Kalachuri-Chedi Era (also known as the Abhira or Traikutaka Era) is an ancient Indian chronological era that originated around 248–249 CE. It was initially founded by the Abhira king Ishwarasena, subsequently adopted by the Traikutaka dynasty, and later extensively used by the Kalachuris of Chedi."
+        },
+        {
+            "id": 49,
+            "question": "Which era was founded by the Gupta ruler Chandragupta I on the occasion of his accession to the throne, and from which year is it reckoned?",
+            "options": [
+                "Gupta Era, reckoned from 320 CE",
+                "Vikram Samvat, reckoned from 57 BCE",
+                "Saka Era, reckoned from 78 CE",
+                "Harsha Era, reckoned from 606 CE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Gupta Era was founded by Chandragupta I to mark his coronation and the ascension to the throne of the Gupta Empire, and it is reckoned from the year 320 CE."
+        },
+        {
+            "id": 50,
+            "question": "Which ruling dynasty or ruler renamed the Gupta Era as the Valabhi Samvat and continued using it in the Saurashtra region of Gujarat?",
+            "options": [
+                "The Maitraka dynasty rulers of Valabhi",
+                "The Gupta rulers of Pataliputra",
+                "The Chalukyas of Badami",
+                "The Vardhana dynasty of Thanesar"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Maitraka dynasty rulers of Valabhi (in Gujarat) adopted the Gupta Era for their inscriptions and administrative records. Over time, as the primary Gupta empire declined, the era came to be known locally as the Valabhi Samvat (or Valabhi Era) while retaining the same chronological starting point of 320 CE."
+        },
+        {
+            "id": 51,
+            "question": "Which renowned British epigraphist and historian fixed the exact starting epoch of the Gupta Era at 319–320 CE through his comprehensive chronological research published around 1887?",
+            "options": [
+                "John Faithfull Fleet (J. F. Fleet)",
+                "Sir Alexander Cunningham",
+                "James Princep",
+                "Georg Bühler"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The exact commencement and correlation of the Gupta Era (319–320 CE) were definitively established and calculated by the British epigraphist John Faithfull Fleet (J. F. Fleet) in his seminal work 'Gupta Inscriptions' (Corpus Inscriptionum Indicarum, Vol. III), published in 1887."
+        },
+        {
+            "id": 52,
+            "question": "Which era was initiated to mark the ascension of King Shashanka of Bengal to the throne, and what is its historical significance?",
+            "options": [
+                "Bangabda (Bengali Era), traditionally reckoned from 594 CE",
+                "Gupta Era, reckoned from 320 CE",
+                "Harsha Era, reckoned from 606 CE",
+                "Laxman Era, reckoned from 1119 CE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Bangabda (Bengali Era) is traditionally attributed to the reign and ascension of King Shashanka of Gauda (Bengal) in the late 6th or early 7th century, with its starting point traditionally calculated around 593–594 CE (though some historical traditions also align it slightly later with Akbar's fiscal reforms)."
+        }
     ]
 }
