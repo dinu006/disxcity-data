@@ -102,303 +102,358 @@
             "explanation": "Herodotus is believed to have written 'The Histories' during the fifth century BCE, with most scholars dating its composition and publication to around 440 to 425 BCE."
         },
         {
-    "id": 9,
-    "question": "What is the main subject described in 'The Histories' by Herodotus?",
+            "id": 9,
+            "question": "What is the main subject described in 'The Histories' by Herodotus?",
+            "options": [
+                "The life and conquests of Alexander the Great",
+                "The history of ancient Rome and the Punic Wars",
+                "The Greco-Persian Wars and the origins of the conflict between Greeks and barbarians",
+                "The religious traditions and mythology of ancient Egypt exclusively"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The primary theme of 'The Histories' is the Greco-Persian Wars, detailing the background, cultures, and conflicts between the Achaemenid Empire and the Greek city-states."
+        },
+        {
+            "id": 10,
+            "question": "Who was the person who first called Herodotus 'the Father of History'?",
+            "options": [
+                "Aristotle",
+                "Plato",
+                "Cicero",
+                "Thucydides"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The famous Roman statesman, orator, and philosopher Marcus Tullius Cicero was the first to confer the title 'the Father of History' upon Herodotus."
+        },
+        {
+            "id": 11,
+            "question": "During which period did the Roman philosopher and statesman Cicero live?",
+            "options": [
+                "106 BC to 43 BC",
+                "150 BC to 80 BC",
+                "50 BC to 20 AD",
+                "200 BC to 130 BC"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Marcus Tullius Cicero lived from 106 BC to 43 BC during the turbulent final years of the Roman Republic."
+        },
+        {
+            "id": 12,
+            "question": "The Greco-Persian Wars are also known by what alternative name?",
+            "options": [
+                "The Punic Wars",
+                "The Peloponnesian Wars",
+                "The Persian Wars",
+                "The Macedonian Wars"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The Greco-Persian Wars, which involved the conflicts between the Achaemenid Empire of Persia and the alliance of Greek city-states, are commonly referred to simply as the Persian Wars."
+        },
+        {
+            "id": 13,
+            "question": "What was the life span of the German historian Leopold von Ranke?",
+            "options": [
+                "1785 – 1876",
+                "1795 – 1886",
+                "1805 – 1896",
+                "1815 – 1906"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Leopold von Ranke lived from December 21, 1795, to May 23, 1886."
+        },
+        {
+            "id": 14,
+            "question": "Who is widely known as the father of modern historical studies and modern historiography?",
+            "options": [
+                "Edward Gibbon",
+                "Leopold von Ranke",
+                "Karl Marx",
+                "Voltaire"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Leopold von Ranke is considered the father of modern historical writing and source-based history, emphasizing empirical methods and how things actually happened ('wie es eigentlich gewesen')."
+        },
+        {
+            "id": 15,
+            "question": "Who is the German philosopher known as the propounder of the theory of thesis, antithesis, and synthesis?",
+            "options": [
+                "Immanuel Kant",
+                "Friedrich Nietzsche",
+                "Georg Wilhelm Friedrich Hegel",
+                "Karl Marx"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Georg Wilhelm Friedrich Hegel was a German philosopher who developed the dialectical method involving thesis, antithesis, and synthesis to explain the progression of history and ideas."
+        },
+        {
+            "id": 16,
+            "question": "What was the life span of the German philosopher Georg Wilhelm Friedrich Hegel?",
+            "options": [
+                "1770 – 1831",
+                "1780 – 1841",
+                "1760 – 1820",
+                "1790 – 1850"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Georg Wilhelm Friedrich Hegel was born on August 27, 1770, and died on November 14, 1831."
+        },
+        {
+            "id": 17,
+            "question": "Who famously said that history repeats itself, and who extended it by stating that it happens 'first as tragedy, second as farce'?",
+            "options": [
+                "Karl Marx said both parts",
+                "Georg Wilhelm Friedrich Hegel said history repeats itself, and Karl Marx extended it",
+                "Herodotus said history repeats itself, and Thucydides extended it",
+                "Leopold von Ranke said both parts"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Georg Wilhelm Friedrich Hegel remarked that history repeats itself, and Karl Marx famously extended this in his 1852 work 'The Eighteenth Brumaire of Louis Napoleon', adding, '...the first time as tragedy, the second as farce'."
+        },
+        {
+            "id": 18,
+            "question": "What was the lifespan of Karl Marx?",
+            "options": [
+                "May 5, 1818 – March 14, 1883",
+                "April 10, 1820 – February 20, 1890",
+                "May 5, 1812 – March 14, 1875",
+                "June 15, 1825 – January 10, 1895"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Karl Marx was born on May 5, 1818, and died on March 14, 1883, living to the age of 64."
+        },
+        {
+            "id": 19,
+            "question": "Who defined history as 'a continuous process of interaction between the historian and his facts, an unending dialogue between the present and the past'?",
+            "options": [
+                "Arnold J. Toynbee",
+                "E. H. Carr",
+                "R. G. Collingwood",
+                "Marc Bloch"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Edward Hallett (E. H. Carr), a British historian and diplomat, famously defined history in his 1961 book 'What is History?' as an unending dialogue between the present and the past."
+        },
+        {
+            "id": 20,
+            "question": "What was the lifespan of the British historian E. H. Carr?",
+            "options": [
+                "1888 – 1976",
+                "1892 – 1982",
+                "1901 – 1990",
+                "1875 – 1965"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Edward Hallett Carr was born on June 28, 1892, and died on November 3, 1982."
+        },
+        {
+            "id": 21,
+            "question": "In history, what is the full form of BC and what does it mean?",
+            "options": [
+                "Before Christ, counting years backward before the estimated birth of Jesus",
+                "Before Century, counting the years prior to the 1st century",
+                "British Cycle, measuring historical eras in Britain",
+                "Before Civilization, marking the time before human societies began"
+            ],
+            "correctAnswer": 0,
+            "explanation": "BC stands for 'Before Christ', used to denote years counting backward to the birth of Jesus, prior to the Common Era."
+        },
+        {
+            "id": 22,
+            "question": "When was Gautama Buddha born and when did he die?",
+            "options": [
+                "Born in 563 BCE and died in 483 BCE",
+                "Born in 483 BCE and died in 403 BCE",
+                "Born in 624 BCE and died in 544 BCE",
+                "Born in 356 BCE and died in 323 BCE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to traditional scholarship and widely accepted historical timelines, Gautama Buddha was born in 563 BCE in Lumbini and died at the age of 80 in 483 BCE in Kushinagar."
+        },
+        {
+            "id": 23,
+            "question": "When was Alexander the Great born and when did he die?",
+            "options": [
+                "Born in 356 BCE and died in 323 BCE",
+                "Born in 563 BCE and died in 483 BCE",
+                "Born in 480 BCE and died in 399 BCE",
+                "Born in 330 BCE and died in 290 BCE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Alexander the Great was born in Pella on July 20/21, 356 BCE, and died in Babylon on June 10/11, 323 BCE, at the age of 32."
+        },
+        {
+            "id": 24,
+            "question": "In history, what is the full form of AD and what does it mean?",
+            "options": [
+                "After Death, marking the years after the death of Jesus Christ",
+                "Anno Domini, meaning 'in the year of our Lord', counting years forward from the estimated birth of Jesus",
+                "Ancient Decade, measuring periods in antiquity",
+                "Ascending Date, marking the progression of historical calendars"
+            ],
+            "correctAnswer": 1,
+            "explanation": "AD stands for 'Anno Domini', a Latin phrase meaning 'in the year of our Lord'. It is used to label years in the Gregorian and Julian calendars from the conventionally assigned birth of Jesus."
+        },
+        {
+            "id": 25,
+            "question": "In which year is Jesus Christ traditionally and historically believed to have been crucified?",
+            "options": [
+                "Around 25–26 CE",
+                "Around 30–33 CE",
+                "Around 37–40 CE",
+                "Around 45–48 CE"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Most biblical scholars and historians estimate the crucifixion of Jesus Christ to have occurred between 30 CE and 33 CE, during the governorship of Pontius Pilate."
+        },
+        {
+            "id": 26,
+            "question": "In which year did the Kushana ruler Kanishka ascend the throne?",
+            "options": [
+                "78 CE",
+                "58 BCE",
+                "120 CE",
+                "320 CE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Kanishka, the most famous ruler of the Kushan Empire, is widely believed to have ascended the throne in 78 CE, which also marks the beginning of the Saka Era."
+        },
+        {
+            "id": 27,
+            "question": "In which years was Prophet Muhammad born and when did he pass away?",
+            "options": [
+                "Born in 570 CE and died in 632 CE",
+                "Born in 590 CE and died in 650 CE",
+                "Born in 550 CE and died in 610 CE",
+                "Born in 610 CE and died in 660 CE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Prophet Muhammad was born in Mecca in 570 CE (the Year of the Elephant) and passed away in Medina in 632 CE."
+        },
+        {
+            "id": 28,
+            "question": "What is the term for the graphical representation that displays a sequence of historical events in chronological order along a line?",
+            "options": [
+                "Historiography",
+                "Chronicle",
+                "Timeline",
+                "Genealogy"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A timeline is a visual display—often a linear bar or line—that highlights key events in chronological order, helping students and historians understand the sequence and relationship of historical events."
+        },
+        {
+            "id": 29,
+            "question": "What is the correct definition of a 'time glossary' or chronological glossary in the study of history?",
+            "options": [
+                "A mathematical formula used to calculate exact astronomical distances between historical eras",
+                "An alphabetical list of specialized terms, concepts, or dates related to time measurement, periods, and eras used in historical study",
+                "A calendar that tracks the daily weather patterns of ancient civilizations",
+                "A catalog of biographies of famous historians throughout the ages"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In historical studies and glossaries, a time glossary refers to a curated compilation of definitions and explanations for terms related to time periods, dating conventions, calendars, and chronological markers."
+        },
+        {
+            "id": 30,
+            "question": "What is the historical term used to describe a period of ten years?",
+            "options": [
+                "Century",
+                "Millennium",
+                "Decade",
+                "Epoch"
+            ],
+            "correctAnswer": 2,
+            "explanation": "A decade is a period of ten years, commonly used in history and chronology to group and analyze historical events, trends, and eras."
+        },
+        {
+    "id": 31,
+    "question": "What is the historical term used to describe a period of twenty-five years, which is one-fourth of a century?",
     "options": [
-        "The life and conquests of Alexander the Great",
-        "The history of ancient Rome and the Punic Wars",
-        "The Greco-Persian Wars and the origins of the conflict between Greeks and barbarians",
-        "The religious traditions and mythology of ancient Egypt exclusively"
+        "Century",
+        "Millennium",
+        "Decade",
+        "Quarter-century"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A period of twenty-five years is referred to as a quarter-century, often used to mark significant milestones or intervals in history, such as silver jubilees."
+},
+
+{
+    "id": 32,
+    "question": "What is the historical term used to describe a period of fifty years, or half of a century?",
+    "options": [
+        "Century",
+        "Half-century",
+        "Decade",
+        "Millennium"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A period of fifty years is called a half-century (or semi-century), frequently celebrated or commemorated as a golden jubilee."
+},
+
+{
+    "id": 33,
+    "question": "What is the specific chronological term for the first fifty-year period of a century (from the 1st year to the 50th year)?",
+    "options": [
+        "The first half-century",
+        "The first decade",
+        "The early millennium",
+        "The foundational epoch"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The first fifty years of any century—spanning from year 1 through year 50—is referred to as the first half-century of that century."
+},
+
+{
+    "id": 34,
+    "question": "What is the specific chronological term for the second fifty-year period of a century (from the 51st year to the 100th year)?",
+    "options": [
+        "The second half-century",
+        "The final decade",
+        "The late millennium",
+        "The concluding epoch"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The second fifty years of any century—spanning from year 51 through year 100—is referred to as the second half-century of that century."
+},
+
+{
+    "id": 35,
+    "question": "What is the historical term used to describe a period of one hundred years?",
+    "options": [
+        "Millennium",
+        "Decade",
+        "Century",
+        "Epoch"
     ],
     "correctAnswer": 2,
-    "explanation": "The primary theme of 'The Histories' is the Greco-Persian Wars, detailing the background, cultures, and conflicts between the Achaemenid Empire and the Greek city-states."
+    "explanation": "A period of one hundred years is called a century, which serves as a major building block for organizing historical eras and timelines."
 },
 
 {
-    "id": 10,
-    "question": "Who was the person who first called Herodotus 'the Father of History'?",
+    "id": 37,
+    "question": "What term is used in history when the exact date of an event is not known or can only be approximated within a certain range?",
     "options": [
-        "Aristotle",
-        "Plato",
-        "Cicero",
-        "Thucydides"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The famous Roman statesman, orator, and philosopher Marcus Tullius Cicero was the first to confer the title 'the Father of History' upon Herodotus."
-},
-
-{
-    "id": 11,
-    "question": "During which period did the Roman philosopher and statesman Cicero live?",
-    "options": [
-        "106 BC to 43 BC",
-        "150 BC to 80 BC",
-        "50 BC to 20 AD",
-        "200 BC to 130 BC"
+        "Circa (c. or ca.)",
+        "Anachronism",
+        "Post-dating",
+        "Epoch"
     ],
     "correctAnswer": 0,
-    "explanation": "Marcus Tullius Cicero lived from 106 BC to 43 BC during the turbulent final years of the Roman Republic."
-},
-
-
-{
-    "id": 12,
-    "question": "The Greco-Persian Wars are also known by what alternative name?",
-    "options": [
-        "The Punic Wars",
-        "The Peloponnesian Wars",
-        "The Persian Wars",
-        "The Macedonian Wars"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The Greco-Persian Wars, which involved the conflicts between the Achaemenid Empire of Persia and the alliance of Greek city-states, are commonly referred to simply as the Persian Wars."
+    "explanation": "The Latin word 'circa' (meaning 'around' or 'about', often abbreviated as c. or ca.) is used in historical and archaeological dating when the exact year or date of an event is not precisely known."
 },
 
 {
-    "id": 13,
-    "question": "What was the life span of the German historian Leopold von Ranke?",
+    "id": 38,
+    "question": "What time span does the fifth decade of the 21st century refer to?",
     "options": [
-        "1785 – 1876",
-        "1795 – 1886",
-        "1805 – 1896",
-        "1815 – 1906"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Leopold von Ranke lived from December 21, 1795, to May 23, 1886."
-},
-
-{
-    "id": 14,
-    "question": "Who is widely known as the father of modern historical studies and modern historiography?",
-    "options": [
-        "Edward Gibbon",
-        "Leopold von Ranke",
-        "Karl Marx",
-        "Voltaire"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Leopold von Ranke is considered the father of modern historical writing and source-based history, emphasizing empirical methods and how things actually happened ('wie es eigentlich gewesen')."
-},
-
-{
-    "id": 15,
-    "question": "Who is the German philosopher known as the propounder of the theory of thesis, antithesis, and synthesis?",
-    "options": [
-        "Immanuel Kant",
-        "Friedrich Nietzsche",
-        "Georg Wilhelm Friedrich Hegel",
-        "Karl Marx"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Georg Wilhelm Friedrich Hegel was a German philosopher who developed the dialectical method involving thesis, antithesis, and synthesis to explain the progression of history and ideas."
-},
-
-{
-    "id": 16,
-    "question": "What was the life span of the German philosopher Georg Wilhelm Friedrich Hegel?",
-    "options": [
-        "1770 – 1831",
-        "1780 – 1841",
-        "1760 – 1820",
-        "1790 – 1850"
+        "2040 to 2049",
+        "2050 to 2059",
+        "2041 to 2050",
+        "2000 to 2009"
     ],
     "correctAnswer": 0,
-    "explanation": "Georg Wilhelm Friedrich Hegel was born on August 27, 1770, and died on November 14, 1831."
-},
-{
-    "id": 17,
-    "question": "Who famously said that history repeats itself, and who extended it by stating that it happens 'first as tragedy, second as farce'?",
-    "options": [
-        "Karl Marx said both parts",
-        "Georg Wilhelm Friedrich Hegel said history repeats itself, and Karl Marx extended it",
-        "Herodotus said history repeats itself, and Thucydides extended it",
-        "Leopold von Ranke said both parts"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Georg Wilhelm Friedrich Hegel remarked that history repeats itself, and Karl Marx famously extended this in his 1852 work 'The Eighteenth Brumaire of Louis Napoleon', adding, '...the first time as tragedy, the second as farce'."
-},
-{
-    "id": 18,
-    "question": "What was the lifespan of Karl Marx?",
-    "options": [
-        "May 5, 1818 – March 14, 1883",
-        "April 10, 1820 – February 20, 1890",
-        "May 5, 1812 – March 14, 1875",
-        "June 15, 1825 – January 10, 1895"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Karl Marx was born on May 5, 1818, and died on March 14, 1883, living to the age of 64."
-},
-{
-    "id": 19,
-    "question": "Who defined history as 'a continuous process of interaction between the historian and his facts, an unending dialogue between the present and the past'?",
-    "options": [
-        "Arnold J. Toynbee",
-        "E. H. Carr",
-        "R. G. Collingwood",
-        "Marc Bloch"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Edward Hallett (E. H. Carr), a British historian and diplomat, famously defined history in his 1961 book 'What is History?' as an unending dialogue between the present and the past."
-},
-{
-    "id": 20,
-    "question": "What was the lifespan of the British historian E. H. Carr?",
-    "options": [
-        "1888 – 1976",
-        "1892 – 1982",
-        "1901 – 1990",
-        "1875 – 1965"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Edward Hallett Carr was born on June 28, 1892, and died on November 3, 1982."
-},
-{
-    "id": 21,
-    "question": "In history, what is the full form of BC and what does it mean?",
-    "options": [
-        "Before Christ, counting years backward before the estimated birth of Jesus",
-        "Before Century, counting the years prior to the 1st century",
-        "British Cycle, measuring historical eras in Britain",
-        "Before Civilization, marking the time before human societies began"
-    ],
-    "correctAnswer": 0,
-    "explanation": "BC stands for 'Before Christ', used to denote years counting backward to the birth of Jesus, prior to the Common Era."
-},
-
-{
-    "id": 22,
-    "question": "When was Gautama Buddha born and when did he die?",
-    "options": [
-        "Born in 563 BCE and died in 483 BCE",
-        "Born in 483 BCE and died in 403 BCE",
-        "Born in 624 BCE and died in 544 BCE",
-        "Born in 356 BCE and died in 323 BCE"
-    ],
-    "correctAnswer": 0,
-    "explanation": "According to traditional scholarship and widely accepted historical timelines, Gautama Buddha was born in 563 BCE in Lumbini and died at the age of 80 in 483 BCE in Kushinagar."
-},
-{
-    "id": 23,
-    "question": "When was Alexander the Great born and when did he die?",
-    "options": [
-        "Born in 356 BCE and died in 323 BCE",
-        "Born in 563 BCE and died in 483 BCE",
-        "Born in 480 BCE and died in 399 BCE",
-        "Born in 330 BCE and died in 290 BCE"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Alexander the Great was born in Pella on July 20/21, 356 BCE, and died in Babylon on June 10/11, 323 BCE, at the age of 32."
-},
-{
-    "id": 24,
-    "question": "In history, what is the full form of AD and what does it mean?",
-    "options": [
-        "After Death, marking the years after the death of Jesus Christ",
-        "Anno Domini, meaning 'in the year of our Lord', counting years forward from the estimated birth of Jesus",
-        "Ancient Decade, measuring periods in antiquity",
-        "Ascending Date, marking the progression of historical calendars"
-    ],
-    "correctAnswer": 1,
-    "explanation": "AD stands for 'Anno Domini', a Latin phrase meaning 'in the year of our Lord'. It is used to label years in the Gregorian and Julian calendars from the conventionally assigned birth of Jesus."
-},
-
-{
-    "id": 25,
-    "question": "In which year is Jesus Christ traditionally and historically believed to have been crucified?",
-    "options": [
-        "Around 25–26 CE",
-        "Around 30–33 CE",
-        "Around 37–40 CE",
-        "Around 45–48 CE"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Most biblical scholars and historians estimate the crucifixion of Jesus Christ to have occurred between 30 CE and 33 CE, during the governorship of Pontius Pilate."
-},
-
-{
-    "id": 26,
-    "question": "In which year did the Kushana ruler Kanishka ascend the throne?",
-    "options": [
-        "78 CE",
-        "58 BCE",
-        "120 CE",
-        "320 CE"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kanishka, the most famous ruler of the Kushan Empire, is widely believed to have ascended the throne in 78 CE, which also marks the beginning of the Saka Era."
-},
-
-{
-    "id": 27,
-    "question": "In which years was Prophet Muhammad born and when did he pass away?",
-    "options": [
-        "Born in 570 CE and died in 632 CE",
-        "Born in 590 CE and died in 650 CE",
-        "Born in 550 CE and died in 610 CE",
-        "Born in 610 CE and died in 660 CE"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Prophet Muhammad was born in Mecca in 570 CE (the Year of the Elephant) and passed away in Medina in 632 CE."
-},
-
-{
-    "id": 28,
-    "question": "What is the term for the graphical representation that displays a sequence of historical events in chronological order along a line?",
-    "options": [
-        "Historiography",
-        "Chronicle",
-        "Timeline",
-        "Genealogy"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A timeline is a visual display—often a linear bar or line—that highlights key events in chronological order, helping students and historians understand the sequence and relationship of historical events."
-},
-
- {
-    "id": 29,
-    "question": "What is the correct definition of a 'time glossary' or chronological glossary in the study of history?",
-    "options": [
-        "A mathematical formula used to calculate exact astronomical distances between historical eras",
-        "An alphabetical list of specialized terms, concepts, or dates related to time measurement, periods, and eras used in historical study",
-        "A calendar that tracks the daily weather patterns of ancient civilizations",
-        "A catalog of biographies of famous historians throughout the ages"
-    ],
-    "correctAnswer": 1,
-    "explanation": "In historical studies and glossaries, a time glossary refers to a curated compilation of definitions and explanations for terms related to time periods, dating conventions, calendars, and chronological markers."
+    "explanation": "The 21st century spans from January 1, 2001, to December 31, 2100. Its fifth decade covers the years from 2040 to 2049 (the first decade being 2001–2010, the second 2011–2020, the third 2021–2030, the fourth 2031–2040, and the fifth 2041–2050 by strict counting, or simply 2040 to 2049 when grouped by tens starting from 2000)."
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     ]
 }
