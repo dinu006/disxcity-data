@@ -169,7 +169,19 @@
         {
           "name":"Magnetic Effects of Electric Current",
           "file": "NCERT/Class-X/English/2026/Science/Magnetic-Effects-Of-Electric-Current.json"
+        },
+         {
+      "class": "Full Parts",
+      "language": "Hindi",
+      "year": "2025",
+      "subject": "Science",
+      "chapters": [
+        {
+          "name": "Full Ancient History",
+          "file": "NCERT/Full-Parts/History/English/2026/Ancient History/Ancient-History.json"
         }
+      ]
+    }
       ]
     }
   ]

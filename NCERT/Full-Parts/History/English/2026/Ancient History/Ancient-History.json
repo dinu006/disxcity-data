@@ -1,0 +1,21 @@
+{
+    "chapter": "Ancient History",
+    "class": "Full Parts",
+    "language": "English",
+    "year": "2026",
+    "subject": "History",
+    "questions": [
+        {
+            "id": 1,
+            "question": "During the laying of railway lines in Punjab about 150 years ago, from which ancient site did people carry away thousands of bricks?",
+            "options": [
+                "Harappa",
+                "Lothal",
+                "Kalibangan",
+                "Dholavira"
+            ],
+            "correctAnswer": 0,
+            "explanation": "When railway lines were being laid down in Punjab about 150 years ago, railway engineers and locals stumbled upon Harappa and took away thousands of bricks from the ancient site's buildings to build railway tracks."
+        }
+    ]
+}
