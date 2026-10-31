@@ -1,0 +1,126 @@
+{
+    "chapter": "Indian Polity and Constituition",
+    "class": "Full-Parts",
+    "language": "English",
+    "year": "2026",
+    "subject": "Political Science",
+    "questions": [
+        {
+    "id": 1,
+    "question": "The term political science is intimately related to which word?",
+    "options": [
+        "Polis",
+        "Politikos",
+        "Politeia",
+        "Politique"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The term 'Political Science' is intimately related to the Greek word 'polis', which means a city-state in ancient Greece, from which politics and related terms derive."
+},
+
+{
+    "id": 2,
+    "question": "The word 'polis' is derived from which language and what does it mean?",
+    "options": [
+        "Latin, meaning a kingdom or empire",
+        "Greek, meaning an ancient Greek city-state",
+        "French, meaning a political assembly",
+        "Sanskrit, meaning a community of citizens"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The word 'polis' is derived from the Greek language and means an ancient Greek city-state, which served as the fundamental political unit in ancient Greece."
+},
+
+{
+    "id": 3,
+    "question": "Who were the two ancient Greek thinkers who expounded early political theory, known among the Sophists?",
+    "options": [
+        "Socrates and Plato",
+        "Protagoras and Gorgias",
+        "Thucydides and Herodotus",
+        "Aristotle and Zeno"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Protagoras and Gorgias were prominent ancient Greek Sophists who contributed significantly to early political and philosophical thought in Athens regarding rhetoric, justice, and human convention."
+},
+
+{
+    "id": 4,
+    "question": "The student who excelled his teacher Plato and his teacher's teacher Socrates, and is known as the father of politics in the West, is:",
+    "options": [
+        "Alexander the Great",
+        "Aristotle",
+        "Pythagoras",
+        "Epicurus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aristotle was a student of Plato (who was a student of Socrates) and is widely regarded as the 'Father of Political Science' due to his comprehensive works like 'Politics', which systematically analyzed constitutions and government."
+},
+
+{
+    "id": 5,
+    "question": "Who is widely recognized as the first political thinker of ancient India?",
+    "options": [
+        "Kautilya (Chanakya)",
+        "Manu",
+        "Mahatma Gandhi",
+        "Swami Vivekananda"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kautilya (also known as Chanakya or Vishnugupta) is widely regarded as the first great political thinker of India, renowned for authoring the 'Arthashastra', a monumental treatise on statecraft, economic policy, and military strategy."
+},
+
+{
+    "id": 6,
+    "question": "The book written by the ancient Indian political and legal thinker Manu is:",
+    "options": [
+        "Arthashastra",
+        "Manusmriti",
+        "Niti Shastra",
+        "Rajatarangini"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Manu authored the 'Manusmriti' (also known as the Laws of Manu), an ancient legal text and treatise on social duties, governance, and jurisprudence in ancient India."
+},
+
+{
+    "id": 7,
+    "question": "What is considered the first comprehensive book on political thinking and statecraft in ancient India?",
+    "options": [
+        "Manusmriti",
+        "Arthashastra",
+        "Rigveda",
+        "Mahabharata"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Authored by Kautilya (Chanakya), the 'Arthashastra' is widely regarded as the first and most systematic treatise on political thinking, statecraft, economics, and administration in ancient India."
+},
+
+
+{
+    "id": 8,
+    "question": "The political thinking book formulated by Chanakya / Kautilya is:",
+    "options": [
+        "Indica",
+        "Arthashastra",
+        "Mudrarakshasa",
+        "Rajatarangini"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'Arthashastra' is the masterwork on political philosophy, statecraft, economic policy, and military strategy formulated by Chanakya (also known as Kautilya)."
+},
+
+{
+    "id": 9,
+    "question": "Who stated that 'man is by nature a political animal' and that 'he who is by nature and not by mere accident without a state is either above humanity or below it', and in which book?",
+    "options": [
+        "Plato in 'The Republic'",
+        "Aristotle in 'Politics'",
+        "Thomas Hobbes in 'Leviathan'",
+        "John Locke in 'Two Treatises of Government'"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This famous quote was stated by Aristotle in his foundational treatise 'Politics' (Book I), highlighting that human beings are naturally social and political creatures destined to live within a state."
+}
+    ]
+}

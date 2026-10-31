@@ -185,6 +185,19 @@
           "file": "NCERT/Full-Parts/English/2026/History/Ancient-History.json"
         }
       ]
+    },
+
+    {
+      "class": "Full-Parts",
+      "language": "English",
+      "year": "2026",
+      "subject": "Political Science",
+      "chapters": [
+        {
+          "name": "Indian Politics",
+          "file": "NCERT/Full-Parts/English/2026/Political Science/Indian-Polity.json"
+        }
+      ]
     }
   ]
 }
