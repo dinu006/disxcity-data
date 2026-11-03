@@ -1,0 +1,237 @@
+{
+    "chapter": "Kingdoms, Kings and an Early Republic",
+    "class": "Class-VI",
+    "language": "English",
+    "year": "2025",
+    "subject": "History",
+    "questions": [
+        {
+            "id": 1,
+            "question": "What are the traditional social classes (Varnas) present in the foundational framework of Hinduism?",
+            "options": [
+                "Three categories",
+                "Four categories",
+                "Five categories",
+                "Two categories"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hindu society is traditionally structured into four main social classes known as Varnas: Brahmins, Kshatriyas, Vaishyas, and Shudras."
+        },
+        {
+            "id": 2,
+            "question": "What are the four primary names of the Vedas in Hinduism?",
+            "options": [
+                "Rigveda, Samaveda, Yajurveda, Atharvaveda",
+                "Rigveda, Upanishad, Purana, Ramayana",
+                "Bhagavad Gita, Vedas, Puranas, Tantras",
+                "Samaveda, Mahabharata, Vedas, Aranyaka"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The four foundational canonical texts of Hinduism are the Rigveda, Samaveda, Yajurveda, and Atharvaveda."
+        },
+        {
+            "id": 3,
+            "question": "What is the primary meaning of the word 'Jana' in Sanskrit?",
+            "options": [
+                "Knowledge",
+                "People or tribe",
+                "Victory",
+                "Prayer"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In Sanskrit and ancient Indian texts, 'Jana' translates to 'people', 'race', or 'tribe' (as seen in words like Janapada, meaning a realm or territory of a people)."
+        },
+        {
+            "id": 4,
+            "question": "What is the historical meaning of the term 'Janapada' in ancient India?",
+            "options": [
+                "A royal palace or capital city",
+                "A gathering of spiritual priests",
+                "A realm, territory, or kingdom of a people",
+                "A sacred religious ritual"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The term 'Janapada' is derived from 'Jana' (meaning people or tribe) and 'Pada' (meaning foot), literally translating to the foothold or territory where a tribe settled and established a kingdom."
+        },
+        {
+            "id": 5,
+            "question": "Which ancient Vedic ritual (yagya) involved the sacrifice of a horse to symbolize sovereignty and capture territory?",
+            "options": [
+                "Rajasuya Yagya",
+                "Ashvamedha Yagya",
+                "Vajapeya Yagya",
+                "Putrakameshti Yagya"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Ashvamedha (horse sacrifice) was one of the most important royal rituals of ancient India, performed by kings to prove their imperial sovereignty and claim dominion over the territories the royal horse roamed."
+        },
+        {
+            "id": 6,
+            "question": "In which modern-day Indian state are Hastinapur and Meerut located?",
+            "options": [
+                "Madhya Pradesh",
+                "Bihar",
+                "Uttar Pradesh",
+                "Rajasthan"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Hastinapur and Meerut are both located in the state of Uttar Pradesh, India, with Hastinapur situated in the Meerut district."
+        },
+        {
+            "id": 7,
+            "question": "What is the name of the ancient site near present-day Allahabad (Prayagraj), Uttar Pradesh, where the remains of a massive brick fortification wall built about 2,500 years ago were discovered?",
+            "options": [
+                "Hastinapur",
+                "Kaushambi",
+                "Sarnath",
+                "Ayodhya"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The remains of the ancient fortification wall near present-day Allahabad belong to Kaushambi, an important ancient city whose massive brick walls date back roughly 2,500 years."
+        },
+        {
+            "id": 8,
+            "question": "What was the first capital of the ancient Magadha empire?",
+            "options": [
+                "Pataliputra",
+                "Rajagriha (Rajgir)",
+                "Vaishali",
+                "Varanasi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Rajagriha (modern-day Rajgir in Bihar), surrounded by five hills, served as the initial capital of the powerful ancient kingdom of Magadha before it was later shifted to Pataliputra."
+        },
+        {
+            "id": 9,
+            "question": "To which city was the capital of the ancient Magadha empire shifted from Rajgir (Rajagriha)?",
+            "options": [
+                "Pataliputra",
+                "Vaishali",
+                "Varanasi",
+                "Champa"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The capital of Magadha was later shifted from Rajagriha to Pataliputra (modern-day Patna), which offered a strategic location near the confluence of major rivers for trade and military defense."
+        },
+        {
+            "id": 10,
+            "question": "Where did Alexander the Great rule, and around how many years ago did he march toward the Indian subcontinent?",
+            "options": [
+                "He ruled Macedonia and marched toward India roughly 2,350 years ago (in 326–327 BCE)",
+                "He ruled Rome and marched toward India 1,500 years ago",
+                "He ruled Persia exclusively and marched toward India 3,000 years ago",
+                "He ruled Egypt and marched toward India 1,000 years ago"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Alexander the Great ruled the ancient kingdom of Macedonia (along with building a massive empire spanning Greece to parts of Eurasia) and began his campaign into the northwestern Indian subcontinent around 327–326 BCE, which was over 2,350 years ago."
+        },
+        {
+            "id": 11,
+            "question": "What was the capital of the ancient Vajjika League (Vaji/Vrijji Mahajanapada)?",
+            "options": [
+                "Vaishali",
+                "Mithila",
+                "Ujjain",
+                "Kushinagar"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Vaishali served as the capital of the powerful Vajjika (or Vrijji) confederacy, which was one of the major Mahajanapadas of ancient India operating under a republican form of government."
+        },
+        {
+            "id": 12,
+            "question": "What type of government or political system was practiced by the ancient Vajji (or Vrijji) confederacy?",
+            "options": [
+                "Monarchy (Rajya)",
+                "Gana or Sangha (Republic/Assembly of chiefs)",
+                "Dictatorship",
+                "Oligarchy ruled by a single merchant family"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Vajji confederacy was governed by a 'Gana' or 'Sangha', which was a form of republic or collective assembly where power was shared among many chiefs rather than concentrated in a single monarch."
+        },
+        {
+            "id": 13,
+            "question": "What is the meaning of the term 'Gana' in the context of ancient Indian political systems?",
+            "options": [
+                "A single supreme king with absolute power",
+                "A group or assembly that has many members",
+                "A system of hereditary taxation",
+                "A sacred religious ceremony"
+            ],
+            "correctAnswer": 1,
+            "explanation": "In ancient Indian history and Sanskrit, 'Gana' refers to a group, congregation, or assembly consisting of many members, often used to describe republican or oligarchic states ruled collectively."
+        },
+        {
+            "id": 14,
+            "question": "What is the meaning of the term 'Sangha' in ancient Indian history and religious traditions?",
+            "options": [
+                "An organization, association, or religious order",
+                "A royal treasury or storehouse",
+                "A military fortification",
+                "An agricultural farming village"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In ancient India, 'Sangha' refers to an organization, association, or assembly, commonly used to describe religious orders (such as the Buddhist Sangha of monks and nuns) or political federations."
+        },
+        {
+            "id": 15,
+            "question": "What does the term 'Janapada system' signify in the history of ancient India?",
+            "options": [
+                "A system of nomadic tribal wandering without fixed settlements",
+                "A political structure where major tribes established permanent territorial states and kingdoms",
+                "A purely religious network of temples managed by priests",
+                "A trade system exclusively focused on international maritime commerce"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Janapada system marked a major political shift where pastoral and semi-nomadic tribes (Janas) settled down in specific geographical regions (Padas), establishing permanent territorial states, kingdoms, and early republics across ancient India."
+        },
+        {
+            "id": 16,
+            "question": "Which ancient Indian empire ultimately conquered and dissolved the republican 'Gana/Sangha' systems, such as the Vajji confederacy?",
+            "options": [
+                "Maurya Empire",
+                "Gupta Empire",
+                "Kushan Empire",
+                "Sunga Empire"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The powerful rulers of the Magadha empire, particularly under the expansionist policies of the Nanda and subsequently the Maurya Empire (such as Ajatashatru and later emperors), systematically conquered and absorbed the independent Gana-Sanghas (republics like Vajji) into centralized imperial rule."
+        },
+        {
+            "id": 17,
+            "question": "Which two ancient societies or regions are famously known for developing early forms of democratic or republican governance around 2,500 years ago?",
+            "options": [
+                "Ancient Greece (Athens) and ancient Indian Gana-Sanghas (like the Vajji republic)",
+                "Ancient Egypt and ancient Mesopotamia",
+                "The Roman Empire and the Persian Empire",
+                "Ancient China and ancient Babylon"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Around 2,500 years ago, democratic and republican governance systems emerged in Athens (Greece) through citizen assemblies and in ancient India through the Gana-Sangha systems (such as the Vajji and Licchavi republics)."
+        },
+        {
+            "id": 18,
+            "question": "The Digha Nikaya, a famous text that provides important historical accounts of the Vajji republic, is a sacred scripture of which religion?",
+            "options": [
+                "Buddhism",
+                "Jainism",
+                "Hinduism",
+                "Sikhism"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Digha Nikaya is one of the principal collections of texts in the Sutta Pitaka, making it a foundational scripture of Buddhism. It contains several discourses (such as the Mahaparinibbana Sutta) that mention the political traditions and assembly rules of the Vajji republic."
+        },
+        {
+            "id": 19,
+            "question": "Who were two of the most powerful and prominent rulers of the ancient Magadha empire?",
+            "options": [
+                "Bimbisara and Ajatashatru",
+                "Ashoka and Chandragupta Maurya",
+                "Samudragupta and Chandragupta II",
+                "Kanishka and Harshavardhana"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Bimbisara and his son Ajatashatru were among the earliest and most powerful rulers of Magadha, playing a vital role in expanding its territory and consolidating its power through strategic alliances and military conquests."
+        }
+    ]
+}

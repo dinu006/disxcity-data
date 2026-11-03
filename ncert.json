@@ -25,6 +25,10 @@
         {
           "name":"What Books and Burials Tell us",
           "file": "NCERT/Class-VI/English/2015/History/What-Where-How-And-When.json"
+        },
+        {
+          "name":"Kingdoms, Kings and an Early Republic",
+          "file":"NCERT/Class-VI/English/2015/History/Kingdoms-Kings-And-An-Early-Republic.json"
         }
       ]
     },
