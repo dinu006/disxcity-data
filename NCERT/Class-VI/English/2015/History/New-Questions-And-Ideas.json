@@ -1,0 +1,405 @@
+{
+    "chapter": "New Questions And Ideas",
+    "class": "Class-VI",
+    "language": "English",
+    "year": "2015",
+    "subject": "History",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Where was Siddhartha (Gautam Buddha) born?",
+            "options": [
+                "Kushinagar",
+                "Lumbini",
+                "Sarnath",
+                "Bodh Gaya"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Siddhartha Gautama was born in Lumbini (in modern-day Nepal) around 563 BCE."
+        },
+        {
+            "id": 2,
+            "question": "Where did Gautam Buddha attain enlightenment?",
+            "options": [
+                "Kushinagar",
+                "Bodh Gaya",
+                "Lumbini",
+                "Sarnath"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Gautam Buddha attained enlightenment under the Bodhi tree in Bodh Gaya, Bihar."
+        },
+        {
+            "id": 3,
+            "question": "Where did Gautam Buddha pass away (achieve Mahaparinirvana)?",
+            "options": [
+                "Bodh Gaya",
+                "Kushinagar",
+                "Sarnath",
+                "Lumbini"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Gautam Buddha passed away and attained Mahaparinirvana in Kushinagar, Uttar Pradesh."
+        },
+        {
+            "id": 4,
+            "question": "At what age did Gautam Buddha leave his house?",
+            "options": [
+                "29",
+                "35",
+                "25",
+                "40"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Gautam Buddha left his palace and family at the age of 29 to seek spiritual enlightenment."
+        },
+        {
+            "id": 5,
+            "question": "In which year was Gautam Buddha born?",
+            "options": [
+                "563 BCE",
+                "623 BCE",
+                "544 BCE",
+                "483 BCE"
+            ],
+            "correctAnswer": 0,
+            "explanation": "According to traditional accounts, Gautam Buddha was born in 563 BCE in Lumbini."
+        },
+        {
+            "id": 6,
+            "question": "At what age did Gautam Buddha pass away?",
+            "options": [
+                "75",
+                "85",
+                "80",
+                "70"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Gautam Buddha passed away at the age of 80 in Kushinagar."
+        },
+        {
+            "id": 7,
+            "question": "In which year did Gautam Buddha pass away?",
+            "options": [
+                "528 BCE",
+                "483 BCE",
+                "563 BCE",
+                "453 BCE"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Gautam Buddha passed away at the age of 80 in approximately 483 BCE."
+        },
+        {
+            "id": 8,
+            "question": "Where did Gautam Buddha go from Bodh Gaya after getting enlightenment?",
+            "options": [
+                "Kushinagar",
+                "Kapilvastu",
+                "Lumbini",
+                "Sarnath"
+            ],
+            "correctAnswer": 3,
+            "explanation": "After attaining enlightenment in Bodh Gaya, Gautam Buddha went to Sarnath to give his first sermon to his five disciples."
+        },
+        {
+            "id": 9,
+            "question": "In which language were the teachings of Gautam Buddha mainly delivered?",
+            "options": [
+                "Sanskrit",
+                "Prakrit",
+                "Pali",
+                "Hindi"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Gautam Buddha preached in Pali and local dialects so his message of liberation was accessible to the general public."
+        },
+        {
+            "id": 10,
+            "question": "What is the Pali term used by Gautam Buddha to describe the 'thirst' or craving that causes human suffering?",
+            "options": [
+                "Nirvana",
+                "Anicca",
+                "Dukkha",
+                "Tanha"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Tanha translates to 'thirst' or craving and is taught by Buddha as the primary cause of unhappiness and suffering."
+        },
+        {
+            "id": 11,
+            "question": "What is the name of the famous stupa in Sarnath that marks the spot where Gautam Buddha delivered his first sermon?",
+            "options": [
+                "Mahabodhi Stupa",
+                "Dhamek Stupa",
+                "Kushinagar Stupa",
+                "Sanchi Stupa"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Dhamek Stupa in Sarnath marks the exact location where Gautam Buddha gave his first teaching to his first five disciples."
+        },
+        {
+            "id": 12,
+            "question": "What is the name of the woman who was told by Gautam Buddha to bring a handful of mustard oil from a house where no death had ever occurred?",
+            "options": [
+                "Mallika",
+                "Yasodhara",
+                "Kisa Gotami",
+                "Prajapati Gautami"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Kisa Gotami, grieving the death of her child, was given this task by Buddha to help her realize that death is a universal reality for all families."
+        },
+        {
+            "id": 13,
+            "question": "Which famous thinker of the Upanishadic period was accepted as a student by the Brahman teacher Gautama, despite not knowing his lineage?",
+            "options": [
+                "Gargi",
+                "Satyakama Jabala",
+                "Svetaketu",
+                "Upakosala"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Satyakama Jabala was accepted by the sage Haridrumata Gautama because of his truthfulness and desire for knowledge, later becoming a celebrated Upanishadic thinker."
+        },
+        {
+            "id": 14,
+            "question": "Which ancient scholar arranged the vowels and consonants in a special grammatical order and used algebraic-like linguistic rules?",
+            "options": [
+                "Katyayana",
+                "Patanjali",
+                "Pāṇini",
+                "Aryabhata"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Pāṇini systematically organized Sanskrit vowels and consonants into the Shiva Sutras and used rule-based linguistic formulas akin to algebra in his grammar treatise, the Astadhyayi."
+        },
+        {
+            "id": 15,
+            "question": "Who was the founder of Jainism and what was his full name?",
+            "options": [
+                "Siddhartha Gautama",
+                "Vardhamana Mahavira",
+                "Parshvanatha",
+                "Rishabhanatha"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Vardhamana Mahavira (Mahavira) is the 24th and last Tirthankara, widely recognized as the historical founder of Jainism as it is known today."
+        },
+        {
+            "id": 16,
+            "question": "In which year was Vardhamana Mahavira born?",
+            "options": [
+                "599 BCE",
+                "563 BCE",
+                "483 BCE",
+                "540 BCE"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Vardhamana Mahavira was born in approximately 540 BCE in Kundagrama, Bihar."
+        },
+        {
+            "id": 17,
+            "question": "Mahavira was a prince and Kshatriya of which clan/confederacy?",
+            "options": [
+                "Jnatrika / Lichchhavi clan",
+                "Gupta clan",
+                "Maurya clan",
+                "Shakya clan"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Mahavira belonged to the Jnatrika Kshatriya clan, which was part of the ruling Vajji confederacy (associated with the Lichchhavis) based in Vaishali."
+        },
+        {
+            "id": 18,
+            "question": "Vardhamana Mahavira was associated with which ancient sangha or confederacy?",
+            "options": [
+                "Malla Sangha",
+                "Shakya Sangha",
+                "Vajji Sangha",
+                "Kuru Sangha"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Mahavira was a prince of the Lichchhavi group, which was a part of the powerful Vajji Sangha centered around Vaishali."
+        },
+        {
+            "id": 19,
+            "question": "At what age did Mahavira leave his home to live as an ascetic?",
+            "options": [
+                "35",
+                "30",
+                "29",
+                "25"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mahavira left his family and royal home at the age of 30 to embark on a spiritual journey of rigorous asceticism."
+        },
+        {
+            "id": 20,
+            "question": "What were the followers of Mahavira known as?",
+            "options": [
+                "Buddhists",
+                "Jainas",
+                "Brahmins",
+                "Ajivikas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The followers of Mahavira were called Jainas, derived from 'Jina', meaning conqueror, because Mahavira conquered all worldly attachments and desires."
+        },
+        {
+            "id": 21,
+            "question": "What does the word 'Jina' mean?",
+            "options": [
+                "Teacher",
+                "Seeker",
+                "Leader",
+                "Conqueror"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The word 'Jina' means 'conqueror', referring to one who has successfully conquered inner passions like anger, pride, and desire."
+        },
+        {
+            "id": 22,
+            "question": "At which place in Gujarat were the rules and canons of Jainism officially written down and compiled?",
+            "options": [
+                "Ahmedabad",
+                "Surat",
+                "Patan",
+                "Vallabhi"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The final compilation and recording of the Svetambara Jain canon took place at the Second Jain Council held in Vallabhi, Gujarat, in 512 CE."
+        },
+        {
+            "id": 23,
+            "question": "In which book were the rules made for the Buddhist Sangha written down?",
+            "options": [
+                "Vinaya Pitaka",
+                "Jataka Tales",
+                "Abhidhamma Pitaka",
+                "Sutta Pitaka"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Vinaya Pitaka is one of the primary texts of the Tripitaka and contains the monastic rules and code of conduct for monks and nuns in the Buddhist Sangha."
+        },
+        {
+            "id": 24,
+            "question": "What is the present-day name or location of the ancient site Karle, known for its rock-cut Buddhist caves?",
+            "options": [
+                "Ellora (Maharashtra)",
+                "Sanchi (Madhya Pradesh)",
+                "Karla / Karli (near Lonavala, Maharashtra)",
+                "Ajanta (Maharashtra)"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The ancient site of Karle is present-day Karla (or Karli), situated near Lonavala in Maharashtra, famous for its large rock-cut Chaitya cave."
+        },
+        {
+            "id": 25,
+            "question": "What was the name given to the dwelling place where monks lived during the rainy season?",
+            "options": [
+                "Vihara",
+                "Stupa",
+                "Chaitya",
+                "Mandapa"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Monks and nuns stayed in shelters called viharas during the rainy season when traveling became difficult and could harm small living creatures."
+        },
+        {
+            "id": 26,
+            "question": "What are the four traditional stages of life (ashramas) in Hinduism?",
+            "options": [
+                "Brahmacharya, Grihastha, Vanaprastha, Sannyasa",
+                "Satya, Treta, Dvapara, Kali",
+                "Dharma, Artha, Kama, Moksha",
+                "Brahmin, Kshatriya, Vaishya, Shudra"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The ancient system of ashramas divides a human life into four stages: student (Brahmacharya), householder (Grihastha), forest dweller (Vanaprastha), and renouncer (Sannyasa)."
+        },
+        {
+            "id": 27,
+            "question": "Who was the prophet and founder of Zoroastrianism?",
+            "options": [
+                "Cyrus",
+                "Mazdak",
+                "Zarathustra (Zoroaster)",
+                "Mani"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Zarathustra (or Zoroaster) was an ancient Iranian prophet who founded Zoroastrianism, preaching the worship of the supreme creator, Ahura Mazda."
+        },
+        {
+            "id": 28,
+            "question": "What is the name of the main sacred book of Zoroastrianism?",
+            "options": [
+                "Avesta",
+                "Krenshaw",
+                "Torah",
+                "Tripitaka"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Avesta is the primary collection of religious texts of Zoroastrianism, which includes the ancient Gathas composed by the prophet Zarathustra."
+        },
+        {
+            "id": 29,
+            "question": "In which year was Vardhamana Mahavira born?",
+            "options": [
+                "599 BCE",
+                "540 BCE",
+                "563 BCE",
+                "483 BCE"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Vardhamana Mahavira was born in approximately 540 BCE in Kundagrama, Bihar."
+        },
+        {
+            "id": 30,
+            "question": "What is the traditionally accepted birth year of Vardhamana Mahavira?",
+            "options": [
+                "563 BCE",
+                "540 BCE",
+                "483 BCE",
+                "599 BCE"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Vardhamana Mahavira's birth is traditionally dated to 540 BCE in Kundagrama, near Vaishali."
+        },
+        {
+            "id": 31,
+            "question": "At which place did Vardhamana Mahavira attain Nirvana (pass away)?",
+            "options": [
+                "Pavapuri",
+                "Kundagrama",
+                "Bodh Gaya",
+                "Vaishali"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Mahavira passed away and attained final liberation (Nirvana) at Pavapuri, Bihar, at the age of 72."
+        },
+        {
+            "id": 32,
+            "question": "At what age did Vardhamana Mahavira pass away and attain Nirvana?",
+            "options": [
+                "70",
+                "85",
+                "80",
+                "72"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Mahavira lived for 72 years, passing away at Pavapuri around 468 BCE."
+        },
+        {
+            "id": 33,
+            "question": "Which of the following sets constitutes the traditional 'Char Dham' (four sacred pilgrimage sites) across India?",
+            "options": [
+                "Badrinath, Dwarka, Puri, Rameswaram",
+                "Kedarnath, Badrinath, Gangotri, Yamunotri",
+                "Varanasi, Haridwar, Prayagraj, Ujjain",
+                "Mathura, Ayodhya, Kashi, Tirupati"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The pan-Indian Char Dham pilgrimage established across the four cardinal directions consists of Badrinath in the north, Dwarka in the west, Puri in the east, and Rameswaram in the south."
+        }
+    ]
+}

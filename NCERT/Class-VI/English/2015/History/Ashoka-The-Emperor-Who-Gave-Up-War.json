@@ -1,0 +1,213 @@
+{
+    "chapter": "Ashoka, The Emperor Who Gave Up War",
+    "class": "Class-VI",
+    "language": "English",
+    "year": "2015",
+    "subject": "History",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Ashok Stambh of Ashoka is placed on which place of India?",
+            "options": [
+                "Bodhgaya",
+                "Varanasi",
+                "Sarnath",
+                "Sanchi"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The Lion Capital of Ashoka, which serves as the national emblem of India, was discovered at the archaeological site of Sarnath, near Varanasi."
+        },
+        {
+            "id": 2,
+            "question": "Who founded the Ashoka Empire?",
+            "options": [
+                "Ashoka",
+                "Chandragupta Maurya",
+                "Bindusara",
+                "Samudragupta"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Maurya Empire (often referred to in the context of Ashoka) was founded by Chandragupta Maurya in 322 BCE with the help of Chanakya."
+        },
+        {
+            "id": 3,
+            "question": "Name of the wise man who supported Chandragupta Maurya.",
+            "options": [
+                "Aryabhata",
+                "Chanakya",
+                "Banabhatta",
+                "Kalidasa"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chanakya (also known as Kautilya or Vishnugupta) was a teacher, philosopher, and royal advisor who played a pivotal role in the establishment and guidance of the Maurya Empire under Chandragupta."
+        },
+        {
+            "id": 4,
+            "question": "Chanakya is also called",
+            "options": [
+                "Aryabhata",
+                "Kautilya",
+                "Both Kautilya and Vishnugupta",
+                "Vishnugupta"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Chanakya is also widely known by his other names, Kautilya and Vishnugupta, under which he authored the ancient Indian political treatise, the Arthashastra."
+        },
+        {
+            "id": 5,
+            "question": "The famous book written by Chanakya was",
+            "options": [
+                "Arthashastra",
+                "Indika",
+                "Mudrarakshasa",
+                "Rajatarangini"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Chanakya authored the Arthashastra, an ancient Indian treatise on statecraft, economic policy, and military strategy."
+        },
+        {
+            "id": 6,
+            "question": "The grandfather of Ashoka was",
+            "options": [
+                "Dasharatha",
+                "Bindusara",
+                "Samprati",
+                "Chandragupta Maurya"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Ashoka was the grandson of Chandragupta Maurya, the founder of the Maurya Empire, and the son of Bindusara."
+        },
+        {
+            "id": 7,
+            "question": "The father of Ashoka was",
+            "options": [
+                "Bindusara",
+                "Chandragupta Maurya",
+                "Dasharatha",
+                "Samprati"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Ashoka was the son of the Mauryan Emperor Bindusara and grandson of Chandragupta Maurya."
+        },
+        {
+            "id": 8,
+            "question": "When a member of the same family becomes ruler of one after the another, the family is often called",
+            "options": [
+                "Empire",
+                "Dynasty",
+                "Kingdom",
+                "Republic"
+            ],
+            "correctAnswer": 1,
+            "explanation": "When members of the same family become rulers one after another, the family is referred to as a dynasty, such as the Maurya dynasty."
+        },
+        {
+            "id": 9,
+            "question": "Which of the following ruler sent Megasthenes from Greek to the court of Ashoka?",
+            "options": [
+                "Alexander the Great",
+                "Antiochus I",
+                "Seleucus Nicator",
+                "Ptolemy II"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Megasthenes was sent as an ambassador by the Greek ruler Seleucus Nicator, though he visited the court of Chandragupta Maurya (Ashoka's grandfather), not Ashoka."
+        },
+        {
+            "id": 10,
+            "question": "How many towns and gates did Ashokan Empire Pataliputra had?",
+            "options": [
+                "300 towns and 45 gates",
+                "500 towns and 60 gates",
+                "400 towns and 50 gates",
+                "570 towns and 64 gates"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to accounts from Megasthenes, the magnificent Mauryan capital city of Pataliputra had 570 towns and 64 gates."
+        },
+        {
+            "id": 11,
+            "question": "Inscription of Ashoka was written in which language and which script?",
+            "options": [
+                "Prakrit and Brahmi",
+                "Sanskrit and Devanagari",
+                "Tamil and Vatteluttu",
+                "Pali and Kharosthi only"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Most of Ashoka's inscriptions were written in Prakrit language and Brahmi script, though other languages like Aramaic and Greek, and scripts like Kharosthi, were also used in specific regions."
+        },
+        {
+            "id": 12,
+            "question": "The Kalinga War had happened at which time?",
+            "options": [
+                "c. 321 BCE",
+                "c. 261 BCE",
+                "c. 232 BCE",
+                "c. 185 BCE"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Kalinga War was fought around 261 BCE between the Maurya Empire under Ashoka and the state of Kalinga, resulting in massive bloodshed that profoundly transformed Ashoka's outlook towards peace and Buddhism."
+        },
+        {
+            "id": 13,
+            "question": "The Kalinga had the war in which state of India?",
+            "options": [
+                "Bihar",
+                "Madhya Pradesh",
+                "Odisha",
+                "Karnataka"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Kalinga was an ancient historical region located in the eastern part of India, corresponding to present-day Odisha and parts of northern Andhra Pradesh."
+        },
+        {
+            "id": 14,
+            "question": "The inscription of Rampurva bull is placed in which place of India?",
+            "options": [
+                "National Museum, New Delhi",
+                "Indian Museum, Kolkata",
+                "Patna Museum, Bihar",
+                "Rashtrapati Bhavan, New Delhi"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The famous Rampurva Bull Capital (discovered in the West Champaran district of Bihar) is currently housed and placed in the Rashtrapati Bhavan (the Presidential Palace) in New Delhi."
+        },
+        {
+            "id": 15,
+            "question": "The Rampurwa bull is an example of which empire's inscription?",
+            "options": [
+                "Gupta Empire",
+                "Maurya Empire",
+                "Kushan Empire",
+                "Chola Empire"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Rampurwa bull is a polished sandstone pillar capital dating back to the Mauryan Empire under Emperor Ashoka, showcasing the exquisite craftsmanship of that era."
+        },
+        {
+            "id": 16,
+            "question": "Which Dharma did Ashoka follow after a Kalinga war?",
+            "options": [
+                "Jainism",
+                "Hinduism",
+                "Buddhism",
+                "Ajivika"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Deeply moved by the violence and suffering caused by the Kalinga War, Emperor Ashoka renounced warfare and embraced Buddhism, dedicating the rest of his reign to propagating the principles of peace, morality, and Dhamma."
+        },
+        {
+            "id": 17,
+            "question": "What is the total official length of the Great Wall of China?",
+            "options": [
+                "10,500.50 kilometers",
+                "8,851.80 kilometers",
+                "21,196.18 kilometers",
+                "15,400.25 kilometers"
+            ],
+            "correctAnswer": 2,
+            "explanation": "According to China's National Cultural Heritage Administration, the total official length of all sections of the Great Wall of China combined is 21,196.18 kilometers (13,170.7 miles)."
+        }
+    ]
+}
