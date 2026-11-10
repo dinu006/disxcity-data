@@ -1,0 +1,309 @@
+{
+    "chapter": "New Empires And Kingdoms",
+    "class": "Class-VI",
+    "language": "English",
+    "year": "2015",
+    "subject": "History",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Samudragupta was a famous ruler of which dynasty?",
+            "options": [
+                "Maurya dynasty",
+                "Gupta dynasty",
+                "Kushan dynasty",
+                "Vardhana dynasty"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Samudragupta was one of the most celebrated rulers of the Gupta dynasty, known for his vast military conquests and as described in the Allahabad Prasasti (Prayaga Prashasti)."
+        },
+        {
+            "id": 2,
+            "question": "The Gupta's Prayag Prashasti, which is composed in the Ashokan pillar of Allahabad (or Prayagraj), was inscribed by the court poet of Samudragupta, and his name was",
+            "options": [
+                "Banabhatta",
+                "Kalidasa",
+                "Harishena",
+                "Ravikirti"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Harishena was a court poet and minister of Samudragupta who composed the Prayaga Prashasti (Allahabad Pillar Inscription), praising the king's military victories and character."
+        },
+        {
+            "id": 3,
+            "question": "What was the name of Chandragupta's wife and Samudragupta's mother?",
+            "options": [
+                "Mahadevi Kumaradevi",
+                "Prabhavati Gupta",
+                "Dharini",
+                "Nagadatta"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Chandragupta I, the first Gupta ruler to adopt the grand title of Maharajadhiraja, was married to Kumaradevi of the Licchavi gana, and Samudragupta was their son."
+        },
+        {
+            "id": 4,
+            "question": "Chandragupta's wife and Samudragupta's mother belonged to which gana?",
+            "options": [
+                "Malla gana",
+                "Licchavi gana",
+                "Shakya gana",
+                "Vrijji gana"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Queen Kumaradevi belonged to the Licchavi gana, and her marriage to Chandragupta I was a significant political alliance that helped expand the influence of the early Gupta empire."
+        },
+        {
+            "id": 5,
+            "question": "Which ruler got the first title as Maharajadhiraja in Gupta dynasty?",
+            "options": [
+                "Sri Gupta",
+                "Ghatotkacha",
+                "Chandragupta I",
+                "Samudragupta"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Chandragupta I was the first ruler of the Gupta dynasty to adopt the grand title of 'Maharajadhiraja' (king of kings), a title that was later also used by his son Samudragupta."
+        },
+        {
+            "id": 6,
+            "question": "Who was the son of Samudragupta?",
+            "options": [
+                "Chandragupta II",
+                "Kumaragupta I",
+                "Skandagupta",
+                "Srigupta"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Chandragupta II, also known as Vikramaditya, was the son of Samudragupta and succeeded him as one of the most powerful rulers of the Gupta empire."
+        },
+        {
+            "id": 7,
+            "question": "The best known astronomer at the court of Samudragupta II was",
+            "options": [
+                "Aryabhata",
+                "Varahamihira",
+                "Brahmagupta",
+                "Bhaskara I"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Varahamihira (along with other luminaries like Kalidasa and Amarasimha) was part of the legendary 'Navaratnas' (nine gems) at the court of Chandragupta II (Vikramaditya)."
+        },
+        {
+            "id": 8,
+            "question": "The best known poet at Samudragupta II's court was",
+            "options": [
+                "Banabhatta",
+                "Kalidasa",
+                "Harishena",
+                "Bharavi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Kalidasa, the renowned poet and dramatist, adorned the court of Chandragupta II (also known as Vikramaditya), alongside other scholars of the Navaratnas."
+        },
+        {
+            "id": 9,
+            "question": "The biography of Harsha, known as Harshacharita, was written by",
+            "options": [
+                "Kalidasa",
+                "Harishena",
+                "Banabhatta",
+                "Ravikirti"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Banabhatta was the court poet of King Harshavardhana and wrote the Harshacharita, which is the first historical biography in Sanskrit detailing the life and reign of Harsha."
+        },
+        {
+            "id": 10,
+            "question": "Harshavardhana was the ruler of which kingdom?",
+            "options": [
+                "Magadha kingdom",
+                "Thanesar (later Kannauj) kingdom",
+                "Valabhi kingdom",
+                "Kamarupa kingdom"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Harshavardhana ruled over Thanesar and later made Kannauj the capital of his empire after succeeding his brother."
+        },
+        {
+            "id": 11,
+            "question": "Harshavardhana's brother-in-law who died in the war with the ruler of Bengal was the ruler of which kingdom?",
+            "options": [
+                "Kannauj",
+                "Valabhi",
+                "Magadha",
+                "Thanesar"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Harsha's brother-in-law, Grahavarman, was the ruler of Kannauj and was killed by the ruler of Bengal, which prompted Harsha to take over Kannauj and unite the kingdoms."
+        },
+        {
+            "id": 12,
+            "question": "Harshavardhana marched towards the Deccan crossing the Narmada river, but which ruler stopped him and of which dynasty?",
+            "options": [
+                "Pulakeshin II of the Chalukya dynasty",
+                "Mahendravarman I of the Pallava dynasty",
+                "Simhavishnu of the Pallava dynasty",
+                "Kirtivarman I of the Chalukya dynasty"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Pulakeshin II, the most famous ruler of the Chalukya dynasty, stopped Harshavardhana's march into the Deccan when Harsha tried to cross the Narmada river."
+        },
+        {
+            "id": 13,
+            "question": "The capital of the Chalukyas was",
+            "options": [
+                "Kanchipuram",
+                "Aihole",
+                "Badami",
+                "Kannauj"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Badami (ancient Vatapi) served as the early capital of the Chalukya dynasty, which was an important trading and religious center adorned with fine temples."
+        },
+        {
+            "id": 14,
+            "question": "Pulakeshin II was the best known ruler of which Chalukya?",
+            "options": [
+                "Chalukyas of Vengi",
+                "Chalukyas of Badami",
+                "Chalukyas of Kalyani",
+                "Later Chalukyas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Pulakeshin II was the most famous ruler of the Chalukyas of Badami (Vatapi), known for his expansion across the Deccan and stopping Harshavardhana's march."
+        },
+        {
+            "id": 15,
+            "question": "The prashasti composed by the court poet Ravikirti was dedicated to which ruler?",
+            "options": [
+                "Samudragupta",
+                "Pulakeshin II",
+                "Harshavardhana",
+                "Mahendravarman I"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Ravikirti was the court poet of Pulakeshin II and composed the Aihole prashasti, which details the achievements and military campaigns of the Chalukya king."
+        },
+        {
+            "id": 16,
+            "question": "After the attack on the Pallava king by Pulakeshin II, the Pallava king took shelter behind the walls of which city?",
+            "options": [
+                "Mahabalipuram",
+                "Kanchipuram",
+                "Badami",
+                "Madurai"
+            ],
+            "correctAnswer": 1,
+            "explanation": "During their conflicts with the Chalukyas, the Pallava rulers, including Mahendravarman I, defended their capital city of Kanchipuram against attacks from Pulakeshin II."
+        },
+        {
+            "id": 17,
+            "question": "The Pallavas and Chalukyas ultimately lost power to which rising dynasty and ruler?",
+            "options": [
+                "Rashtrakutas (Dantidurga) and Cholas (Vijayalaya)",
+                "Mauryas (Chandragupta Maurya)",
+                "Guptas (Samudragupta)",
+                "Vardhanas (Harshavardhana)"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The supremacy of the Chalukyas and Pallavas was later succeeded by new dynasties in the region, with the Rashtrakutas overthrowing the Chalukyas (founded by Dantidurga) and the Later Cholas reviving power in the south."
+        },
+        {
+            "id": 18,
+            "question": "Which of the following posts and its meanings was not held by Harishena?",
+            "options": [
+                "Maha-danda-nayaka (Chief Judicial Officer)",
+                "Kumaramatya (Important Minister)",
+                "Sandhi-vigrahika (Minister of War and Peace)",
+                "Ashvapati (Commander-in-Chief of Cavalry)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Harishena held important official positions such as Kumaramatya (an important minister), Maha-danda-nayaka (chief judicial officer), and Sandhi-vigrahika (minister of war and peace). He was not an Ashvapati."
+        },
+        {
+            "id": 19,
+            "question": "A chief banker or merchant of the city was known as",
+            "options": [
+                "Sarthavaha",
+                "Shreshthi",
+                "Prathama-kulika",
+                "Kayastha"
+            ],
+            "correctAnswer": 1,
+            "explanation": "During the Gupta period, a Shreshthi was typically a chief banker or merchant of the city, while Sarthavaha referred to the leader of merchant caravans."
+        },
+        {
+            "id": 20,
+            "question": "The leader of merchant caravans was known as",
+            "options": [
+                "Shreshthi",
+                "Sarthavaha",
+                "Prathama-kulika",
+                "Kayastha"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sarthavaha referred to the leader of merchant caravans who led traders safely across long distances for commerce during ancient times."
+        },
+        {
+            "id": 21,
+            "question": "The chief craftsman was known as",
+            "options": [
+                "Prathama-kulika",
+                "Shreshthi",
+                "Sarthavaha",
+                "Kayastha"
+            ],
+            "correctAnswer": 0,
+            "explanation": "During the Gupta period, the chief craftsman or artisan was known as the Prathama-kulika, playing an important role in urban administration alongside merchants and bankers."
+        },
+        {
+            "id": 22,
+            "question": "The word 'Samanta' refers to",
+            "options": [
+                "Military leaders who provided troops to kings and later became powerful independent rulers",
+                "Chief priests of royal temples",
+                "Tax collectors in rural villages",
+                "Foreign ambassadors in royal courts"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Samantas were military leaders or big landlords who maintained troops and provided them to kings. When kings were weak, these Samantas asserted their independence and established their own kingdoms."
+        },
+        {
+            "id": 23,
+            "question": "The story 'Abhijnanashakuntalam' (or Abhijyana Shakuntala) was written by",
+            "options": [
+                "Banabhatta",
+                "Kalidasa",
+                "Harishena",
+                "Ravikirti"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Abhijnanashakuntalam is a famous Sanskrit play written by the ancient poet and dramatist Kalidasa, depicting the love story of King Dushyanta and Shakuntala."
+        },
+        {
+            "id": 24,
+            "question": "The story of Abhijnanashakuntalam (Abhijnana Shakuntala) is a love story between",
+            "options": [
+                "King Dushyanta and Shakuntala",
+                "King Samudragupta and Kumaradevi",
+                "King Harshavardhana and his queen",
+                "Prince Rama and Sita"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Abhijnanashakuntalam is Kalidasa's celebrated play narrating the romance, separation, and eventual reunion of King Dushyanta and Shakuntala."
+        },
+        {
+            "id": 25,
+            "question": "Who introduced the new religion Islam in Arabia?",
+            "options": [
+                "Prophet Muhammad",
+                "Caliph Abu Bakr",
+                "Caliph Umar",
+                "Ali ibn Abi Talib"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Islam was introduced in Arabia by Prophet Muhammad in the 7th century CE, after which it spread rapidly across parts of Asia, Africa, and Europe over the subsequent centuries."
+        }
+    ]
+}
