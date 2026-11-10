@@ -1,0 +1,213 @@
+{
+    "chapter": "Traders, Kings and Pilgrims",
+    "class": "Class-VI",
+    "language": "English",
+    "year": "2015",
+    "subject": "History",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Which spice is called black gold in Europe?",
+            "options": [
+                "Black Pepper",
+                "Clove",
+                "Cinnamon",
+                "Cardamom"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Black pepper has historically been referred to as 'black gold' due to its high value, demand, and use as currency in European trade."
+        },
+        {
+            "id": 2,
+            "question": "The families which control the main river Kaveri, the group for three kings. The Tamil word for these three chiefs were",
+            "options": [
+                "Adigaimans",
+                "Nayanars",
+                "Velir",
+                "Muvendar"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The Tamil word 'Muvendar' (or Moovendhar) means three chiefs, used by Sangam poets to describe the heads of the three ruling families—the Cholas, Cheras, and Pandyas—who held power in southern India."
+        },
+        {
+            "id": 3,
+            "question": "The Powar city was also called",
+            "options": [
+                "Dhar",
+                "Panwar",
+                "Puar",
+                "Ujjain"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Historically, the Powar (or Parmara/Panwar) rulers and community trace their capital and major historical center to the ancient city of Ujjain (and Dhar) in Malwa."
+        },
+        {
+            "id": 4,
+            "question": "The port of Chola was",
+            "options": [
+                "Calicut",
+                "Surat",
+                "Puhar (Poompuhar)",
+                "Masulipatnam"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Puhar (also known as Kaveripattinam or Poompuhar) was a major ancient port city and capital of the early Chola dynasty, located at the mouth of the Kaveri River."
+        },
+        {
+            "id": 5,
+            "question": "The capital of Pandya was",
+            "options": [
+                "Uraiyur",
+                "Vanji",
+                "Kaveripattinam",
+                "Madurai"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Madurai served as the ancient and historic capital of the Pandya dynasty, renowned for its cultural significance and ancient Tamil Sangam assemblies."
+        },
+        {
+            "id": 6,
+            "question": "The famous ruler of Satavahana dynasty was",
+            "options": [
+                "Kanishka",
+                "Samudragupta",
+                "Ashoka",
+                "Gautamiputra Satakarni"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Gautamiputra Satakarni was the most famous and powerful ruler of the Satavahana dynasty, known for expanding the empire and defeating foreign rulers like the Shakas."
+        },
+        {
+            "id": 7,
+            "question": "Who composed the poem for her/his son Gautamiputra Sri Satakarni?",
+            "options": [
+                "Queen Nayanika",
+                "Prabhavati Gupta",
+                "Gautami Balashri",
+                "Mahadevi Kumaradevi"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The famous Nasik prashasti (inscription/poem of praise) was composed on the orders of Gautami Balashri, the mother of Gautamiputra Satakarni, to commemorate his military achievements and virtues."
+        },
+        {
+            "id": 8,
+            "question": "The rulers of Satavahana were known as",
+            "options": [
+                "Lords of Uttarapatha",
+                "Emperors of the West",
+                "Lords of the Dakshinapatha",
+                "Chakravartins of the East"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The Satavahana rulers were known as the 'Lords of the Dakshinapatha', which literally means the route leading to the south, referring to the entire region south of the Narmada river."
+        },
+        {
+            "id": 9,
+            "question": "The route followed by Chinese to sell silk was called",
+            "options": [
+                "The Silk Road",
+                "The Amber Road",
+                "The Spice Route",
+                "The Incense Route"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The network of trade routes established during the Han Dynasty that connected China with the West for the commercial trade of Chinese silk was known as the Silk Road."
+        },
+        {
+            "id": 10,
+            "question": "The biography of Buddha, 'Buddhacharita', was written by?",
+            "options": [
+                "Kalidasa",
+                "Nagarjuna",
+                "Ashvaghosha",
+                "Banabhatta"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The Buddhacharita, an epic poem in Sanskrit on the life of Gautama Buddha, was composed by the ancient poet and philosopher Ashvaghosha in the early 2nd century CE."
+        },
+        {
+            "id": 11,
+            "question": "The new form of Buddhism known as Mahayana Buddhism featured a change where statues of the Buddha were made. Before this, in early Buddhist art, the presence of the Buddha was shown through certain signs. Which of the following was commonly used to represent the Buddha's presence?",
+            "options": [
+                "The Banyan tree",
+                "The Ashoka tree",
+                "The Mango tree",
+                "The Pipal tree (Bodhi tree)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "In early Buddhist art before the rise of Mahayana Buddhism, the Buddha was not represented in human form; instead, his presence was symbolized through signs such as footprints, empty seats, and sculpture representations of the Pipal (Bodhi) tree under which he attained enlightenment."
+        },
+        {
+            "id": 12,
+            "question": "The older form of Buddhism was called",
+            "options": [
+                "Zen",
+                "Vajrayana",
+                "Mahayana",
+                "Theravada / Hinayana"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The older, traditional form of Buddhism is known as Theravada (or referred to in earlier historical texts as Hinayana), which adhered closely to the original teachings and monastic discipline of the Buddha."
+        },
+        {
+            "id": 13,
+            "question": "The Chinese pilgrim who took the sea route to travel from Bengal to China was",
+            "options": [
+                "Song Yun",
+                "Xuanzang",
+                "Fa Xian",
+                "I-Qing (Yijing)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "I-Qing (Yijing) was a Chinese Buddhist monk who spent years studying in India and took the sea route back from India (sailing from the port in Bengal) to China."
+        },
+        {
+            "id": 14,
+            "question": "The Chinese pilgrim who took 600 manuscripts and a statue of Buddha made up of silver and sandalwood through a northwestern route to China was",
+            "options": [
+                "I-Qing",
+                "Wang Xuance",
+                "Fa Xian",
+                "Xuanzang (Hiuen Tsang)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Xuanzang took the land route back to China through the northwest and Central Asia, carrying with him over 600 Buddhist manuscripts loaded on horses, along with statues of the Buddha made of gold, silver, and sandalwood."
+        },
+        {
+            "id": 15,
+            "question": "Which Chinese traveler traveled to Nalanda and wrote about it?",
+            "options": [
+                "Xuanzang",
+                "Fa Xian",
+                "Hui Li",
+                "I-Qing"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Xuanzang visited the ancient monastic university of Nalanda in the 7th century CE and wrote detailed accounts of its architecture, education system, discipline, and daily life."
+        },
+        {
+            "id": 16,
+            "question": "The country India got its name and the people living near it were referred to as 'Hindu' or 'Indoi' because of which river?",
+            "options": [
+                "The Yamuna",
+                "The Indus (Sindhu)",
+                "The Brahmaputra",
+                "The Ganga"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The names 'India' and 'Hindu' are derived from the river Indus (known in Sanskrit as Sindhu). Persians and Greeks who came through the northwest referred to the land east of the Indus and its people using variations of this river's name."
+        },
+        {
+            "id": 17,
+            "question": "Jesus Christ was born in",
+            "options": [
+                "Nazareth",
+                "Galilee",
+                "Jerusalem",
+                "Bethlehem"
+            ],
+            "correctAnswer": 3,
+            "explanation": "According to the Christian Gospels, Jesus Christ was born in the town of Bethlehem in Judea."
+        }
+    ]
+}
