@@ -5,11 +5,149 @@
     "year": "2015",
     "subject": "History",
     "questions": [
-        
-
-
-
-
-
+        {
+            "id": 1,
+            "question": "The land owners in the Tamil region of India were known as?",
+            "options": [
+                "Gramabhojaka",
+                "Vellalan",
+                "Vellalar / Vellalan",
+                "Vellalar"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Large landowners in Tamil Nadu were known as Vellalar."
+        },
+        {
+            "id": 2,
+            "question": "The ploughmen in the Tamil region of India were known as?",
+            "options": [
+                "Adimai",
+                "Kadaisiyar",
+                "Vellalar",
+                "Uzhavar"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Ordinary ploughmen in the ancient Tamil region were known as Uzhavar, while large landowners were called Vellalar."
+        },
+        {
+            "id": 3,
+            "question": "What were the two categories of landless laborers, including slaves, known as in the ancient Tamil region?",
+            "options": [
+                "Kadaisiyar and Adimai",
+                "Vellalar and Kadaisiyar",
+                "Gramabhojaka and Gahapati",
+                "Vellalar and Uzhavar"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In the Tamil region, ordinary landless laborers, including agricultural laborers, were known as Kadaisiyar, while slaves were known as Adimai."
+        },
+        {
+            "id": 4,
+            "question": "In the northern part of India, the village headman was known as?",
+            "options": [
+                "Gramabhojaka",
+                "Uzhavar",
+                "Vellalar",
+                "Gahapati"
+            ],
+            "correctAnswer": 0,
+            "explanation": "In the northern part of India, the village headman was generally known as the gramabhojaka."
+        },
+        {
+            "id": 5,
+            "question": "The small landowners in the northern part of India were known as?",
+            "options": [
+                "Gahapatis",
+                "Gramabhojaka",
+                "Kadaisiyar",
+                "Vellalar"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Independent farmers and small landowners in northern India were known as gahapatis."
+        },
+        {
+            "id": 6,
+            "question": "The men and women who had no land and had to work for others for wages were known as?",
+            "options": [
+                "Gramabhojaka",
+                "Uzhavar",
+                "Dasas karmakaras",
+                "Gahapatis"
+            ],
+            "correctAnswer": 2,
+            "explanation": "In northern India, men and women who owned no land and had to work for others to earn a living (wages) were known as dasas and karmakaras."
+        },
+        {
+            "id": 7,
+            "question": "The old names like Vellalar and Uzhavar were found in the earliest works in Tamil, which were known as what literature?",
+            "options": [
+                "Pali literature",
+                "Sangam literature",
+                "Vedic literature",
+                "Puranic literature"
+            ],
+            "correctAnswer": 1,
+            "explanation": "These terms are found in Sangam literature, which was composed in Tamil around 2,300 years ago."
+        },
+        {
+            "id": 8,
+            "question": "The stories and poetry written by ordinary people and composed by Buddhist monks were known as?",
+            "options": [
+                "Puranas",
+                "Upanishads",
+                "Jatakas",
+                "Vedas"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Stories and poetry that were often written by ordinary people and preserved and composed by Buddhist monks were known as Jatakas."
+        },
+        {
+            "id": 9,
+            "question": "In which regions or states of India have archaeological ring wells—dating back to the Mauryan and early historic periods—been widely discovered?",
+            "options": [
+                "Only in southern India",
+                "Only in western India",
+                "Multiple states across India (such as Delhi, Uttar Pradesh, Bihar, and parts of Assam and Tamil Nadu)",
+                "Only in the Thar desert"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Ring wells have been found across many states and regions in India (most notably originating in the Gangetic plains spanning states like Uttar Pradesh, Bihar, and Delhi, as well as being discovered in states like Assam and Tamil Nadu during various archaeological excavations)."
+        },
+        {
+            "id": 10,
+            "question": "What was the second capital of the Kushanas?",
+            "options": [
+                "Taxila",
+                "Pataliputra",
+                "Peshawar",
+                "Mathura"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Mathura served as the second capital of the Kushanas (with Peshawar/Purushapura being their first capital)."
+        },
+        {
+            "id": 11,
+            "question": "The craftsmen in old times who processed raw materials to make clothes were known as members of what type of associations?",
+            "options": [
+                "Samitis",
+                "Sabhas",
+                "Ganas",
+                "Shrenis"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Craftsmen and merchants formed associations known as shrenis. These shrenis of craftspersons provided training, procured raw materials, and distributed finished products like clothes."
+        },
+        {
+            "id": 12,
+            "question": "Which spice was known as 'black gold' in Europe during ancient and medieval trade?",
+            "options": [
+                "Clove",
+                "Cinnamon",
+                "Black pepper",
+                "Cardamom"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Black pepper was so highly valued and in such great demand in the Roman Empire and wider Europe that it was famously referred to as 'black gold'."
+        }
     ]
 }
