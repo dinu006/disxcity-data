@@ -1,0 +1,201 @@
+{
+    "chapter": "Buildings, Paintings and Books",
+    "class": "Class-VI",
+    "language": "English",
+    "year": "2015",
+    "subject": "History",
+    "questions": [
+        {
+            "id": 1,
+            "question": "The famous iron pillar at Delhi is present at which place?",
+            "options": [
+                "Qutb Minar complex",
+                "Red Fort",
+                "Mehrauli",
+                "Humayun's Tomb"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The famous iron pillar is located at Mehrauli in Delhi, known for its incredible skill of Indian craftspersons in metallurgy and its resistance to rust for over 1,600 years."
+        },
+        {
+            "id": 2,
+            "question": "The height of iron pillar at Delhi is",
+            "options": [
+                "5.2 metres",
+                "7.2 metres",
+                "10.5 metres",
+                "3.5 metres"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The iron pillar at Mehrauli, Delhi, is made of iron and is 7.2 metres high, weighing over 3 tonnes."
+        },
+        {
+            "id": 3,
+            "question": "Who was the ruler who built the iron pillar at Delhi?",
+            "options": [
+                "Chandragupta II",
+                "Samudragupta",
+                "Ashoka",
+                "Kanishka"
+            ],
+            "correctAnswer": 0,
+            "explanation": "An inscription on the iron pillar mentions a ruler named Chandra, who is generally identified as Chandragupta II of the Gupta dynasty."
+        },
+        {
+            "id": 4,
+            "question": "Which dynasty does the Iron Pillar at Delhi belong to?",
+            "options": [
+                "Maurya dynasty",
+                "Gupta dynasty",
+                "Chola dynasty",
+                "Mughal dynasty"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The Iron Pillar at Mehrauli, Delhi, dates back to the Gupta dynasty, built during the reign of Chandragupta II."
+        },
+        {
+            "id": 5,
+            "question": "The box present at the center of stupas was called",
+            "options": [
+                "Harmika",
+                "Pradakshina patha",
+                "Relic casket",
+                "Mandapa"
+            ],
+            "correctAnswer": 2,
+            "explanation": "At the center of the stupa, there was a small box known as a relic casket, which may contain bodily remains (such as teeth, bone, or ashes) of the Buddha or his followers, or things they used, as well as precious stones and coins."
+        },
+        {
+            "id": 6,
+            "question": "The path toward the stupa is called",
+            "options": [
+                "Pradakshina patha",
+                "Mandapa",
+                "Garbhagriha",
+                "Harmika"
+            ],
+            "correctAnswer": 0,
+            "explanation": "A path known as the pradakshina patha was laid around the stupa, which was surrounded by railings, and devotees walked around the stupa in a clockwise direction as a sign of devotion."
+        },
+        {
+            "id": 7,
+            "question": "Temple which are made up of by cutting a single rock is called",
+            "options": [
+                "Monolithic temple",
+                "Stupa",
+                "Mandapa",
+                "Garbhagriha"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Temples that were carved out of huge rocks (such as the rock-cut temples at Mahabalipuram) are known as monolithic temples."
+        },
+        {
+            "id": 8,
+            "question": "The Durga temple at Aihole is built on which year?",
+            "options": [
+                "About 1400 years ago (Late 7th to early 8th century CE)",
+                "About 2000 years ago",
+                "About 1100 years ago",
+                "About 1700 years ago"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The Durga temple at Aihole was built approximately 1400 years ago, during the late 7th or early 8th century under the rule of the Chalukya dynasty."
+        },
+        {
+            "id": 9,
+            "question": "The story of two lovers among which one was Kannagi and the second was Kovalan. They went to Madurai leaving Puhar. What was named and who was the writer of this story?",
+            "options": [
+                "Silappadikaram, composed by poet Ilango",
+                "Manimekalai, composed by Sattanar",
+                "Meghaduta, composed by Kalidasa",
+                "Arthashastra, composed by Chanakya"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The epic poem Silappadikaram, composed by the poet Ilango, tells the story of a merchant named Kovalan living in Puhar who fell in love with a courtesan Madhavi, neglecting his wife Kannagi. Later, they left Puhar for Madurai, where Kovalan was unjustly accused of theft by the court jeweler of the Pandya king and put to death."
+        },
+        {
+            "id": 10,
+            "question": "The story of the daughter of Kovalan and Madhavi was named as and who composed it?",
+            "options": [
+                "Manimekalai, composed by Sattanar",
+                "Silappadikaram, composed by poet Ilango",
+                "Meghaduta, composed by Kalidasa",
+                "Abhijnana Shakuntalam, composed by Kalidasa"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The epic Manimekalai was composed by Sattanar around 1400 years ago and describes the story of the daughter of Kovalan and Madhavi."
+        },
+        {
+            "id": 11,
+            "question": "Who composed Meghaduta?",
+            "options": [
+                "Kalidasa",
+                "Ilango",
+                "Sattanar",
+                "Valmiki"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Meghaduta was composed by the renowned classical Sanskrit poet and dramatist Kalidasa. It is a famous lyric poem depicting a message sent by a yaksha to his beloved."
+        },
+        {
+            "id": 12,
+            "question": "Who wrote Ramayana?",
+            "options": [
+                "Valmiki",
+                "Vyasa",
+                "Kalidasa",
+                "Tulsidas"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The great epic Ramayana, which tells the story of Rama, was originally written in Sanskrit by the sage Valmiki."
+        },
+        {
+            "id": 13,
+            "question": "Who wrote Mahabharata?",
+            "options": [
+                "Ved Vyasa",
+                "Valmiki",
+                "Kalidasa",
+                "Tulsidas"
+            ],
+            "correctAnswer": 0,
+            "explanation": "The epic Mahabharata, which tells the story of a war fought to control the throne of the Kauravas and Pandavas, was traditionally compiled and written by the sage Vyasa (Ved Vyasa)."
+        },
+        {
+            "id": 14,
+            "question": "The book written by Aryabhata was",
+            "options": [
+                "Aryabhatiyam",
+                "Surya Siddhanta",
+                "Panchatantra",
+                "Meghaduta"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Aryabhata, a mathematician and astronomer, wrote a book in Sanskrit known as the Aryabhatiyam, in which he stated that day and night are caused by the rotation of the earth on its axis."
+        },
+        {
+            "id": 15,
+            "question": "Who is famously associated with early mathematical developments, including the decimal place-value system and numerals in ancient India?",
+            "options": [
+                "Aryabhatta",
+                "Varahamihira",
+                "Kalidasa",
+                "Ilango"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Aryabhatta was a pioneering Indian mathematician and astronomer who made monumental contributions to the decimal place-value system and mathematical concepts foundational to the understanding of zero."
+        },
+        {
+            "id": 16,
+            "question": "Who discovered paper and where?",
+            "options": [
+                "Cai Lun, in China",
+                "Aryabhatta, in India",
+                "Ptolemy, in Egypt",
+                "Confucius, in China"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Paper was invented in China about 1,900 years ago by a man named Cai Lun, who made it by beating plant fibers, cloth, hemp, and rags, soaking them in water, and then pressing and drying the pulp."
+        }
+    ]
+}

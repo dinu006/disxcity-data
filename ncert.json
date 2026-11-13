@@ -49,6 +49,10 @@
         {
           "name": "New Empires And Kingdoms",
           "file": "NCERT/Class-VI/English/2015/History/New-Empires-And-Kingdoms.json"
+        },
+        {
+          "name": "Buildings, Paintings and Books",
+          "file": "NCERT/Class-VI/English/2015/History/Buildings-Painings-And-Books.json"
         }
       ]
     },
