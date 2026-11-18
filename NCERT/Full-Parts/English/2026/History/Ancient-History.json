@@ -865,6 +865,681 @@
     ],
     "correctAnswer": 0,
     "explanation": "Protohistory refers to the transitional period in human history between prehistory and history, during which a culture or civilization has developed written records, but those records have not yet been deciphered or fully understood (such as the Indus Valley Civilization script or early Rongorongo)."
+},
+{
+    "id": 72,
+    "question": "Which 17th-century German historian is credited with popularizing the tripartite division of human history into Ancient, Medieval, and Modern periods through his historical textbook 'Historia Universalis'?",
+    "options": [
+        "Christoph Keller (Cellarius)",
+        "Edward Gibbon",
+        "Herodotus",
+        "Leopold von Ranke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Christoph Keller (known by his Latinized name Cellarius) popularized the three-period division of history—Ancient, Medieval, and Modern—in his influential universal history textbooks published in the late 17th century (such as 'Historia Universalis' in 1696), establishing a framework that became standard in historical education."
+},
+{
+    "id": 73,
+    "question": "Into how many traditional chronological periods is Indian history conventionally divided for study and historiographical analysis?",
+    "options": [
+        "Four parts: Ancient India, Early Medieval India, Medieval India, and Modern India",
+        "Three parts: Ancient, Medieval, and Modern India",
+        "Two parts: Pre-colonial and Post-colonial India",
+        "Five parts: Stone Age, Bronze Age, Iron Age, Classical, and British Period"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Indian history is conventionally structured into four major epochs: Ancient India (from prehistoric stone cultures up to the early medieval transition), Early Medieval India (roughly 6th to 13th centuries), Medieval India (spanning the Delhi Sultanate, Mughal Empire, and regional kingdoms), and Modern India (beginning with European colonial expansion through the freedom struggle to the post-independence era)."
+},
+{
+    "id": 74,
+    "question": "What is the conventional chronological span of the Ancient Indian history period, traditionally ending with the death of Emperor Harsha in 647 CE?",
+    "options": [
+        "From the prehistoric beginnings (stone age cultures) to 647 CE (death of King Harsha)",
+        "From 1500 BCE (Vedic period) to 1206 CE (establishment of Delhi Sultanate)",
+        "From 320 CE (Gupta Era) to 1707 CE (death of Aurangzeb)",
+        "From 712 CE (Arab conquest of Sindh) to 1947 CE (Indian Independence)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In traditional historiography, Ancient Indian history spans from the earliest prehistoric beginnings and the Indus Valley Civilization all the way up to 647 CE, marked by the death of Harshavardhana of Kannauj, which often serves as the watershed transition into the Early Medieval period of Indian history."
+},
+{
+    "id": 75,
+    "question": "What is the traditional chronological span of Medieval Indian history, beginning with the death of Emperor Harsha in 647 CE and culminating with the Battle of Plassey in 1757 CE?",
+    "options": [
+        "From 647 CE (death of Harsha) to 1757 CE (Battle of Plassey)",
+        "From 1206 CE (Delhi Sultanate) to 1857 CE (Indian Rebellion)",
+        "From 712 CE (Sindh conquest) to 1526 CE (First Battle of Panipat)",
+        "From 1000 CE (Ghaznavid raids) to 1947 CE (Independence)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In standard historiographical division, Medieval Indian history spans from the death of King Harsha in 647 CE through the rise of regional dynasties, the Delhi Sultanate, and the Mughal Empire, ending in 1757 CE with the Battle of Plassey, which marks the decisive establishment of British East India Company political dominance."
+},
+{
+    "id": 76,
+    "question": "What is the traditional chronological span of Modern Indian history, extending from the Battle of Plassey in 1757 CE through the British colonial era, the Indian independence movement, and into the post-independence era of economic reforms and globalization?",
+    "options": [
+        "From 1757 CE (Battle of Plassey) to the modern post-independence era and globalization",
+        "From 1857 CE (Sepoy Mutiny) to 1947 CE (Partition)",
+        "From 1526 CE (Mughal foundation) to 1950 CE (Constitution of India)",
+        "From 647 CE (Death of Harsha) to 1991 CE (Economic Liberalisation)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Modern Indian history begins with the Battle of Plassey in 1757 CE, which marked the foundation of British political and colonial hegemony in India. It encompasses the British Raj, the freedom struggle leading to independence in 1947, and continues through the post-colonial nation-building period into modern globalization and economic reforms (such as 1991)."
+},
+{
+    "id": 77,
+    "question": "What is the conventional chronological span of Post-Modern Indian history (or contemporary post-independence history), spanning from the birth of the Republic of India to the era of economic liberalization and globalization?",
+    "options": [
+        "From 1947 CE (Indian Independence and adoption of the Constitution) onward, extending into contemporary times and globalization",
+        "From 1950 CE to 2000 CE only",
+        "From 1991 CE to the present day",
+        "From 1857 CE to 1947 CE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Post-modern or contemporary Indian history generally begins with India gaining independence and establishing itself as a sovereign democratic republic in 1947–1950. It covers the post-colonial nation-building phase, institutional development, major geopolitical conflicts, and the watershed economic reforms (such as liberalization in 1991) that integrated India into the global economy."
+},
+
+{
+    "id": 78,
+    "question": "What is the traditional chronological time span of the prehistoric period in Indian history, extending from the earliest Paleolithic stone tool industries to the dawn of the iron-age historical transition?",
+    "options": [
+        "3,000,000 BCE to 600 BCE",
+        "500,000 BCE to 1000 BCE",
+        "10,000 BCE to 300 BCE",
+        "1,000,000 BCE to 1 CE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The prehistoric period of Indian history spans from roughly 3,000,000 BCE (marking the earliest hominid stone tool artifacts in the subcontinent) down to about 600 BCE, preceding the emergence of the Mahajanapadas and early written historical sources (such as the Brahmi script inscriptions)."
+},
+
+{
+    "id": 79,
+    "question": "What is the widely accepted archaeological time span of the Indus Valley Civilization (Harappan Civilization)?",
+    "options": [
+        "c. 2500 BCE to 1500 BCE (with the Mature Harappan phase lasting from c. 2600 BCE to 1900 BCE)",
+        "c. 1500 BCE to 500 BCE",
+        "c. 3500 BCE to 2500 BCE",
+        "c. 5000 BCE to 3000 BCE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Indus Valley Civilization is generally dated from about 3300 BCE in its early developmental stages, but its flourishing Mature Harappan period is broadly placed between 2500 BCE and 1900 BCE, with the entire civilization timeline extending down to approximately 1500 BCE before its urban centers declined."
+},
+
+
+{
+    "id": 80,
+    "question": "What is the conventional chronological time span of the Vedic culture (Vedic period) in ancient Indian history?",
+    "options": [
+        "c. 1500 BCE to 600 BCE",
+        "c. 2500 BCE to 1500 BCE",
+        "c. 600 BCE to 300 BCE",
+        "c. 1000 BCE to 1 CE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Vedic period or Vedic culture in ancient India spans from approximately 1500 BCE to 600 BCE. It is broadly divided into the Early Vedic (Rigvedic) period (c. 1500–1000 BCE) and the Later Vedic period (c. 1000–600 BCE), during which the Vedic texts were composed and iron technology as well as settled agriculture expanded across the Indo-Gangetic plain."
+},
+
+
+{
+    "id": 81,
+    "question": "What is the conventional chronological time span of the Mahajanapada period in ancient Indian history?",
+    "options": [
+        "c. 600 BCE to 321 BCE",
+        "c. 1500 BCE to 600 BCE",
+        "c. 321 BCE to 185 BCE",
+        "c. 600 CE to 1200 CE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Mahajanapada period spans from approximately 600 BCE to 321 BCE. It marks the second major urbanization phase in ancient India—following the decline of the Indus Valley Civilization—characterized by the rise of sixteen powerful territorial states (Mahajanapadas), the emergence of heterodox movements like Buddhism and Jainism, and culminating in the rise of the Magadha Empire."
+},
+
+{
+    "id": 82,
+    "question": "What is the conventional chronological time span of the Mauryan Empire period in ancient Indian history?",
+    "options": [
+        "c. 321 BCE to 185 BCE",
+        "c. 600 BCE to 321 BCE",
+        "c. 185 BCE to 75 BCE",
+        "c. 320 CE to 550 CE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Mauryan Empire period spans from approximately 321 BCE to 185 BCE. Founded by Chandragupta Maurya with the guidance of Chanakya after overthrowing the Nanda Empire, it became one of the largest and most powerful political and administrative empires in ancient Indian history, reaching its zenith under Emperor Ashoka."
+},
+
+{
+    "id": 83,
+    "question": "What is the conventional chronological time span of the Post-Mauryan (or Pre-Gupta) period in ancient Indian history?",
+    "options": [
+        "c. 185 BCE to 319 CE",
+        "c. 321 BCE to 185 BCE",
+        "c. 320 CE to 550 CE",
+        "c. 600 BCE to 321 BCE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Post-Mauryan or Pre-Gupta period spans from approximately 185 BCE (following the collapse of the Mauryan Empire with the assassination of Brihadratha by Pushyamitra Sunga) up to 319 CE (just prior to the establishment of the Gupta Empire). This era was marked by regional dynasties such as the Sungas, Kanvas, Satavahanas, Kushans, and Indo-Greeks, alongside significant flourishing in trade, art, and foreign interactions."
+},
+
+{
+    "id": 84,
+    "question": "What is the conventional chronological time span of the Gupta Empire period in ancient Indian history, often regarded as a classical golden age?",
+    "options": [
+        "c. 319 CE to 550 CE",
+        "c. 185 BCE to 319 CE",
+        "c. 600 CE to 1200 CE",
+        "c. 321 BCE to 185 BCE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Gupta Empire period spans from approximately 319 CE (marking the ascension of Chandragupta I and the initiation of the Gupta Era) to 550 CE (with the decline and fragmentation of central Gupta authority). This era witnessed remarkable advancements in science, mathematics, literature, sculpture, and architecture, earning it the designation of India's classical age."
+},
+
+{
+    "id": 85,
+    "question": "What is the conventional chronological time span of the Post-Gupta period (or the Vardhana Dynasty/Pushyabhuti dynasty era) in ancient Indian history?",
+    "options": [
+        "c. 550 CE to 647 CE",
+        "c. 319 CE to 550 CE",
+        "c. 650 CE to 1200 CE",
+        "c. 750 CE to 1000 CE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Post-Gupta period, often dominated by the Vardhana (Pushyabhuti) dynasty ruling from Thanesar and later Kannauj, spans from approximately 550 CE to 647 CE. It culminates with the reign and death of Emperor Harshavardhana in 647 CE, marking the final major political centralization of ancient North India before the fragmentation of the early medieval period."
+},
+
+{
+    "id": 86,
+    "question": "On the basis of stone tools and technological development, into how many primary phases is the prehistoric period traditionally divided?",
+    "options": [
+        "Three main parts: Paleolithic (Old Stone Age), Mesolithic (Middle Stone Age), and Neolithic (New Stone Age)",
+        "Two parts: Stone Age and Metal Age",
+        "Four parts: Lower, Middle, Upper Paleolithic, and Chalcolithic",
+        "Five parts: Eolithic, Paleolithic, Mesolithic, Neolithic, and Megalithic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Based on the evolution of stone tools and human subsistence strategies, the prehistoric period is classically divided into three major stages: the **Paleolithic (Old Stone Age)** characterized by unpolished, crude stone implements; the **Mesolithic (Middle Stone Age)** marked by tiny stone microliths; and the **Neolithic (New Stone Age)** featuring polished stone tools, agriculture, and settled village life."
+},
+
+{
+    "id": 87,
+    "question": "What is the conventional chronological time span of the Early Medieval period within Indian history?",
+    "options": [
+        "c. 647 CE to 1206 CE",
+        "c. 550 CE to 750 CE",
+        "c. 1206 CE to 1526 CE",
+        "c. 750 CE to 1757 CE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Early Medieval period of Indian history spans from approximately 647 CE (following the death of Emperor Harsha) to 1206 CE (marking the establishment of the Delhi Sultanate). This phase is characterized by regional kingdoms in Northern and Southern India (such as the Gurjara-Pratiharas, Palas, Rashtrakutas, and Cholas), tripartite struggles for supremacy over Kannauj, and the gradual transition into sultanate rule."
+},
+
+{
+    "id": 88,
+    "question": "What is the conventional chronological time span of the Delhi Sultanate period within medieval Indian history?",
+    "options": [
+        "1206 CE to 1526 CE",
+        "1192 CE to 1556 CE",
+        "1210 CE to 1500 CE",
+        "1300 CE to 1707 CE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Delhi Sultanate period spans from 1206 CE (beginning with the ascension of Qutb-ud-din Aibak following the aftermath of the Second Battle of Tarain) to 1526 CE (culminating in the First Battle of Panipat, where Babur defeated Ibrahim Lodi and paved the way for the Mughal Empire)."
+},
+
+{
+    "id": 89,
+    "question": "What is the conventional chronological time span of the Mughal Empire period within medieval and late medieval Indian history?",
+    "options": [
+        "1526 CE to 1857 CE (with peak imperial power lasting until 1707 CE)",
+        "1526 CE to 1707 CE",
+        "1556 CE to 1761 CE",
+        "1600 CE to 1857 CE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Mughal period in Indian history spans from 1526 CE—beginning with Babur's victory at the First Battle of Panipat—to 1857 CE, when the last Mughal emperor, Bahadur Shah Zafar, was formally deposed by the British after the Indian Rebellion. While the peak imperial era is traditionally marked from 1526 to the death of Aurangzeb in 1707, the titular dynasty persisted until 1857."
+},
+
+{
+    "id": 90,
+    "question": "What was the chronological time span and the core governing/economic exploitation technique associated with the first phase of British colonization in India?",
+    "options": [
+        "1757 to 1813 CE; technique was Merchant Capitalist phase focused on monopoly of trade, direct plunder, and revenue extraction (Diwani rights)",
+        "1813 to 1858 CE; technique was Industrial Capitalist phase focused on free trade and de-industrialization",
+        "1858 to 1947 CE; technique was Financial Capitalist phase focused on British capital investment in railways and infrastructure",
+        "1600 to 1757 CE; technique was purely peaceful commercial factory trading without territorial ambitions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The first phase of British colonization (often termed the Merchant Capital phase) spans from **1757 to 1813 CE**, beginning with the Battle of Plassey. The primary technique during this era was securing exclusive trading rights, acquiring the *Diwani* rights (revenue collection) in Bengal, Bengal treasury plunder, and using political dominance to buy Indian goods cheap and sell them high in Europe without importing bullion."
+},
+
+{
+    "id": 91,
+    "question": "What was the chronological time span and the core governing and economic exploitation technique associated with the second phase of British colonization in India?",
+    "options": [
+        "1813 to 1858 CE; technique was the Industrial Capitalist phase (or Free Trade phase), focused on turning India into a market for British manufactured goods and a supplier of raw materials, leading to the de-industrialization of traditional Indian handicrafts",
+        "1757 to 1813 CE; technique was direct mercantilist plunder and trade monopoly",
+        "1858 to 1947 CE; technique was Financial Imperialism through massive railway and loan investments",
+        "1900 to 1947 CE; technique was wartime mobilization and fiscal extraction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The second phase of British colonization (the Industrial Capitalist or Free Trade phase) spans from **1813 to 1858 CE**. Following the Charter Act of 1813 (which ended the East India Company's trade monopoly), India was flooded with cheap machine-made British goods while Indian raw materials like cotton and jute were exported to feed British factories, systematically dismantling traditional Indian artisan and handicraft industries."
+},
+
+{
+    "id": 92,
+    "question": "What was the chronological time span and the core governing and economic exploitation technique associated with the third phase of British colonization in India?",
+    "options": [
+        "1858 to 1947 CE; technique was the Finance Capitalist phase (or Imperialism), characterized by British capital investment in railways, coal mines, plantations, and banking to extract profits and tighten colonial control following the Crown takeover",
+        "1757 to 1813 CE; technique was mercantilist plunder and trade monopoly",
+        "1813 to 1858 CE; technique was free trade and goods dumping",
+        "1914 to 1947 CE; technique was purely wartime administrative rule without economic motives"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The third and final phase of British colonization (known as the Finance Capitalist or Imperialist phase) spans from **1858 to 1947 CE**, beginning with the transfer of power from the East India Company to the British Crown after the 1857 revolt. This phase was defined by the export of British surplus capital into Indian infrastructure—such as railways, telegraphs, coal mining, jute mills, and tea plantations—ensuring deep economic integration, tighter imperial control, and the continued drain of wealth."
+},
+
+{
+    "id": 93,
+    "question": "What was the chronological time span of the 'Ring Fence Policy' implemented by the British East India Company in India?",
+    "options": [
+        "c. 1765 to 1813 CE",
+        "c. 1740 to 1765 CE",
+        "c. 1813 to 1858 CE",
+        "c. 1858 to 1900 CE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Ring Fence Policy spans roughly from **1765 CE** (following the Treaty of Allahabad and acquisition of Bengal's Diwani) to **1813 CE**. Associated closely with Warren Hastings and later, to an extent, John Shore, this expansionist strategy aimed at creating buffer zones (such as defending Oudh) to safeguard the Company's frontiers from direct attack by surrounding powers like the Marathas and Mysore."
+},
+
+{
+    "id": 94,
+    "question": "What was the chronological time span and core characteristic of the 'Policy of Subordinate Isolation' (or Subordinate Union) pursued by the British towards Indian princely states?",
+    "options": [
+        "c. 1813 to 1857 CE; British supremacy over princely states was unequivocally asserted, isolating them from external affairs and inter-state relations while maintaining internal autonomy under strict paramountcy",
+        "c. 1757 to 1813 CE; policy of non-intervention and mutual equality",
+        "c. 1858 to 1947 CE; policy of complete annexation and direct absorption of all native states into British provinces",
+        "c. 1740 to 1765 CE; alliance-building without any paramount control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Policy of Subordinate Isolation spans roughly from **1813 to 1857 CE** (extending from the governor-generalships of Lord Hastings onwards). Under this policy, the Indian princely states were reduced to a position of subordination to the British Crown as the paramount power. They were isolated from one another and prohibited from entering into independent foreign relations, while their internal governance remained subject to British oversight and intervention."
+},
+
+{
+    "id": 95,
+    "question": "What was the chronological time span and core characteristic of the 'Policy of Subordinate Union' pursued by the British Crown towards Indian princely states?",
+    "options": [
+        "1858 to 1947 CE; the British Crown assumed direct paramountcy, subordinating princely states while transforming them into bulwarks of imperial rule through the doctrine of subordinate union and cooperation",
+        "1813 to 1857 CE; the policy of isolating states and checking external relations",
+        "1765 to 1813 CE; the buffer state and ring fence era",
+        "1900 to 1950 CE; complete integration and abolition of princely rule"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Policy of Subordinate Union spans from **1858 to 1947 CE**, commencing after the Crown took direct control of India following the 1857 revolt. Under this phase, Queen Victoria's proclamation assured the princes that their territorial integrity and dynastic rights would be respected, but absolute imperial paramountcy was enforced. The states were treated as an integral part of the British Indian empire and united under the supreme authority of the Crown."
+},
+
+{
+    "id": 96,
+    "question": "What was the chronological time span and core objective of the 'Policy of Equal Federation' proposed regarding British India and the princely states?",
+    "options": [
+        "c. 1935 to 1939 CE; proposed under the Government of India Act 1935 to unite British provinces and princely states on an equal footing in a federal setup, which ultimately failed due to princely reluctance and the outbreak of World War II",
+        "c. 1858 to 1900 CE; the period when the Crown treated all regional rulers as equal partners in empire building",
+        "c. 1947 to 1950 CE; the post-independence integration of states into the Indian Union",
+        "c. 1813 to 1857 CE; the phase of mutual treaties and sovereign equality between the East India Company and native kingdoms"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Policy of Equal Federation corresponds to the late colonial reform era, roughly **1935 to 1939 CE**. Envisaged under the Government of India Act 1935, it aimed to create an All-India Federation uniting British Indian provinces and princely states. However, the federation never materialized because it required a mandatory threshold of princely states to accede, and concerns over British paramountcy and loss of autocratic powers led the princes to hesitate until the plan was shelved with the onset of World War II in 1939."
+},
+
+{
+    "id": 97,
+    "question": "What was the chronological time span and characteristic phase of the Indian National Congress known as the 'Moderate Phase' (or the first phase of the Congress)?",
+    "options": [
+        "1885 to 1905 CE; dominated by Moderate leaders like Dadabhai Naoroji, Pherozeshah Mehta, and Surendranath Banerjee, focusing on constitutional agitation, petitioning, and prayer within the British legal framework",
+        "1905 to 1919 CE; dominated by Extremist leaders advocating boycott and swadeshi",
+        "1920 to 1947 CE; the Gandhian era of mass civil disobedience",
+        "1857 to 1885 CE; the pre-Congress nationalist association era"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The first phase of the Indian National Congress, commonly referred to as the Moderate Phase, spans from its founding in **1885 to 1905 CE** (culminating in the Partition of Bengal). During this period, the party leadership relied on moderate constitutional methods—such as resolutions, petitions, meetings, and delegations (the '3Ps': Prayer, Petition, and Protest)—to secure administrative and economic reforms from the British government, while firmly believing in the benevolence of British rule."
+},
+
+{
+    "id": 98,
+    "question": "What was the chronological time span and characteristic phase of the Indian National Congress known as the 'Extremist Phase' (or the second phase of the Congress)?",
+    "options": [
+        "1905 to 1919 CE; dominated by Extremist leaders like Lal-Bal-Pal (Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal) and Aurobindo Ghosh, advocating Swadeshi, Boycott, National Education, and Swaraj through militant direct action and mass mobilization",
+        "1885 to 1905 CE; the Moderate constitutional petitioning phase",
+        "1920 to 1947 CE; the Gandhian mass satyagraha era",
+        "1939 to 1947 CE; the final wartime and transfer of power phase"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The second phase of the Indian National Congress, known as the Extremist Phase, spans from **1905 to 1919 CE**. Sparked by the Partition of Bengal in 1905, this era marked a shift away from moderate petitioning toward assertive nationalism, self-reliance (Swadeshi), the boycott of British goods, national education, and the ultimate demand for Swaraj (self-rule), culminating in the Lucknow Pact and the Home Rule Leagues before the emergence of the Gandhian era."
+},
+
+{
+    "id": 99,
+    "question": "What was the chronological time span and characteristic phase of the Indian National Congress known as the 'Gandhian Era' (or the third phase of the Congress)?",
+    "options": [
+        "1919 to 1947 CE; dominated by Mahatma Gandhi and mass nationalist movements such as Non-Cooperation, Civil Disobedience, and Quit India, transforming the Congress into a mass-based political organization",
+        "1905 to 1919 CE; the Extremist phase of Swadeshi and Boycott",
+        "1885 to 1905 CE; the Moderate constitutional petitioning phase",
+        "1947 to 1964 CE; the post-independence Nehruvian era"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The third and final phase of the freedom-struggle era of the Indian National Congress is the Gandhian Era, spanning from **1919 to 1947 CE**. Under the leadership of Mahatma Gandhi, the Congress transitioned from elite constitutionalism and regional militancy into a broad-based mass movement utilizing tools of Satyagraha, non-violent civil disobedience, and constructive programs, ultimately leading India to independence in 1947."
+},
+
+{
+    "id": 100,
+    "question": "What are the primary materials, documents, artifacts, and records that provide information about the events of the past called?",
+    "options": [
+        "Historical Sources (categorized broadly into archaeological sources, literary sources, and accounts of foreign travellers)",
+        "Chronological Archives",
+        "Historiographical Textbooks",
+        "Epigraphical Inventories"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The materials and records that historians use to reconstruct past events are known as **historical sources**. They are broadly classified into **archaeological sources** (inscriptions, coins, monuments, artifacts), **literary sources** (religious and secular texts, manuscripts), and **accounts of foreign travelers** (diaries, travelogues, and observations left by visitors to India)."
+},
+
+{
+    "id": 101,
+    "question": "Why do historians often give greater reliability or importance to archaeological sources compared to literary sources when studying ancient history?",
+    "options": [
+        "Archaeological sources are physical remains that are less prone to deliberate exaggeration, sectarian bias, political interpolation, or subjective interpolation found in ancient manuscripts.",
+        "Archaeological sources provide exact dates and names for every single historical king without any ambiguity.",
+        "Literary sources were completely destroyed and never survived, leaving archaeology as the only option.",
+        "Literary sources only describe fictional events and contain no factual information whatsoever."
+    ],
+    "correctAnswer": 0,
+    "explanation": "While literary sources are vital for understanding the thoughts, culture, and narratives of past societies, they frequently suffer from royal panegyrics (prashastis), religious bias, copyist errors, and subjective exaggerations. In contrast, archaeological sources—such as inscriptions, coins, pottery, and monuments—provide tangible, material evidence that is generally objective, verifiable, and less susceptible to intentional manipulation or tampering over time."
+},
+{
+    "id": 102,
+    "question": "How are literary sources defined in the study of history?",
+    "options": [
+        "Written or printed records, texts, manuscripts, and books—including religious, secular, and biographical works—that provide written accounts of past societies, cultures, and events.",
+        "Physical artifacts such as tools, pottery, and ruins unearthed during archaeological excavations.",
+        "Inscriptions engraved strictly on stone pillars, metal plates, and cave walls.",
+        "Oral folklore and legends passed down exclusively by word of mouth without any written documentation."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Literary sources refer to written documents of the past, encompassing handwritten manuscripts and printed texts. They are broadly divided into religious literature (such as the Vedas, Puranas, epics, Jain and Buddhist texts) and secular/non-religious literature (such as Kautilya's Arthashastra, Kalidasa's plays, historical chronicles, and foreign travelogues), which collectively offer rich insights into the political, social, and economic conditions of ancient and medieval times."
+},
+
+{
+    "id": 103,
+    "question": "How are archaeological sources defined in the study of history and archaeology?",
+    "options": [
+        "Material remains and physical artifacts of past human activity—such as monuments, inscriptions, coins, tools, pottery, and ruins—unearthed through excavation or discovered on the surface.",
+        "Written manuscripts and religious books preserved in royal libraries.",
+        "Oral traditions, folk songs, and legends recorded by ancient historians.",
+        "Biographical accounts and travelogues written by foreign visitors."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Archaeological sources consist of tangible, physical remains of the past recovered primarily through excavation and surface exploration. They include inscriptions (epigraphy), coins (numismatics), monuments, architecture, pottery, tools, and weapons. Because they are physical objects, they serve as objective and primary evidence for reconstructing the material culture, economy, technology, and chronology of ancient societies."
+},
+
+{
+    "id": 104,
+    "question": "Into what two major categories are literary (or textual) sources of Indian history traditionally divided based on their origin?",
+    "options": [
+        "Indigenous (texts composed within India) and Foreign accounts (accounts and travelogues written by foreign visitors, travelers, and historians who visited India)",
+        "Religious texts and Secular texts",
+        "Sanskrit texts and Vernacular/Regional texts",
+        "Manuscripts and Printed books"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Literary sources for studying Indian history are broadly classified into **Indigenous literature** (works produced within the subcontinent, such as Vedic texts, epics, Buddhist and Jain scriptures, and court chronicles like Kalhana's Rajatarangini) and **Foreign accounts** (observations, diaries, and travel records left by Greek, Chinese, Tibetan, Arab, and European travelers such as Megasthenes, Fa-Hien, Hiuen Tsang, and Al-Biruni)."
+},
+
+{
+    "id": 105,
+    "question": "Into what two major categories are indigenous literary sources of Indian history traditionally divided?",
+    "options": [
+        "Religious literature (Hindu, Buddhist, and Jain texts) and Secular literature (historical chronicles, law books, scientific treatises, and court poetry)",
+        "Sanskrit literature and Pali-Prakrit literature",
+        "Official government records and private memoirs",
+        "Manuscripts and Epigraphical inscriptions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Indigenous literary sources—texts authored within the Indian subcontinent—are fundamentally divided into **religious literature** (such as the Vedas, Upanishads, Epics, Puranas, and canonical Buddhist and Jain texts) and **secular literature** (such as Kautilya's Arthashastra, Kalidasa's plays, historical texts like Kalhana's Rajatarangini, and treatises on medicine, grammar, and astronomy)."
+},
+
+{
+    "id": 106,
+    "question": "What does the category of ancient Indian 'Smriti' literature literally signify and what does it primarily comprise?",
+    "options": [
+        "Texts that are 'remembered,' comprising foundational legal codes, treatises on ethics, customs, rituals, epics, Puranas, and Vedangas that were passed down and codified by human sages over time",
+        "Divine revelations ('that which was heard') equivalent directly to the pristine core Vedas",
+        "Exclusively Buddhist canonical scriptures compiled during the councils",
+        "Secular court poems and political treatises written solely by royal ministers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In ancient Indian tradition, **Smriti** (meaning 'that which is remembered') refers to texts that were composed by human sages and scholars based on their memory and understanding of eternal truths. Unlike the *Sruti* ('that which is heard', i.e., the Vedas), Smriti literature includes the Vedangas, epics (Ramayana and Mahabharata), Puranas, Dharmashastras (law books like Manusmriti and Yajnavalkya Smriti), and various other treatises guiding social duties, governance, and daily life."
+},
+
+{
+    "id": 107,
+    "question": "What does the category of ancient Indian 'Shruti' literature literally signify and what does it primarily comprise?",
+    "options": [
+        "Texts that were 'heard' or revealed, representing eternal, uncreated divine truths, primarily comprising the four Vedas (Rig, Sama, Yajur, Atharva), Brahmanas, Aranyakas, and Upanishads",
+        "Human-authored law books, codes of conduct, and royal decrees remembered by sages",
+        "Secular court poetry, historical chronicles, and political treatises like the Arthashastra",
+        "Canonical Buddhist and Jain scriptures compiled by monastic councils"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Hindu tradition, **Shruti** (literally meaning 'that which has been heard') refers to primary canonical scriptures believed to be eternal divine revelations heard by ancient rishis (sages) during deep meditation rather than composed by humans. It forms the highest authority in Hindu philosophy and includes the four **Vedas**, along with their associated theological commentaries and texts: the **Brahmanas**, **Aranyakas**, and **Upanishads**."
+},
+
+{
+    "id": 108,
+    "question": "What are the four primary Vedas constituting the core of Shruti literature, listed in their traditional chronological order of compilation?",
+    "options": [
+        "Rigveda, Samaveda, Yajurveda, and Atharvaveda",
+        "Samaveda, Rigveda, Atharvaveda, and Yajurveda",
+        "Yajurveda, Atharvaveda, Rigveda, and Samaveda",
+        "Atharvaveda, Yajurveda, Samaveda, and Rigveda"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The four Vedas are the foundational texts of ancient Indian knowledge and religion. In conventional order, they are: (1) **Rigveda**, the oldest text consisting of hymns dedicated to various deities; (2) **Samaveda**, a collection of melodies and chants derived largely from the Rigveda for liturgical singing; (3) **Yajurveda**, containing sacrificial formulas, rituals, and prose mantras; and (4) **Atharvaveda**, containing spells, charms, household rituals, and early empirical medical knowledge."
+},
+
+{
+    "id": 109,
+    "question": "Which of the four Vedas is traditionally considered the oldest and most ancient text in Indo-Aryan literature?",
+    "options": [
+        "Rigveda",
+        "Samaveda",
+        "Yajurveda",
+        "Atharvaveda"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The **Rigveda** is the oldest Veda, composed roughly between 1500 BCE and 1000 BCE. It consists of 1,028 hymns (suktas) organized into ten books (mandalas), primarily dedicated to praising various Vedic deities such as Indra, Agni, and Varuna. It serves as an invaluable primary linguistic and historical source for early Indo-Aryan society, geography, and religious practices."
+},
+
+{
+    "id": 110,
+    "question": "In which geographical region and during what precise chronological time span was the Rigveda primarily composed?",
+    "options": [
+        "Saptasindhu region (the region of the seven rivers, spanning modern-day Punjab, northwestern India, and eastern Pakistan); c. 1500 BCE to 1000 BCE",
+        "Gangetic plains (modern Uttar Pradesh and Bihar); c. 600 BCE to 300 BCE",
+        "Deccan plateau and Southern India; c. 300 BCE to 100 CE",
+        "Malwa plateau and Western India; c. 1000 BCE to 600 BCE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Rigveda was composed in the **Saptasindhu** (the land of the seven rivers, including the Indus and its major tributaries like the Jhelum, Chenab, Ravi, Beas, Sutlej, and Sarasvati) spanning northwestern India and Pakistan. Its composition is traditionally dated by historians to the period between **c. 1500 BCE and 1000 BCE** during the Early Vedic (or Rigvedic) period."
+},
+
+{
+    "id": 111,
+    "question": "In which geographical region and during what chronological time span were the Later Vedas (Yajurveda, Samaveda, and Atharvaveda) primarily composed?",
+    "options": [
+        "Upper Gangetic Doab and the Indo-Gangetic plains region; c. 1000 BCE to 600 BCE",
+        "Saptasindhu (Punjab and northwestern Pakistan) region; c. 1500 BCE to 1200 BCE",
+        "Deccan and Southern India; c. 500 BCE to 100 CE",
+        "Malwa and Western India; c. 300 CE to 600 CE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The later three Vedas—Yajurveda, Samaveda, and Atharvaveda—along with the Brahmanas, Aranyakas, and Upanishads, were composed during the Later Vedic Period, spanning roughly from **c. 1000 BCE to 600 BCE**. Geographically, the locus of Aryan expansion shifted eastward from the Saptasindhu into the **Upper Gangetic Doab** and the broader Indo-Gangetic plains, reflecting the transition from a semi-nomadic pastoral society to a settled agrarian civilization using iron tools."
+},
+
+
+{
+    "id": 112,
+    "question": "Within the traditional Vedic corpus, which two Vedas are often considered of foundational or primary importance over the other two?",
+    "options": [
+        "Rigveda and Yajurveda",
+        "Samaveda and Atharvaveda",
+        "Rigveda and Samaveda",
+        "Yajurveda and Atharvaveda"
+    ],
+    "correctAnswer": 0,
+    "explanation": "While all four Vedas hold sacred status as Shruti, the **Rigveda** and **Yajurveda** are often highlighted as the two primary pillars: the Rigveda provides the foundational mantras and poetic hymns of the pantheon, while the Yajurveda provides the core operational prose formulae and manual guidelines for performing sacrificial rituals (Yajna) that dominated Vedic religion."
+},
+
+{
+    "id": 113,
+    "question": "What is the historical composing time or era associated with the 'Aryan' migration, settlement, and composition of early Indo-Aryan texts in India?",
+    "options": [
+        "c. 1500 BCE to 600 BCE (divided into Early Vedic/Rigvedic period from 1500-1000 BCE and Later Vedic period from 1000-600 BCE)",
+        "c. 321 BCE to 185 BCE (Mauryan period)",
+        "c. 319 CE to 550 CE (Gupta period)",
+        "c. 1200 CE to 1526 CE (Delhi Sultanate period)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Assuming 'Aryan Khan' is a slight auto-correct or typographical slip for the **Aryan** period or Vedic corpus composition, the Indo-Aryan migration and subsequent composition of Vedic literature spans from **c. 1500 BCE to 600 BCE**. This is broadly divided into the Early Vedic phase (c. 1500–1000 BCE) centered on the Rigveda in the Saptasindhu region, and the Later Vedic phase (c. 1000–600 BCE) covering the composition of the other Vedas and expansion into the Gangetic plains."
+},
+
+{
+    "id": 114,
+    "question": "What is the historical chronological time span during which the principal Upanishads were composed?",
+    "options": [
+        "c. 800 BCE to 500 BCE (constituting the concluding phase of Vedic literature and the transition to early philosophical inquiry)",
+        "c. 1500 BCE to 1000 BCE (during the early Rigvedic period)",
+        "c. 300 CE to 600 CE (during the classical Gupta period)",
+        "c. 1200 CE to 1500 CE (during the medieval bhakti movement)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The principal **Upanishads**—often referred to as Vedanta ('the end of the Vedas') because they mark the concluding chapters of Vedic literature—were predominantly composed between **c. 800 BCE and 500 BCE** during the Late Vedic period. These philosophical texts shifted focus from elaborate external sacrifices to deep internal reflections, exploring fundamental concepts such as *Brahman* (ultimate reality) and *Atman* (the individual soul), as well as the doctrines of karma and moksha."
+},
+
+{
+    "id": 115,
+    "question": "In ancient Indian philosophy (particularly the Upanishads), what is the ultimate spiritual aim of learning and realization—defined as the merging of the individual soul (Atman) into the universal world soul (Brahman)?",
+    "options": [
+        "Moksha (or Mukti / Liberation/Salvation from the cycle of rebirth)",
+        "Dharma (righteous duty and moral order)",
+        "Artha (pursuit of material wealth and prosperity)",
+        "Kama (fulfillment of aesthetic and sensory desires)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A central teaching of the Upanishads is that the ultimate goal of human existence and spiritual knowledge (Jnana) is **Moksha** (liberation or emancipation). It represents the realization of the non-difference between *Atman* (the individual soul) and *Brahman* (the universal world soul), thereby breaking free from the endless cycle of death and rebirth (*samsara*)."
+},
+
+{
+    "id": 116,
+    "question": "The combined study of the Brahmanas and Upanishads provides historical and genealogical information spanning from which king to which king of ancient India?",
+    "options": [
+        "From King Parikshit to King Janamejaya (and other later Vedic rulers like Ajatasatru of Kasi and Janaka of Videha)",
+        "From Chandragupta Maurya to Ashoka the Great",
+        "From Samudragupta to Skandagupta",
+        "From Ajatashatru of Magadha to Mahapadma Nanda"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Historians note that the Brahmanas and Upanishads provide valuable genealogical and political data for the Later Vedic period, specifically tracing transitions from the time of **King Parikshit** (grandson of Arjuna) and his son **King Janamejaya**, through various regional rulers and philosophers such as Janaka of Videha and Ajatasatru of Kasi."
+},
+
+{
+    "id": 117,
+    "question": "What is the historical composing time and context associated with 'Vedang' (or Vedangas, the auxiliary disciplines of Vedic literature)?",
+    "options": [
+        "c. 600 BCE to 200 BCE (composed in the post-Vedic/Sutra period to aid in the correct recitation, understanding, and performance of Vedic rituals)",
+        "c. 1500 BCE to 1000 BCE (during the early Rigvedic composition)",
+        "c. 300 CE to 600 CE (during the Gupta imperial period)",
+        "c. 1200 CE to 1500 CE (during the medieval scholarly revival)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Assuming 'Ved Ganga' is a typographical or phonetic variation for **Vedangas** (the six limbs or auxiliary disciplines of the Vedas), these texts were composed roughly between **c. 600 BCE and 200 BCE** in the post-Vedic Sutra period. The six Vedangas—Shiksha (phonetics), Kalpa (ritual), Vyakarana (grammar), Nirukta (etymology), Chhandas (metrics), and Jyotisha (astronomy)—were developed to preserve the purity, pronunciation, and precise ritual application of the Vedic corpus."
+},
+
+{
+    "id": 118,
+    "question": "What is the historical chronological time span during which the major Smriti texts (such as Dharmashastras and law codes) were composed?",
+    "options": [
+        "c. 500 BCE to 500 CE (spanning the post-Vedic, Mauryan, Sunga, and Classical Gupta periods)",
+        "c. 1500 BCE to 1000 BCE (during the early Rigvedic period)",
+        "c. 1000 CE to 1500 CE (during the medieval Sultanate period)",
+        "c. 300 CE to 1200 CE (strictly during the Rajput era)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The composition of the **Smriti** literature—which includes legal texts, Dharmashastras (such as Manusmriti, Yajnavalkya Smriti, Narada Smriti), and auxiliary rulebooks governing social conduct, law, and ethics—extended over a vast period from approximately **c. 500 BCE to 500 CE**. These texts evolved alongside changing social, political, and economic structures from late Vedic times through the Maurya, post-Mauryan, and Gupta empires."
+},
+
+{
+    "id": 119,
+    "question": "What is the historical chronological time span during which the great Indian epics, the Ramayana and the Mahabharata, were composed and compiled?",
+    "options": [
+        "c. 400 BCE to 400 CE (evolving over centuries through oral traditions before being compiled into their present literary forms)",
+        "c. 1500 BCE to 1000 BCE (during the early Rigvedic period)",
+        "c. 500 CE to 1000 CE (during the early medieval period)",
+        "c. 1000 BCE to 500 BCE (strictly during the Later Vedic period)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The great epics **Ramayana** and **Mahabharata** are categorized as *Itihasa* (historical traditions) and form part of Smriti literature. Modern historians and Indologists date their composition and core compilation to the period between **c. 400 BCE and 400 CE**. Both epics underwent a long process of oral transmission and successive layers of interpolation by multiple authors before reaching their definitive written forms."
+},
+
+{
+    "id": 120,
+    "question": "According to Hindu tradition and ancient Indian literary attribution, who is credited with composing the epic Ramayana?",
+    "options": [
+        "Sage Valmiki",
+        "Sage Vyasa",
+        "Tulsidas",
+        "Kalidasa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The epic **Ramayana** is traditionally attributed to **Sage Valmiki**, revered in Indian tradition as the *Adi Kavi* (the first poet). Composed in Sanskrit, Valmiki's Ramayana narrates the life and journey of Prince Rama of Ayodhya, chronicling his exile, the abduction of Sita by Ravana, the war in Lanka, and his eventual return to establish righteous rule (Rama Rajya)."
+},
+
+{
+    "id": 121,
+    "question": "According to Hindu tradition and ancient Indian literary attribution, who is credited with composing the epic Mahabharata?",
+    "options": [
+        "Sage Ved Vyasa",
+        "Sage Valmiki",
+        "Ganesha",
+        "Tulsidas"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The epic **Mahabharata** is traditionally attributed to **Sage Ved Vyasa**. Composed in Sanskrit, it is the longest epic poem known, chronicling the dynastic struggle and the great Kurukshetra War between the Kauravas and the Pandavas, while also incorporating profound philosophical treatises such as the Bhagavad Gita."
 }
+
+,
+
+{
+    "id": 122,
+    "question": "According to ancient Sanskrit lexicographers and traditional definitions, what are the five defining subjects or segments (Panchalakshana) that constitute a Purana?",
+    "options": [
+        "Sarga (creation of the universe), Pratisarga (recreation/dissolution and secondary creation), Vamsa (genealogies of gods and rishis), Manvantara (cycles of cosmic time/epochs of Manus), and Vamsanucharita (history of royal dynasties)",
+        "Dharma (righteousness), Artha (wealth), Kama (desire), Moksha (liberation), and Karma (action)",
+        "Rigveda, Samaveda, Yajurveda, Atharvaveda, and Vedangas",
+        "Brahmanas, Aranyakas, Upanishads, Epics, and Smritis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In ancient Indian literary tradition, a Purana is traditionally defined by five distinct characteristics known as **Panchalakshana**: (1) **Sarga** (the primary creation of the universe), (2) **Pratisarga** (dissolution and subsequent recreation of the universe), (3) **Vamsa** (genealogical lists of gods, sages, and patriarchs), (4) **Manvantara** (the great cosmic time cycles presided over by various Manus), and (5) **Vamsanucharita** (the detailed historical accounts and genealogies of solar and lunar royal dynasties, which provide invaluable data for ancient Indian history)."
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     ]
 }
